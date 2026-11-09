@@ -1,0 +1,157 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Mechaniczny
+Biomechanika inżynierska
+Limit miejsc
+90
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Biomechanika inżynierska
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 100 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria mechaniczna
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Absolwent kierunku wykazuje wiedzę i umiejętności  z zakresu:
+-inżynierii mechanicznej,
+-biomateriałów, głównie implantów i sztucznych narządów,
+-nowoczesnych narzędzi komputerowych oraz technik pomiarowych wspomagających proces projektowania,
+-technicznego wspomagania operacji chirurgicznych np. roboty medyczne, systemy nawigowanych operacji, techniki obrazowania medycznego, wirtualna rzeczywistość,
+-rozwiązywania zadań inżynierskich w zakresie projektowania i eksploatacji urządzeń wspomagających lokomocję człowieka oraz sprzętu rehabilitacyjnego/technicznego stosowanego w szpitalach.
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, biologia, chemia, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+biomechanika inżynierska
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+technik automatyk
+technik elektroniki i informatyki medycznej
+technik informatyk
+technik masażysta
+technik mechanik
+technik mechanik lotniczy
+technik mechanik okrętowy
+technik mechatronik
+technik optyk
+technik ortopeda
+technik programista
+technik robotyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+firmy projektujące i wytwarzające sprzęt medyczny i rehabilitacyjny
+firmy projektujące i wytwarzające implanty i sztuczne narządy
+firmy motoryzacyjne, w szczególności działy zajmujące się bezpieczeństwem kierowcy i pasażerów oraz pieszych, a także zajmujące się budową pojazdów dla osób niepełnosprawnych i pojazdów specjalizowanych (ambulanse, karetki)
+przedstawicielstwa handlowe firm oferujących sprzęt medyczny i rehabilitacyjny
+szpitale (jako inżynier medyczny obsługujący zaawansowane urządzenia techniczne, takie jak mechatroniczny sprzęt rehabilitacyjny, roboty i manipulatory medyczne)
+Praktyki i staże oraz miejsca pracy absolwentów
+Laparo
+Dental Scan Sp. z o.o.
+BHH Mikromed Sp. z o.o.
+VIGO-Ortho Sp. z o.o.
+Varimed
+NovaSpine Sp. z o.o.
+Aesculap Chifa Sp. z o.o.
+MEDGAL Sp. z o. o.
+Dialab
+Becton Dickinson
+Daugavpils Regional Hospital
+Śląsk Wrocław Basketball S.A.
+Reha-Pol
+Radiotechnika Marketing
+LfC Sp. z o.o.
+Capgemini Software Solutions Center
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

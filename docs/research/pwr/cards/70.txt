@@ -1,0 +1,187 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Elektroniki, Fotoniki i Mikrosystemów
+Automatyka i robotyka
+ponad 50% absolwentów zaraz po studiach kontynuuje pracę podjętą jeszcze podczas studiów i w większości związaną z kierunkiem
+Limit miejsc
+80
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Automatyka i robotyka
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+8 800 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+automatyka, elektronika, elektrotechnika i technologie kosmiczne
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Studia na kierunku Automatyka i robotyka umożliwiają zdobycie wiedzy i kompetencji z zakresu projektowania, realizacji i eksploatacji urządzeń, układów automatyki i inteligentnych systemów sterujących obiektami przemysłowymi, procesami technologicznymi, robotami manipulacyjnymi i mobilnymi. Kształcenie obejmuje także:
+– analizę i projektowanie układów sterowania,
+– konstruowanie i programowanie mikroprocesorowych urządzeń wbudowanych i Internetu rzeczy,
+– projektowanie i wykorzystanie systemów percepcji otoczenia, w tym wizyjnych,
+– zastosowanie metod i algorytmów uczenia maszynowego i sztucznej inteligencji.
+Studenci mają możliwość wyboru specjalności: Elektroniczne systemy automatyki lub Robotyka.
+PROGRAM STUDIÓW
+Elektroniczne systemy automatyki
+Absolwent specjalności Elektroniczne Systemy Automatyki zna komponenty, właściwości i struktury układów elektronicznych i optoelektronicznych stosowanych w automatyce oraz rozumie zasady i sposoby ich integracji w skali mikro i makro.
+Umiejętności absolwenta pozwalają na:
+projektowanie, konstrukcję i eksploatację układów automatyki przemysłowej (Przemysł 4.0+) oraz automatyki stosowanej w dziedzinach wschodzących technologii (energia odnawialna, obiekty inteligentne, elektronika mocy),
+zharmonizowane łączenie akwizycji, przetwarzania, transmisji i wykorzystania danych bazujące na zróżnicowanych narzędziach informatyki stosowanej.
+Robotyka
+Absolwent specjalności Robotyka rozumie zasady działania algorytmów percepcji otoczenia i sterowania oraz potrafi je zaimplementować w formie programowej i sprzętowej przy wykorzystaniu narzędzi informatyki i elektroniki.
+Umiejętności absolwenta obejmują:
+projektowanie i konstrukcję urządzeń zdolnych do samodzielnego działania w zmieniającym się otoczeniu (systemy autonomiczne i inteligentne, roboty manipulacyjne i mobilne, układy sensoryczne, akwizycja i przetwarzanie danych masowych), ze szczególnym uwzględnieniem elektronicznych układów wbudowanych,
+robotyzację i wdrażanie robotyki w sektorze produkcji i usług uwzględniające aktywne interakcje z ludźmi, uruchamianie, eksploatację, nadzór i obsługę systemów pomiarowo-kontrolnych i systemów sterowania.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+automatyka i robotyka
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik elektronik
+Technik elektroniki i informatyki medycznej
+Technik informatyk
+Technik mechatronik
+Technik programista
+Technik robotyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+inżynier utrzymania ruchu,
+inżynier ds. serwisu, inżynier ds. sprzedaży,
+integrator systemów automatyki i robotyki,
+programista systemów produkcyjnych, wbudowanych, robotów,
+projektant oprogramowania do zastosowań przemysłowych,
+projektant systemów sterowania,
+konstruktor modułów elektronicznych,
+ekspert/konsultant ds. konfiguracji systemów,
+konstruktor robotów.
+Praktyki i staże
+poznanie specyfiki pracy inżyniera w środowisku zbliżonym do przyszłego miejsca pracy absolwenta
+zdobycie doświadczenia poprzez realizację zadań praktycznych (pod nadzorem osoby upoważnionej) m.in. z wykorzystaniem wiadomości teoretycznych z zakresu objętego dotychczasowym programem nauczania
+zdobycie doświadczenia w pracy zespołowej, zapoznanie się wymaganiami przyszłych pracodawców.
+Do najważniejszych firm, z którymi współpracuje wydział w zakresie organizacji praktyk studenckich należą m.in.
+ABB
+ASTOR
+KGHM
+Schneider Electric Polska
+NOKIA
+ANWIL
+AmiSter
+AUTOMATEC
+Cargill Poland
+Centrum Badań Kosmicznych Polskiej Akademi Nauk
+Encon
+Endress+Hauser
+FANUC Polska
+Grupa Azoty AUTOMATYKA
+Instytut Automatyki Systemów Energetycznych
+Jadan Automatyka przemysłowa
+LAPARO MEDICAL SIMULATIONS
+Mitsubishi Electric Europe B.V. Odział w Polsce
+PCC Rokita
+Elektrownia Bełchatów
+Process Automation Solutions
+Miejsca pracy absolwentów
+działy automatyki, informatyki i służby utrzymania ruchu w przedsiębiorstwach produkcyjnych z branż: maszynowej, motoryzacyjnej, lotniczej, chemicznej, spożywczej, wydobywczej, energetycznej, elektrycznej, hutniczej, materiałów budowlanych i inne
+firmy handlowo-usługowe z branży automatyki domowej, automatyki przemysłowej i robotyki
+firmy z branży informatycznej i telekomunikacyjnej
+zakłady branży komunalnej: wodociągi, oczyszczalnie ścieków
+biura projektowe, ośrodki badawczo-rozwojowe
+zakłady energetyczne
+sektor finansowo-bankowy
+służba zdrowia
+jednostki administracji publicznej różnych szczebli: państwowej i samorządowej
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

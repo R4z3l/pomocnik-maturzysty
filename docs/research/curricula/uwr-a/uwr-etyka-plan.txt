@@ -1,0 +1,1561 @@
+                                                                                                                                                           Załącznik do uchwały Nr 56/2023 Senatu Uniwersytetu
+                                                                                                                                              Wrocławskiego z dnia 22 marca 2023 r.
+
+PROGRAM STUDIÓW
+
+Nazwa kierunku studiów: Etyka
+Poziom studiów: I stopnia (licencjackie)
+Poziom kwalifikacji: poziom 6 Polskiej Ramy Kwalifikacji
+Profil kształcenia: ogólnoakademicki
+Nazwa wydziału: Wydział Nauk Społecznych
+
+
+1. Przyporządkowanie kierunku studiów do dziedzin nauki i dyscyplin naukowych, w których prowadzony jest kierunek studiów.
+
+                                                                                                Dyscyplina wiodąca Dziedzina nauki            Dyscyplina naukowa    Procentowy udział dyscyplin
+                                                                                        (ponad połowa efektów uczenia się)
+
+ nauki humanistyczne        filozofia            100%                                               Filozofia
+
+ Razem:                       -                 100%
+
+
+
+2. Tabela procentowego udziału liczby punktów ECTS w łącznej liczbie punktów ECTS dla każdej z dyscyplin kierunku.
+
+
+ Dziedzina nauki            Dyscyplina naukowa    Procentowy udział liczby punktów ECTS w łącznej liczbie punktów ECTS dla każdej z dyscyplin
+
+ nauki humanistyczne        filozofia            100%
+
+
+
+3. Informacje ogólne o programie studiów.
+
+
+ Liczba semestrów                                                                   6
+
+ Liczba punktów ECTS wymagana do ukończenia studiów na danym poziomie                    180
+
+ Tytuł zawodowy nadawany absolwentom                                                                  licencjat
+
+
+                                                                            2
+ Forma studiów                                                                                   stacjonarna/niestacjonarna
+
+ Kod ISCED                                                                        0223
+
+ Liczba punktów ECTS obejmująca zajęcia do wyboru                                       68 (+16 moduł nauczycielski)
+
+ Łączna liczba punktów ECTS, jaką student musi uzyskać w ramach zajęć prowadzonych z bezpo-                                                                                 180
+ średnim udziałem nauczycieli akademickich lub innych osób prowadzących zajęcia
+ Liczba punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych
+ (nie mniej niż 5 ECTS) – w przypadku kierunków studiów przyporządkowanych do dyscyplin w ra-   6
+ mach dziedzin innych niż nauki humanistyczne lub nauki społeczne
+
+ Liczba punktów ECTS w ramach zajęć z lektoratu języka obcego lub lektoratu języka polskiego     12 (+8 za język polski dla cudzoziemców)
+
+                                                                                 1854 (+240 w ramach modułu nauczyciel-
+ Łączna liczba godzin realizowanych na kierunku                                                 skiego)/1049 (+240 w ramach modułu nauczyciel-
+                                                                                                   skiego)
+                                                                                 30 godzin, śródroczna, 2 punkty ECTS (dotyczy Wymiar, liczba punktów ECTS, zasady i forma odbywania praktyk zawodowych
+                                                                                   modułu nauczycielskiego)
+
+ Praktyki mają na celu: nabycie kompetencji niezbędnych do uzyskania kwalifikacji do wykonywania zawodu nauczyciela etyki i filozofii.
+ Na I stopniu praktyka odnosi się do przygotowania pedagogicznego do wykonywania zawodu nauczyciela.
+
+
+4. Opis efektów uczenia się zdefiniowanych dla programów studiów w odniesieniu do charakterystyk drugiego stopnia Polskiej Ramy Kwa-
+lifikacji dla kwalifikacji na poziomach 6-7 uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej
+na poziomie 4.
+
+
+ Symbol efektu      Efekty uczenia się dla kierunku studiów                                                             Odniesienie do charak-
+ uczenia się dla     Po ukończeniu studiów pierwszego stopnia na kierunku etyka absolwent uzyska efekty uczenia się w za-    terystyk drugiego
+ programu studiów   kresie:                                                                                                  stopnia PRK (kody)
+
+ WIEDZA
+
+              ma zaawansowaną wiedzę o miejscu i znaczeniu etyki pośród subdyscyplin filozoficznych oraz innych nauk,
+ K_W01                                                                                      P6S_WG                   a także o specyfice przedmiotowej i metodologicznej etyki
+
+ K_W02            zna i rozumie historyczny charakter kształtowania się idei etycznych a także ich ponadhistoryczną trwałość  P6S_WG
+
+
+                                                                            3
+K_W03            zna terminologię etyczną i filozoficzną w języku polskim i wybranym języku obcym                  P6S_WG
+
+              ma wiedzę na temat znaczenia badań etycznych, ich metod badawczych i argumentacyjnych dla funkcjo-
+K_W04            nowania nauki, kultury i wspólnot ludzkich w tym w szczególności na gruncie polskim. Rozumie filozoficzny  P6S_WG
+                 rodowód i charakter etyki
+                  zna  i rozumie podstawowe dylematy współczesnej cywilizacji ze szczególnym uwzględnieniem znaczenia,
+K_W05                                                                                       P6S_WK             w ich identyfikacji jak i rozwiązywaniu, perspektywy i problematyki etycznej
+                  zna moralne  i etyczne uwarunkowania zarówno porządku prawnego, ekonomicznego  i społecznego, jak  i
+K_W06                                                                                       P6S_WK
+                  uwarunkowania odwrotne
+                  zna zasady tworzenia podstawowych form przedsiębiorczości i ich rozwoju ze szczególnym uwzględnieniemK_W07                                                                                       P6S_WK
+                   zasad publikacji tekstu etycznego (filozoficznego) z poszanowaniem praw własności intelektualnej
+Efekty uczenia się w odniesieniu do wiedzy, dla modułu przygotowującego do zawodu nauczyciela, są zgodne z Zarządzeniem nr 13/2021 Rektora
+Uniwersytetu Wrocławskiego z dnia 22 stycznia 2021 roku w sprawie ustalenia w Uniwersytecie Wrocławskim trybu kształcenia przygotowującego do
+wykonywania zawodu nauczyciela. Wszystkie te efekty realizowane są w ramach zajęć prowadzonych przez Centrum Edukacji Nauczycielskiej
+WIEDZA – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+absolwent zna i rozumie
+                  podstawy filozofii wychowania  i aksjologii pedagogicznej, specyfikę głównych środowisk wychowawczych1.1.1
+                                       i procesów w nich zachodzących
+                    klasyczne i współczesne teorie rozwoju człowieka, wychowania, uczenia się i nauczania lub kształcenia oraz
+1.1.2                      ich wartości aplikacyjne
+
+1.1.3                 rolę nauczyciela lub wychowawcy w modelowaniu postaw i zachowań uczniów
+
+                  normy, procedury  i dobre praktyki stosowane w działalności pedagogicznej (wychowanie przedszkolne,
+                   nauczanie w szkołach podstawowych  i średnich ogólnokształcących, technikach  i szkołach branżowych,
+1.1.4
+                    szkołach specjalnych i oddziałach specjalnych oraz integracyjnych, w różnego typu ośrodkach wychowaw-
+                   czych oraz kształceniu ustawicznym)
+
+1.1.5               zagadnienie edukacji włączającej, a także sposoby realizacji zasady inkluzji
+
+                    zróżnicowanie potrzeb edukacyjnych uczniów  i wynikające z nich zadania szkoły dotyczące dostosowania1.1.6
+                      organizacji procesu kształcenia i wychowania
+
+1.1.7              sposoby projektowania i prowadzenia działań diagnostycznych w praktyce pedagogicznej
+
+                     strukturę i funkcje systemu oświaty – cele, podstawy prawne, organizację i funkcjonowanie instytucji edu-
+1.1.8
+                    kacyjnych, wychowawczych i opiekuńczych, a także alternatywne formy edukacji
+                  podstawy prawne systemu oświaty niezbędne do prawidłowego realizowania prowadzonych działań eduka-
+1.1.9                   cyjnych
+
+                                                                           4
+1.1.10            prawa dziecka i osoby z niepełnosprawnością
+
+                  zasady bezpieczeństwa i higieny pracy w instytucjach edukacyjnych, wychowawczych i opiekuńczych oraz
+1.1.11                    odpowiedzialności prawnej nauczyciela w tym zakresie, a także zasady udzielania pierwszej pomocy
+
+1.1.12             procesy komunikowania interpersonalnego i społecznego oraz ich prawidłowości i zakłócenia
+
+                  podstawy funkcjonowania  i patologie aparatu mowy, zasady emisji głosu, podstawy funkcjonowania na-1.1.13
+                   rządu wzroku i równowagi
+
+1.1.14                treści nauczania i typowe trudności uczniów związane z ich opanowaniem
+
+                 metody nauczania i doboru efektywnych środków dydaktycznych, w tym zasobów internetowych, wspoma-
+1.1.15             gających nauczanie przedmiotu lub prowadzenie zajęć, z uwzględnieniem zróżnicowanych potrzeb eduka-
+                   cyjnych uczniów
+WIEDZA – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+w zakresie przygotowania psychologicznego absolwent zna i rozumie
+                 podstawowe pojęcia psychologii: procesy poznawcze, spostrzeganie, odbiór  i przetwarzanie informacji,
+              mowę i język, myślenie i rozumowanie, uczenie się i pamięć, rolę uwagi, emocje i motywacje w procesachB.1.W1
+                      regulacji zachowania, zdolności i uzdolnienia, psychologię różnic indywidualnych – różnice w zakresie inte-
+                         ligencji, temperamentu, osobowości i stylu poznawczego
+                   proces rozwoju ucznia w okresie dzieciństwa, adolescencji  i wczesnej dorosłości: rozwój fizyczny, moto-
+                   ryczny  i psychoseksualny, rozwój procesów poznawczych (myślenie, mowa, spostrzeganie, uwaga  i pa-
+                    mięć), rozwój społeczno-emocjonalny i moralny, zmiany fizyczne i psychiczne w okresie dojrzewania, roz-
+                  wój wybranych funkcji psychicznych, normę rozwojową, rozwój i kształtowanie osobowości, rozwój w kon-
+B.1.W2              tekście wychowania, zaburzenia w rozwoju podstawowych procesów psychicznych, teorie integralnego roz-
+                  woju ucznia, dysharmonie  i zaburzenia rozwojowe u uczniów, zaburzenia zachowania, zagadnienia: nie-
+                     śmiałości  i nadpobudliwości, szczególnych uzdolnień, zaburzeń funkcjonowania w okresie dorastania, ob-
+                     niżenia nastroju, depresji, krystalizowania się tożsamości, dorosłości, identyfikacji z nowymi rolami spo-
+                    łecznymi, a także kształtowania się stylu życia
+                      teorię spostrzegania społecznego i komunikacji: zachowania społeczne  i ich uwarunkowania, sytuację in-
+                    terpersonalną, empatię, zachowania asertywne, agresywne  i uległe, postawy, stereotypy, uprzedzenia,
+                      stres i radzenie sobie z nim, porozumiewanie się ludzi w instytucjach, reguły współdziałania, procesy ko-
+B.1.W3            munikowania się, bariery w komunikowaniu się, media i ich wpływ wychowawczy, style komunikowania się
+                   uczniów i nauczyciela, bariery w komunikowaniu się w klasie, różne formy komunikacji − autoprezentację,
+                  aktywne słuchanie, efektywne nadawanie, komunikację niewerbalną, porozumiewanie się emocjonalne w
+                       klasie, porozumiewanie się w sytuacjach konfliktowych
+                   proces uczenia się: modele uczenia się, w tym koncepcje klasyczne i współczesne ujęcia w oparciu o wyniki
+B.1.W4           badań neuropsychologicznych, metody  i techniki uczenia się z uwzględnieniem rozwijania metapoznania,
+                     trudności w uczeniu się, ich przyczyny i strategie ich przezwyciężania, metody i techniki identyfikacji oraz
+
+
+                                                                           5
+                 wspomagania rozwoju uzdolnień i zainteresowań, bariery i trudności w procesie komunikowania się, tech-
+                        niki i metody usprawniania komunikacji z uczniem oraz między uczniami
+                    zagadnienia autorefleksji  i samorozwoju: zasoby własne w pracy nauczyciela – identyfikacja  i rozwój, in-
+B.1.W5                   dywidualne strategie radzenia sobie z trudnościami, stres i nauczycielskie wypalenie zawodowe
+
+WIEDZA – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+w zakresie przygotowania pedagogicznego absolwent zna i rozumie
+                  system oświaty: organizację i funkcjonowanie systemu oświaty, podstawowe zagadnienia prawa oświato-
+                  wego, krajowe i międzynarodowe regulacje dotyczące praw człowieka, dziecka, ucznia oraz osób z niepeł-
+                   nosprawnościami, znaczenie pozycji szkoły jako instytucji edukacyjnej, funkcje  i cele edukacji szkolnej,B.2.W1
+                 modele współczesnej szkoły, pojęcie ukrytego programu szkoły, alternatywne formy edukacji, zagadnienie
+                 prawa wewnątrzszkolnego, podstawę programową w kontekście programu nauczania oraz działania wy-
+                    chowawczo-profilaktyczne, tematykę oceny jakości działalności szkoły lub placówki systemu oświaty
+                      rolę nauczyciela  i koncepcje pracy nauczyciela: etykę zawodową nauczyciela, nauczycielską pragmatykę
+                zawodową – prawa i obowiązki nauczycieli, zasady odpowiedzialności prawnej opiekuna, nauczyciela, wy-
+                 chowawcy i za bezpieczeństwo oraz ochronę zdrowia uczniów, tematykę oceny jakości pracy nauczyciela,
+B.2.W2
+                  zasady projektowania ścieżki własnego rozwoju zawodowego, rolę początkującego nauczyciela w szkolnej
+                     rzeczywistości, uwarunkowania sukcesu w pracy nauczyciela oraz choroby związane z wykonywaniem za-
+                wodu nauczyciela
+                 wychowanie w kontekście rozwoju: ontologiczne, aksjologiczne  i antropologiczne podstawy wychowania;
+                       istotę i funkcje wychowania oraz proces wychowania, jego strukturę, właściwości i dynamikę; pomoc psy-
+B.2.W3             chologiczno-pedagogiczną w szkole – regulacje prawne, formy i zasady udzielania wsparcia w placówkach
+                  systemu oświaty, a także znaczenie współpracy rodziny ucznia  i szkoły oraz szkoły ze środowiskiem po-
+                  zaszkolnym
+                  zasady pracy opiekuńczo-wychowawczej nauczyciela: obowiązki nauczyciela jako wychowawcy klasy, me-
+                   todykę pracy wychowawczej, program pracy wychowawczej, style kierowania klasą, ład  i dyscyplinę, po-
+                  szanowanie godności dziecka, ucznia lub wychowanka, różnicowanie, indywidualizację  i personalizację
+                   pracy z uczniami, funkcjonowanie klasy szkolnej jako grupy społecznej, procesy społeczne w klasie, roz-
+                   wiązywanie konfliktów w klasie lub grupie wychowawczej, animowanie życia społeczno-kulturalnego klasy,
+                    wspieranie samorządności i autonomii uczniów, rozwijanie u dzieci, uczniów lub wychowanków kompetencji
+B.2.W4            komunikacyjnych  i umiejętności społecznych niezbędnych do nawiązywania poprawnych relacji; pojęcia
+                       integracji i inkluzji; sytuację dziecka z niepełnosprawnością fizyczną i intelektualną w szkole ogólnodostęp-
+                      nej, problemy dzieci z zaburzeniami ze spektrum autyzmu i ich funkcjonowanie, problemy dzieci zaniedba-
+                  nych  i pozbawionych opieki oraz szkolną sytuację dzieci z doświadczeniem migracyjnym; problematykę
+                    dziecka w sytuacji kryzysowej lub traumatycznej; zagrożenia dzieci i młodzieży: zjawiska agresji i
+                  przemocy, w tym agresji elektronicznej, oraz uzależnień, w tym od środków psychoaktywnych i komputera,
+                  a także zagadnienia związane z grupami nieformalnymi, podkulturami młodzieżowymi i sektami
+                    sytuację uczniów ze specjalnymi potrzebami edukacyjnymi: specjalne potrzeby edukacyjne uczniów  i ich
+B.2.W5                  uwarunkowania (zakres diagnozy funkcjonalnej, metody i narzędzia stosowane w diagnozie), konieczność
+
+
+
+                                                                           6
+                  dostosowywania procesu kształcenia do specjalnych potrzeb edukacyjnych uczniów (projektowanie wspar-
+                        cia, konstruowanie indywidualnych programów) oraz tematykę oceny skuteczności wsparcia uczniów ze
+                    specjalnymi potrzebami edukacyjnymi
+                  zasady pracy z uczniem z trudnościami w uczeniu się; przyczyny i przejawy trudności w uczeniu się, zapo-
+                    bieganie trudnościom w uczeniu się i ich wczesne wykrywanie, specyficzne trudności w uczeniu się – dys-
+B.2.W6               leksja, dysgrafia, dysortografia  i dyskalkulia oraz trudności w uczeniu się wynikające z dysfunkcji sfery
+                   percepcyjno-motorycznej oraz zaburzeń rozwoju zdolności, w tym językowych i arytmetycznych, i sposoby
+                      ich przezwyciężania; zasady dokonywania diagnozy nauczycielskiej i techniki diagnostyczne w pedagogice
+                  doradztwo zawodowe: wspomaganie ucznia w projektowaniu ścieżki edukacyjno-zawodowej, metody
+B.2.W7                                       i techniki określania potencjału ucznia oraz potrzebę przygotowania uczniów do uczenia się przez całe życie
+
+WIEDZA – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+w zakresie praktyki absolwent zna i rozumie
+
+B.3.W1             zadania charakterystyczne dla szkoły lub placówki systemu oświaty oraz środowisko, w jakim one działają
+
+                     organizację, statut i plan pracy szkoły, program wychowawczo-profilaktyczny oraz program realizacji do-
+B.3.W2
+                   radztwa zawodowego
+
+B.3.W3            zasady zapewniania bezpieczeństwa uczniom w szkole i poza nią
+
+UMIEJĘTNOŚCI
+
+                       potrafi wykorzystywać posiadaną wiedzę dla formułowania i rozwiązywania problemów etycznych w oparciu
+K_U01            o właściwy dobór źródeł, ich ocenę  i krytyczną analizę, posługując się różnorodnymi metodami  i narzę-  P6S_UW
+                    dziami w tym zaawansowanymi technikami informacyjno-komunikacyjnymi
+                       potrafi wykorzystywać specjalistyczną terminologię filozoficzną w tym w szczególności etyczną w trakcie
+K_U02             debat i dyskusji w tym także w języku obcym, prezentując, oceniając i poddając krytycznej analizie różne  P6S_UK
+                   stanowiska i argumenty obecne w dyskusjach filozoficznych i sporach etycznych
+                       potrafi planować i organizować pracę (przede wszystkim własną) w grupach złożonych z osób reprezentu-K_U03                                                                                           P6S_UO
+                    jących dziedziny wiedzy ważkie w podejmowaniu i rozwiązywaniu problemów i sporów etycznych
+                       potrafi wykorzystywać wiedzę etyczną  i filozoficzną dla planowania  i organizowania własnego uczenia
+K_U04                                                                                            P6S_UU                                       i samorozwoju
+
+K_U05             posługuje się językiem obcym na poziomie B2 Europejskiego Systemu Opisu Kształcenia Językowego      P6S_UK
+
+Efekty uczenia się w odniesieniu do umiejętności dla modułu przygotowującego do zawodu nauczyciela, są zgodne z Zarządzeniem nr 13/2021 Rektora
+Uniwersytetu Wrocławskiego z dnia 22 stycznia 2021 roku w sprawie ustalenia w Uniwersytecie Wrocławskim trybu kształcenia przygotowującego do
+wykonywania zawodu nauczyciela. Wszystkie te efekty realizowane są w ramach zajęć prowadzonych przez Centrum Edukacji Nauczycielskiej.
+UMIEJĘTNOŚCI – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+absolwent potrafi
+
+                                                                           7
+                 obserwować sytuacje  i zdarzenia pedagogiczne, analizować je z wykorzystaniem wiedzy pedagogiczno-1.2.1
+                    psychologicznej oraz proponować rozwiązania problemów
+                   adekwatnie dobierać, tworzyć  i dostosowywać do zróżnicowanych potrzeb uczniów materiały  i środki, w
+                tym z zakresu technologii informacyjno-komunikacyjnej, oraz metody pracy w celu samodzielnego projek-
+1.2.2
+                   towania  i efektywnego realizowania działań pedagogicznych, dydaktycznych, wychowawczych  i opiekuń-
+                   czych
+                  rozpoznawać potrzeby, możliwości i uzdolnienia uczniów oraz projektować i prowadzić działania wspierające
+1.2.3                integralny rozwój uczniów, ich aktywność i uczestnictwo w procesie kształcenia i wychowania oraz w życiu
+                  społecznym
+                   projektować  i realizować programy nauczania z uwzględnieniem zróżnicowanych potrzeb edukacyjnych
+1.2.4
+                   uczniów
+                   projektować i realizować programy wychowawczo-profilaktyczne w zakresie treści i działań wychowawczych1.2.5
+                                       i profilaktycznych skierowanych do uczniów, ich rodziców lub opiekunów i nauczycieli
+                   tworzyć sytuacje wychowawczo-dydaktyczne motywujące uczniów do nauki  i pracy nad sobą, analizować
+1.2.6                      ich skuteczność oraz modyfikować działania w celu uzyskania pożądanych efektów wychowania i kształcenia
+                   tworzyć sytuacje wychowawczo-dydaktyczne motywujące uczniów do nauki  i pracy nad sobą, analizować1.2.7
+                      ich skuteczność oraz modyfikować działania w celu uzyskania pożądanych efektów wychowania i kształcenia
+
+1.2.8                rozwijać kreatywność i umiejętność samodzielnego, krytycznego myślenia uczniów
+
+1.2.9               skutecznie animować i monitorować realizację zespołowych działań edukacyjnych uczniów
+
+                  wykorzystywać proces oceniania  i udzielania informacji zwrotnych do stymulowania uczniów w ich pracy1.2.10
+                 nad własnym rozwojem
+
+1.2.11             monitorować postępy uczniów, ich aktywność i uczestnictwo w życiu społecznym szkoły
+
+                  pracować z dziećmi ze specjalnymi potrzebami edukacyjnymi, w tym z dziećmi z trudnościami adaptacyj-
+1.2.12            nymi związanymi z doświadczeniem migracyjnym, pochodzącymi ze środowisk zróżnicowanych pod wzglę-
+               dem kulturowym lub z ograniczoną znajomością języka polskiego
+                    odpowiedzialnie organizować pracę szkolną oraz pozaszkolną ucznia, z poszanowaniem jego prawa do od-1.2.13
+                  poczynku
+                    skutecznie realizować działania wspomagające uczniów w świadomym  i odpowiedzialnym podejmowaniu
+1.2.14                     decyzji edukacyjnych i zawodowych
+                  poprawnie posługiwać się językiem polskim i poprawnie oraz adekwatnie do wieku uczniów posługiwać się
+1.2.15
+                    terminologią przedmiotu
+
+1.2.16             posługiwać się aparatem mowy zgodnie z zasadami emisji głosu
+
+
+                                                                           8
+1.2.17               udzielać pierwszej pomocy
+
+                   samodzielne rozwijać wiedzę i umiejętności pedagogiczne z wykorzystaniem różnych źródeł, w tym obco-
+1.2.18                   języcznych i technologii
+UMIEJĘTNOŚCI – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+w zakresie przygotowania psychologicznego absolwent potrafi
+
+B.1.U1            obserwować procesy rozwojowe uczniów
+
+B.1.U2            obserwować zachowania społeczne i ich uwarunkowania
+
+B.1.U3              skutecznie i świadomie komunikować się
+
+B.1.U4             porozumieć się w sytuacji konfliktowej
+
+B.1.U5            rozpoznawać bariery i trudności uczniów w procesie uczenia się
+
+B.1.U6              identyfikować potrzeby uczniów w rozwoju uzdolnień i zainteresowań
+
+B.1.U7               radzić sobie ze stresem i stosować strategie radzenia sobie z trudnościami
+
+                  zaplanować działania na rzecz rozwoju zawodowego na podstawie świadomej autorefleksji  i informacjiB.1.U8
+                    zwrotnej od innych osób
+UMIEJĘTNOŚCI – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+w zakresie przygotowania pedagogicznego absolwent potrafi
+                  wybrać program nauczania zgodny z wymaganiami podstawy programowej  i dostosować go do potrzebB.2.U1
+                   edukacyjnych uczniów
+
+B.2.U2             zaprojektować ścieżkę własnego rozwoju zawodowego
+
+B.2.U3            formułować oceny etyczne związane z wykonywaniem zawodu nauczyciela
+
+B.2.U4            nawiązywać współpracę z nauczycielami oraz ze środowiskiem pozaszkolnym
+
+B.2.U5            rozpoznawać sytuację zagrożeń i uzależnień uczniów
+
+
+
+                                                                           9
+B.2.U6            zdiagnozować potrzeby edukacyjne ucznia i zaprojektować dla niego odpowiednie wsparcie
+
+B.2.U7               określić przybliżony potencjał ucznia i doradzić mu ścieżkę rozwoju
+
+UMIEJĘTNOŚCI – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+w zakresie praktyki absolwent potrafi
+                   wyciągać wnioski z obserwacji pracy wychowawcy klasy, jego interakcji z uczniami oraz sposobu, w jakiB.3.U1
+                    planuje i przeprowadza zajęcia wychowawcze
+                   wyciągać wnioski z obserwacji sposobu integracji działań opiekuńczo-wychowawczych  i dydaktycznych
+B.3.U2
+                    przez nauczycieli przedmiotów
+                   wyciągać wnioski, w miarę możliwości, z bezpośredniej obserwacji pracy rady pedagogicznej i zespołu wy-B.3.U3
+                chowawców klas
+                   wyciągać wnioski z bezpośredniej obserwacji pozalekcyjnych działań opiekuńczo-wychowawczych nauczy-
+B.3.U4                            cieli, w tym podczas dyżurów na przerwach międzylekcyjnych i zorganizowanych wyjść grup uczniowskich
+
+B.3.U5            zaplanować i przeprowadzić zajęcia wychowawcze pod nadzorem opiekuna praktyk zawodowych
+
+                    analizować, przy pomocy opiekuna praktyk zawodowych oraz nauczycieli akademickich prowadzących za-
+B.3.U6                jęcia w zakresie przygotowania psychologiczno-pedagogicznego, sytuacje i zdarzenia pedagogiczne zaob-
+                 serwowane lub doświadczone w czasie praktyk
+
+KOMPETENCJE SPOŁECZNE
+
+                       jest gotów do krytycznej oceny zarówno posiadanej wiedzy, jak  i oceny jej znaczenia w rozwiązywaniu
+K_K01             etycznych problemów współczesności, jeśli to niezbędne we współpracy ze specjalistami, uwzględniając ich  P6S_KK
+                     autorytet epistemiczny
+                       jest gotów na kanwie uzyskanej wiedzy i umiejętności do podejmowania działań na rzecz wspólnoty i inte-
+K_K02                                                                                            P6S_KO
+                    resu publicznego przejawiając w tych działaniach przedsiębiorczość w poczuciu odpowiedzialności za nie
+                       jest gotów do przestrzegania, także w pracy zawodowej, w szczególności ze względu na kompetencje
+K_K03              etyczne, zasad etycznych, w tym badacza i eksperta, jak i domagania się ich przestrzegania przez członków  P6S_KR
+                    wspólnoty, ze szczególnym uwzględnieniem zarówno dorobku jak i tradycji filozofii i etyki
+Efekty uczenia się w odniesieniu do kompetencji społecznych, dla modułu przygotowującego do zawodu nauczyciela, są zgodne z Zarządzeniem
+nr 13/2021 Rektora Uniwersytetu Wrocławskiego z dnia 22 stycznia 2021 roku w sprawie ustalenia w Uniwersytecie Wrocławskim trybu kształcenia
+przygotowującego do wykonywania zawodu nauczyciela. Wszystkie te efekty realizowane są w ramach zajęć prowadzonych przez Centrum Edukacji
+Nauczycielskiej
+KOMPETENCJE SPOŁECZNE – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+absolwent jest gotów do
+                     posługiwania się uniwersalnymi zasadami  i normami etycznymi w działalności zawodowej, kierując się
+1.3.1
+                   szacunkiem dla każdego człowieka
+                                                                          10
+                    budowania relacji opartej na wzajemnym zaufaniu między wszystkimi podmiotami procesu wychowania
+ 1.3.2                                i kształcenia, w tym rodzicami lub opiekunami ucznia, oraz włączania ich w działania sprzyjające efektyw-
+                       ności edukacyjnej
+                    porozumiewania się z osobami pochodzącymi z różnych środowisk i o różnej kondycji emocjonalnej, dia-
+ 1.3.3               logowego rozwiązywania konfliktów oraz tworzenia dobrej atmosfery dla komunikacji w klasie szkolnej
+                                            i poza nią
+
+ 1.3.4              podejmowania decyzji związanych z organizacją procesu kształcenia w edukacji włączającej
+
+                     rozpoznawania specyfiki środowiska lokalnego  i podejmowania współpracy na rzecz dobra uczniów
+ 1.3.5                                            i tego środowiska
+                      projektowania działań zmierzających do rozwoju szkoły lub placówki systemu oświaty oraz stymulowania
+ 1.3.6.
+                   poprawy jakości pracy tych instytucji
+                      pracy w zespole, pełnienia w nim różnych ról oraz współpracy z nauczycielami, pedagogami, specjalistami, 1.3.7
+                      rodzicami lub opiekunami uczniów i innymi członkami społeczności szkolnej i lokalnej
+ KOMPETENCJE SPOŁECZNE – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+ w zakresie przygotowania psychologicznego absolwent jest gotów do
+
+ B.1.K1                 autorefleksji nad własnym rozwojem zawodowym
+
+ B.1.K2              wykorzystania zdobytej wiedzy psychologicznej do analizy zdarzeń pedagogicznych
+
+ KOMPETENCJE SPOŁECZNE – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+ w zakresie przygotowania pedagogicznego absolwent jest gotów do
+
+ B.2.K1              okazywania empatii uczniom oraz zapewniania im wsparcia i pomocy
+
+ B.2.K2               profesjonalnego rozwiązywania konfliktów w klasie szkolnej lub grupie wychowawczej
+
+ B.2.K3              samodzielnego pogłębiania wiedzy pedagogicznej
+
+ B.2.K4              współpracy z nauczycielami i specjalistami w celu doskonalenia swojego warsztatu pracy
+
+ KOMPETENCJE SPOŁECZNE – KSZTAŁCENIE MODUŁOWE: PRZYGOTOWANIE DO ZAWODU NAUCZYCIELA
+ w zakresie praktyki absolwent jest gotów do
+                     skutecznego współdziałania z opiekunem praktyk zawodowych i z nauczycielami w celu poszerzania swojej
+ B.3.K1                     wiedzy
+
+Objaśnienie symboli:
+
+                                                                           11
+PRK – Polska Rama Kwalifikacji
+P6S_WG/P7S _WG – kod składnika opisu kwalifikacji dla poziomu 6 i 7 w charakterystykach drugiego stopnia Polskiej Ramy Kwalifikacji
+K_W - kierunkowe efekty uczenia się w zakresie wiedzy
+K_U - kierunkowe efekty uczenia się w zakresie umiejętności
+K_K - kierunkowe efekty uczenia się w zakresie kompetencji społecznych
+01, 02, 03 i kolejne - kolejny numer kierunkowego efektu uczenia się
+
+
+5. Treści programowe. Efekty uczenia się dla przedmiotów/modułów zajęć.
+
+                                                                                                                     Efekty uczenia się dla l.p.   Nazwa przedmiotu      Treści programowe
+                                                                                                               przedmiotu/ modułu zajęć
+                            Konwersatorium będzie poświęcone dyskusji  i namysłowi nad etycznymi problemami
+                            związanymi z życiem, jego charakterem, początkiem  i końcem. Będziemy rozważali
+                              kwestię pytania: jak żyć? jako fundamentalnego pytania etycznego, próbując dociekać                                                                                              K_W01, K_W03, K_W04,
+                              czy w zakresie odpowiedzi na nie leży jedynie życie ludzkie, czy odpowiedzialność
+                                                                                      K_W05  1.   Elementy bioetyki     obejmuje życie różne od ludzkiego, środowisko - w którym żyje, przyszłe pokolenia, czy
+                                                                                                    K_U01, K_U02, K_U03
+                              wreszcie ekosystem, biosferę czy ziemię w swej całości. Będziemy to czynić odwołując                                                                                                     K_K02, K_K03
+                                   się do tekstów między innymi Alberta Schweitzera, Marka Bonenberga, Mohandasa K.
+                            Gandhiego,  Arne  Naess'a,  Zofii  Piątek,  Henryka  Skolimowskiego,  Włodzimierza
+                              Tyburskiego, Bogusława Wolniewicza.
+                             Retoryka – sztuka dobrego mówienia (ars bene dicendi). Starożytny spór między logiką
+                                                            i retoryką: siostry czy rywalki? Odmienne stanowiska: sofistów, Sokratesa, Platona,
+                                Arystotelesa, sceptyków. Podstawowe działy retoryki: inwencja, elokucja, kompozycja,
+                             argumentacja. Inwencja dotyczy doboru zasadniczych motywów, które powinny być
+                             uwzględnione, by dokonać skutecznej perswazji lub jedynie komunikacji. Elokucja
+                               opisuje językowe tropy i figury podnoszące artystyczny poziom wypowiedzi. Kompozycja
+                              akcentuje konieczność właściwego wyboru topoi, figur stylistycznych  i argumentów, by
+                              osiągnąć cel mówienia. Argumentacja obejmuje logiczne formy dowodzenia danej tezy:
+                             sylogizmami, znakami, sentencjami i exemplami (przykładami). Różnica między retoryką
+                                                                                      K_W03                           (przekonywaniem za pomocą argumentów  i racji) i erystyką (w wąskim sensie dążenie
+  2.   Elementy retoryki                                                                               K_U01, K_U02, K_U04
+                          do wygrania za wszelką cenę [A.Schopenhauer], w szerszym: kunsztem prowadzenia                                                                                             K_K01
+                           sporów [T.Kotarbiński]). Problematyka argumentacyjna w  filozofii, logice  i retoryce.
+                          Wypowiedź  argumentacyjna    i  jej  komunikacyjno-perswazyjny  charakter.  Pojęcie
+                            argumentu.  Struktura  argumentacji   i diagramy  argumentacyjne.  Kontrargumenty
+                                                            i relacja ataku. Pragma-dialektyka, reguły racjonalnej dyskusji i etyczne aspekty dialogu
+                            argumentacyjnego.   Trzy  poziomy   oceny   argumentacji:   obiektywno-logiczny,
+                             perswazyjno-retoryczny i społeczno-etyczny. Pragmatyczny model oceny argumentacji.
+                          Ocena argumentacji: argumenty dedukcyjne. Deduktywizm w teorii argumentacji. Ocena
+                              argumentacji: argumenty niededukcyjne ze szczególnym uwzględnieniem rozumowań
+                             praktycznych  i argumentacji etycznej (schematy argumentacyjne, krytyczne pytania
+
+                                                                           12
+                                                        i metoda  konstrukcji).  Błędy w  argumentacji. Retoryczne  aspekty  argumentacji.
+                            Perswazja.
+                        Celem zajęć jest zaznajomienie słuchaczy z niektórymi aspektami związków refleksji
+                             etycznej  i  religijnej na przykładach wybranych filozofów europejskich; namysł nad
+                      wzajemnym powiązaniem  religii   i  etyki oraz granicą między nimi; wskazanie na
+                          konwergencję niektórych pojęć zakresu etyki i religii, takich jak dobro i zło, obowiązek,
+                            sumienie, sprawiedliwość, cnota, wolność. Treści programowe: związek etyki i religii na
+                                    tle sporu Lutra  i Erazma wokół kwestii wolnej woli; wiara jako zasada etyki (Luter),                                                                                            K_W01, K_W02, K_W04,
+                           Chrystus jako wzór cnót  i punkt odniesienia filozofii moralnej Erazm); Immanuel Kant:                                                                                    K_W05
+3.    Etyka i religia        Bóg jako postulat rozumu praktycznego; religia historycznego objawienia a racjonalna
+                                                                                                  K_U02, K_U04                                  religia moralna; rozum jako probierz dogmatu; etyka drogą do czystej religii rozumu;
+                                                                                            K_K03
+                          Soren Kierkegaard: absolutny obowiązek wobec Boga; etyka pierwsza (skończona,
+                            metafizyczna)  i druga (nieskończona, religijna); autonomia etyki jako tego co ogólne;
+                              stadia na drodze życia: etyczne a religijne; paradoks wiary; Henri Bergson: religia
+                                                        i moralność otwarta (dynamiczna) a religia i moralność (statyczna); moralność otwarta
+                          (dynamiczna) a moralność zamknięta (statyczna); moralność społecznego obowiązku a
+                          moralność wezwania i wolności.
+                           Kurs poświęcony jest prezentacji etyki cnót, a w szczególności dwóch grup zagadnień
+                          związanych z cnotami. W ramach obu tych grup omawiane są klasyczne teorie cnót
+                             (platonizm, arystotelizm, stoicyzm, scholastyczne teorie cnót), pojawiają się również
+                       pewne nawiązania do współczesnych ujęć etyki cnót w filozofii anglosaskiej. Ogólna
+                                                                                            K_W01, K_W02
+                               teoria cnót. 1.1. Ogólne własności cnót; cnota a kunszt (techne); cnota a wiedza                                                                                            K_W03, K_W04, K_W05
+4.    Etyka klasyczna I      (episteme). 1.2. Tożsamość  i odrębność cnót. 1.3. Rola cnót w działaniu. 1.4 Sposób
+                                                                                                  K_U01, K_U02, K_U03, K_U04                         nabywania  cnót;  cnota  a  dyspozycje  wrodzone.  Problematyka  wzrostu  cnót.
+                                                                                                   K_K01, K_K03                              1.5. Problematyka związku między cnotami (nexus virtutum). Poszczególne cnoty.
+                              2.1. Tradycyjne klasyfikacje cnót. 2.2. Cnoty kardynalne: roztropność, sprawiedliwość,
+                         męstwo, umiarkowanie.  2.3. Wybrane cnoty  dołączające do poszczególnych  cnót
+                            kardynalnych.
+                           Przedmiot poświęcony  jest  klasycznej  kazuistyce, a w  szczególności dwom  niżej
+                       wskazanym grupom problemowym. W ramach każdej z tych grup omawiane są różne
+                           stanowiska  klasyczne. Podstawy  kazuistyki.  1.1. Dobrowolność   i  zamiar;  zamiar
+                             pośredni, zamiar przygotowawczy, zamiar warunkowy; 1.2. natura działania  i jego  K_W01, K_W02, K_W03,
+                            przynależność gatunkowa; skutek właściwy  i skutki uboczne działania. 1.3. Moralna  K_W045.    Etyka klasyczna II
+                            odpowiedzialność za skutki działań. 1.4. Działanie a sumienie. 1.5. Współdziałanie  K_U01, K_U02, K_U03, K_U04
+                                                        i współudział. Przegląd klasycznych rozstrzygnięć kazuistyki. 2.1. Kazusy dotyczące  K_K01, K_K03
+                              działań śmiercionośnych (obrona własna, wojna, kara śmierci). 2.2. Kazusy bioetyczne.
+                              2.3. Kazusy dotyczące własności, jej przenoszenia  i obowiązku restytucji. 2.4. Kazusy
+                           dotyczące moralnej obowiązywalności prawa.
+                        Celem kursu jest zapoznanie studenta z nowożytnym przełomem, jaki dokonuje się w  K_W01, K_W02, K_W03,
+6.    Etyka nowożytna I     tradycyjnym sposobie rozumienia pytań, na jakie etyka stara się odpowiedzieć. Student  K_W04
+                          zobaczy  porzucenie  tak  charakterystycznych  problemów  dla  etyki  starożytnej  K_U01, K_U02
+                                                                         13
+                                                        i  średniowiecznej,  jak  pytanie  o  sposoby  osiągania  wewnętrznej  harmonii  czy  K_K02, K_K03
+                             doskonałości, pytania o sposoby zbawienia duszy czy nadawanie sensu życia. Student
+                         pozna koncepcje, które stawiają sobie jako naczelne pytanie raczej to, jak jest możliwe
+                              osiągnięcie rozumnej zgody między ludźmi, pytanie o zasady czy instytucje, które
+                              przeciwdziałają  powstającym  konfliktom  między  nimi,  albo  które  umożliwiają
+                           koordynację ich społecznych działań. Będzie o koncepcjach, które pytają o zasady
+                            umożliwiające ulepszanie świata, poprzez pomnażanie szczęśliwości powszechnej. Stąd,
+                       uwaga studenta zostanie skierowana przede wszystkim na etykę umowy społecznej,
+                           etykę Kanta oraz utylitaryzm.
+                          Problem racji  i celu działania; typy praw moralnych; spory o naturę ludzką; egoizm a
+                            uczucia moralne; uczucia  i rozum w poszukiwaniu dobra; etyka a polityka  i umowa                                                                                            K_W01, K_W02, K_W03,
+                            społeczna; moralność wojny i pokoju; prawo własności, sprawiedliwość; dobro wspólne
+                                                                                            K_W04, K_W067.    Etyka nowożytna II    a dobro własne; pożytek i przyjemność; miłość do samego siebie, stoicyzm nowożytny,
+                                                                                                  K_U01, K_U02
+                              intelektualizm etyczny; porządek rozumu  i porządek serca; rozum a objawienie w                                                                                                        K02, K_K03
+                           poznaniu etycznym; porządek powinności, teodycea; mądrość a rozumność; (Butler,
+                            Descartes, Hobbes, Hume, Leibniz, Locke, Malebranche, Pascal, Rousseau, Spinoza);
+               W ramach kursu studenci zapoznają się z panoramą współczesnych koncepcji, dyskusji
+                                                        i stanowisk etycznych z obszaru  filozofii kontynentalnej. Podejmowane będą m.in.
+                           następujące zagadnienia: źródła etyczności, normatywność w etyce, wartości  i kryzys
+                              wartości, personalizm, nowy paradygmat odpowiedzialności, kategoria inności i Innego,
+                                                                                            K_W02, K_W03,
+                           etyka czci dla życia, etyka hermeneutyczna, wiedza-władza. W obszarze zainteresowania                                                                                            K_W04, K_W05, K_W06
+8.    Etyka współczesna I   pojawią się nazwiska m.in. takich myślicieli, jak Nietzsche, Heidegger, Levinas, Derrida,
+                                                                                                  K_U01, K_U02, K_U04                              Tischner, Foucault, Scheler, Hartmann, Hildebrand, Elzenberg, Ingarden, Schweitzer,
+                                                                                                   K_K01, K_K03                           Gandhi, Jonas, MacIntyre. W ramach kursu wykłady będą poświęcone systematycznej
+                                                        i  syntetycznej  prezentacji  treści    i  zagadnień,  podczas  gdy w  trakcie  ćwiczeń
+                            poszczególne, wybrane koncepcje będą przedmiotem bardziej analitycznego badania na
+                           podstawie wybranych tekstów.
+                               Treści programowe przedmiotu obejmują następujące zagadnienia: Etyka jako teoria
+                           poprawności  rozumowań  moralnych.  Sytuacja  dylematu  moralnego.  Działanie,
+                         sprawstwo i odpowiedzialność moralna. Logiczna analiza działania. Reguły preferencji a
+                          wybór. Niektóre strategie wyboru: hedonizm  i egoizm. Rodzaje hedonizmu  i egoizmu.
+                            Specyficzne terminy etyczne: słuszność, powinność, obowiązek i dobro moralne. Normy                                                                                            K_W02, K_W03, K_W04,
+                                                        i oceny moralne. Normy teleologiczne  i normy deontyczne. Normy idealne  i normy
+                                                                                    K_W059.    Etyka współczesna II   działania. Dobro  i słuszność. Problematyka autonomiczności  i heteronomiczności dobra
+                                                                                                  K_U01, K_U02, K_U04
+                                                        i słuszności. Wolność działania a wolności woli. Motywacyjny charakter przekonań                                                                                                   K_K01, K_K03
+                           moralnych.   Problem    słabości    woli.   Wybrane   kontrowersje:   Kognitywizm
+                                                        i antykognitywizm. Naturalizm   i antynaturalizm. Deontologizm   i konsekwencjalizm.
+                             Internalizm    i  eksternalizm.  Wybrane  stanowiska  kognitywistyczne:  Utylitaryzm
+                                                        i intuicjonizm. Wybrane stanowiska antykognitywistyczne: Emotywizm, preskryptywizm
+                                                        i deskryptywizm. Współczesny arystotelizm tomistyczny.
+
+
+                                                                         14
+                           Przedmiot będzie poświęcony prezentacji problemów etycznych podejmowanych w
+                             dziejach polskiej myśli etycznej od średniowiecza do współczesności. Wykład poświęcony
+                            będzie  systematycznej  prezentacji  głównych problemów  etycznych  związanych  z
+                          zasadniczym praktycznym nastawieniem polskiej myśli dającym się wyrazić w formule:  K_W01, K_W02, K_W03,     Główne problemy w
+                       Primum vivere deine philosophari. Ćwiczenia będą oscylować wokół lektury ważkich  K_W04, K_W0510.   dziejach polskiej
+                           tekstów egzemplifikujacych sposób podejmowania problemów etycznych. Będziemy  K_U01, K_U02, K_U04
+      myśli etycznej                            próbowali przyglądać się znaczącym osiągnięciom polskiej myśli etycznej w namyśle nad,  K_K01, K_K03
+                         między innymi: wojną sprawiedliwą, dobrem Rzeczypospolitej, prawami i należytościami,
+                           służebną  rolą  Króla,  tolerancją, związkami  etyki   i  religii, odpowiedzialnością   i  jej
+                          zakresem, wolnością i jej granicami.
+                         Wprowadzenie terminologiczne:  „filozofia dialogu”, „hermeneutyka”, „hermeneutyka
+                              dialogu”. Hermeneutyka – nauką  i sztuką interpretacji. Szersze  i węższe użycia tych
+                          terminów współcześnie. Filozoficzne odmiany hermeneutyki (F. Schleiermachera, W.
+                              Diltheya, M.  Heideggera, H-G. Gadamera,  P.  Ricoeura)   i  ich wpływ na  kształt
+                          hermeneutyki dialogu. Rola hebrajskiej tradycji: M. Bubera, F, Rosenzweiga, E. Levinasa
+                  w zaakcentowaniu osobistych więzi jako konstytutywnych w każdej formie dialogu:  K_W04
+     Hermeneutyka11.                         człowieka z Bogiem, człowieka z człowiekiem, człowieka z przyrodą. Klasyczny sens  K_U02, K_U03
+      dialogu
+                         „rozmowy” jako wymiany informacji  i argumentów, uzupełniony jej hermeneutyczną  K_K01, K_K03
+                                redefinicją: dialog formą ujawniania ukrytych (nieświadomych) założeń danej postawy
+                             lub sądu. Szanse polilogu? Warunki wstępne   i pożądane, by interpretacje służyły
+                           porozumieniu na świecie, a nie eskalacji konfliktów. Oprócz części teoretycznej w
+                          programie spotkań przewidziana jest część praktyczna – zestawienie i analiza teorii oraz
+                        metod hermeneutycznych funkcjonujących w judaizmie, chrześcijaństwie i islamie.
+                           1.przedmiot i metoda H.M I: kultura, świat przeżywany, świat duchowy, wartości, etos,
+                         wzór osobowy; 2. Paideia i cultura: eposy homeryckie, filozofia jako styl życia, fenomen
+      Historia moralności      polis, mit i moralność, imperium: podbój i pokój, etos obywatelski, teatr i społeczeństwo,  K_W04, K_W06
+12.  (w Polsce, w Europie,  „humanistas” rzymska; 3. Kultura średniowiecza: wzór władcy, etos rycerski, świętość  K_U02
+     na świecie) I       w życiu codziennym, sagi islandzkie, jesień średniowiecza, monastycyzm europejski; 4.  K_K01, K_K02
+                            Etos mieszczański i jego odmiany: sztuka i rzemiosło, kultura miejska, narodziny gentry,
+                          moralność kapitalistyczna, kult postępu, moralność i cywilizacja w oświeceniu.
+                           1.przedmiot   i metoda  h.m.  II:  orientalizm,  centrum  a  prowincja w  badaniach
+                             historycznych, problem warstw podporządkowanych   i historycznych „przegranych”,
+                          problem inności, wielość moralność a relatywizm etyczny; 2. Sarmatyzm a orientalizm:
+      Historia moralności     kultura sarmacka od Kroniki polskiej do Wzorca dowodów politycznych, etos rycerski,  K_W04, K_W06
+13.  (w Polsce, w Europie,  mikroświat folwarku, wolność szlachecka, tolerancja, wielonarodowy i wielowyznaniowy  K_U02
+     na świecie) II          charakter Rzeczpospolitej szlacheckiej; 3. Wschodnie pasaże: etyka Upaniszadów, eposy  K_K01, K_K02
+                                                        i  moralność  od  Gilgamesza  po  Daniszmedname,  państwo  a  wspólnota  (Manu
+                       Swajambhuwa,  Ferdousi,  Farabi), system  wartości w  poezji  mistycznej, fenomen
+                           podróżnictwa w islamie.
+     Język starożytny        Alfabet, zasady czytania; akcenty, przydechy; rodzajnik określony ὁ, ἡ, τό; użycie μέν  K_W03
+14.      (greka)                 δέ; indicativus, imperativus praesentis activi koniugacji I (consonantia  i contracta na -  K_U02
+                                                                         15
+                            έω); przeczenie οὐ, οὐκ, οὐχ / μή; rzeczowniki i przymiotniki deklinacji II; przyimki πρός,
+                                ἐκ, ἐν, εἰς, ὑπό, μετά, ἐπί, ἀπό, περί; infinitivus praesentis activi koniugacji I (consonantia
+                                                        i contracta na -έω); indicativus, infinitivus, imperativus praesentis czasownika  εἰμί;
+                         zaimek αὐτός w przypadkach zależnych; tworzenie przysłówków na -ως; rzeczowniki
+                                                        i przymiotniki deklinacji I ; przymiotniki πολύς, πολλή, πολύ oraz μέγας, μεγάλη, μέγα;
+                             składnia accusativus cum  infinitivo; masculina deklinacji  I; feminina deklinacji  II;
+                             rzeczowniki ἀνήρ, γυνή, θυγάτηρ, μήτηρ, πατήρ deklinacji III; indicativus, imperativus,
+                                  infinitivus praesentis activi koniugacji  I; contracta na -άω;  elizja; zaimki osobowe
+                                                        i dzierżawcze; ὁ δέ, ἡ δέ, τὸ δέ; szyk przydawki  i orzeczenia; zaimek αὐτός; rzeczownik
+                            ναῦς; deponentia media; indicativus, imperativus, infinitivus praesentis medii koniugacji
+                                    I  (consonantia,  contracta na -άω  oraz  -έω);  rzeczowniki  deklinacji  III;  dativus
+                              possessoris, instrumentalis, locativus; indicativus, imperativus, infinitivus praesentis
+                                  activi deklinacji I – dwusylabowe vocalia; zaimki zwrotne; dwuzakończeniowe przymio-
+                                   tniki III deklinacji (temat na -ν-); zaimek pytajny τίς, τί; zaimek nieokreślony τις, τι;
+                             participium praesentis medii (consonantia, contracta na -άω oraz -έω); genetivus
+                                partitivus; przymiotnik πᾶς, πᾶσα, πᾶν; zaimek οὐδείς, οὐδεμία, οὐδέν; liczebniki główne
+                                                        i porządkowe od 1 do 10; participium praesentis activi (consonantia, contracta na -άω
+                            oraz -έω); participium ὤν, οὖσα, ὄν; rzeczowniki z tematem na -υ- (βασιλεύς, ἱερεύς);
+                             rzeczowniki na -ρ- (πατήρ, ἀνήρ, θυγάτηρ); genetivus possessivus, partitivus; znaczenie
+                          rzeczownikowe rodzajnika z participium.
+                               Alfabet, wymowa łacińska, iloczas, akcent; Deklinacja I; czasownik esse; orzeczenie
+                         czasownikowe   i  imienne;  składnia  prostego  zdania  łacińskiego;  indicativus  oraz
+                            imperativus praesentis activi czasowników koniugacji 1–4; deklinacja II; przyimki z
+                          accusatiwem  i ablatiwem; składnia A(accusativus) C(um) I(nfinitivo); zaimki osobowe,
+                            dzierżawcze, określające; strona zwrotna w języku łacińskim; indicativus imperfecti
+                                  activi czasowników koniugacji 1–4 oraz czasownika esse; indicativus futuri  I activi
+     Język starożytny      czasowników  koniugacji 1–4 oraz czasownika esse; composita z esse (praesens,  K_W0315.
+      (łacina)               imperfectum, futurum  I); deklinacja  III (podział na typy odmian; odmiana – typ  K_U02
+                           spółgłoskowy; typ samogłoskowy, typ mieszany); rzeczowniki: Iuppiter, vis; Deklinacja
+                                    III – odmiana przymiotnika; participium praesentis activi – odmiana i sposoby przekładu
+                        na język polski; składnia dativus possessivus  i inne sposoby wyrażania posiadania;
+                         zaimek idem, eadem idem; zaimek względny qui, quae, quod; zaimki wskazujące hic,
+                            haec, hoc; ille, illa, illud; iste, ista, istud; ipse, ipsa, ipsum; deklinacja IV; rzeczownik
+                        domus; deklinacja V.
+                            Cele  kształcenia  dla  przedmiotu  obejmują:  Przedstawienie  podstawowych  pojęć
+                                                        i wybranych technik logicznych z naciskiem na ich zastosowanie w retoryce i metodologii
+                                  filozoficznej. Nabycie przez słuchaczy umiejętności budowania i oceny argumentów oraz  K_W01, K_W02, K_W03
+16.   Logika                formułowania poprawnych  i trafnych definicji. Wykształcenie umiejętności konceptuali-  K_U01, K_U02
+                                 zacji problemów oraz odróżniania problemów rzetelnych od pseudo-problemów i sporów  K_K01
+                          przedmiotowych  od  sporów  słownych.  Treści programowe  przedmiotu  obejmują
+                           następujące zagadnienia: Filozoficzne podstawy logiki: Prawda  i fałsz. Forma  i materia
+
+                                                                         16
+                           przedmiotu; indywidua  i kategorie ontologiczne. Spór o uniwersalia. Byty  i  fikcje;
+                           przedmioty abstrakcyjne  i przedmioty konkretne. Podstawowe pojęcia logiczne: Sąd w
+                             sensie  logicznym;  logiczna  zasada  dwuwartościowości;  pojęcie prawdy  logicznej
+                                                        i wynikania logicznego. Elementy Logiki Formalnej: Klasyczny rachunek zdań; tradycyjna
+                              logika sądów kategorycznych; logika pierwszego rzędu. Definicje: Definicje nominalne a
+                                definicje realne; definicje sprawozdawcze, projektujące  i regulujące; warunki popra-
+                           wności definicji; definicje przez indukcję  i definicje przez abstrakcję. Logiczne aspekty
+                            metodologii ogólnej  i sztuki argumentacji: Problematyka formy logicznej. Klasyfikacja
+                        rozumowań. Wnioskowania dedukcyjne i uprawdopodabniające. Chwyty erystyczne.
+                              1. Wprowadzenie. Namysł nad pojęciem nauk humanistycznych,  ich specyfiką na
+                           podstawie „sporu z przyrodoznawstwem” o właściwą metodę badawczą: wyjaśnianie czy
+                           rozumienie? Zapoznanie się z głównymi stanowiskami badawczymi występującymi we
+                          współczesnych naukach humanistycznych: pragmatyzmem, hermeneutyką, socjologią
+                            wiedzy,  podejściem  semiotycznym,  historycznym,  psychoanalitycznym,  struktura-
+                             listycznym, dekonstrukcyjnym. 2. Krytyka rozumu historycznego Problemy: kryzys
+                              kultury europejskiej; krytyka rozumu instrumentalnego; elementarne  i wyższe formy
+                            rozumienia; pojęcie ducha obiektywnego; historyczność; dwie koncepcje uprawiania
+                                    historii – problem metodologii badań historycznych. 3. Materialistyczna interpretacja
+                            dziejów (K. Marks, Szkoła Frankfurcka). Problemy: materializm historyczny; materializm
+                             dialektyczny; krytyka kultury współczesnej: problem  reifikacji, alienacji   i fałszywej
+                           świadomości; społeczne korzenie myślenia: ideologia  i utopia. 4. Filozofia jako sztuka
+                           podejrzeń  (F.  Nietzsche)  Problemy:  nihilizm  jako konsekwencja  „śmierci  Boga”;
+                             interpretacjonizm: poznanie jako interpretacja; prawda jako metafora; krytyka kultury,
+                                       religii, nauki, idei nowoczesnych; problem woli mocy. 5. Psychoanalityczna interpretacja
+                                                                                            K_W01, K_W03, K_W04
+     Metodologia nauk       kultury. Problemy: świadomość  i nieświadomość; interpretacja psychopatologii życia17.                                                                                               K_U01, K_U02, K_U04
+     humanistycznych      codziennego; dialog  i represja; krytyka jako źródło cierpień; symboliczny charakter                                                                                                   K_K01, K_K02, K_K03
+                              rzeczywistości;  funkcja   i pole mowy   i mówienia.  6. Kryzys  kultury  europejskiej.
+                           Zderzenie „niemieckiego determinizmu” z „angielskim empiryzmem”  - O. Spengler
+                            kontra A. Toynbee. Czy mamy do czynienia ze „zmierzchem Zachodu”? Symptomy
+                               słabnięcia Zachodu. A może kultura europejska jest „cywilizacją w stanie próby”?
+                              7. Narodziny  filozofii hermeneutycznej Problemy:  istota hermeneutyki jako  sztuki
+                                interpretacji (rozumienia); zadanie sztuki rozumienia - pokonywanie dystansu, obcości,
+                          przełamywanie schematów pojęciowych; stan filozofii współczesnej – zwroty: językowy,
+                              interpretacyjny, konwersacyjny; interpretacjonizm w naukach humanistycznych. Pytanie
+                         o metafizyczne źródła kultury europejskiej; zadanie destrukcji tradycji; idea ontologii
+                           fundamentalnej; pytanie o jestestwo,  rola nastroju   i nastawienia w  interpretacji;
+                             prestruktura  rozumienia,  krytyka  racjonalności  instrumentalnej,  granice  poznania
+                        naukowego; problem związku języka  i myślenia. 8. „Prawda” a „metoda” w filozofii H.-
+                           G. Gadamera. Problemy: poznanie w naukach przyrodniczych   i humanistycznych;
+                             granice poznania naukowego – prawda „poza metodą”; poznanie historyczne jako
+                          samopoznanie; przesądowa struktura rozumienia; dialektyka pytania   i odpowiedzi;
+
+                                                                         17
+                             historyczność i językowość myślenia; dyskusje z E. Bettim, J. Habermasem, J. Derridą.
+                              9. Antropologia kultury jako perspektywa badawcza. Pojęcie społeczeństwa, system,
+                                definicje kultury, cechy kultury, wzór kultury, ethos, eidos, kręgi kulturowe, język,
+                           symbol, mit, znaczenie, kontekst społeczny. Główne stanowiska antropologii kulturowej
+                                 - ewolucjonizm, dyfuzjonizm, funkcjonalizm, szkoła kultury i osobowości, strukturalizm,
+                          postmodernizm. 10. Amerykańska szkoła “kultury   i osobowości”  -  język,  kultura,
+                          osobowość, funkcje języka, związek między językiem a rzeczywistością społeczną,
+                             przekład, relatywizm językowy, hipoteza Sapira-Whorfa. Konfiguracjonizm,  pojęcie
+                              kultury jako względnie samodzielnej  całości. Koncepcja „wzoru kulturowego” jako
+                         podstawowej zasady  organizującej zachowanie, odczuwanie, myślenie  ludzi danej
+                               kultury. 11. Strukturalistyczna   i poststrukturalistyczna metoda interpretacji kultury
+                              (C. Levy-Strauss, M. Foucault, J. Derrida) Problemy: teoria języka de Saussure’a; pojęcie
+                              struktury,  opozycji  binarnych;  społeczeństwo  jako  system  symboliczny;  pojęcie
+                           dyskursu;  archeologia  wiedzy; metoda  dekonstrukcji:  różnia,  nierozstrzygalność.
+                            12. Spór o granice interpretacji. Problemy: interpretacja obiektywna (D. Hirsch); pytanie
+                         o  Czytelnika Modelowego;  problem  nadinterpretacji –  interpretacje  paranoidalne
+                             (U. Eco); idea swobody interpretacyjnej (R. Rorty); problem wspólnoty interpretacyjnej
+                              (S.  Fish). 13. Historiozoficzno-polityczne diagnozy współczesności. Problem „końca
+                                   historii”  i demokracji liberalnej jako zwieńczenia rozwoju (F. Fukuyama). „Zderzenie
+                                 cywilizacji” jako alternatywa dla koncepcji „końca historii” (S. Huntington). Podwójne
+                            zagrożenie demokracji - „Dżihad” kontra „McŚwiat” (B. Barber). 14 Dyskusje wokół
+                         problemu paradygmatu, matrycy dyscyplinarnej (symboliczne uogólnienia, modele,
+                            okazy),  schematu  pojęciowego,  relatywizmu,  granic  rozumienia,  przekładalności,
+                            niewspółmierności. 15. Postmodernistyczna diagnoza kultury - interpretatywna teoria
+                               kultury, “gęsty opis”, ramy interpretacyjne. Problem „kondycji ponowoczesnej”, koniec
+                               „wielkich   narracji”,  ”prawodawcy”     i  „tłumacze”,  niewspółmierność  schematów
+                            pojęciowych,  problem  relatywizmu,  krytyka  „rozumu  cynicznego”.  Indywidualizm
+                           metodologiczny w wyjaśnianiu nauk społecznych. Czym są fakty społeczne i historyczne
+                        – E. H. Carr i Bruno Latour.
+                            Przedstawienie  i zapoznanie studentów z warsztatem pisarskim  i metodologią pisania
+                           pracy licencjackiej. Wskazanie technik doboru  i selekcji literatury przedmiotu  i źródeł
+                                                                                            K_W03, K_W07
+     Seminarium           oraz sposobów właściwego ich wykorzystania w pracy. Określenie cech, charakteru18.                                                                                               K_U01, K_U02, K_U04
+      licencjackie                       i rodzajów prac licencjackich. Wskazanie właściwego sposobu przygotowania się do                                                                                                   K_K01, K_K03
+                              pisania pracy: ustalenie problematyki, planu  i metodologii. Opracowanie konstrukcji
+                            pracy: podział na rozdziały i podrozdziały, wstęp, zakończenie i bibliografia.
+                            Rozróżnienie między socjologią moralności a socjologią etyki. Wartości jako podstawa
+                        systemów moralności  i przedmiot badań w socjologii: trudności z określeniem czym są  K_W01, K_W02, K_W04,
+                             wartości i normy, problemy metod badań wartości i norm w kontekście działań jednostek,  K_W06, K_W07
+19.   Socjologia moralności
+                          grup   i  wspólnot.  Etyka  jako  zaplecze  socjologii: wybór tematów  badań,  etyka  K_U01
+                          prowadzenia badań empirycznych   i gabinetowych, dyskusja etyczna wokół metod  K_K01, K_K02, K_K03
+                         badawczych (np. w etnometodologii, kwestia podmiotowości uczestników badania u F.
+
+                                                                         18
+                           Znanieckiego i po F. Znanieckim). Socjologia scjentystyczna a socjologia humanistyczna
+                                                        i etyczne podłoże schizmy w refleksji socjologicznej Moralność jako przedmiot badań
+                           indywidualnych (np. G. Simmel, M. Weber, F. Znaniecki, M. i S. Ossowscy, J. Leoński, A.
+                             Giza)   i pole oddziaływań  teorii socjologicznych (np.  socjologii wiedzy M.Schelera,
+                                socjologii fenomenologicznej A. Schuetza, etnometodologii H.Garfinkla  i A. Cicourela,
+                                socjologii interpretatywnej N. Denzina, I. Helling, D. Bertaux). Koncepcja wartości w
+                             klasycznej socjologii humanistycznej (G. Simmel, M. Weber, F. Znaniecki). Kultura jako
+                              ład  aksjonormatywny   i  systemy  wartości  jako  podstawa  ontologiczna  struktury
+                             społecznej w refleksji F. Znanieckiego (np. współczynnik humanistyczny a podmiotowość
+                           uczestników badania). Podsystemy aksjonormatywne, problem spoistości  i konfliktu
+                             (zwyczaj, obyczaj, prawo, konformizm, dewiacja); wartości  i struktury a stereotypy,
+                               strategie  i interesy; wartości w kontekście wymiany międzypokoleniowej, stylu życia
+                                                        i ruchów społecznych (np. aktywność zawodowa, edukacyjna, cyfrowa, rekreacyjna,
+                          konsumpcyjna,   polityczna).   Wartości  w  kontekstach  makrospołecznych   oraz
+                           międzykulturowych: wartości w kontekście zderzenia cywilizacji u S. Huntingtona, wzory
+                        osobowe w społeczeństwie ponowoczesnym Z.Baumana, wartości  i „zaczarowywanie”
+                            przez nauki społeczne według S. Andreskiego.
+                           Najważniejsze technologie informacyjne wykorzystywane w badaniach filozoficznych
+                                                        i historyczno-filozoficznych; wybrane użyteczne narzędzia pozyskiwania, przesyłania,
+                            przetwarzania, przechowywania  i prezentowania informacji, w tym także internetowe
+      Technologia          bazy danych; prawo  własności  intelektualnej,  zwłaszcza prawo  autorskie, prawo
+     informacyjna z         własności przemysłowej oraz prawa sui generis ochrony baz danych, ze szczególnym  K_W06, K_W07
+20.  elementami prawa     uwzględnieniem zarówno przepisów prawa krajowego, unijnego oraz międzynaro-  K_U01
+      własności            dowego;  przedmiot,  podmiot,  treść  oraz  ochrona  prawa  autorskiego,  regulacje  K_K02, K_K03
+      intelektualnej          szczególne dotyczące programów komputerowych i utworów audiowizualnych, instytucja
+                         dozwolonego użytku, zagadnienia plagiatu, umów autorsko prawnych; własność i prawa
+                             autorskie w aplikacjach grantowych; podstawowe formy tworzenia form przedsiębio-
+                                rczości.
+                         Wykład będzie poświęcony systematycznej  prezentacji  polskiej myśli etycznej XX
+                                                        i początku XXI wieku. Będziemy podążać śladami wielkich polskich filozofów - etyków:
+                          Tadeusza Czeżowskiego, Izydory Dąmbskiej, Henryka Elzenberga, Jacka Filka, Marka
+                             Fritzhanda, Romana Ingardena, Antoniego Kępińskiego, Leszka Kołakowskiego, Feliksa
+                          Konecznego,  Tadeusza  Kotarbińskiego,   Iji  Lazari-Pawłowskiej,  Marii  Ossowskiej,  K_W01, K_W02, K_W03,
+     Współczesna polska    Władysława  Stróżewskiego,  Tadeusza   Ślipki,  Władysława  Tatarkiewicza,  Józefa  K_W04, K_W05
+21.
+     myśl etyczna           Tischnera,   Kazimierza   Twardowskiego,   Czesława   Znamierowskiego,   Floriana  K_U01, K_U02, K_U04
+                            Znanieckiego. Pod ich przewodnictwem podejmować będziemy między innymi kwestie:  K_K01, K_K02, K_K03
+                         fundamentu  etyki    i   jej  ugruntowania w  porządku  powinności,  wartości  czy
+                             odpowiedzialności; zależności czy niezależności etyki; ethosu; agatologii; uzasadniania
+                  w etyce; sposobu istnienia wartości; charakteru norm; roli uczuć w etyce i moralności;
+                            wolności   i odpowiedzialności. Ćwiczenia będą koncentrować  się wokół obecnych w
+
+
+                                                                         19
+                              tekstach przykładów. Będziemy pytać zarówno o przykłady podejmowanych w wykładach
+                                 kwestii, jak i przykładów do naśladowania.
+                       Czym jest etyka?; etyka a moralność; źródła doświadczenia moralnego; pytanie o sposób  K_W01, K_W02, K_W03,
+                                życia jako podstawowe pytanie etyczne; miejsce etyki w obszarze myślenia filozofii-  K_W04,
+  22.  Wstęp do etyki
+                            cznego: subdyscyplina filozofii, czy filozofia pierwsza?; podstawowe pojęcia etyczne:  K_U02
+                            dobro i zło, norma i wartość, obowiązek, wolność, decyzja, wina, zasługa, wspólnota.    K_K01, K_K03
+                             Etyka cnót, dobrowolność i zamiar, natura działania, moralna odpowiedzialność za skutki
+                                 działań, sumienie, współdziałanie. Zajęcia mogą wprowadzać dodatkowe metody akty-  K_W02, K_W04        Zajęcia do wyboru:
+  23.                            wizacji studentów  i pracy grupowej. Szczegółowa lista tematów zawarta jest w ofercie  K_U02, K_U03, K_U04
+       etyka klasyczna                                dla studentów, a uszczegółowienie  treści programowych znajduje  się w sylabusie  K_K01
+                             przedmiotu.
+                          rozumna zgoda między ludźmi, etyka umowy społecznej, etyka Kanta, utylitaryzm, spory
+                          o naturę ludzką, racja  i cel działania, prawa moralne, wojna  i pokój, porządek rozumu
+                                                                                             K_W02, K_W04
+        Zajęcia do wyboru:         i porządek serca, mądrość a rozumność, teodycea. Zajęcia mogą wprowadzać dodatkowe  24.                                                                                               K_U02, K_U03, K_U04
+       etyka nowożytna      metody aktywizacji studentów i pracy grupowej. Szczegółowa lista tematów zawarta jest                                                                                             K_K01
+                    w ofercie dla studentów, a uszczegółowienie  treści programowych znajduje  się w
+                               sylabusie przedmiotu.
+                               źródła etyczności, normatywność w etyce, wartości  i kryzys wartości, personalizm,
+                              odpowiedzialność, kategoria inności  i Innego, dylemat moralny, reguły preferencji a
+                                                                                             K_W02, K_W04        Zajęcia do wyboru:    wybór, powinność, obowiązek i dobro moralne, dobro i słuszność, wolność. Zajęcia mogą
+  25.                                                                                               K_U02, K_U03, K_U04
+       etyka współczesna    wprowadzać dodatkowe metody aktywizacji studentów  i pracy grupowej. Szczegółowa                                                                                             K_K01
+                                       lista tematów zawarta jest w ofercie dla studentów, a uszczegółowienie treści programo-
+                         wych znajduje się w sylabusie przedmiotu.
+                          Proponowane tematy obejmują  rozszerzenie, względnie uszczegółowienie, a także
+                               pogłębienie poszczególnych zagadnień związanych z dziedziną etyki oraz filozofii. Zajęcia  K_W02, K_W04
+        Zajęcia do wyboru:  26.                   mogą wprowadzać dodatkowe metody aktywizacji studentów  i pracy grupowej. Szcze-  K_U02, K_U03, K_U04
+       etyka                           gółowa lista tematów zawarta jest w ofercie dla studentów, a uszczegółowienie treści  K_K01
+                          programowych znajduje się w sylabusie przedmiotu.
+
+                                                                                                                    Efekty uczenia się dla przed-
+l.p.   Nazwa przedmiotu     Treści programowe dla modułu przygotowującego do zawodu nauczyciela                                                                                                              miotu/ modułu zajęć1
+                                  - międzynarodowe i krajowe regulacje dotyczące praw człowieka (T/O)                   1.1.8
+                                  - odpowiedzialność prawna opiekuna, nauczyciela, wychowawcy (T/O)                   1.1.9
+                                  - źródła prawa oświatowego (T/O)                                                    1.1.10
+      Elementy prawa oświa- - struktura systemu oświaty i funkcjonowanie placówek oświatowych (T/O)              1.1.11
+1     towego i bezpieczeń-   - nauczycielska pragmatyka zawodowa (T/O)                                          1.2.13
+      stwo w szkole           - procedury postępowania nauczycieli w przypadku różnego rodzaju zagrożeń (T/O)      1.2.17
+                                  - pierwsza pomoc (T/O)                                                       B.2.W1
+                                  - choroby zawodowe nauczycieli (T/O)                                           B.2.W2
+                                  - uczeń przewlekle chory (T/O)                                                 B.2.W3
+
+                                                                           20
+                                                                                                    B.2.W4
+
+
+                                  - język jako narzędzie pracy nauczyciela (T/O)
+                                  - praca z uczniami z ograniczoną znajomością języka polskiego lub zaburzeniami komuni- 1.1.13
+                                 kacji językowej (T/O)                                                                1.2.15
+                                  - porozumiewanie się w celach dydaktycznych – sztuka wykładania, sztuka zadawania    1.2.16
+2.     Emisja głosu          pytań, sposoby zwiększania aktywności komunikacyjnej uczniów (T/O)               C.W7
+                                  - praktyka wystąpień publicznych, poprawność językowa, etyka języka, etykieta kore-   C.U7
+                             spondencji tradycyjnej i elektronicznej (T/O)                                      C.U8
+                                  - emisja głosu – budowa, działanie i ochrona narządu mowy (T/O)                    C.K2
+                                  - warsztaty emisji głosu (T/O)
+                                  - uwarunkowania sukcesu w pracy nauczyciela. Fazy rozwoju zawodowego nauczyciela
+                            (T/O)
+                                                                                                                    1.2.1                                  - ocena jakości pracy nauczyciela; omówienie arkusza obserwacji pracy nauczyciela (T/O)
+                                                                                                                    1.2.3                                  - refleksja i autorefleksja dotycząca zasobów w pracy nauczyciela; omówienie arkusza
+                                                                                                          B.2.W2.
+                            pracy nauczyciela i arkusza kompetencji praktykanta (T/O)                                                                                                          B.1.W5.
+                                  - autorefleksja i analiza zasobów w pracy nauczyciela; omówienie arkusza kompetencji
+                                                                                                                 B.2.U2.      Kompetencje psycholo- praktykanta (T/O)
+                                                                                                                 B.2.U3.
+3.     giczno-pedagogiczne   - kompetencje komunikacyjne praktykanta – analiza rozmowy psychologicznej (T/O)                                                                                                                 B.1.U2.
+       nauczyciela              - trudna sytuacja w szkole - analiza zdarzeń pedagogicznych (T/O)                                                                                                                 B.1.U8.
+                                  - awans zawodowy nauczyciela. Zasady projektowania ścieżki rozwoju zawodowego
+                                                                                                                  B.1.K1.                            (T/O)
+                                                                                                                  B.1.K2.
+                             -projektowanie ścieżki własnego rozwoju zawodowego (T/O)                                                                                                                  B.2.K1.
+                                  - stres w pracy nauczyciela - wprowadzenia teoretyczne, omówienie arkusza obserwacji
+                                                                                                                  B.2.K3.                                                         i analizy objawów stresu u praktykanta, sposoby radzenia sobie (T/O)
+                                  - wypalenie zawodowe (T/O)
+                                                                                                                    1.1.3                                  - rola początkującego nauczyciela w szkolnej rzeczywistości (T/O)
+                                                                                                                1.1.12                                  - najczęstsze problemy początkujących nauczycieli (T/O)
+                                                                                                                1.1.15
+                                  - uwarunkowania sukcesu w pracy nauczyciela (T/O)                                                                                                                    1.2.9
+                                  - plan pracy wychowawczo-profilaktycznej (T/O)
+                                                                                                                1.2.14      Pedagogiczne pod-     - wspomaganie ucznia w projektowaniu ścieżki edukacyjno-zawodowej (T/O)
+                                                                                                                    1.3.7
+4.    stawy pracy nauczy-    - metody i techniki określania potencjału ucznia (T/O)                                                                                                    B.2.W1
+        ciela                     - przygotowanie uczniów do uczenia się przez całe życie (T/O)
+                                                                                                    B.2.W2                                  - style kierowania klasą, ład i dyscyplina (T/O)
+                                                                                                    B.2.W3                                  - rozwijanie u dzieci, uczniów lub wychowanków kompetencji komunikacyjnych i umiejęt-
+                                                                                                    B.2.W4
+                               ności społecznych niezbędnych do nawiązywania poprawnych relacji (T/O)                                                                                                    B.2.W7
+                                  - współpraca rodziny i szkoły (T/O)
+                                                                                                           B.2.U7
+
+
+
+                                                                           21
+                                  - profilaktyka zagrożeń rozwoju dzieci i młodzieży(T/O)
+                                  - dzieci uzależnione, zaniedbane i pozbawione opieki(T/O)                               1.1.3
+                                  - agresja i przemoc (także cyberprzemoc) w szkole(T/O)                                1.1.4
+                                  - zagadnienia związane z grupami nieformalnymi, podkulturami młodzieżowymi i sek-    1.2.2
+                            tami(T/O)                                                                             1.2.4
+                                  - klasa szkolna jako środowisko społeczne i wychowawcze(T/O)                         1.2.18
+                                  - dialog w pracy nauczyciela - tworzenie klimatu wychowawczego w klasie i szkole(T/O)  1.3.2
+                            -funkcjonowanie klasy szkolnej jako grupy społecznej, procesy społeczne w klasie, roz-   1.3.3
+      Pedagogika dla nau-   wiązywanie konfliktów w klasie lub grupie wychowawczej, animowanie życia społeczno-   1.3.5
+5.      czycieli konwersato-   kulturalnego klasy(T/O)                                                                1.3.7
+      rium                     - nauczyciel wychowawcą – planowanie i reżyserowanie pracy wychowawczej(T/O)       B.2.W1.
+                                  - program pracy wychowawczej, style kierowania klasą, ład i dyscyplina.(T/O)           B.2.W3.
+                                  - różnicowanie, indywidualizacja i personalizacja pracy z uczniami(T/O)                 B.2.W4.
+                             -znaczenie współpracy rodziny ucznia i szkoły oraz szkoły ze środowiskiem pozaszkol-    B.2.U4.
+                         nym(T/O)                                                                           B.2.U5.
+                                  - plan pracy wychowawczej szkoły(T/O)                                                B.2.K2.
+                                  - metody i formy realizacji procesu wychowawczego                                    B.2.K3.
+                                  - alternatywne formy edukacji – założenia, koncepcje i możliwości wykorzystania w prak- B.2.K4.
+                             tyce(T/O)
+                                  - szkoła jako instytucja edukacyjna, funkcje i cele edukacji szkolnej(T/O)
+                                  - modele współczesnej szkoły(T/O)
+                                  - ukryty program szkoły(T/O)
+                                  - zawód nauczyciela(T/O)                                                              1.1.1
+                                  - rola nauczyciela, koncepcje pracy nauczyciela(T/O)                                    1.1.2
+                                  - etyka zawodowa nauczyciela(T/O)                                                    1.1.3
+                                  - poszanowanie godności dziecka/ucznia/wychowanka(T/O)                              1.1.4
+      Pedagogika dla nau-    - wychowanie a rozwój(T/O)                                                           1.1.8
+6.        czycieli wykład          - ontologiczne, aksjologiczne, antropologiczne podstawy wychowania(T/O)             B.1.W3
+                                  - istota i funkcje wychowania(T/O)                                              B.2.W1
+                                  - proces wychowania, jego struktura, właściwości, dynamika(T/O)                    B.2.W2
+                                  - media i ich wpływ wychowawczy(T/O)                                          B.2.W3
+                                  - praca opiekuńczo-wychowawcza nauczyciela(T/O)                                B.2.W4
+                                  - nauczyciel jako wychowawca klasy(T/O)
+                                  - metodyka pracy wychowawczej(T/O)
+                                  - program pracy wychowawczej(T/O
+                                  - pomoc psychologiczno-pedagogiczna w szkole – (…) formy i zasady udzielania wsparcia 1.1.3
+                            (T/O)                                                                                 1.1.5      Pedagogika-uczeń ze
+                                  - specjalne potrzeby edukacyjne uczniów i ich uwarunkowania (T/O)                     1.1.6
+7.     specjalnymi potrze-                                  - diagnoza funkcjonalna – cele, metody, etapy (T/O)                                    1.1.7
+      bami edukacyjnymi
+                                  - narzędzia stosowane w diagnozie nauczycielskiej (T/O)                               1.2.12
+                                  - dostosowanie procesu kształcenia do specjalnych potrzeb edukacyjnych uczniów (T/O)  1.3.4
+                                                                           22
+                                  - projektowanie wsparcia, konstruowanie indywidualnych programów rozwoju uczniów   B.1.W4
+                            (T/O)                                                                      B.2.W3
+                                  - ocena skuteczności wsparcia uczniów ze specjalnymi potrzebami edukacyjnymi (T/O)   B.2.W4
+                                  - uczeń z niepełnosprawnością intelektualną i fizyczną (T/O)                         B.2.W5
+                                  - uczeń z zaburzeniami ze spektrum autyzmu (T/O)                                B.2.W6
+                                  - uczeń z zaburzeniami wzroku (T/O)                                               B.1.U5
+                                  - uczeń z zaburzeniami słuchu (T/O)                                                B.2.U1
+                                  - uczeń z zaburzeniami w komunikowaniu się (T/O)                                   B.2.U6
+                                  - współpraca rodziny i szkoły w procesie wspierania rozwoju uczniów ze specjalnymi po-
+                            trzebami edukacyjnymi (T/O)
+                                  - uczeń z trudnościami w uczeniu się (T/O)
+                                  - uczeń z trudnościami adaptacyjnymi, związanymi z doświadczeniem migracyjnym (T/O)
+                                  - różnicowanie, indywidualizacja i personalizacja pracy z uczniami (T/O)
+                                  - integracja i inkluzja (T/O)
+                                  - edukacja włączająca - przykłady dobrych praktyk (T/O)
+                                  - zapoznanie się ze specyfiką szkoły, w której praktyka jest odbywana, poznanie jej spo- 1.1.4
+                          sobu funkcjonowania, organizacji pracy, pracowników, uczestników procesów pedago-    1.1.8
+                             gicznych oraz prowadzonej dokumentacji (T/O)                                        1.1.11
+                                  - obserwowanie:                                                                       1.2.1
+                          o pracy wychowawcy klasy, jego interakcji z uczniami klasy oraz sposobu, jaki planuje i  1.2.2
+                                 realizuje zajęcia wychowawcze (T/O)                                                   1.2.5
+                          o integrowania działań opiekuńczo-wychowawczych i dydaktycznych przez nauczycieli    1.3.1
+                           przedmiotowych (T/O)                                                                 1.3.7
+       Praktyka psycholo-                          o objawów fizjologicznych, poznawczych i behawioralnych stresu u ucznia oraz u siebie   B.3.W1
+8.     giczno-pedagogiczna w
+                            (T/O)                                                                      B.3.W2       szkole
+                          dyżurów podczas przerw (T/O)                                                 B.3.W3
+                                  - działania praktyczne                                                             B.3.U1
+                          o zaplanowanie i przeprowadzenie pod nadzorem opiekuna zajęć wychowawczych (T/O)  B.3.U2
+                          o przeprowadzenie rozmowy z uczniem na temat jego uzdolnień i zainteresowań (T/O)   B.3.U3
+                                  - opis i analiza zaobserwowanych / doświadczonych w czasie praktyki zdarzeń pedago-   B.3.U4
+                             gicznych (T/O)                                                                   B.3.U5
+                                  - prowadzenie dokumentacji praktyki psychologiczno-pedagogicznej, w tym protokołów   B.3.U6
+                             obserwacji zachowań ucznia i arkusza analizy pracy wychowawczej nauczyciela (T/O)    B.3.K1
+                                  - procesy poznawcze(T/O)- spostrzeganie, odbiór i przetwarzanie informacji(T/O)- myśle-
+                               nie i rozumowanie(T/O)
+                                  - mowa(T/O)                                                                          1.1.2
+       Psychologia dla nau-   - pamięć i uwaga(T/O)                                                                 1.1.69.
+        czycieli                   - modele uczenia się - koncepcje klasyczne, współczesne ujęcia w oparciu o wyniki badań B.1.W1
+                            neuropsychologicznych(T/O)                                                   B.1.W4
+                                  - emocje i motywacja w procesach regulacji zachowania(T/O)
+                                  - zdolności i uzdolnienia(T/O)
+                                                                           23
+                                  - inteligencja i style poznawcze(T/O)
+                                  - temperament i osobowość(T/O)
+
+                                  - sylwetka rozwojowa ucznia w okresie dzieciństwa, adolescencji i wczesnej dorosłości
+                            (T/O)
+                                  - rozwój fizyczny, motoryczny, psychoseksualny(T/O)
+                                  - rozwój procesów poznawczych (myślenie, mowa, spostrzeganie, uwaga, pamięć)(T/O)
+                                                                                                                    1.1.2       Psychologia rozwoju    - rozwój społeczno-emocjonalny i moralny(T/O)
+10.                                                                                                 B.1.W2
+       człowieka                - zmiany fizyczne i psychiczne w okresie dojrzewania(T/O)                                                                                                           B.1.U1
+                                  - rozwój wybranych funkcji psychicznych(T/O)
+                                  - rozwój osobowości. Kształtowanie się indywidualnej tożsamości(T/O)
+                                  - rozwój a wychowanie. Dorosłość. Identyfikacja z nowymi rolami społecznymi. Kształto-
+                           wanie się stylu życia(T/O)
+                                  - poznanie i spostrzeganie społeczne (T/O)
+                                  - postawy, stereotypy, uprzedzenia (T/O)
+                                  - zachowania społeczne i ich uwarunkowania (T/O)
+                                  - sytuacja interpersonalna (T/O)
+                                  - porozumiewanie się w sytuacjach konfliktowych (T/O)                                1.1.12
+                                  - empatia i inteligencja emocjonalna (T/O)                                              1.2.1
+                                  - zachowania asertywne, agresywne, uległe (T/O)                                      1.2.10
+                                  - reguły współdziałania (T/O)                                                           1.3.3
+       Psychologiczne pod-    - nauczyciel w procesie komunikacji – autoprezentacja (T/O)                        B.1.W3
+11.   stawy pracy nauczy-    - procesy komunikowania się (T/O)                                             B.1.W4
+        ciela                     - komunikacja niewerbalna (T/O)                                               B.1.W5
+                                  - aktywne słuchanie, efektywne nadawanie (T/O)                                    B.1.U2
+                                  - porozumiewanie się emocjonalne w klasie (T/O)                                    B.1.U3
+                                  - style komunikowania się uczniów i nauczyciela (T/O)                                B.1.U4
+                                  - bariery i trudności w procesie komunikowania się, techniki i metody usprawniania ko-   B.1.U7
+                             munikacji z uczniem (T/O)
+                                  - metody i techniki uczenia się z uwzględnieniem rozwijania metapoznania (T/O)
+                                  - stres i radzenie sobie z nim (T/O)
+                                  - indywidualne strategie radzenia sobie z trudnościami (T/O)
+                                  - teorie integralnego rozwoju ucznia(T/O)
+                                  - norma rozwojowa(T/O)- dysharmonie i zaburzenia rozwojowe u uczniów a ich funkcjo-  1.1.2
+                          nowanie w grupie rówieśniczej(T/O)                                                    1.1.6
+      Wspomaganie rozwoju - zaburzenia funkcjonowania w okresie dorastania(T/O)                                 1.2.3
+12.    dziecka i dysharmonie  - wspomagania rozwoju uzdolnień i zainteresowań(T/O)                            B.1.W2
+      rozwojowe               - uczeń zdolny(T/O)                                                          B.1.W4
+                                  - uczeń nadpobudliwy(T/O)                                                    B.2.W4
+                                  - zaburzenia zachowania(T/O)                                                     B.1.U6
+                                  - uczeń nieśmiały(T/O)
+
+                                                                           24
+                                   - obniżenie nastroju, depresja(T/O)
+                                   - dziecko w sytuacji kryzysowej i traumatycznej(T/O)
+                                   - zachowania autodestruktywne, próby samobójcze(T/O)
+
+1 Odniesienie do efektów uczenia się dla kursów realizowanych w ramach modułu przygotowującego do zawodu nauczyciela dotyczy efektów zgodnych z Zarządzeniem
+nr 13/2021 Rektora Uniwersytetu Wrocławskiego z dnia 22 stycznia 2021 roku w sprawie ustalenia w Uniwersytecie Wrocławskim trybu kształcenia przygotowującego do
+wykonywania zawodu nauczyciela. Wszystkie te efekty realizowane są w ramach zajęć prowadzonych przez Centrum Edukacji Nauczycielskiej.
+
+
+6. Plan studiów.
+
+
+ STUDIA STACJONARNE
+
+ Rok studiów: I/Semestr: pierwszy
+
+
+                                                           Forma zajęć                                                                                                        Liczba
+                                            O/                                                   Sposób     Punkty   Dyscyplina (y), do której od- Nazwa przedmiotu/moduły zajęć                                                                   godzin
+                                             F*                                                               weryfikacji    ECTS    nosi się przedmiot                                                                                                        zajęć                                W     Ć    S     L    K    Inne
+
+
+ Etyka klasyczna I                       O     30     30                           60        E/Zo        6       filozofia
+
+ Historia moralności (w Polsce, w Europie,                                   O     30     30                           60        E/Zo        6       filozofia
+ na świecie) I
+
+ Metodologia nauk humanistycznych            O                           30            30        Zo        3       filozofia
+
+
+ Logika                              O     30     30                           60        Zo        6       filozofia
+
+
+ Wstęp do etyki                         O                           30            30        Zo        3       filozofia
+
+
+ Język starożytny (łacina lub greka)            O                      30                 30        Zo        3     językoznawstwo
+
+                                                                                                                                   nauki prawne / nauki o ko-
+ Technologia informacyjna z elementami prawa                                   O                           20            20        Zo        1      munikacji społecznej i me-
+ własności intelektualnej                                                                                                                                      diach
+
+ BHP                                O                                 4       4         Z         0
+
+
+
+                                                                           25
+                                Razem                                             294                  28
+
+Rok studiów: I/Semestr: drugi
+
+
+                                                           Forma zajęć                                                                                                      Liczba                                           O/                                                   Sposób     Punkty   Dyscyplina (y), do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin                                            F*                                                               weryfikacji    ECTS    nosi się przedmiot
+                                                                                                       zajęć                                W     Ć    S     L    K    Inne
+
+
+Etyka klasyczna II                       O     30     30                           60        E/Zo        6       filozofia
+
+Historia moralności (w Polsce, w Europie, na
+                                  O     30     30                           60        E/Zo        6       filozofiaświecie) II
+
+                                               F                           30            30        Zo        3       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+Zajęcia do wyboru: etyka klasyczna**
+                                               F                           30            30        Zo        3       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+
+
+Język starożytny (łacina lub greka)            O                                 60      60        Zo        6     językoznawstwo
+
+
+Język nowożytny                       O                      60                 60        Zo        0     językoznawstwo
+
+
+                                Razem                                             360                  30
+
+Rok studiów: II/Semestr: trzeci
+
+
+                                                           Forma zajęć                                                                                                      Liczba                                           O/                                                   Sposób     Punkty   Dyscyplina (y), do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin
+                                            F*                                                               weryfikacji    ECTS    nosi się przedmiot                                                                                                       zajęć                               W     Ć     S     L    K    Inne
+
+
+Etyka nowożytna I                      O     30     30                            60        E/Zo        6       filozofia
+
+
+                                                                          26
+                                               F                           30            30        Zo        3       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+Zajęcia do wyboru: etyka nowożytna**
+                                               F                           30            30        Zo        3       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+
+
+Etyka i religia                          O                           30            30        Zo        3       filozofia
+
+
+Elementy bioetyki                       O                           30            30        Zo        3       filozofia
+
+Główne problemy w dziejach polskiej myśli
+                                  O     30     30                            60        E/Zo        6       filozofiaetycznej
+
+Język nowożytny                       O                      60                 60        Zo        0     językoznawstwo
+
+
+                                Razem                                             360                  30
+
+Rok studiów: II/Semestr: czwarty
+
+
+                                                           Forma zajęć                                                                                                      Liczba                                           O/                                                   Sposób     Punkty   Dyscyplina (y), do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin
+                                            F*                                                               weryfikacji    ECTS    nosi się przedmiot                                                                                                       zajęć                               W     Ć     S    L    K    Inne
+
+
+Etyka nowożytna II                      O     30     30                            60        E/Zo        6       filozofia
+
+
+Etyka współczesna I                     O     30     30                            60        E/Zo        6       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+
+Zajęcia do wyboru: etyka nowożytna / etyka
+                                               F                           30            30        Zo        3       filozofiawspółczesna**
+
+                                               F                           30            30        Zo        3       filozofia
+
+
+
+                                                                          27
+                                               F                           30            30        Zo        3       filozofia
+
+
+Elementy retoryki                       O                           30            30        Zo        3       filozofia
+
+
+Język nowożytny                       O                      60                 60        E/Zo       12
+
+
+                                Razem                                             330                  39
+
+Rok studiów: III/Semestr: piąty
+
+
+                                                           Forma zajęć                                                                                                      Liczba                                           O/                                                   Sposób     Punkty   Dyscyplina (y), do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin
+                                            F*                                                               weryfikacji    ECTS    nosi się przedmiot                                                                                                       zajęć                               W     Ć     S    L    K    Inne
+
+
+Etyka współczesna II                     O     30     30                            60        E/Zo        6       filozofia
+
+
+Współczesna polska myśl etyczna             O     30     30                            60        E/Zo        6       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+Zajęcia do wyboru: etyka współczesna**
+                                               F                           30            30        Zo        3       filozofia
+
+
+                                               F                           30            30        Zo        3       filozofia
+
+
+Seminarium licencjackie                          F                 30                      30        Zo        4       filozofia
+
+
+                                Razem                                             270                  28
+
+Rok studiów: III/Semestr: szósty
+
+                                           O/                                                   Sposób     Punkty   Dyscyplina (y), do której od-
+Nazwa przedmiotu/moduły zajęć                                 Forma zajęć                                            F*                                                               weryfikacji    ECTS    nosi się przedmiot
+
+
+                                                                          28
+                                                                                                        Liczba
+                                W     Ć     S    L    K    Inne    godzin
+                                                                                                        zajęć
+
+ Hermeneutyka dialogu                    O                           30            30        Zo        3       filozofia
+
+
+ Socjologia moralności                    O     30     30                            60        Zo        6      socjologia
+
+
+                                                F                           30            30        Zo        3       filozofia
+ Zajęcia do wyboru: etyka**
+                                                F                           30            30        Zo        3       filozofia
+
+
+ Seminarium licencjackie                          F                 30                      30        Zo        10      filozofia
+
+
+                                Razem                                             180                  25
+
+
+* Przedmiot: obowiązkowy – O / fakultatywny – F
+** Przynajmniej jedne zajęcia do wyboru w trakcie studiów powinny być w języku obcym.
+
+Dodatkowe informacje:
+Obowiązkowe szkolenie BHP do zrealizowania na I semestrze w formie e-learningowej, rozliczenie zaliczenia w semestrze I (zasady odbywania zajęć uregulowane są odręb-
+nymi przepisami).
+Obowiązkowe dwa semestry (60 godz.) wychowania fizycznego należy zrealizować do IV semestru.
+W ramach lektoratów student zobowiązany jest do zdobycia 12 ECTS w czasie całych studiów (zasady odbywania zajęć uregulowane są odrębnymi przepisami).
+Cudzoziemcy zobowiązani są do zaliczenia w pierwszym i drugim roku studiów pierwszego stopnia lektoratu języka polskiego w wymiarze 120 godzin (cztery semestry zajęć
+– po 30 godzin w każdym semestrze) kończącego się egzaminem potwierdzającym biegłość językową na poziomie B2; za zdanie egzaminu potwierdzającego biegłość języ-
+kową cudzoziemiec otrzymuje 8 punktów ECTS. Zasady realizacji obowiązku, w tym możliwości zwolnienia z obowiązku uczęszczania na lektorat, regulowane są odrębnymi
+przepisami.
+
+
+Łączna liczba punktów ECTS w I semestrze: 28
+Łączna liczba punktów ECTS w II semestrze: 30
+Łączna liczba punktów ECTS w I roku: 58
+Łączna liczba godzin zajęć w I semestrze: 294
+Łączna liczba godzin zajęć w II semestrze: 360
+
+Łączna liczba punktów ECTS w III semestrze: 30
+Łączna liczba punktów ECTS w IV semestrze: 39
+Łączna liczba punktów ECTS w II roku: 69
+Łączna liczba godzin zajęć w III semestrze: 360
+
+                                                                           29
+Łączna liczba godzin zajęć w IV semestrze: 330+60 (WF)
+
+Łączna liczba punktów ECTS w V semestrze: 28
+Łączna liczba punktów ECTS w VI semestrze: 25
+Łączna liczba punktów ECTS w III roku: 53
+Łączna liczba godzin zajęć w V semestrze: 270
+Łączna liczba godzin zajęć w VI semestrze: 180
+
+(Powyższe wyliczenia nie obejmują kształcenia modułowego przygotowującego do wykonywania zawodu nauczyciela).
+
+
+ STUDIA NIESTACJONARNE
+
+ Rok studiów: I/Semestr: pierwszy
+
+
+                                                           Forma zajęć                                                                                                        Liczba
+                                            O/                                                   Sposób     Punkty   Dyscyplina (y), do której od- Nazwa przedmiotu/moduły zajęć                                                                   godzin
+                                             F*                                                               weryfikacji    ECTS    nosi się przedmiot                                                                                                        zajęć                                W     Ć     S    L    K    Inne
+
+
+ Etyka klasyczna I                       O     20     20                            40        E/Zo        6       filozofia
+
+ Historia moralności (w Polsce, w Europie, na                                   O     20     20                            40        E/Zo        6       filozofia
+ świecie) I
+
+ Logika                              O     20     20                            40        Zo        6       filozofia
+
+
+ Wstęp do etyki                         O                           15            15        Zo        3       filozofia
+
+
+ Metodologia nauk humanistycznych            O                           15            15        Zo        3       filozofia
+
+ Technologia informacyjna z elementami prawa
+                                   O                           10            10        Zo        1       filozofia
+ własności intelektualnej
+
+ Język starożytny (łacina)                  O                      15                 15        Zo        3     językoznawstwo
+
+
+ BHP                                O                                  4       4         Z         0
+
+
+                                Razem                                             179                  28
+
+
+                                                                           30
+Rok studiów: I/Semestr: drugi
+
+                                                                                                      Liczba    Sposób
+                                                                                                                 Punkty    Dyscyplina (y), do której od-                                                           Forma zajęć                 godzin    weryfika
+                                                                                                    ECTS      nosi się przedmiot                                           O/                                                 zajęć           cjiNazwa przedmiotu/moduły zajęć                                            F*
+                               W     Ć     S    L    K    Inne
+
+
+Etyka klasyczna II                       O     20     20                            40       E/Zo        6         filozofia
+
+Historia moralności (w Polsce, w Europie, na                                  O     20     20                            40       E/Zo        6         filozofia
+świecie) II
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+Zajęcia do wyboru: etyka klasyczna**              F                           15            15       Zo        3         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+Język starożytny (łacina)                  O                      30                 30       Zo        6       językoznawstwo
+
+
+Język nowożytny                       O                      30                 30       Zo        0
+
+
+                                Razem                                             185                 27
+
+Rok studiów: II/Semestr: trzeci
+
+
+                                                           Forma zajęć                                                                                                      Liczba    Sposób
+                                           O/                                                                Punkty     Dyscyplina(y) do której od-Nazwa przedmiotu/moduły zajęć                                                                   godzin    weryfika
+                                            F*                                                         ECTS      nosi się przedmiot                                                                                                       zajęć           cji                               W     Ć     S     L    K    Inne
+
+
+Etyka nowożytna I                      O     20     20                            40       E/Zo        6         filozofia
+
+
+Etyka i religia                          O                           15            15       Zo        3         filozofia
+
+
+Zajęcia do wyboru: etyka nowożytna**             F                           15            15       Zo        3         filozofia
+
+
+                                                                          31
+                                               F                           15            15       Zo        3         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+Elementy bioetyki                       O                           15            15       Zo        3         filozofia
+
+Główne problemy w dziejach polskiej myśli
+                                  O     20     20                            40       E/Zo        6         filozofiaetycznej
+
+Język nowożytny                       O                      30                 30       Zo        0
+
+
+                                Razem                                             185                 27
+
+Rok studiów: II/Semestr: czwartek
+
+
+                                                           Forma zajęć                                                                                                      Liczba    Sposób                                           O/                                                                Punkty     Dyscyplina(y) do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin    weryfika                                            F*                                                         ECTS      nosi się przedmiot
+                                                                                                       zajęć           cji                               W     Ć     S     L    K    Inne
+
+
+Etyka nowożytna II                      O     20     20                            40       E/Zo        6         filozofia
+
+
+Etyka współczesna I                     O     20     20                            40       E/Zo        6         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+Zajęcia do wyboru: etyka nowożytna / etyka
+współczesna**
+                                               F                           15            15       Zo        3         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+Elementy retoryki                       O                           15            15       Zo        3         filozofia
+
+
+Język nowożytny                       O                      30                 30       Zo        0
+
+
+
+                                                                          32
+                                Razem                                             185                 27
+
+Rok studiów: III/Semestr: piąty
+
+
+                                                           Forma zajęć                                                                                                      Liczba    Sposób                                           O/                                                                Punkty     Dyscyplina(y), do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin    weryfika                                            F*                                                         ECTS      nosi się przedmiot
+                                                                                                       zajęć           cji                               W     Ć     S     L    K    Inne
+
+
+Etyka współczesna II                     O     20     20                            40       E/Zo        6         filozofia
+
+
+Współczesna polska myśl etyczna             O     20     20                            40       E/Zo        6         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+Zajęcia do wyboru: etyka współczesna**
+                                               F                           15            15       Zo        3         filozofia
+
+
+                                               F                           15            15       Zo        3         filozofia
+
+
+Seminarium licencjackie                          F                 15                      15       Zo        4         filozofia
+
+
+Język nowożytny                       O                      30                 30        E        12
+
+
+                                Razem                                             185                 40
+
+Rok studiów: III/Semestr: szósty
+
+
+                                                           Forma zajęć                                                                                                      Liczba    Sposób                                           O/                                                                Punkty    Dyscyplina (y), do której od-
+Nazwa przedmiotu/moduły zajęć                                                                   godzin    weryfika
+                                            F*                                                         ECTS      nosi się przedmiot                                                                                                       zajęć           cji                               W     Ć     S     L    K    Inne
+
+
+Socjologia moralności                    O     20     20                            40       Zo        6        socjologia
+
+
+                                                                          33
+ Hermeneutyka dialogu                    O                           15            15       Zo        3         filozofia
+
+
+                                                F                           15            15       Zo        3         filozofia
+
+
+                                                F                           15            15       Zo        3         filozofia
+ Zajęcia do wyboru: etyka**
+                                                F                           15            15       Zo        3         filozofia
+
+
+                                                F                           15            15       Zo        3         filozofia
+
+
+ Seminarium licencjackie                          F                 15                      15       Zo        10        filozofia
+
+
+                                Razem                                             130                 31
+
+
+* Przedmiot: obowiązkowy – O / fakultatywny – F
+** Przynajmniej jedne zajęcia do wyboru w trakcie studiów powinny być w języku obcym.
+
+Dodatkowe informacje:
+Obowiązkowe szkolenie BHP do zrealizowania na I semestrze w formie e-learningowej, rozliczenie zaliczenia w semestrze I (zasady odbywania zajęć uregulowane są odręb-
+nymi przepisami).
+W ramach lektoratów student zobowiązany jest do zdobycia 12 ECTS w czasie całych studiów (zasady odbywania zajęć uregulowane są odrębnymi przepisami).
+Cudzoziemcy zobowiązani są do zaliczenia w pierwszym i drugim roku studiów pierwszego stopnia lektoratu języka polskiego w wymiarze 120 godzin (cztery semestry zajęć
+– po 30 godzin w każdym semestrze) kończącego się egzaminem potwierdzającym biegłość językową na poziomie B2; za zdanie egzaminu potwierdzającego biegłość języ-
+kową cudzoziemiec otrzymuje 8 punktów ECTS. Zasady realizacji obowiązku, w tym możliwości zwolnienia z obowiązku uczęszczania na lektorat, regulowane są odrębnymi
+przepisami.
+
+
+Łączna liczba punktów ECTS w I semestrze: 28
+Łączna liczba punktów ECTS w II semestrze: 27
+Łączna liczba punktów ECTS w I roku: 55
+Łączna liczba godzin zajęć w I semestrze: 179
+Łączna liczba godzin zajęć w II semestrze: 185
+
+Łączna liczba punktów ECTS w III semestrze: 27
+Łączna liczba punktów ECTS w IV semestrze: 27
+Łączna liczba punktów ECTS w II roku: 54
+Łączna liczba godzin zajęć w III semestrze: 185
+Łączna liczba godzin zajęć w IV semestrze: 185
+
+
+                                                                           34
+Łączna liczba punktów ECTS w V semestrze: 40
+Łączna liczba punktów ECTS w VI semestrze: 31
+Łączna liczba punktów ECTS w III roku: 71
+Łączna liczba godzin zajęć w V semestrze: 185
+Łączna liczba godzin zajęć w VI semestrze: 130
+
+(Powyższe wyliczenia nie obejmują kształcenia modułowego przygotowującego do wykonywania zawodu nauczyciela).
+
+Student po I semestrze studiów może uzupełnić tok studiów o moduł przygotowujący do zawodu nauczyciela etyki oraz filozofii. Kwalifikacje do wykonywa-
+nia zawodu nauczyciela otrzymuje się tylko po ukończeniu I oraz II stopnia studiów (na obu stopniach należy tok studiów uzupełnić o moduł przygotowu-
+jący do zawodu nauczyciela).
+
+
+ Kształcenie modułowe: przygotowanie do zawodu nauczyciela w zakresie przygotowania dydaktycznego
+ na studiach pierwszego stopnia (liczba godzin identyczna dla studiów stacjonarnych i niestacjonarnych)
+
+                                                           Forma zajęć                                                                                                 Sposób
+                                                                                                        Liczba               Punkty    Dyscyplina (y), do której od-
+ Nazwa przedmiotu                   Semestr  O/F*                                                            weryfi-                                                                                                  godzin              ECTS      nosi się przedmiot                                                                               Wr/                   kacji                                W    Ć    S     L    K                                                                                                Pr
+
+ Psychologia dla nauczycieli                     II       F     15                                  15        E         1       psychologia
+
+
+ Pedagogika dla nauczycieli                     II       F     15                                  15        E         1       pedagogika
+
+
+ Pedagogika dla nauczycieli                     II       F                            15            15       Zo        1       pedagogika
+
+
+ Psychologia rozwoju człowieka                II       F                            15            15       Zo        1       psychologia
+
+ Pedagogika-uczeń ze specjalnymi po-
+                                                     III       F                            30            30       Zo        2       pedagogika trzebami edukacyjnymi
+
+ Wspomaganie rozwoju dziecka i dys-                                                     III       F                            15            15       Zo        1       psychologia
+ harmonie rozwojowe
+
+ Elementy prawa oświatowego i bez-
+                                                     III       F                                 15      15       Zo        1       pedagogika pieczeństwo w szkole
+
+ Psychologiczne podstawy pracy nau-                                         IV       F                                 30      30       Zo        2       psychologia
+ czyciela
+
+ Pedagogiczne podstawy pracy nau-
+                                         IV       F                                 15      15       Zo        1       pedagogika czyciela
+
+                                                                           35
+ Emisja głosu                            IV       F                                 15      15       Zo        1       językoznawstwo
+
+ Praktyka psychologiczno-pedago-                                                                                                      psychologia/
+                                 V       F                                     301      30       Zo        2 giczna w szkole                                                                                                             pedagogika
+
+ Kompetencje psychologiczno-pedago-                                                                                                  psychologia/                                         VI       F                                 30      30       Zo        2
+ giczne nauczyciela                                                                                                           pedagogika
+
+                        Razem                                                      240                 16
+
+
+ 1praktyka śródroczna
+
+
+OBJAŚNIENIA
+
+Formy realizacji zajęć:                                       Sposoby weryfikacji efektów uczenia się:
+W - wykład                                               E - egzamin
+Ć - ćwiczenia                                               EP - egzamin pisemny
+S - seminarium                                             T - test
+L - laboratorium                                                        Es.- esej
+K - konwersatorium                                                      Proj. - projekt
+Proj. - projekt                                                             Pr. - praca roczna
+Ćw. - ćwiczenia terenowe                                 Z - zaliczenie
+Ćw.l. - ćwiczenia laboratoryjne                               Zo - zaliczenie z oceną
+Inne: np. Wr - warsztaty, L - lektoraty, Pr - praktyki,                Inne: np. UP - ustna prezentacja, R - raport
+
+
+
+
+
+                                                                           36

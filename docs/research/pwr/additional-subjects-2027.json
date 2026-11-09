@@ -1,0 +1,248 @@
+{
+  "automatyka i robotyka": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "automatyka przemysłowa": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "biomechanika inżynierska": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "matematyka"
+  ],
+  "biotechnologia": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "matematyka"
+  ],
+  "bezpieczeństwo i higiena pracy": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "geografia",
+    "informatyka"
+  ],
+  "chemia i analityka przemysłowa": [
+    "chemia",
+    "fizyka",
+    "matematyka"
+  ],
+  "chemia i inżynieria materiałów": [
+    "chemia",
+    "fizyka",
+    "matematyka"
+  ],
+  "cyberbezpieczeństwo": [
+    "fizyka",
+    "informatyka"
+  ],
+  "electronic and computer engineering": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "elektromobilność": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "elektronika": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "elektronika i fotonika": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "elektroradiologia": [
+    "biologia",
+    "chemia",
+    "fizyka"
+  ],
+  "elektrotechnika": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "geodezja i kartografia": [
+    "fizyka",
+    "geografia",
+    "informatyka"
+  ],
+  "geoenergetyka": [
+    "fizyka",
+    "geografia",
+    "informatyka"
+  ],
+  "geoinformatyka": [
+    "fizyka",
+    "geografia",
+    "informatyka"
+  ],
+  "gospodarka o obiegu zamkniętym i ochrona klimatu": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "geografia",
+    "matematyka"
+  ],
+  "górnictwo i geologia": [
+    "chemia",
+    "fizyka",
+    "geografia"
+  ],
+  "informatyczne systemy automatyki": [
+    "fizyka",
+    "informatyka"
+  ],
+  "informatyka algorytmiczna": [
+    "fizyka",
+    "informatyka"
+  ],
+  "informatyka stosowana": [
+    "fizyka",
+    "informatyka"
+  ],
+  "informatyka techniczna": [
+    "fizyka",
+    "informatyka"
+  ],
+  "inteligentna elektronika": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "inżynieria biomedyczna": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "informatyka"
+  ],
+  "inżynieria chemiczna i procesowa": [
+    "chemia",
+    "fizyka",
+    "matematyka"
+  ],
+  "inżynieria pojazdów i napędów niskoemisyjnych": [
+    "fizyka",
+    "matematyka"
+  ],
+  "inżynieria surowców mineralnych": [
+    "chemia",
+    "fizyka",
+    "geografia"
+  ],
+  "inżynieria systemów": [
+    "fizyka",
+    "informatyka"
+  ],
+  "inżynieria środowiska": [
+    "fizyka",
+    "matematyka"
+  ],
+  "inżynieria zarządzania": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "lekarski": [
+    "chemia",
+    "fizyka"
+  ],
+  "logistyka przemysłowa": [
+    "fizyka",
+    "matematyka"
+  ],
+  "matematyka i algorytmy sztucznej inteligencji": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "matematyka i analiza danych": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "matematyka stosowana i sztuczna inteligencja": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "mechanika i budowa maszyn": [
+    "fizyka",
+    "matematyka"
+  ],
+  "mechatroniczne systemy automatyki": [
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "mechatronika": [
+    "fizyka",
+    "matematyka"
+  ],
+  "medical informatics": [
+    "fizyka",
+    "informatyka"
+  ],
+  "optyka": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "informatyka",
+    "matematyka"
+  ],
+  "robotyka i automatyzacja procesów": [
+    "fizyka",
+    "matematyka"
+  ],
+  "sztuczna inteligencja": [
+    "fizyka",
+    "informatyka"
+  ],
+  "technologia chemiczna": [
+    "chemia",
+    "fizyka",
+    "matematyka"
+  ],
+  "teleinformatyka": [
+    "fizyka",
+    "informatyka"
+  ],
+  "telekomunikacja": [
+    "fizyka",
+    "informatyka"
+  ],
+  "transport": [
+    "fizyka",
+    "matematyka"
+  ],
+  "zarządzanie": [
+    "biznes i zarządzanie",
+    "fizyka",
+    "informatyka"
+  ],
+  "zarządzanie i inżynieria produkcji": [
+    "fizyka",
+    "matematyka"
+  ],
+  "zarządzanie infrastrukturą i środowiskiem": [
+    "biologia",
+    "chemia",
+    "fizyka",
+    "geografia",
+    "informatyka",
+    "matematyka"
+  ],
+  "pozostałe kierunki studiów": [
+    "fizyka"
+  ]
+}

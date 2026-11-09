@@ -1,0 +1,150 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Cyberbezpieczeństwo
+Limit miejsc
+120
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Cyberbezpieczeństwo
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 500 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Studia na kierunku gwarantują wykształcenie w obszarze bezpieczeństwa sieci oraz systemów informatycznych i telekomunikacyjnych, a także ochrony danych. Kształcimy w zakresie:
+wykorzystania nowoczesnych narzędzi teleinformatycznych (biblioteki programistyczne, sprzęt sieciowy, protokoły komunikacyjne) w projektowaniu i integracji systemów bezpieczeństwa
+praktycznego stosowania narzędzi i technologii związanych z bezpieczeństwem oraz audytowaniem sieci teleinformatycznych w celu zabezpieczania podmiotów gospodarczych i instytucji publicznych
+obsługi i działania aplikacji oraz usług elektronicznych w Internecie oraz sieciach lokalnych, rozwiązań zabezpieczających sieci teleinformatyczne (w tym sieci bezprzewodowe)
+projektowania inteligentnych systemów teleinformatycznych zabezpieczających przez atakami
+zasad działania podstawowych narzędzi kryptograficznych
+bezpiecznego wirtualizowania funkcji sieciowych
+zarządzania systemami operacyjnymi i uodparniania ich na cyberataki
+wdrażania kompleksowego systemu zarządzania bezpieczeństwem informacji
+regulacji prawnych związanych z cyberbezpieczeństwem i zapewnieniem ochrony danych osobowych
+funkcjonowania krajowego systemu cyberbezpieczeństwa oraz rozwiązań międzynarodowych w tym zakresie
+Zachęcamy do zapoznania się z programem studiów na kierunku cyberbezpieczeństwo.
+PROGRAM STUDIÓW
+Bezpieczeństwo systemów informatycznych
+Kształcenie w ramach tej specjalności przygotowuje do pracy przy zabezpieczaniu informacji i dostępu do niej na wszystkich etapach jej życia i systemu teleinformatycznego, obejmujących planowanie systemu zabezpieczeń, jego wdrażanie i utrzymywanie w gotowości podczas eksploatacji oraz wprowadzania niezbędnych modyfikacji dostosowujących system zabezpieczeń do występujących i ciągle ewoluujących zagrożeń. Szczególny nacisk położono na bezpieczeństwo przechowywanych i transmitowanych informacji i dostęp do nich przy użyciu nowoczesnych systemów transmisyjnych. Kształcenie obejmuje m. in.: przetwarzanie dużych zbiorów informacji, struktury i działanie centrów przetwarzania danych, bazy danych, biometryczne zabezpieczanie dostępu, bezpieczeństwo w systemach rozproszonych, kryptografię, elektromagnetyczne bezpieczeństwo systemów i sieci, audytowanie sieci teleinformatycznych, bezpieczne usługi internetowe, informatykę śledczą związaną z analizą powłamaniową, zabezpieczaniem dowodów, zapewnianiem rzetelności i niezaprzeczalności dowodów cyfrowych, sposoby tworzenia bezpiecznych aplikacji mobilnych, kryptografię, chmury obliczeniowe, systemy monitorowania i detekcji zagrożeń, bezpieczeństwo w sieciach komputerowych, Internet rzeczy, czy aspekty prawne i etyczne w obszarze bezpieczeństwa. W ramach specjalności studenci będą przygotowani również do uzyskania certyfikatów CCENT (Cisco Certified Entry Networking Technician), CCNA (Cisco Certified Network Associate), Cisco Network Security oraz Cisco CyberOps Associate.
+Bezpieczeństwo infrastruktury krytycznej
+Na specjalności międzywydziałowej kształcenie przygotowuje studenta do pracy przy zabezpieczaniu dostępu do informacji systemów: informatycznych ICT i sterowania przemysłowego OT, wchodzących w skład infrastruktury krytycznej systemów elektroenergetycznych. Szczególny nacisk położono na bezpieczeństwo przechowywanych informacji i ochrony dostępu do niej przy użyciu nowoczesnych systemów transmisyjnych. Kształcenie obejmuje m. in. zasady projektowania i funkcjonowania systemów elektroenergetycznych i inteligentnych sieci elektroenergetycznych (Smart Grid), wykorzystujących technologię ICT, w szczególności: mechanizmy zabezpieczeń infrastruktury krytycznej wytwarzania i przesyłu energii elektrycznej, klasyfikację systemów krytycznych, procesy wznowienia działania systemów po przerwie, niskoenergetyczne technologie komunikacyjne, cyfrowe stacje elektroenergetyczne, inteligentne sieci domowe, systemy zdalnego odczytu liczników energii elektrycznej (Smart Metering), zarządzanie rozproszonymi źródłami energii, prowadzenie ruchu stacji, automatyki stacyjnej oraz systemów sterowania i nadzoru (SSiN). W ramach specjalności studenci będą przygotowani również do uzyskania certyfikatów CCENT (Cisco Certified Entry Networking Technician), CCNA (Cisco Certified Network Associate) i CCNA Security.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+cyberbezpieczeństwo
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik elektronik
+Technik informatyk
+Technik programista
+Technik szerokopasmowej komunikacji elektronicznej
+Technik teleinformatyk
+Technik telekomunikacji
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+oficer bezpieczeństwa IT
+administrator systemów transmisji danych
+kierownik projektów IT
+specjalista ds. wdrażania bezpiecznych sieci i systemów informatycznych
+doradca w obszarze bezpieczeństwa IT
+instytucje związane z informatyką i telekomunikacją (korporacje, banki, przemysł, biura projektowe i rozwojowe przedsiębiorstw oraz jednostki administracji)
+Praktyki i staże
+W trakcie studiów studenci kierunku odbywają praktyki w firmach z branży IT lub mających działy odpowiedzialne za cyberbezpieczeństwo . Praktyki mogą zostać zrealizowane we Wrocławiu lub poza nim, nasi studenci odbywają również praktyki zagraniczne. Praktyki mają na celu pokazanie studentom jak będzie wyglądała ich praca zawodowa, nawiązanie kontaktów oraz oswojenie ze stylem pracy w biznesie i instytucjach.
+Miejsca pracy absolwentów
+W realiach dzisiejszego świata trudno sobie wyobrazić jakąkolwiek działalność biznesową czy publiczną bez specjalistów z zakresu cyberbezpieczeństwa. Miejscem pracy przyszłych absolwentów mogą być firmy z branży IT zajmujące się tą tematyką, ale również instytucje finansowe, gdzie absolwenci kierunku będą pracowali w działach związanych z bezpieczeństwem systemów teleinformatycznych czy bankowych. Szeroką ofertę pracy będzie również mógł zaproponować sektor wojskowy i administracji państwowej. Jednocześnie absolwenci kierunku będą poszukiwanymi specjalistami w sektorze energetycznym, w szczególności po ukończeniu specjalności Bezpieczeństwo infrastruktury krytycznej.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

@@ -1,0 +1,148 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Geoinżynierii, Górnictwa i Geologii
+Geoinformatyka
+Limit miejsc
+105
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Geoinformatyka
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+8 700 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria środowiska, górnictwo i energetyka
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Studia na kierunku Geoinformatyka są interdyscyplinarne i łączą w sobie kilka obszarów nauki: informatykę, matematykę, geografię, geodezję, geologię, geomechanikę i inne.
+Absolwent uzyska solidne podstawy z zakresu matematyki i fizyki, będzie świadomy biznesowych i ekologicznych aspektów dzielności przemysłowej, uzyska kompetencje zwiększające szanse osiągniecia sukcesu projektów.
+Absolwent pozna nowoczesne technologie informatyczne i metody programowania (C, C++, Pyton), systemy baz danych oraz baz danych przestrzennych, przetwarzanie dużych zbiorów danych (Big Data) i przetwarzanie w chmurze (Cloud Conputing), metody uczenia maszynowego (Machine Learning) i sztucznej inteligencji (Artificial Intelligence). Będzie umiał tworzyć procedury analizy danych i je automatyzować
+Absolwent uzyska podstawową wiedzę w zakresie nauk o Ziemi (tj. geodezja i kartografia, geologia, geofizyka, geomechanika, geotechnika, geoinżynieria, inżynieria surowców naturalnych). Pozna nowoczesne techniki pomiarowe oraz zastosowania informatyki w wybranych naukach o Ziemi. Będzie umiał budować modele numeryczne, wizualizować modele przestrzenne z wykorzystaniem wirtualnej rzeczywistości (Virtual Reality). Pozna specjalistyczne narzędzia geoinformatyczne, wyznaczające światowe standardy w tym obszarze
+PROGRAM STUDIÓW
+Informatyka w geoinżynierii
+Absolwent specjalności Informatyka w geoinżynierii będzie posiadał wiedzę z zakresu matematyki i informatyki m.in. programowania, machine learning oraz sztucznej inteligencji, a ponadto podstawową wiedzę z zakresu geoinżynierii, obejmującą zagadnienia związane z geotechniką i geomechaniką. Będzie potrafił zastosować nowoczesne narzędzia informatyczne do rozwiązywania
+problemów geoinżynierskich, m.in. będzie posiadał wiedzę w zakresie modelowania numerycznego procesów geodynamicznych. Wiedza informatyczna pozwoli mu rozwijać programy komputerowe dedykowane szeroko pojętej geoinżynierii.
+Systemy informacji geograficznej
+W trakcie studiów na specjalności Systemy informacji geograficznej student nauczy się pracy z systemami GIS, pozna metody i techniki pozyskiwania oraz analizowania danych przestrzennych, w tym skanowania laserowego i z wykorzystaniem bezzałogowych statków powietrznych (dronów), podstawy fotogrametrii i teledetekcji. Zdobędzie wiedzę i umiejętności w zakresie podstaw programowania, algorytmiki, modelowania obiektów 3D.
+Absolwenci tej specjalności będą mieć odpowiednie kwalifikacje do pracy w firmach geoinformatycznych i geoinformacyjncych, biurach projektowych, jednostkach naukowo-badawczych, przedsiębiorstwach międzynarodowych, administracji publicznej a także do założenia własnej firmy.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, geografia lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+geoinformatyka
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik fotografii i multimediów
+Technik informatyk
+Technik nawigator morski
+Technik programista
+Technik robotyk
+Technik teleinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Absolwent może podjąć pracę w wielu branżach i obszarach przemysłu i gospodarki.
+Może być zatrudniony przykładowo w:
+w branżach związanych z poszukiwaniem, oceną potencjału i wykorzystaniem odnawialnych źródeł energii
+w geoinżynierii, w tym w analizach stateczności i stabilności terenu pod inwestycje jak również w pracach archeologicznych
+w organizacjach i instytucjach związanych z monitorowaniem stanu środowiska i zarządzaniem kryzysowym
+w przedsiębiorstwach i instytutach zajmujących się poszukiwaniem i dokumentowaniem zasobów surowców naturalnych, w tym surowców krytycznych dla gospodarki
+w branży związanej z projektowaniem i rozwijaniem oprogramowania w tym wsparcia produktów oprogramowania
+w instytucjach doradztwa inwestycyjnego i branży konsultingowej
+w zarządzaniu zasobami surowców naturalnych
+w administracji publicznej, na przykład inspekcji środowiska, służbie geologicznej, hydrogeologicznej, nadzorze górniczym
+w instytucjach naukowo-badawczych i badawczo-rozwojowych
+Wydział Geoinżynierii, Górnictwa i Geologii uzyskał akredytację IPMA – Student!
+więcej informacji
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

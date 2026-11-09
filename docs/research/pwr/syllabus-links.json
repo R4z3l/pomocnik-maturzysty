@@ -1,0 +1,317 @@
+[
+  {
+    "courseId": "54",
+    "name": "Architektura",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/70/196"
+  },
+  {
+    "courseId": "70",
+    "name": "Automatyka i robotyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/197"
+  },
+  {
+    "courseId": "84",
+    "name": "Automatyka przemysłowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/63/198"
+  },
+  {
+    "courseId": "16579",
+    "name": "Bezpieczeństwo i higiena pracy",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/199"
+  },
+  {
+    "courseId": "115",
+    "name": "Biomechanika inżynierska",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/201"
+  },
+  {
+    "courseId": "60",
+    "name": "Biotechnologia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/202"
+  },
+  {
+    "courseId": "62",
+    "name": "Chemia i analityka przemysłowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/262"
+  },
+  {
+    "courseId": "64",
+    "name": "Chemia i inżynieria materiałów",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/206"
+  },
+  {
+    "courseId": "13769",
+    "name": "Cyberbezpieczeństwo",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/208"
+  },
+  {
+    "courseId": "78",
+    "name": "Electronic and Computer Engineering",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/209"
+  },
+  {
+    "courseId": "1568",
+    "name": "Elektromobilność",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/63/265"
+  },
+  {
+    "courseId": "74",
+    "name": "Elektronika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/211"
+  },
+  {
+    "courseId": "137",
+    "name": "Elektronika i fotonika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/212"
+  },
+  {
+    "courseId": "14010",
+    "name": "Elektroradiologia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/69/283"
+  },
+  {
+    "courseId": "127",
+    "name": "Fizyka techniczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/218"
+  },
+  {
+    "courseId": "90",
+    "name": "Geodezja i kartografia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/219"
+  },
+  {
+    "courseId": "7097",
+    "name": "Geoenergetyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/220"
+  },
+  {
+    "courseId": "1574",
+    "name": "Geoinformatyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/221"
+  },
+  {
+    "courseId": "9358",
+    "name": "Geologia stosowana",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/264"
+  },
+  {
+    "courseId": "96",
+    "name": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/74/222"
+  },
+  {
+    "courseId": "56",
+    "name": "Gospodarka przestrzenna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/70/223"
+  },
+  {
+    "courseId": "1580",
+    "name": "Informatyczne systemy automatyki",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/225"
+  },
+  {
+    "courseId": "129",
+    "name": "Informatyka algorytmiczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/226"
+  },
+  {
+    "courseId": "98",
+    "name": "Informatyka stosowana",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/228"
+  },
+  {
+    "courseId": "3635",
+    "name": "Informatyka stosowana w j. angielskim",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/270"
+  },
+  {
+    "courseId": "76",
+    "name": "Informatyka techniczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/229"
+  },
+  {
+    "courseId": "1582",
+    "name": "Inteligentna elektronika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/230"
+  },
+  {
+    "courseId": "66",
+    "name": "Inżynieria chemiczna i procesowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/232"
+  },
+  {
+    "courseId": "133",
+    "name": "Inżynieria kwantowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/233"
+  },
+  {
+    "courseId": "9413",
+    "name": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/235"
+  },
+  {
+    "courseId": "7106",
+    "name": "Inżynieria surowców mineralnych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/236"
+  },
+  {
+    "courseId": "100",
+    "name": "Inżynieria systemów",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/237"
+  },
+  {
+    "courseId": "102",
+    "name": "Inżynieria zarządzania",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/66/239"
+  },
+  {
+    "courseId": "10248",
+    "name": "Lekarski",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/6/69/279"
+  },
+  {
+    "courseId": "11612",
+    "name": "Logistyka przemysłowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/266"
+  },
+  {
+    "courseId": "109",
+    "name": "Lotnictwo i kosmonautyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/240"
+  },
+  {
+    "courseId": "141",
+    "name": "Matematyka i algorytmy sztucznej inteligencji",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/64/280"
+  },
+  {
+    "courseId": "9226",
+    "name": "Matematyka i analiza danych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/64/242"
+  },
+  {
+    "courseId": "143",
+    "name": "Matematyka stosowana i sztuczna inteligencja",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/64/272"
+  },
+  {
+    "courseId": "2967",
+    "name": "Mechanika i budowa maszyn",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/244"
+  },
+  {
+    "courseId": "2970",
+    "name": "Mechanika i budowa maszyn w j. angielskim",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/267"
+  },
+  {
+    "courseId": "16832",
+    "name": "Mechatroniczne systemy automatyki",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/332"
+  },
+  {
+    "courseId": "119",
+    "name": "Mechatronika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/246"
+  },
+  {
+    "courseId": "7528",
+    "name": "Medical Informatics",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/247"
+  },
+  {
+    "courseId": "113",
+    "name": "Odnawialne źródła energii",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/249"
+  },
+  {
+    "courseId": "135",
+    "name": "Optyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/250"
+  },
+  {
+    "courseId": "121",
+    "name": "Robotyka i automatyzacja procesów",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/251"
+  },
+  {
+    "courseId": "72",
+    "name": "Sztuczna inteligencja",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/253"
+  },
+  {
+    "courseId": "80",
+    "name": "Teleinformatyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/256"
+  },
+  {
+    "courseId": "82",
+    "name": "Telekomunikacja",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/257"
+  },
+  {
+    "courseId": "123",
+    "name": "Transport",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/258"
+  },
+  {
+    "courseId": "104",
+    "name": "Zarządzanie",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/2/66/259"
+  },
+  {
+    "courseId": "125",
+    "name": "Zarządzanie i inżynieria produkcji",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/260"
+  },
+  {
+    "courseId": "16614",
+    "name": "Zarządzanie infrastrukturą i środowiskiem",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/74/330"
+  },
+  {
+    "courseId": "3643",
+    "name": "Zarządzanie w j. angielskim",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/2/66/269"
+  },
+  {
+    "courseId": "58",
+    "name": "Budownictwo",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/71/204"
+  },
+  {
+    "courseId": "88",
+    "name": "Elektrotechnika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/63/214"
+  },
+  {
+    "courseId": "106",
+    "name": "Energetyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/215"
+  },
+  {
+    "courseId": "92",
+    "name": "Górnictwo i geologia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/224"
+  },
+  {
+    "courseId": "94",
+    "name": "Inżynieria środowiska",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/74/238"
+  },
+  {
+    "courseId": "111",
+    "name": "Mechanika i budowa maszyn energetycznych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/245"
+  },
+  {
+    "courseId": "68",
+    "name": "Technologia chemiczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/254"
+  },
+  {
+    "courseId": "131",
+    "name": "Inżynieria biomedyczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/231"
+  }
+]

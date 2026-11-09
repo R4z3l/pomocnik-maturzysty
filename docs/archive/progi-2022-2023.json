@@ -1,0 +1,2740 @@
+{
+  "archivedAt": "2026-10-25",
+  "reason": "Ograniczenie aktywnej historii do naborów2024–2026 na polecenie użytkownika. Nie odświeżać archiwum.",
+  "universities": [
+    {
+      "id": "uwr",
+      "programmes": [
+        {
+          "programmeId": "uwr-administracja",
+          "name": "Administracja",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 72.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-administracja",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 76.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-administracja",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-anglistyka",
+          "name": "Anglistyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 171.4,
+              "status": "reported",
+              "sourceId": "uwr-rektorat-progi",
+              "note": "Orientacyjna wartość z tabeli portalu; tura i potwierdzenie uczelni nieznane. Brak historycznej reguły."
+            },
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 177.7,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-anglistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 179.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-anglistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-archeologia",
+          "name": "Archeologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 26.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-archeologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 18.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-archeologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-astronomia",
+          "name": "Astronomia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 50.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-astronomia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 51.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-astronomia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-bezpieczenstwo-narodowe",
+          "name": "Bezpieczeństwo narodowe",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 42.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-bezpieczenstwo-narodowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 19.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-bezpieczenstwo-narodowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-biologia",
+          "name": "Biologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 75.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-biologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 45.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-biologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-biologia-czlowieka",
+          "name": "Biologia człowieka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 87.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-biologia-czlowieka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 107.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-biologia-czlowieka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-biotechnologia",
+          "name": "Biotechnologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 125.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-biotechnologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 124.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-biotechnologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-chemia",
+          "name": "Chemia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 11.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-chemia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 11.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-chemia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-chemia-medyczna",
+          "name": "Chemia medyczna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 57.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-chemia-medyczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 65.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-chemia-medyczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-dyplomacja-europejska",
+          "name": "Dyplomacja europejska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 74.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-dyplomacja-europejska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 27.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-dyplomacja-europejska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie",
+          "name": "Dziedzictwo kultury materialnej - ochrona, promocja, gospodarowanie",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 64.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 78.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-dziennikarstwo-i-komunikacja-spoleczna",
+          "name": "Dziennikarstwo i komunikacja społeczna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 218.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-dziennikarstwo-i-komunikacja-spoleczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 212.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-dziennikarstwo-i-komunikacja-spoleczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-ekonomia",
+          "name": "Ekonomia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 111.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-ekonomia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 99.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-ekonomia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-etnologia-i-antropologia-kulturowa",
+          "name": "Etnologia i antropologia kulturowa",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 52.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-etnologia-i-antropologia-kulturowa",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 48.7,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-etnologia-i-antropologia-kulturowa",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-etyka",
+          "name": "Etyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 42.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-etyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-europeistyka",
+          "name": "Europeistyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 24.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-europeistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 22.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-europeistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-chorwacka-z-jezykiem-serbskim",
+          "name": "Filologia chorwacka z językiem serbskim",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 62.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-chorwacka-z-jezykiem-serbskim",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 55.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-chorwacka-z-jezykiem-serbskim",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-czeska",
+          "name": "Filologia czeska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 80.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-czeska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 59.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-czeska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-francuska",
+          "name": "Filologia francuska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 145.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-francuska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 160.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-francuska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 160,
+              "status": "official",
+              "sourceId": "uwr-ifr-filologia-francuska",
+              "basis": "admission",
+              "note": "Próg pozwalający na przyjęcie według zestawienia komisji. Tura niepodana; nie jest minimum formalnym."
+            },
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 145.5,
+              "status": "official",
+              "sourceId": "uwr-ifr-filologia-francuska",
+              "basis": "admission",
+              "note": "Próg pozwalający na przyjęcie według zestawienia komisji. Tura niepodana; nie jest minimum formalnym."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-germanska",
+          "name": "Filologia germańska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 33.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-germanska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 34.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-germanska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-hiszpanska",
+          "name": "Filologia hiszpańska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 168.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-hiszpanska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 170.7,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-hiszpanska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-indyjska",
+          "name": "Filologia indyjska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 67.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-indyjska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 98.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-indyjska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-klasyczna",
+          "name": "Filologia klasyczna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 99.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-klasyczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 121.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-klasyczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-polska",
+          "name": "Filologia polska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 66.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-polska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 63.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-polska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-rosyjska",
+          "name": "Filologia rosyjska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 68.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-rosyjska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 59.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-rosyjska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filologia-ukrainska",
+          "name": "Filologia ukraińska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 70.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-ukrainska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 57.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filologia-ukrainska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-filozofia",
+          "name": "Filozofia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 78.9,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filozofia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 42.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-filozofia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-fizyka",
+          "name": "Fizyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 56.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-fizyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 50.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-fizyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-genetyka-i-biologia-eksperymentalna",
+          "name": "Genetyka i biologia eksperymentalna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 195.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-genetyka-i-biologia-eksperymentalna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 155.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-genetyka-i-biologia-eksperymentalna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-geografia",
+          "name": "Geografia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 49.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-geografia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 53.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-geografia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-geologia",
+          "name": "Geologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 49.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-geologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 53.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-geologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-gospodarka-przestrzenna",
+          "name": "Gospodarka przestrzenna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 105.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-gospodarka-przestrzenna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 120.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-gospodarka-przestrzenna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-historia",
+          "name": "Historia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 66.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-historia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 53.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-historia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-historia-sztuki",
+          "name": "Historia sztuki",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 142.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-historia-sztuki",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 71.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-historia-sztuki",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-indywidualne-studia-informatyczno-matematyczne",
+          "name": "Indywidualne studia informatyczno-matematyczne",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 396.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-indywidualne-studia-informatyczno-matematyczne",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 379.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-indywidualne-studia-informatyczno-matematyczne",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-informacja-naukowa-i-bibliotekoznawstwo",
+          "name": "Informacja naukowa i bibliotekoznawstwo",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 118.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-informacja-naukowa-i-bibliotekoznawstwo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 95.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-informacja-naukowa-i-bibliotekoznawstwo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-informatyka",
+          "name": "Informatyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 275.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-informatyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 247.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-informatyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-informatyka-stosowana-i-systemy-pomiarowe",
+          "name": "Informatyka stosowana i systemy pomiarowe",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 117.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-informatyka-stosowana-i-systemy-pomiarowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 97.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-informatyka-stosowana-i-systemy-pomiarowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-inzynieria-geologiczna",
+          "name": "Inżynieria geologiczna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 45.6,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-inzynieria-geologiczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 29.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-inzynieria-geologiczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-italianistyka",
+          "name": "Italianistyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 162.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-italianistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 170.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-italianistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 170,
+              "status": "official",
+              "sourceId": "uwr-ifr-italianistyka",
+              "basis": "admission",
+              "note": "Próg pozwalający na przyjęcie według zestawienia komisji. Tura niepodana; nie jest minimum formalnym."
+            },
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 162,
+              "status": "official",
+              "sourceId": "uwr-ifr-italianistyka",
+              "basis": "admission",
+              "note": "Próg pozwalający na przyjęcie według zestawienia komisji. Tura niepodana; nie jest minimum formalnym."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-judaistyka",
+          "name": "Judaistyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 36.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-judaistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 58.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-judaistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-komunikacja-wizerunkowa",
+          "name": "Komunikacja wizerunkowa",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 224.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-komunikacja-wizerunkowa",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 224.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-komunikacja-wizerunkowa",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-koreanistyka",
+          "name": "Koreanistyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 214.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-koreanistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 230.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-koreanistyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo",
+          "name": "Kultura i praktyka tekstu: twórcze pisanie i edytorstwo",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 174.3,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 180.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-kulturoznawstwo",
+          "name": "Kulturoznawstwo",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 140.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-kulturoznawstwo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 101.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-kulturoznawstwo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-matematyka",
+          "name": "Matematyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 158.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-matematyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 102.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-matematyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-medyczna-biotechnologia-molekularna",
+          "name": "Medyczna biotechnologia molekularna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 226.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-medyczna-biotechnologia-molekularna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-mikrobiologia",
+          "name": "Mikrobiologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 150.7,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-mikrobiologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 119.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-mikrobiologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-muzykologia",
+          "name": "Muzykologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 5.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-muzykologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 5.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-muzykologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-niderlandystyka",
+          "name": "Niderlandystyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 142.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-niderlandystyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 138.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-niderlandystyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-ochrona-srodowiska",
+          "name": "Ochrona środowiska",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 26.9,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-ochrona-srodowiska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 27.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-ochrona-srodowiska",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-pedagogika",
+          "name": "Pedagogika",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 58.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-pedagogika",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 49.9,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-pedagogika",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-pedagogika-przedszkolna-i-wczesnoszkolna",
+          "name": "Pedagogika przedszkolna i wczesnoszkolna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 141.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-pedagogika-przedszkolna-i-wczesnoszkolna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 135.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-pedagogika-przedszkolna-i-wczesnoszkolna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-pedagogika-specjalna",
+          "name": "Pedagogika specjalna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 114.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-pedagogika-specjalna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 113.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-pedagogika-specjalna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-politologia",
+          "name": "Politologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 28.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-politologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 25.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-politologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-praca-socjalna",
+          "name": "Praca socjalna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 42.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-praca-socjalna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 45.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-praca-socjalna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-prawo",
+          "name": "Prawo",
+          "thresholds": [
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 127,
+              "status": "anecdote",
+              "sourceId": "uwr-forum-prawo-2022",
+              "note": "Zestawienie użytkownika z 24.02.2023: 127/190. Nie jest dowodem dokładnego progu ani osobistego przyjęcia. Tura nieznana."
+            },
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 136.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-prawo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 143.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-prawo",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-psychologia",
+          "name": "Psychologia",
+          "thresholds": [
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 190,
+              "status": "reported",
+              "sourceId": "uwr-rektorat-progi",
+              "note": "Konflikt: dostanesie.pl podaje odpowiednio 203 i 208 dla tury 1; tutaj tura nieznana. Brak pierwotnego dowodu. Nie uśredniać ani automatycznie porównywać."
+            },
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 195,
+              "status": "reported",
+              "sourceId": "uwr-rektorat-progi",
+              "note": "Konflikt: dostanesie.pl podaje odpowiednio 203 i 208 dla tury 1; tutaj tura nieznana. Brak pierwotnego dowodu. Nie uśredniać ani automatycznie porównywać."
+            },
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 208.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-psychologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 203.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-psychologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-publikowanie-cyfrowe-i-sieciowe",
+          "name": "Publikowanie cyfrowe i sieciowe",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 158.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-publikowanie-cyfrowe-i-sieciowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 144.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-publikowanie-cyfrowe-i-sieciowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-sinologia",
+          "name": "Sinologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 201.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-sinologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 187.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-sinologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-socjologia",
+          "name": "Socjologia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 101.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-socjologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 73.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-socjologia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-socjologia-ekonomiczna",
+          "name": "Socjologia ekonomiczna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 76.8,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-socjologia-ekonomiczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 74.1,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-socjologia-ekonomiczna",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-stosunki-miedzynarodowe",
+          "name": "Stosunki miedzynarodowe",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 108.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-stosunki-miedzynarodowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 75.9,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-stosunki-miedzynarodowe",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-studia-srodziemnomorskie",
+          "name": "Studia śródziemnomorskie",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 72.0,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-studia-srodziemnomorskie",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 102.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-studia-srodziemnomorskie",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-turystyka",
+          "name": "Turystyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 126.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-turystyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 120.9,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-turystyka",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-zarzadzanie-projektami-spolecznymi",
+          "name": "Zarządzanie projektami społecznymi",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 50.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-zarzadzanie-projektami-spolecznymi",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 33.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-zarzadzanie-projektami-spolecznymi",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-zarzadzanie-srodowiskiem-przyrodniczym",
+          "name": "Zarządzanie środowiskiem przyrodniczym",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 50.5,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-zarzadzanie-srodowiskiem-przyrodniczym",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 45.7,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-zarzadzanie-srodowiskiem-przyrodniczym",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        },
+        {
+          "programmeId": "uwr-zielona-chemia",
+          "name": "Zielona chemia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": "1",
+              "value": 60.2,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-zielona-chemia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            },
+            {
+              "year": "2022/2023",
+              "round": "1",
+              "value": 50.4,
+              "status": "reported",
+              "sourceId": "uwr-history-portal-zielona-chemia",
+              "basis": "unspecified",
+              "note": "Portal oznacza turę 1. Brak pierwotnego źródła i jednoznacznej definicji progu/trybu. Historyczna skala i porównywalność z obecnymi zasadami niepotwierdzone."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "uwr-rektorat-progi",
+          "title": "Psychologia Uniwersytet Wrocławski — orientacyjne liczby portalu",
+          "url": "https://rektorat.pl/blog/uniwersytet-wroclawski-psychologia-progi-punktowe-zasady-rekrutacji-i-perspektywy-studiow/",
+          "publisher": "rektorat.pl",
+          "checkedAt": "2026-10-24",
+          "kind": "portal",
+          "note": "Publikacja 30.09.2025; bez tury i pierwotnego dowodu. Konflikt z dostanesie.pl. Informatyka 115 może być minimum formalnym, nie importowano jako próg."
+        },
+        {
+          "id": "uwr-forum-prawo-2022",
+          "title": "Publiczne zestawienie użytkownika: prawo 2022/23",
+          "url": "https://forum.studia.net/topic/11922-prawo-lista-uczelni-progi-liczba-os%C3%B3b-na-miejsce-202223/",
+          "publisher": "Forum.Studia.net",
+          "checkedAt": "2026-10-24",
+          "kind": "community",
+          "note": "Wpis 24.02.2023 podaje 127/190. Niepotwierdzone zestawienie użytkownika, tura nieznana; nie oficjalny próg."
+        },
+        {
+          "id": "uwr-history-portal-administracja",
+          "title": "Administracja — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-prawa-administracji-i-ekonomii/kierunek/administracja",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-anglistyka",
+          "title": "Anglistyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/anglistyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-archeologia",
+          "title": "Archeologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/archeologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-astronomia",
+          "title": "Astronomia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-fizyki-i-astronomii/kierunek/astronomia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-bezpieczenstwo-narodowe",
+          "title": "Bezpieczeństwo narodowe — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/bezpieczeństwo-narodowe",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-biologia",
+          "title": "Biologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-biologicznych/kierunek/biologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-biologia-czlowieka",
+          "title": "Biologia człowieka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-biologicznych/kierunek/biologia-człowieka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-biotechnologia",
+          "title": "Biotechnologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-biotechnologii/kierunek/biotechnologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-chemia",
+          "title": "Chemia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-chemii/kierunek/chemia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-chemia-medyczna",
+          "title": "Chemia medyczna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-chemii/kierunek/chemia-medyczna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-dyplomacja-europejska",
+          "title": "Dyplomacja europejska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/dyplomacja-europejska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie",
+          "title": "Dziedzictwo kultury materialnej - ochrona, promocja, gospodarowanie — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-dziennikarstwo-i-komunikacja-spoleczna",
+          "title": "Dziennikarstwo i komunikacja społeczna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/dziennikarstwo-i-komunikacja-społeczna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-ekonomia",
+          "title": "Ekonomia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-prawa-administracji-i-ekonomii/kierunek/ekonomia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-etnologia-i-antropologia-kulturowa",
+          "title": "Etnologia i antropologia kulturowa — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/etnologia-i-antropologia-kulturowa",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-etyka",
+          "title": "Etyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/etyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-europeistyka",
+          "title": "Europeistyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/europeistyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-chorwacka-z-jezykiem-serbskim",
+          "title": "Filologia chorwacka z językiem serbskim — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-chorwacka-z-językiem-serbskim",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-czeska",
+          "title": "Filologia czeska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-czeska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-francuska",
+          "title": "Filologia francuska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-francuska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-germanska",
+          "title": "Filologia germańska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-germańska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-hiszpanska",
+          "title": "Filologia hiszpańska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-hiszpańska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-indyjska",
+          "title": "Filologia indyjska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-indyjska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-klasyczna",
+          "title": "Filologia klasyczna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-klasyczna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-polska",
+          "title": "Filologia polska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-polska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-rosyjska",
+          "title": "Filologia rosyjska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-rosyjska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filologia-ukrainska",
+          "title": "Filologia ukraińska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/filologia-ukraińska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-filozofia",
+          "title": "Filozofia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/filozofia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-fizyka",
+          "title": "Fizyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-fizyki-i-astronomii/kierunek/fizyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-genetyka-i-biologia-eksperymentalna",
+          "title": "Genetyka i biologia eksperymentalna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-biologicznych/kierunek/genetyka-i-biologia-eksperymentalna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-geografia",
+          "title": "Geografia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-o-ziemi-i-kształtowania-środowiska/kierunek/geografia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-geologia",
+          "title": "Geologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-o-ziemi-i-kształtowania-środowiska/kierunek/geologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-gospodarka-przestrzenna",
+          "title": "Gospodarka przestrzenna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-o-ziemi-i-kształtowania-środowiska/kierunek/gospodarka-przestrzenna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-historia",
+          "title": "Historia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/historia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-historia-sztuki",
+          "title": "Historia sztuki — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/historia-sztuki",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-indywidualne-studia-informatyczno-matematyczne",
+          "title": "Indywidualne studia informatyczno-matematyczne — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-matematyki-i-informatyki/kierunek/indywidualne-studia-informatyczno-matematyczne",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-informacja-naukowa-i-bibliotekoznawstwo",
+          "title": "Informacja naukowa i bibliotekoznawstwo — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/informacja-naukowa-i-bibliotekoznawstwo",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-informatyka",
+          "title": "Informatyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-matematyki-i-informatyki/kierunek/informatyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-informatyka-stosowana-i-systemy-pomiarowe",
+          "title": "Informatyka stosowana i systemy pomiarowe — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-fizyki-i-astronomii/kierunek/informatyka-stosowana-i-systemy-pomiarowe",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-inzynieria-geologiczna",
+          "title": "Inżynieria geologiczna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-o-ziemi-i-kształtowania-środowiska/kierunek/inżynieria-geologiczna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-italianistyka",
+          "title": "Italianistyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/italianistyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-judaistyka",
+          "title": "Judaistyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/judaistyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-komunikacja-wizerunkowa",
+          "title": "Komunikacja wizerunkowa — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/komunikacja-wizerunkowa",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-koreanistyka",
+          "title": "Koreanistyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/koreanistyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo",
+          "title": "Kultura i praktyka tekstu: twórcze pisanie i edytorstwo — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/kultura-i-praktyka-tekstu-twórcze-pisanie-i-edytorstwo",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-kulturoznawstwo",
+          "title": "Kulturoznawstwo — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/kulturoznawstwo",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-matematyka",
+          "title": "Matematyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-matematyki-i-informatyki/kierunek/matematyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-medyczna-biotechnologia-molekularna",
+          "title": "Medyczna biotechnologia molekularna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-biotechnologii/kierunek/medyczna-biotechnologia-molekularna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-mikrobiologia",
+          "title": "Mikrobiologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-biologicznych/kierunek/mikrobiologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-muzykologia",
+          "title": "Muzykologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/muzykologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-niderlandystyka",
+          "title": "Niderlandystyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/niderlandystyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-ochrona-srodowiska",
+          "title": "Ochrona środowiska — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/międzywydziałowe-studium-ochrony-środowiska/kierunek/ochrona-środowiska",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-pedagogika",
+          "title": "Pedagogika — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/pedagogika",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-pedagogika-przedszkolna-i-wczesnoszkolna",
+          "title": "Pedagogika przedszkolna i wczesnoszkolna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/pedagogika-przedszkolna-i-wczesnoszkolna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-pedagogika-specjalna",
+          "title": "Pedagogika specjalna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/pedagogika-specjalna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-politologia",
+          "title": "Politologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/politologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-praca-socjalna",
+          "title": "Praca socjalna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/praca-socjalna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-prawo",
+          "title": "Prawo — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-prawa-administracji-i-ekonomii/kierunek/prawo",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-psychologia",
+          "title": "Psychologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-historycznych-i-pedagogicznych/kierunek/psychologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-publikowanie-cyfrowe-i-sieciowe",
+          "title": "Publikowanie cyfrowe i sieciowe — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/publikowanie-cyfrowe-i-sieciowe",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-sinologia",
+          "title": "Sinologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/sinologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-socjologia",
+          "title": "Socjologia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/socjologia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-socjologia-ekonomiczna",
+          "title": "Socjologia ekonomiczna — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/socjologia-ekonomiczna",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-stosunki-miedzynarodowe",
+          "title": "Stosunki miedzynarodowe — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/stosunki-międzynarodowe",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-studia-srodziemnomorskie",
+          "title": "Studia śródziemnomorskie — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-filologiczny/kierunek/studia-śródziemnomorskie",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-turystyka",
+          "title": "Turystyka — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-o-ziemi-i-kształtowania-środowiska/kierunek/turystyka",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-zarzadzanie-projektami-spolecznymi",
+          "title": "Zarządzanie projektami społecznymi — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-społecznych/kierunek/zarządzanie-projektami-społecznymi",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-zarzadzanie-srodowiskiem-przyrodniczym",
+          "title": "Zarządzanie środowiskiem przyrodniczym — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-nauk-biologicznych/kierunek/zarządzanie-środowiskiem-przyrodniczym",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-history-portal-zielona-chemia",
+          "title": "Zielona chemia — historia progów portalu dostanesie.pl",
+          "url": "https://dostanesie.pl/uczelnia/uwr/wydzial/wydział-chemii/kierunek/zielona-chemia",
+          "publisher": "dostanesie.pl",
+          "checkedAt": "2026-10-25",
+          "kind": "portal",
+          "note": "Zewnętrzna tabela, bez wskazanego pierwotnego dowodu. Portal ma błędy metadanych, m.in. psychologię opisuje jako licencjacką. Tryb nie jest jednoznaczny w tabeli; dopasowanie po nazwie, bez przenoszenia progów do innego kierunku. Wymaga potwierdzenia."
+        },
+        {
+          "id": "uwr-ifr-filologia-francuska",
+          "title": "Oficjalna historia progów — filologia francuska",
+          "url": "https://ifr.uwr.edu.pl/rekrutacja/filologia-francuska-i-stopnia/",
+          "publisher": "Uniwersytet Wrocławski — Instytut Filologii Romańskiej",
+          "checkedAt": "2026-10-25",
+          "kind": "official",
+          "note": "Zestawienie sekretarzyni komisji rekrutacyjnej. Wynik pozwalający na przyjęcie; strona nie podaje tury. Odczytano wszystkie roczniki od 2022, starsze pozostawiono poza zakresem."
+        },
+        {
+          "id": "uwr-ifr-italianistyka",
+          "title": "Oficjalna historia progów — italianistyka",
+          "url": "https://ifr.uwr.edu.pl/rekrutacja/italianistyka-i-stopnia/",
+          "publisher": "Uniwersytet Wrocławski — Instytut Filologii Romańskiej",
+          "checkedAt": "2026-10-25",
+          "kind": "official",
+          "note": "Zestawienie sekretarzyni komisji rekrutacyjnej. Wynik pozwalający na przyjęcie; strona nie podaje tury. Odczytano wszystkie roczniki od 2022, starsze pozostawiono poza zakresem."
+        }
+      ]
+    },
+    {
+      "id": "uew",
+      "programmes": [
+        {
+          "programmeId": "uew-analityka-gospodarcza",
+          "name": "Analityka gospodarcza",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 200,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 200,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-e-biznes",
+          "name": "E-biznes",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 190,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-ekobiznes",
+          "name": "Ekobiznes",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 110,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-ekonomia",
+          "name": "Ekonomia",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 180,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 180,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-finanse-i-rachunkowosc",
+          "name": "Finanse i rachunkowość",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 165,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 165,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-informatyka-w-biznesie",
+          "name": "Informatyka w biznesie",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 200,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 200,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-komunikacja-spoleczna",
+          "name": "Komunikacja społeczna",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 165,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-logistyka",
+          "name": "Logistyka",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 180,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 170,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-miedzynarodowe-stosunki-gospodarcze",
+          "name": "Międzynarodowe stosunki gospodarcze",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 180,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 180,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-rachunkowosc-i-podatki",
+          "name": "Rachunkowość i podatki",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 150,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-zarzadzanie",
+          "name": "Zarządzanie",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 165,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 165,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-zarzadzanie-i-inzynieria-produkcji",
+          "name": "Zarządzanie i inżynieria produkcji",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 100,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 100,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-zarzadzanie-projektami",
+          "name": "Zarządzanie projektami",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 180,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-business-informatics",
+          "name": "Business Informatics",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 190,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 190,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-business-management",
+          "name": "Business Management",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 200,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 200,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-finance",
+          "name": "Finance",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 160,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 150,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-international-business",
+          "name": "International Business",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 170,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            },
+            {
+              "year": "2022/2023",
+              "round": null,
+              "value": 170,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        },
+        {
+          "programmeId": "uew-management-accounting",
+          "name": "Management Accounting",
+          "thresholds": [
+            {
+              "year": "2023/2024",
+              "round": null,
+              "value": 150,
+              "status": "official",
+              "sourceId": "uew-thresholds-2026",
+              "note": "Archiwalna tabela oficjalnych progów; nie określa rundy."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "uew-thresholds-2026",
+          "title": "Progi punktowe – I stopień, rekrutacja 2026/2027 (pierwsze i drugie ustalenie)",
+          "url": "https://rekrutacja.uew.pl/informacje-praktyczne/najwazniejsze-informacje/progi-punktowe/",
+          "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+          "checkedAt": "2026-10-24",
+          "kind": "official",
+          "note": "Oficjalne progi rekrutacyjne dla kandydatów obywateli polskich. Strona rozróżnia pierwsze i drugie ustalenie. Wartości odwzorowano jako oficjalne progi danej rundy, nie jako minimalne zasady kwalifikacji na przyszły nabór. Ta sama archiwalna tabela zawiera także roczniki 2024/2025, 2023/2024 i 2022/2023; w starszych tabelach bez jawnej tury round pozostaje null."
+        }
+      ]
+    }
+  ]
+}

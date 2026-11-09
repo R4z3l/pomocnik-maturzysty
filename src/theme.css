@@ -1,0 +1,67 @@
+/* Programme page: compact alternatives and a wide reading area. */
+.topbar-actions{display:flex;align-items:center;gap:12px}.theme-toggle{display:flex;align-items:center;gap:8px;font-size:12px;padding:9px 12px;white-space:nowrap}.theme-toggle>span:first-child{font-size:19px;line-height:1}
+.programme-open main{max-width:1880px;padding-top:24px}.programme-open .page-heading,.programme-open .data-notice{display:none}
+.with-detail{grid-template-columns:minmax(230px,290px) minmax(0,1fr);align-items:start;gap:24px}
+.with-detail .catalogue-list{grid-column:1;grid-row:1;position:sticky;top:20px;max-height:calc(100dvh - 40px);overflow-y:auto;overscroll-behavior:contain;padding-right:7px;scrollbar-width:thin}
+.other-programmes-heading{display:flex;align-items:center;justify-content:space-between;font-size:15px;letter-spacing:0;margin:0 0 14px}.other-programmes-heading>span{font-size:12px;color:var(--muted);font-weight:400}
+.with-detail .programme-grid{grid-template-columns:minmax(0,1fr);gap:12px}.with-detail .programme-card{padding:16px}.with-detail .programme-card h2{font-size:17px;line-height:1.4;margin-bottom:12px}.with-detail .programme-card .card-description,.with-detail .programme-card .subject-match,.with-detail .programme-card .tags{display:none}.with-detail .programme-card .card-meta{flex-wrap:wrap;font-size:10px}.with-detail .programme-card .card-actions{gap:8px;flex-wrap:wrap}.with-detail .programme-card .card-actions button{font-size:11px;padding:7px}.with-detail .programme-card .card-top{margin-bottom:12px}.with-detail .programme-card .university-logo{font-size:10px;padding:6px 8px}.with-detail .programme-card .icon-button{padding:6px;min-width:30px}
+.with-detail .detail-panel{grid-column:2;grid-row:1;position:static;max-height:none;overflow:visible;padding:32px 36px;scroll-margin-top:20px}
+.detail-topline{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:24px}.detail-topline>span{font-size:11px;color:var(--muted)}.detail-topline .close-detail{float:none;margin:0;padding-left:0}
+.detail-panel h1{font-size:clamp(28px,3vw,42px);letter-spacing:-1px;line-height:1.16;margin:20px 0 18px}.detail-panel p{font-size:14px;line-height:1.75}.detail-panel .programme-lead{font-size:16px;max-width:76ch}.detail-panel h3{font-size:20px;margin:28px 0 14px}.detail-panel h4{font-size:16px}.detail-panel small{font-size:12px}.detail-panel .facts{font-size:13px;padding:16px}.detail-panel .facts>div{gap:24px}
+.programme-sections{display:flex;flex-wrap:wrap;gap:8px;padding:18px 0 22px;border-bottom:1px solid var(--line);margin-bottom:22px}.programme-sections button{font-size:12px;padding:8px 11px;background:transparent}.detail-panel [id^="programme-"]{scroll-margin-top:24px}.detail-panel .field-label{font-size:13px}.detail-panel .advisor-caption,.detail-panel .history-panel .threshold p{font-size:12px}.detail-panel .advisor-details>summary{font-size:15px}.detail-panel .advisor-job strong{font-size:14px}.detail-panel .advisor-job li,.detail-panel .advisor-job p{font-size:13px}.detail-panel .advisor-market-counts span{font-size:11px}.detail-panel .advisor-market-counts small{font-size:10px}.detail-panel .advisor-horizons article p{font-size:14px}.detail-panel .advisor-role-list span{font-size:12px}
+@media(min-width:1700px){.with-detail{grid-template-columns:320px minmax(0,1fr);gap:32px}.with-detail .detail-panel{padding:40px 52px}}
+@media(max-width:1100px){.with-detail{grid-template-columns:minmax(210px,250px) minmax(0,1fr);gap:16px}.with-detail .detail-panel{padding:26px 24px}}
+@media(max-width:850px){.with-detail{grid-template-columns:minmax(0,1fr)}.with-detail .detail-panel{grid-column:1;grid-row:1}.with-detail .catalogue-list{grid-column:1;grid-row:2;position:static;max-height:none;overflow:visible;padding:0}.with-detail .programme-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:620px){.topbar-actions{gap:6px}.theme-toggle{padding:7px 8px;font-size:10px;gap:5px}.theme-toggle>span:first-child{font-size:16px}.programme-open main{padding-top:18px}.with-detail .detail-panel{padding:22px 18px}.detail-panel h1{font-size:30px}.detail-panel .programme-lead{font-size:14px}.detail-panel p{font-size:13px}.detail-topline{gap:8px;margin-bottom:18px}.detail-topline>span{display:none}.programme-sections{gap:6px}.programme-sections button{font-size:11px;padding:8px}.detail-panel .facts>div{gap:12px}.detail-panel .facts{padding:12px}.topbar>span{font-size:9px}}
+
+/* Dark scheme uses the existing navy / teal identity. */
+html[data-theme='dark']{--text:#e3edf4;--muted:#a6bac8;--line:#304859;--teal:#77d4cc;--night:#0c1722;--surface:#132433;--raised:#1a3041;--soft:#20394a;color:var(--text);background:var(--night);color-scheme:dark}
+html[data-theme='dark'] body{background:var(--night);color:var(--text)}
+html[data-theme='dark'] .sidebar,html[data-theme='dark'] .topbar,html[data-theme='dark'] .panel,html[data-theme='dark'] .programme-card,html[data-theme='dark'] .detail-panel{background:var(--surface);border-color:var(--line);color:var(--text)}
+html[data-theme='dark'] button,html[data-theme='dark'] .button-like,html[data-theme='dark'] input,html[data-theme='dark'] select,html[data-theme='dark'] textarea{background:var(--raised);color:var(--text);border-color:var(--line)}
+html[data-theme='dark'] button:hover,html[data-theme='dark'] .button-like:hover{background:var(--soft)}
+html[data-theme='dark'] a{color:var(--teal)}
+html[data-theme='dark'] .brand,html[data-theme='dark'] h1,html[data-theme='dark'] h2,html[data-theme='dark'] h3,html[data-theme='dark'] h4,html[data-theme='dark'] .title-button{color:var(--text)}
+html[data-theme='dark'] .brand-mark{background:#284c64;color:#edf7fc}
+html[data-theme='dark'] .muted,html[data-theme='dark'] .intro,html[data-theme='dark'] .card-description,html[data-theme='dark'] .university-name,html[data-theme='dark'] .subject-match,html[data-theme='dark'] .card-meta,html[data-theme='dark'] .sidebar-label,html[data-theme='dark'] .topbar,html[data-theme='dark'] .detail-panel p,html[data-theme='dark'] .facts dt,html[data-theme='dark'] .results-line,html[data-theme='dark'] footer,html[data-theme='dark'] .comparison-legend,html[data-theme='dark'] .field-label,html[data-theme='dark'] .rating-row small,html[data-theme='dark'] .checked{color:var(--muted)}
+html[data-theme='dark'] .nav-item{color:var(--muted)}
+html[data-theme='dark'] .nav-item.active,html[data-theme='dark'] .nav-item:hover{background:#203e4c;color:#a0e4dc}
+html[data-theme='dark'] .nav-item b{background:#345365;color:var(--text)}
+html[data-theme='dark'] .text-button,html[data-theme='dark'] .title-button,html[data-theme='dark'] .icon-button{background:transparent;color:var(--teal)}
+html[data-theme='dark'] .programme-card.selected{border-color:var(--teal)}
+html[data-theme='dark'] .search-field,html[data-theme='dark'] .search-field input{background:var(--surface);border-color:var(--line);color:var(--text)}
+html[data-theme='dark'] .data-notice,html[data-theme='dark'] .feedback,html[data-theme='dark'] .facts,html[data-theme='dark'] .subject-row.enabled,html[data-theme='dark'] .admission-result,html[data-theme='dark'] .matrix-result,html[data-theme='dark'] .exam-input{background:var(--raised);border-color:var(--line);color:var(--text)}
+html[data-theme='dark'] .data-notice strong,html[data-theme='dark'] .data-notice p,html[data-theme='dark'] .subject-row,html[data-theme='dark'] .source-register p,html[data-theme='dark'] .source-links small{color:var(--muted)}
+html[data-theme='dark'] .tag,html[data-theme='dark'] .university-logo,html[data-theme='dark'] .compare-button.added{background:#204448;color:#a0e4dc;border-color:#3f6c6e}
+html[data-theme='dark'] .tag.amber,html[data-theme='dark'] .history-warning{background:#3a3022;color:#f0c987;border-color:#9b7940}
+html[data-theme='dark'] .year-stamp{background:#263849;border-color:var(--line);color:var(--text)}
+html[data-theme='dark'] .notice-icon{background:#2b5260;color:#b8e9e3}
+html[data-theme='dark'] .primary-button{background:#166a72;border-color:#29858b;color:white}
+html[data-theme='dark'] .danger,html[data-theme='dark'] .danger-button{color:#ffb1a6}
+html[data-theme='dark'] .reset-confirm{background:#3c2b30;border-color:#785057}
+html[data-theme='dark'] .source-title,html[data-theme='dark'] .source-register article,html[data-theme='dark'] .coverage-row,html[data-theme='dark'] .card-actions,html[data-theme='dark'] .subject-row,html[data-theme='dark'] .rating-row,html[data-theme='dark'] footer,html[data-theme='dark'] .save-strip{border-color:var(--line)}
+html[data-theme='dark'] input:disabled{background:#152635;color:#728c9e;opacity:.8}
+html[data-theme='dark'] input::placeholder,html[data-theme='dark'] textarea::placeholder{color:#95adbc}
+html[data-theme='dark'] .career-advisor,html[data-theme='dark'] .career-advisor *{border-color:var(--line)}
+html[data-theme='dark'] .career-advisor p,html[data-theme='dark'] .career-advisor small,html[data-theme='dark'] .career-advisor li,html[data-theme='dark'] .advisor-job-dates dt,html[data-theme='dark'] .advisor-caption{color:var(--muted)}
+html[data-theme='dark'] .advisor-kicker,html[data-theme='dark'] .advisor-heading h3,html[data-theme='dark'] .advisor-job>summary:before{color:var(--teal)}
+html[data-theme='dark'] .advisor-callout,html[data-theme='dark'] .advisor-notes,html[data-theme='dark'] .advisor-role-list span,html[data-theme='dark'] .advisor-job-dates,html[data-theme='dark'] .advisor-market-sources,html[data-theme='dark'] .advisor-market-counts>div,html[data-theme='dark'] .advisor-horizons article>div>span,html[data-theme='dark'] .advisor-step-number{background:var(--raised);color:var(--text)}
+html[data-theme='dark'] .advisor-market-counts strong,html[data-theme='dark'] .advisor-horizons article>div>span{color:var(--teal)}
+html[data-theme='dark'] .advisor-scenario,html[data-theme='dark'] .advisor-badge{background:#1d3c3c;color:#a0e4dc}
+html[data-theme='dark'] .advisor-scenario>strong{color:#a0e4dc}
+html[data-theme='dark'] .advisor-risk,html[data-theme='dark'] .advisor-warning,html[data-theme='dark'] .advisor-badge-amber{background:#3a3022;color:#f0c987}
+html[data-theme='dark'] .advisor-risk>strong{color:#f0c987}
+html[data-theme='dark'] .advisor-horizons article{border-left-color:#4c8c92}
+html[data-theme='dark'] .advisor-experts article,html[data-theme='dark'] .advisor-evidence{background:transparent}
+
+html[data-theme='dark'] .career-advisor{color:var(--text)}
+html[data-theme='dark'] .detail-panel small,html[data-theme='dark'] .advisor-step-duration{color:var(--muted)}
+html[data-theme='dark'] .advisor-family-label,html[data-theme='dark'] .advisor-details>summary,html[data-theme='dark'] .advisor-experts>summary{color:var(--text)}
+html[data-theme='dark'] .advisor-experts{background:var(--raised)}
+html[data-theme='dark'] .advisor-warning{color:#f0c987!important}
+html[data-theme='dark'] .advisor-badge{color:#a0e4dc}
+html[data-theme='dark'] .advisor-badge-amber{color:#f0c987}
+
+html[data-theme='dark'] .empty-state{background:var(--surface);border-color:var(--line);color:var(--text)}
+html[data-theme='dark'] .empty-state p,html[data-theme='dark'] footer>span{color:var(--muted)}
+html[data-theme='dark'] .weights b{background:var(--soft);color:var(--teal)}

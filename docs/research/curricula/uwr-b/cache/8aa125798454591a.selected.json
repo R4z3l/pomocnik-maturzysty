@@ -1,0 +1,143 @@
+[
+  {
+    "page": 2,
+    "context": "STUDY PLAN Year of study: I Semester: first Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits",
+    "subjects": [
+      "Introduction to Political Science",
+      "Modern History of the World 1918-1990",
+      "Sociology",
+      "Introduction to the Study of the State and Law",
+      "Philosophy",
+      "Political Geography",
+      "Social Psychology",
+      "Introductory training in occupational safety and hygiene, fire protection",
+      "Polish Language for Foreigners (concerns only foreigners)1"
+    ]
+  },
+  {
+    "page": 4,
+    "context": "Year of study: I Semester: second Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipli",
+    "subjects": [
+      "Political Systems of Europe",
+      "History of Political Thought",
+      "Political History of Poland 1918-1990",
+      "Media and Mass Communication",
+      "Economic Policy",
+      "Introduction to Political Research",
+      "Foreign language2",
+      "Polish Language for Foreigners (concerns only foreigners)1"
+    ]
+  },
+  {
+    "page": 6,
+    "context": "Year of study: II Semester: third Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The disciplin",
+    "subjects": [
+      "Political System of Poland",
+      "Modern Political Thought",
+      "Democracy and De- democratization",
+      "Social Policy",
+      "Introduction to International Relations",
+      "World Economy",
+      "Logic",
+      "Organization and Management",
+      "Foreign language2"
+    ]
+  },
+  {
+    "page": 7,
+    "context": "Year of study: II Semester: fourth Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipl",
+    "subjects": [
+      "Contemporary International Relations",
+      "Public Administration",
+      "Self-government and Local Policy",
+      "Parties and Party Systems",
+      "Labor market and professional development",
+      "Foreign language2",
+      "Physical education3"
+    ]
+  },
+  {
+    "page": 8,
+    "context": "Year of study: III Semester: fifth Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipl",
+    "subjects": [
+      "Diploma thesis4",
+      "European Integration",
+      "Physical education3",
+      "Specialization courses within 4 elective specializations*"
+    ]
+  },
+  {
+    "page": 9,
+    "context": "Specializations: Global Security Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipli",
+    "subjects": [
+      "Strategic Studies",
+      "International Organizations",
+      "Terrorism and Counterterrorism",
+      "Crisis Management",
+      "International Security Issues",
+      "Energy Security",
+      "Strategies of National Security"
+    ]
+  },
+  {
+    "page": 10,
+    "context": "Media and Politics Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipline(s) to which t",
+    "subjects": [
+      "Introduction to Political Communication",
+      "Political Marketing",
+      "Media in Politics",
+      "Development of Mass Media in XXI Century",
+      "Introduction to Political Advertising",
+      "Marketing in Public Sector",
+      "Politics Online"
+    ]
+  },
+  {
+    "page": 11,
+    "context": "Comparative Politics Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipline(s) to which",
+    "subjects": [
+      "Methodology of Social Research",
+      "Public Policy",
+      "Electoral Systems in the World",
+      "Geopolitics",
+      "Foreign Policy",
+      "Political Communication",
+      "Non-Democratic Regimes in Modern World"
+    ]
+  },
+  {
+    "page": 12,
+    "context": "Europe in the World Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipline(s) to which",
+    "subjects": [
+      "Europe’s Role and Place in 21st Century Global Politics",
+      "EU Foreign and Defense Policy",
+      "EU Enlargement – Past and Future",
+      "European Identity",
+      "Multi-level Governance in Europe",
+      "Contemporary Problems of the EU",
+      "Ethnic Groups of the EU"
+    ]
+  },
+  {
+    "page": 13,
+    "context": "Year of study: III Semester: sixth Name of the subject/course O/ OzW* Form of course Number of class hours Way to verify learning outcomes ECTS credits The discipl",
+    "subjects": [
+      "Graduation thesis4",
+      "Social Engineering",
+      "Elective course 1**",
+      "Elective course 2**",
+      "Elective course 3",
+      "Elective course 4",
+      "Elective course 5",
+      "Elective course 6",
+      "Elective course 7"
+    ]
+  },
+  {
+    "page": 14,
+    "context": "** Elective courses: Strategic Studies, International Organizations, Introduction to Political Communication, Political Marketing, Methodology of Social Research, Public Policy, E",
+    "subjects": [
+      "mandatory – mandatory"
+    ]
+  }
+]

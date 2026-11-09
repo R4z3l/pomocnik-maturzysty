@@ -1,0 +1,6 @@
+{
+  "name": "akcja-studia-2027", "version": "0.1.0", "private": true, "type": "module",
+  "scripts": { "dev": "vite --host 127.0.0.1", "build": "tsc --noEmit && vite build", "preview": "vite preview --host 127.0.0.1", "test": "node --experimental-strip-types --test tests/*.test.ts", "validate:data": "node --experimental-strip-types scripts/validate-data.ts", "check:release": "node scripts/check-release.mjs", "update:start": "node scripts/update-workspace.mjs start", "update:report": "node scripts/update-workspace.mjs report" },
+  "dependencies": { "react": "19.3.1", "react-dom": "19.3.1" },
+  "devDependencies": { "@types/react": "19.3.0", "@types/react-dom": "19.3.0", "typescript": "7.0.2", "vite": "8.3.5" }
+}

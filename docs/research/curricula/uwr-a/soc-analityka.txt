@@ -1,0 +1,23 @@
+Analityka społeczna
+ANALITYKA SPOŁECZNA
+Opis kierunku
+Analityka społeczna to kierunek dla tych, którzy chcą łączyć wiedzę o rzeczywistości społecznej z praktycznymi umiejętnościami jej badania oraz przetwarzania dużych zbiorów danych empirycznych m.in. na potrzeby decyzji i strategii biznesowych. W trakcie studiów poznasz tradycyjne i najnowsze techniki badawcze, podstawy programowania oraz zasady pracy z bazami danych, które są wykorzystywane do analizy złożonych procesów społecznych i prognozowania ich przebiegu. Zdobędziesz także wiedzę niezbędną do zrozumienia istoty badanych zjawisk oraz właściwej interpretacji danych. Dzięki znajomości zaawansowanych technik analitycznych, podstaw programowania oraz kontekstu społecznego, będziesz potrafił wykorzystywać zgromadzone informacje do formułowania zrozumiałych wniosków i rekomendacji, które mogą być wykorzystane do podejmowania decyzji przez klientów indywidualnych, reprezentantów biznesu (w tym firmy technologiczne, konsultingowe, marketingowe, medyczne oraz naukowe), instytucje publiczne i samorządowe oraz organizacje pozarządowe.
+Program studiów obejmuje szereg zagadnień, które umożliwią:
+– dogłębne zrozumienie przyczyn zjawisk, procesów i problemów społecznych, które jest niezbędne do podejmowania trafnych decyzji biznesowych, formułowania efektywnych strategii rozwojowych oraz skutecznego rozwiązywania problemów społecznych,
+– projektowanie zaawansowanych badań społecznych,
+– gromadzenie i przetwarzanie danych z wykorzystaniem wszechstronnych i zróżnicowanych technik analitycznych (także z wykorzystaniem zbiorów big data oraz technik uczenia maszynowego),
+– wykorzystanie języków programistycznych i bazodanowych (np. Python i SQL) w pracy z danymi,
+– właściwą interpretację i skuteczne rozpowszechnianie otrzymanych wyników,
+– formułowanie praktycznych rekomendacji dla instytucji publicznych i samorządowych, organizacji pozarządowych oraz biznesu.
+Studenci zapoznają także z elementami zarządzania projektami i prawnymi podstawami gromadzenia i wykorzystania danych.
+Szczegółową wiedzę dotyczącą wyzwań analitycznych w wybranych obszarach życia społecznego, będzie można uzyskać w ramach jednej z trzech specjalności:
+Analityka, zarządzanie i edukacja w obszarze bezpieczeństwa
+Analityka danych miejskich
+Analityka danych w marketingu
+Co po studiach?
+Nasze studia przygotowują do do podjęcia pracy jako analityk, konsultant, ekspert, lider, menadżer w sektorze publicznym i prywatnym. Na tych stanowiskach wykorzystasz swoje umiejętności…
+Koła naukowe
+Swoje zainteresowania możesz poszerzać w jednym z sześciu studenckich kół naukowych działających w Instytucie Socjologii. Pamiętaj, że jako student UWr możesz się rozwijać we wszystkich kołach i organizacjach studenckich, które Cię interesują, niezależenie od kierunku studiów. Na naszej uczelni działa ponad 170 kół naukowych.
+Szczegółowe zasady rekrutacji oraz wymagania:
+studia I stopnia stacjonarne
+(3-letnie licencjackie)

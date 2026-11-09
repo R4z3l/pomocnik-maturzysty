@@ -1,0 +1,426 @@
+                                                                                           UCHWAŁA NR 22/2023
+                                                                  006                               SENATU UNIWERSYTETU WROCŁAWSKIEGO
+                                                                                                                                               z dnia 22 lutego 2023 r.
+
+                                Biologia
+                                                                                                                                          Specjalności wybierane od V semestru:
+                            studia I stopnia                                                                 biologia człowieka, biologia środowiska, biologia eksperymentalna, mikrobiologia
+                        2023/24/25/26
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+                                                                                 SEMESTR  1
+Biologia człowieka
+                                                                                3        E        50       20                         30                                25-BI-S1-E1-BiolCzl
+Human biology
+Biofizyka
+                                                                                2         Z        20       20                                                                 25-BI-S1-E1-Biof
+Biophysics
+Chemia dla biologów
+                                                                                5         Z        50       25                                   25                  25-BI-S1-E1-ChemdBio
+Chemistry for biologists
+Ekologia
+                                                                                4        E        60       30                         30                               25-BI-S1-E1-Ekol
+Ecology
+Organizmy zarodnikowe
+                                                                                4        E        55       15                                   40                   25-BI-S1-E1-OrgZarod
+Cryptogamous organisms
+Postawy biologii komórki zwierzęcej
+                                                                                2         Z        30       10                                   20                   25-BI-S1-E1-PodstBKZ
+Basics of animal cell biology
+Podstawy bioetyki
+                                                                                1         Z        15                15                                                   25-BI-S1-E3-PodBio
+Principles of bioethics
+Podstawy budowy roślin
+                                                                                3         Z        45       15                                   30                  25-BI-S1-E1-PodBudR
+Introduction to plant structure
+Podstawy komunikacji formalnej
+                                                                                1         Z        12                12                                                  25-BI-S1-E1-PodKF
+Fundamentals of formal communication
+Szkolenie BHP i Ppoż
+                                                                                0         Z        4                                    4                          00-BHP
+Health and safety
+Wprowadzenie do metod obliczeniowych w naukach biologicznych
+                                                                                1         Z        15                                   15                          25-BI-S1-E1-WprMBNB
+Introduction to computational methods in biological sciences
+Zoologia bezkręgowców
+                                                                                4        E        60       20                                   40                   25-BI-S1-E1-ZoolBez
+Invertebrate zoology
+                                                                    Razem:    30        4       416      155       27                79       155
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+                                                                                 SEMESTR  2
+Antropologia fizyczna
+                                                                                3         Z        40       15                         25                               25-BI-S1-E2-AntroFiz
+Physical anthropology
+Biochemia dla biologów
+                                                                                5         Z        50       20                                   30                    25-BI-S1-E2-BiochBio
+Biochemistry for biologists
+Histologia zwierząt
+                                                                                2         Z        30       10                                   20                   25-BI-S1-E2-HistZw
+Animal histology
+Mikrobiologia
+                                                                                4         Z        60       30                                   30                   25-BI-S1-E2-Mikrob
+Microbiology
+Ochrona środowiska
+                                                                                3         Z        45       15                         30                              25-BI-S1-E2-OS
+Environment protection
+Podstawy biologii komórki roślinnej
+                                                                                2        E        30       15                                   15                   25-BI-S1-E2-PodstBKR
+Basics of plant cell biology
+Podstawy parazytologii
+                                                                                3        E        45       20                                   25                   25-BI-S1-E2-PodPar
+Introduction to parasitology
+Rośliny nasienne
+                                                                                4        E        55       15                                   40                   25-BI-S1-E2-RosNas
+Seed plants
+Wychowanie fizyczne
+                                                                                0         Z        30                                   30                         8545-WF-…
+Physical education
+Zoologia kręgowców
+                                                                                4        E        60       20                                   40                    25-BI-S1-E2-ZoolKr
+Vertebrate zoology
+                                                                    Razem:    30        4       445      160                         85       200
+Liczba egzaminów na I roku:                                                                  8
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+                                                                                 SEMESTR  3
+Biogeografia
+                                                                                2        E        30       10       20                                                   25-BI-S1-E3-Biogeo
+Biogeography
+Etologia
+                                                                                2        E        20       20                                                               25-BI-S1-E3-Eto
+Ethology
+Fizjologia roślin
+                                                                                4        E        50       20                                   30                    25-BI-S1-E3-FizR
+Plant physiology
+Fizjologia zwierząt
+                                                                                4        E        50       20                                   30                    25-BI-S1-E3-FizZ
+Animal physiology
+Genetyka
+                                                                                4        E        60       30                                   30                   25-BI-S1-E3-Gene
+Genetics
+Język angielski w biologii
+                                                                                2         Z        15                15                                                     25-BI-S1-E3-JABi
+English language in biology
+Język angielski
+                                                                                4         Z        60                                   60                             60-S-JA-…
+English
+Podstawy immunologii
+                                                                                2         Z        25       15                         10                              25-BI-S1-E3-PodI
+Essentials of immunology
+Podstawy rozwoju zwierząt
+                                                                                2         Z        25       15                                   10                   25-BI-S1-E3-PodRZ
+Introduction to animal development
+Prawo autorskie i prawo pracy
+                                                                                1         Z        15       15                                                               25-BI-S1-E3-PrAuiprp
+Copyright and labour law
+Programy stypendialne dla studentów nauk biologicznych
+                                                                                1         Z        10                         10                                       25-BI-S1-E3-ProSSNB
+Scholarship programs for students of biological sciences
+Techniki przygotowania i prezentacji pracy naukowej
+                                                                                2         Z        30       10                         20                             25-BI-S1-E3-TPPPN
+Techniques for the preparation and presentation of scientific work
+Wychowanie fizyczne
+                                                                                0         Z        30                                   30                         8545-WF-…
+Physical education
+                                                                    Razem:    30        5       420      155       35       10       120      100
+
+
+                                                                                                     Strona 1 z 4
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+                                                                                 SEMESTR  4
+
+Ekologia roślin i zbiorowisk roślinnych (wakacyjne ćwiczenia terenowe w Karpaczu)*
+                                                                                3         Z        40                                                       40      25-BI-S1-E4-ERZRWCT
+Ecology of plants and plant communities (summer field course in Karpacz)
+
+Ekosystemy świata
+                                                                                3         Z        45       30                         15                               25-BI-S1-E4-ES
+Ecosystems of the world
+Ewolucjonizm
+                                                                                5        E        60       30                         30                             25-BI-S1-E4-Ewo
+Evolutionism
+Język angielski
+                                                                                4         Z        60                                   60                             60-S-JA-…
+English
+Metody in silico i statystyka dla biologów
+                                                                                3         Z        45       15                         30                              25-BI-S1-E4-MetiSiSB
+Methods in silico and statistics for biologists
+Paleontologia
+                                                                                4        E        55       25                         30                               25-BI-S1-E4-Pal
+Palaeontology
+Paleontologia w praktyce (wakacyjne ćw. terenowe)*
+                                                                                2         Z        20                                                       20      25-BI-S1-E4-PPWCT
+Palaeontology in practice (summer field course)
+Psychologiczno-biologiczne uwarunkowania ludzkich zachowań
+                                                                                3         Z        40       25                         15                             25-BI-S1-E4-PBUZL
+Psycho-biological determinants of human behaviour
+Różnorodność zwierząt (wakacyjne ćw. terenowe w Rudzie Milickiej)*
+                                                                                3         Z        40                                                       40      25-BI-S1-E4-RZWCT
+Diversity of animals (summer field course in Ruda Milicka)
+                                                                    Razem:    30        2       405      125                        180                 100
+Liczba egzaminów na II roku:                                                                 7
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+
+                                                                            SPECJALNOŚĆ BIOLOGIA CZŁOWIEKA
+
+                                                                                 SEMESTR  5
+Ekologia człowieka
+                                                                                3        E        30       30                                                              25-BI-S1-E5-ECbc
+Human ecology
+Metody antropologiczne w kryminalistyce
+                                                                                2         Z        30                                   30                            25-BI-S1-E5-MAKbc
+Anthropological methods in forensic science
+Osteometria i kranioskopia
+                                                                                4        E        45       15                         30                             25-BI-S1-E5-OKbc
+Osteometry and cranioscopy
+Podstawy statystyki w naukach o człowieku
+                                                                                5        E        60       25                         35                             25-BI-S1-E5-PSNCbc
+Introduction to statistics in the human sciences
+Prymatologia
+                                                                                2         Z        25       15                         10                              25-BI-S1-E5-Pbc
+Primatology
+Język angielski
+                                                                                4        E        60                                   60                             60-S-JA-…
+English
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E5-PrzyPL
+Preparation of B.Sc. thesis
+                                                                    Razem:    30        4       250       85                         165
+                                                                                 SEMESTR  6
+Antropometria i antroposkopia
+                                                                                4         Z        50                                   50                             25-BI-S1-E6-AAbc
+Anthropometry and anthroposcopy
+Antropogeneza
+                                                                                4        E        45       30                         15                              25-BI-S1-E6-Agbc
+Anthropogenesis
+Ergonomia
+                                                                                1         Z        15       15                                                               25-BI-S1-E6-Erbc
+Ergonomics
+Etologia człowieka
+                                                                                3         Z        30                                   30                              25-BI-S1-E6-ECbc
+Human ethology
+Rozwój osobniczy i zdrowie człowieka
+                                                                                4         Z        60       30                         30                             25-BI-S1-E6-ROZCbc
+Ontogenesis and human health
+Wprowadzenie do ekologii behawioralnej człowieka
+                                                                                2         Z        15                                   15                            25-BI-S1-E6-WEBCbc
+Introduction to human behavioural ecology
+Zarys współczesnych metod badań w paleoantropologii
+                                                                                2         Z        30       15                         15                           25-BI-S1-E6-ZWMBPbc
+Introduction to contemporary research methods in paleoanthropology
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E6-PrzyPL
+Preparation of B.Sc. Thesis
+                                                                    Razem:    30        1       245       90                         140
+Liczba egzaminów na roku III:                                                                 5
+Liczba godzin obowiązkowych w ciągu 6 semestrów:                                                     2181
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+
+                                                                            SPECJALNOŚĆ BIOLOGIA ŚRODOWISKA
+
+                                                                                 SEMESTR  5
+Bioindykatory i bioindykacja
+                                                                                1         Z        20        5                          15                              25-BI-S1-E5-BBbs
+Bioindicators and bioindication
+Biologia lasu - wprowadzenie
+                                                                                1         Z        20       20                                                           25-BI-S1-E5-BLWbs
+Introducion to forest biology
+Ewolucja i biologia bezkręgowców
+                                                                                2         Z        30       15                         15                             25-BI-S1-E5-EBBbs
+Evolution and biology of invertebrates
+Ewolucja i biologia kręgowców
+                                                                                2         Z        30       15                         15                              25-BI-S1-E5-EBKbs
+Evolution and biology of vertebrates
+Genetyka populacyjna**
+                                                                                2         Z        30       15                         15                             25-BI-S1-E5-GPbs
+Population genetics
+Grzyby Polski*
+                                                                                3        E        35       10                         15                  10       25-BI-S1-E5-GrPbs
+Fungi of Poland
+Kręgowce Polski*
+                                                                                3        E        30       14                         16                              25-BI-S1-E5-KPbs
+Vertebrates of Poland
+Kształtowanie się środowiska przyrodniczego Ziemi
+                                                                                1         Z        20       10                         10                              25-BI-S1-E5-KSPZbs
+Earth surface processes
+Problematyka badawcza w biologii środowiskowej
+                                                                                2         Z        15                         15                                        25-BI-S1-E5-PBBSbs
+Research issues in environmental biology
+Język angielski
+                                                                                4        E        60                                   60                             60-S-JA-…
+English
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E5-PrzyPL
+Preparation of B.Sc. thesis
+                                                                    Razem:    31        3       290      104                15       161                  10
+
+
+
+                                                                                                     Strona 2 z 4
+                                                                                 SEMESTR  6
+Bezkręgowce Polski*
+                                                                                3        E        40       14                         18                   8       25-BI-S1-E6-BPbs
+Invertebrates of Poland
+Ekologia roślin
+                                                                                3         Z        35       10                         25                              25-BI-S1-E6-EkRbs
+Ecology of plants
+Ekologia zwierząt*
+                                                                                2         Z        30       15                                              15       25-BI-S1-E6-EZbs
+Ecology of animals
+Ewolucja roślin nasiennych
+                                                                                2         Z        30       15                         15                             25-BI-S1-E6-ERNbs
+Evolution of seed plants
+Inwazje biologiczne*
+                                                                                3         Z        40       15                         15                  10       25-BI-S1-E6-IBbs
+Biological invasions
+Ochrona różnorodności gatunkowej w Polsce*
+                                                                                3         Z        34       12                                              22      25-BI-S1-E6-ORGPbs
+Protection of biodiversity in Poland
+Rośliny nasienne Polski*
+                                                                                3        E        35       15                         15                   5       25-BI-S1-E6-RNPbs
+Seed plants of Poland
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E6-PrzyPL
+Preparation of B.Sc. thesis
+                                                                    Razem:    29        2       244       96                         88                  60
+Liczba egzaminów na roku III:                                                                 5
+Liczba godzin obowiązkowych w ciągu 6 semestrów:                                                     2220
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+
+                                                                         SPECJALNOŚĆ BIOLOGIA EKSPERYMENTALNA
+
+                                                                                 SEMESTR  5
+Biologia molekularna w diagnostyce
+                                                                                2         Z        15                                   15                          25-BI-S1-E5-BMDbemb
+Molecular biology in diagnostic
+Fizjologia wzrostu i rozwoju roślin
+                                                                                4        E        40       10                                   30                  25-BI-S1-E5-FWRRbe
+Physiology of plant growth and development
+Metabolity wtórne roślin i ich praktyczne zastosowanie
+                                                                                3         Z        40       10                                   30                 25-BI-S1-E5-MWRPZbe
+Plant secondary metabolites
+Obliczenia w biochemii i biologii
+                                                                                1         Z        15                                   15                            25-BI-S1-E5-OBBbe
+Calculations in biochemistry and biology
+Struktura i funkcja białka
+                                                                                3        E        45       15                30                                        25-BI-S1-E5-SFBbe
+Protein structure and function
+Techniki badawcze w biologii roślin
+                                                                                4         Z        45                                            45                  25-BI-S1-E5-TBBRbe
+Research techniques in plant biology
+Język angielski
+                                                                                4        E        60                                   60                             60-S-JA-…
+English
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E5-PrzyPL
+Preparation of B.Sc. thesis
+                                                                    Razem:    31        3       260       35                30       90       105
+                                                                                 SEMESTR  6
+Biochemiczne podstawy odżywiania roślin
+                                                                                4         Z        40       10                                   30                  25-BI-S1-E6-BPODbe
+Mineral nutrition of plants
+Biologia rozwoju organizmów modelowych**
+                                                                                3         Z        45       15                                   30                 25-BI-S1-E6-BROMbe
+Developmental biology of model organisms
+Biologia rozwoju roślin
+                                                                                3        E        45       15                                   30                   25-BI-S1-E6-BRRbe
+Plant developmental biology
+Genetyka człowieka
+                                                                                2        E        30       15       15                                                 25-BI-S1-E6-GCbe
+Human genetics
+Genetyka molekularna
+                                                                                5        E        75       30                                   45                 25-BI-S1-E6-GMbemb
+Molecular genetics
+Techniki histologiczne
+                                                                                2         Z        30       10                                   20                   25-BI-S1-E6-THbe
+Histological techniques
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E6-PrzyPL
+Preparation of B.Sc. thesis
+                                                                    Razem:    29        3       265       95       15                         155
+Liczba egzaminów na roku III:                                                                 6
+Liczba godzin obowiązkowych w ciągu 6 semestrów:                                                     2211
+                                                                                                                    liczba                                                              Kod
+                            Studia I stopnia BIOLOGIA                           ECTS      E/Z               wykł.    konw.    sem.      ćw.       lab.      ćw. ter.
+                                                                                                  godzin                                                          USOS
+
+                                                                               SPECJALNOŚĆ MIKROBIOLOGIA
+
+                                                                                 SEMESTR  5
+Bakteriologia
+                                                                                4        E        50       20                                   30                  25-BI-S1-E5-Bmb
+Bacteriology
+Choroby inwazyjne
+                                                                                4         Z        45       20                                   25                   25-BI-S1-E5-CImb
+Infectious parasitic diseases
+Mikroflora człowieka
+                                                                                3        E        40       20                                   20                 25-BI-S1-E5-MCmb
+Human microbiota
+Wirusologia
+                                                                                5        E        60       30                         30                              25-BI-S1-E5-Wirusol
+Virology
+Język angielski
+                                                                                4        E        60                                   60                             60-S-JA-…
+English
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E5-PrzyPL
+Preparation of B.Sc. thesis
+                                                                    Razem:    30        4       255       90                         90       75
+                                                                                 SEMESTR  6
+Budowa i funkcje struktur komórkowych mikroorganizmów
+                                                                                5         Z        60       30                                   30                  25-BI-S1-E6-BFSKmb
+Structure and function of microbial cell units
+Człowiek w układzie pasożyt-żywiciel
+                                                                                1         Z        15       15                                                         25-BI-S1-E6-CUPZmb
+Human in a host-parasite relationship
+Genetyka molekularna
+                                                                                5        E        75       30                                   45                 25-BI-S1-E6-GMbemb
+Molecular genetics
+Mikrobiologia środowiska*
+                                                                                4        E        50       20                                   20         10      25-BI-S1-E6-MSmb
+Environmental microbiology
+Mykologia
+                                                                                5        E        60       30                                   30                 25-BI-S1-E6-Mmb
+Mycology
+Przygotowanie pracy licencjackiej
+                                                                               10        Z      bw                                                                          25-BI-S1-E6-PrzyPL
+Preparation of B.Sc. thesis
+
+
+
+                                                                                                     Strona 3 z 4
+                                                                    Razem:    30        3       260      125                                 125        10
+Liczba egzaminów na roku III:                                                                 7
+Liczba godzin obowiązkowych w ciągu 6 semestrów:                                                     2201
+
+
+Semestry 5 i 6 na wszystkich specjalnościach studiów mogą być realizowane w sposób alternatywny poprzez realizację projektu badawczego w ramach IPPS, opcja ta przeznaczona jest wyłącznie dla studentów ze średnią minimum
+4.5. Student w semestrze 5. i 6. będzie zobowiązany do dokończenia kształcenia językowego, do realizacji pracy dyplomowej oraz do ułożenia indywidualnego programu studiów tak, aby każdy z semestrów ukończyć na poziomie min.
+30 ECTS. Projekt badawczy nie może stanowić części pracy dyplomowej.
+Projekt badawczy, semestr 5
+                                                                               10        Z      bw                                                                    25-BI-S1-W-PB5
+Research project
+Projekt badawczy, semestr 6
+                                                                               10        Z      bw                                                                    25-BI-S1-W-PB6
+Research project
+
+ *Studenci ponoszą koszty dojazdu i wyżywienia podczas ćwiczeń terenowych
+**Kurs e-blended
+
+
+
+
+
+                                                                                                     Strona 4 z 4

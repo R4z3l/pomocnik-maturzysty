@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "uwr-anglistyka-plan",
+    "url": "https://ifa.uwr.edu.pl/wp-content/uploads/sites/18/2025/05/DSL-1-w-2025-26.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-chorwacka-z-jezykiem-serbskim-plan",
+    "url": "https://ifs.uwr.edu.pl/wp-content/uploads/sites/139/2025/09/FILOLO1-1.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-czeska-plan",
+    "url": "https://ifs.uwr.edu.pl/wp-content/uploads/sites/139/2025/09/Filologia-czeska_8.05.2025-2.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-francuska-plan",
+    "url": "https://ifr.uwr.edu.pl/wp-content/uploads/sites/246/2025/05/Uchwala-Nr-41_2025-Senatu-UWr-z-2025-04-23-w-sprawie-programu-studiow-dla-kierunku-Filologia-francuska-studia-stacjonarne-I-stopnia.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-hiszpanska-plan",
+    "url": "https://ifr.uwr.edu.pl/wp-content/uploads/sites/246/2025/05/Uchwala-Nr-42_2025-Senatu-UWr-z-2025-04-23-w-sprawie-programu-studiow-dla-kierunku-Filologia-hiszpanska-studia-stacjonarne-I-stopnia.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-indyjska-plan",
+    "url": "https://isksio.uwr.edu.pl/wp-content/uploads/sites/249/2025/05/indologia_Uchwala-Nr-57_2025-Senatu-UWr-z-2025-05-21.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-klasyczna-plan",
+    "url": "https://isksio.uwr.edu.pl/wp-content/uploads/sites/249/2025/05/klasyczna_-Uchwala-Nr-54_2025-Senatu-UWr-z-2025-05-21.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-rosyjska-plan",
+    "url": "https://ifs.uwr.edu.pl/wp-content/uploads/sites/139/2025/09/Filologia-rosyjska_8.05.2025-2.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "uwr-filologia-ukrainska-plan",
+    "url": "https://ifs.uwr.edu.pl/wp-content/uploads/sites/139/2025/09/Filologia_ukrainska_8.05.2025-3.pdf",
+    "error": "No module named 'pymupdf'"
+  },
+  {
+    "name": "bio-biologia",
+    "url": "https://biologia.uwr.edu.pl/organizacja-roku-akademickiego/plany-zajec/1-stopien/kierunek-biologia/",
+    "type": "html",
+    "links": [
+      [
+        "Uchwałą Senatu UWr Nr 22/2023",
+        "https://bip.uni.wroc.pl/download/attachment/36702/uchwala-nr-22_2023-senatu-uwr-z-2023-02-22-w-sprawie-programu-studiow-dla-kierunku-biologia-na-poziomie-studiow-pierwszego-i-drugiego-stopnia.pdf"
+      ],
+      [
+        "Uchwała Nr 723/2021",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/08/Uchawla-PKA-723-2021-akredytacja-biologia-do-2026-27-1.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2023/24) pdf 1 MB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/07/Efekty-uczenia-sie-Biologia-I-stopien-Uchwala-Senatu-22-2023.pdf"
+      ],
+      [
+        "kierunek biologia pdf 606 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/06/Program_Biologia-Studia-I-stopnia_-23_24-3.06.25.pdf"
+      ],
+      [
+        "kierunek biologia, sp. nauczycielska pdf 576 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/11/Biologia-nova-nauczycielska-I-stopnia_23_24-14.11.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 622 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/09/bi_s1_I-i-II-rok_23.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia eksperymentalna pdf 224 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/09/Kierunek-Biologia-sp.BE-III-lic.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 478 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/10/bi-bs_s1_III-rok_9.10.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 222 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/09/Kierunek-Biologia-sp.MB-III-lic.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 420 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/legenda-do-planow-b.pdf"
+      ],
+      [
+        "dotyczy przedmiotów do wyboru za ilość punktów ECTS większą niż 2 Oświadczenie w sprawie wyboru przedmiotów za ponadprogramową liczbę punktów ECTS pdf 182 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/oswiadczenie_wzor.pdf"
+      ],
+      [
+        "dotyczy przedmiotów do wyboru za ilość punktów ECTS większą niż 2 Podanie o wyrażenie zgody na realizację dodatkowych przedmiotów do wyboru pdf 132 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/podanie_wzor.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 829 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/02/bi-lic-I-i-II-rok-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia eksperymentalna pdf 725 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/02/bi-be-lic-III-rok.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 794 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/02/bi-bs-lic-III-rok-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 563 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/03/Kierunek-Biologia-Mikrobiologia-III-lic.-02.03.2026.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 949 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/11/biologia-I-i-II-rok-lic.-13.11.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia eksperymentalna pdf 450 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/09/Kierunek-Biologia-sp.Biologia-eksperymentalna-III-lic-sem.zimowy-25-26.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 983 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/09/biologia-biologia-srodowiska-III-lic_23.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 665 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/09/Kierunek-Biologia-sp.MBIII-lic.-sem-zimowy-25-26.pdf"
+      ],
+      [
+        "kierunek biologia pdf 606 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/Biologia-Studia-I-stopnia_23_24.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2021/22) pdf 1 MB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/07/Efekty-uczenia-sie-Biologia-I-stopien-Uchwala-Senatu-88-2021.pdf"
+      ],
+      [
+        "kierunek biologia pdf 329 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/04/Program_Biologia-Studia-I-stopnia-2021_22_23_24-1-11-1-6.pdf"
+      ],
+      [
+        "kierunek biologia, sp. nauczycielska pdf 380 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/04/Biologia-nova-nauczycielska-I-st.-23.09.21-3-3.pdf"
+      ],
+      [
+        "Oświadczenie w sprawie wyboru przedmiotów za ponadprogramową liczbę punktów ECTS pdf 182 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/oswiadczenie_wzor.pdf"
+      ],
+      [
+        "Podanie o wyrażenie zgody na realizację dodatkowych przedmiotów do wyboru pdf 132 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/podanie_wzor.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 768 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/02/bi-studia-licencjackie-I-i-II-rok-14.02.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia człowieka pdf 125 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/02/biologia-III-lic-biologia-czlowieka-lato-2024-2025-2.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 740 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/02/bi-biologia-srodowiska-studia-licencjackie-III-rok-14.02.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 529 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/02/PLAN-III-LIC.BIOL_.MB-14.02.2025.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 423 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/legenda.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 910 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/11/biologia-I-i-II-lic_12.11-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia człowieka pdf 143 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/10/biologia-III-lic-biologia-czlowieka-zima-2024-2025-w2.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 960 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/09/biologia-biologia-srodowiska-III-lic-20.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 512 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/09/Biologia-sp.Mikrobiologia-lic-24-25-20.09.2024.pdf"
+      ],
+      [
+        "kierunek biologia pdf 601 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/11/Program_Biologia-Studia-I-stopnia_-23_24-1411.pdf"
+      ],
+      [
+        "kierunek biologia pdf 329 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/04/Program_Biologia-Studia-I-stopnia-2021_22_23_24-1-11-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 453 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/bi-s1-I-i-II-rok-semestr-letni-23-24_1902.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia człowieka pdf 115 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/B-BCz-lic-III-letni-23-24-20.02.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia eksperymentalna pdf 640 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/03/BI-BE-lic-26.02.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 360 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/bi-bs-s1-III-rok-semestr-letni-23-24_2002.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 764 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/03/BI-MB-lic-28.03.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 268 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/10/biologia-I-i-II-rok-studia-licencjackie-23-24-semestr-zimowy-2.10-3.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia człowieka pdf 137 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/10/III-lic-Biologia-czlowieka-specjalnosc-w3.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia eksperymentalna pdf 505 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/III-lic-BI-BE-21.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 723 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/10/biologia-biologia-srodowiska-III-rok-studia-licencjackie-23-24-semestr-zimowy-05.10.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 644 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/Lic-Kierunek-Biologia-sp.mikrobiologia-III-rok-21.09.pdf"
+      ],
+      [
+        "kierunek biologia pdf 329 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/08/Program_Biologia-Studia-I-stopnia-2021_22_23_24-1-11-1.pdf"
+      ],
+      [
+        "kierunek biologia, sp. nauczycielska pdf 380 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/08/Biologia-nova-nauczycielska-I-st.-23.09.21-2.pdf"
+      ],
+      [
+        "kierunek biologia pdf 329 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/09/Program_Biologia-Studia-I-stopnia-2021_22_23_24-1-11.pdf"
+      ],
+      [
+        "kierunek biologia, sp. nauczycielska pdf 380 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/08/Biologia-nova-nauczycielska-I-st.-23.09.21-3.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2020/21) pdf 1 MB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/07/Efekty-uczenia-sie-Biologia-I-stopien-Uchwala-Senatu-54-2020.pdf"
+      ],
+      [
+        "kierunek biologia pdf 457 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/08/Biologia-Studia-I-stopnia-2019_20-1.pdf"
+      ],
+      [
+        "kierunek biologia, sp. nauczycielska pdf 380 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/06/Biologia-nova-nauczycielska-I-st.-23.09.21-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 219 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/02-bi-s1I-i-II-rok-27.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. nauczycielska pdf 449 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/III-lic-Biologia-Nauczycielska-29.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 146 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/04-bi-bs-s1-27.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 494 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/III-lic-Biologia-Mikrobiologia-29.09.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 415 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/legenda-2009.pdf"
+      ],
+      [
+        "kierunek biologia pdf 457 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/08/Program_Biologia-Studia-I-stopnia-2021_22_23_24-1-11-2.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II rok pdf 299 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/01biologia-s1-I-i-II-rok-610.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I i II rok, sp. nauczycielska pdf 469 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/BIOLOGIA-SP.NAUCZYCIELSKA-LIC.-I-II-21-22-23.09-2.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia środowiska pdf 213 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/01biologia-biologia-srodowiska-s1-III-rok-1712.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. mikrobiologia pdf 501 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/BIOLOGIA-SP.MIKROBIOLOGIA-LIC-III-21-22-23.09.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie III rok, sp. biologia eksperymentalna pdf 167 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/01biologia-biologia-eksperymentalna-s1-III-rok-4.10.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 137 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/00legenda-do-planow-1.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "bio-czlowieka",
+    "url": "https://biologia.uwr.edu.pl/organizacja-roku-akademickiego/plany-zajec/1-stopien/kierunek-biologia-czlowieka/",
+    "type": "html",
+    "links": [
+      [
+        "Uchwałą Senatu UWr Nr 164/2023",
+        "https://bip.uni.wroc.pl/download/attachment/38166/uchwala-nr-164_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-biologia-czlowieka-i-stopnia.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2023/24) pdf 504 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/07/Efekty-uczenia-sie-Biologia-Czlowieka-I-stopien-Uchwala-Senatu-164-2023.pdf"
+      ],
+      [
+        "Program studiów pdf 585 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/I-i-II-lic-BC-24-25-program.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 533 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/06/bc-s1-26-27-11.06.pdf"
+      ],
+      [
+        "dotyczy przedmiotów do wyboru za ilość punktów ECTS większą niż 2 Oświadczenie w sprawie wyboru przedmiotów za ponadprogramową liczbę punktów ECTS pdf 182 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/oswiadczenie_wzor.pdf"
+      ],
+      [
+        "dotyczy przedmiotów do wyboru za ilość punktów ECTS większą niż 2 Podanie o wyrażenie zgody na realizację dodatkowych przedmiotów do wyboru pdf 132 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/podanie_wzor.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie kierunek biologia człowieka pdf 307 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/10/biologia-czlowieka-I-II-i-III-lic-zima-2026-2027-w3.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 811 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/10/legenda-BC.pdf"
+      ],
+      [
+        "Program studiów dla studentów I i II roku pdf 585 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/I-i-II-lic-BC-24-25-program.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 553 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/05/przedmioty-do-wyboru-25-26-lic-BC.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie kierunek biologia człowieka pdf 200 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/03/biologia-czlowieka_lic-lato-2025-2026-w2.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 420 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/legenda-do-planow-b.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie kierunek biologia człowieka pdf 642 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/10/biologia-czlowieka-I-i-II-lic-zima-2025-2026-w2.pdf"
+      ],
+      [
+        "Program studiów dla studentów III roku pdf 597 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/06/BC-2-i-3-rok...-1.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 559 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/BC-lic-wybory-24-25.pdf"
+      ],
+      [
+        "Oświadczenie w sprawie wyboru przedmiotów za ponadprogramową liczbę punktów ECTS pdf 182 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/oswiadczenie_wzor.pdf"
+      ],
+      [
+        "Podanie o wyrażenie zgody na realizację dodatkowych przedmiotów do wyboru pdf 132 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/podanie_wzor.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, III rok pdf 197 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/02/biologia-czlowieka-I-i-III-lic-lato-2024-2025-w2.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 423 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/legenda.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie kierunek biologia człowieka pdf 230 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/10/biologia-czlowieka-I-III-lic-zima-2024-2025-w2.pdf"
+      ],
+      [
+        "Program studiów dla studentów I  roku pdf 585 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/11/BC-lic-1rok-1.pdf"
+      ],
+      [
+        "Program studiów dla studentów II i III roku pdf 597 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/06/BC-2-i-3-rok...-1.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 558 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/11/BC-lic-przedmioty-do-wyboru-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 203 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/BCz-lic-letni-23-24-20.02.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 222 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/10/biologia-czlowieka-I-II-i-III-rok-plany-licencjackie-23-24-semestr-zimowy-w4.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2021/22) pdf 485 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/07/Efekty-uczenia-sie-Biologia-Czlowieka-I-stopien-Uchwala-Senatu-89-2021.pdf"
+      ],
+      [
+        "Program studiów dla studentów I i II roku pdf 315 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/06/Program-BCz-I-stopnia-program-005-2021_2022.pdf"
+      ],
+      [
+        "Program studiów dla studentów III roku pdf 435 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/06/Biologia-czlowieka-I-stopnia-program-004-2019_2020-2.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 216 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/przedmioty-do-wyboru-biologia-czlowieka-2022-2023-1-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 220 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/02/Biologia-czlowieka-lic.-I-II-III-w2.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 37 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/02/legenda-aktulna.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 213 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/02/Biologia-czlowieka-lic.-I-II-III.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 431 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/budynki-WNB-na-strone-1.pdf"
+      ],
+      [
+        "Program studiów dla studentów I roku pdf 315 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/Program-BCz-I-stopnia-program-005-2021_2022.pdf"
+      ],
+      [
+        "Program studiów dla studentów II III roku pdf 435 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/Biologia-czlowieka-I-stopnia-program-004-2019_2020-2.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 436 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/BC-I-stopnien-przedmioty-do-wyboru-2021-22.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "bio-genetyka",
+    "url": "https://biologia.uwr.edu.pl/organizacja-roku-akademickiego/plany-zajec/1-stopien/kierunek-genetyka-i-biologia-eksperymentalna/",
+    "type": "html",
+    "links": [
+      [
+        "Uchwałą Senatu UWr Nr 90/2021",
+        "https://bip.uni.wroc.pl/download/attachment/30256/uchwala-nr-90_2021-senatu-uwr-z-dnia-2021-06-23-w-sprawie-programu-studiow-dla-kierunku-genetyka-i-biologia-eksperymentalna-i-i-ii-stopnia.pdf"
+      ],
+      [
+        "Uchwałą Senatu UWr Nr 85/2024",
+        "https://bip.uni.wroc.pl/download/attachment/41762/uchwala-nr-85_2024-senatu-uwr-z-2024-05-22-w-sprawie-programu-studiow-dla-kierunku-genetyka-i-biologia-eksperymentalna-studia-stacjonarne-i-i-ii-stopnia.pdf"
+      ],
+      [
+        "Uchwała nr 810/ 2023",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/PKA-GiBE.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2024/25) pdf 61 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/04/OPIS-ZAKLADANYCH-EFEKTOW_I-STOPIEN_GIBE_24_25.pdf"
+      ],
+      [
+        "Przedmioty do wyboru pdf 536 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/06/gbe-s1-26-27-11.06.pdf"
+      ],
+      [
+        "dotyczy przedmiotów do wyboru za ilość punktów ECTS większą niż 2 Oświadczenie w sprawie wyboru przedmiotów za ponadprogramową liczbę punktów ECTS pdf 182 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/oswiadczenie_wzor.pdf"
+      ],
+      [
+        "dotyczy przedmiotów do wyboru za ilość punktów ECTS większą niż 2 Podanie o wyrażenie zgody na realizację dodatkowych przedmiotów do wyboru pdf 132 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/podanie_wzor.pdf"
+      ],
+      [
+        "Program studiów pdf 498 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/I-lic-GiBE-24-25-program.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 457 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/09/Kierunek-GBE-I-II-III-lic-25.09.2026-1.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 420 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/legenda-do-planow-b.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 803 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/03/Kierunek-Genetyka-i-biologia-eksperymentalna-I-II-III-lic-02.03.2026.pdf"
+      ],
+      [
+        "Efekty uczenia się (dla cyklu rozpoczynającego się od roku akad. 2021/22) pdf 455 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/07/Efekty-uczenia-sie-Genetyka-i-Biologia-Eksperymentalna-I-stopien-Uchwala-Senatu-90-2021.pdf"
+      ],
+      [
+        "Program studiów dla studentów I i II roku pdf 498 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/I-lic-GiBE-24-25-program.pdf"
+      ],
+      [
+        "Program studiów dla studentów III roku pdf 716 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/II-i-III-lic-GiBE-24-25-program.pdf"
+      ],
+      [
+        "Proponowane przedmioty do wyboru na rok akademicki 2025/2026 pdf 575 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/05/przedmioty-do-wyboru-25-26-LIC-GBE.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 831 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/11/Kierunek-GiBE-lic-sem.zimowy-zmiana-planu-24.11.2025-r.pdf"
+      ],
+      [
+        "Program studiów dla studentów I roku pdf 498 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/I-lic-GiBE-24-25-program.pdf"
+      ],
+      [
+        "Program studiów dla studentów II i III roku pdf 716 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/06/II-i-III-lic-GiBE-24-25-program.pdf"
+      ],
+      [
+        "Proponowane przedmioty do wyboru na rok akademicki 2024/2025 pdf 576 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/09/GiBE-lic-wybory-24-25-23.09.pdf"
+      ],
+      [
+        "Oświadczenie w sprawie wyboru przedmiotów za ponadprogramową liczbę punktów ECTS pdf 182 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/oswiadczenie_wzor.pdf"
+      ],
+      [
+        "Podanie o wyrażenie zgody na realizację dodatkowych przedmiotów do wyboru pdf 132 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/05/podanie_wzor.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 655 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2025/02/GiBE-lic-24-25-lato-27.02.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 423 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/legenda.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 1 MB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/11/GiBE-LIC-24-25-zima-12.11-2.pdf"
+      ],
+      [
+        "Program studiów dla studentów I-III roku 2023/24 pdf 715 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/06/GiBE-S1-23-24.pdf"
+      ],
+      [
+        "Proponowane przedmioty do wyboru na rok akademicki 2023/2024 pdf 690 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/04/GiBE-lic-wybory-23-24.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 1 MB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2024/02/GiBE-lic-19.02-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, III rok pdf 1 MB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/09/IIIIII-lic-GiBE-22.09.pdf"
+      ],
+      [
+        "Program studiów dla studentów I i II roku 2022/23 pdf 385 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/11/GiBE-I-stopien-1-i-2-rok.pdf"
+      ],
+      [
+        "Program studiów dla studentów III roku 2022/23 pdf 595 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/11/GiBE-I-stopien-3rok.pdf"
+      ],
+      [
+        "Proponowane przedmioty do wyboru na rok akademicki 2022/2023 pdf 222 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/10/wybory-22-23-gibe-lic-lista-14.10.2022-1.pdf"
+      ],
+      [
+        "Plan zajęć studia licencjackie I, II, IIIrok pdf 735 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/03/GiBE-S1-21.03.pdf"
+      ],
+      [
+        "Legenda do planu zajęć pdf 37 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2023/02/legenda-aktulna.pdf"
+      ],
+      [
+        "Program studiów dla studentów I roku 2021/22 pdf 321 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/Program_GiBE-Studia-I-stopnia_2021_22_23-24-1.pdf"
+      ],
+      [
+        "Program studiów dla studentów II i III roku 2021/22 pdf 434 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/GiBE-I-2019-2020-1.pdf"
+      ],
+      [
+        "Proponowane przedmioty do wyboru na semestr zimowy i letni pdf 534 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2022/05/GiBE-I-stopien-przedmioty-do-wyboru-2021-22.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "bio-genetics",
+    "url": "https://biologia.uwr.edu.pl/en/study-programme-schedule/field-of-study-genetics-and-experimental-biology/",
+    "type": "html",
+    "links": [
+      [
+        "Learning outcomes pdf 366 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/05/learning-outcomes.pdf"
+      ],
+      [
+        "Study programme pdf 477 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/06/program-gbe-lic-an-15.06.pdf"
+      ],
+      [
+        "Optional subjects pdf 574 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/06/przedmioty-do-wyboru-gbe-lic-an-15.06.pdf"
+      ],
+      [
+        "Class schedules Genetics and Experimental Biology pdf 413 KB",
+        "https://biologia.uwr.edu.pl/wp-content/uploads/sites/168/2026/09/gbe_an_s1_I-rok_25.09.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "law-programs",
+    "url": "https://prawo.uwr.edu.pl/strona-glowna2-2/kandydaci/kierunki-studiow/",
+    "type": "html",
+    "links": [
+      [
+        "Administracja",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/zalaczniki-do-uchwaly-nr-133_2019-od-1-do-41-zalacznik-1-AD-S1-i-Z1-2-AD-S2-i-Z2-10-BBA-26-CJ-33-EK-S1-i-Z1-34-EK-S2-i-Z2-1.pdf"
+      ],
+      [
+        "Ekonomia",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/Program-studiow-EKONOMIA.pdf"
+      ],
+      [
+        "Ekonomia od 2025/2026",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/09/Uchwala-Nr-65_2025-Senatu-UWr-z-2025-05-21-w-sprawie-programu-studiow-dla-kierunku-Ekonomia-studia-stacjonarne-i-niestacjonarne-I-i-II-stopnia.pdf"
+      ],
+      [
+        "Ekonomia od 2026/2027",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2026/09/EK-S1S2Z1Z2-2026_27-Uchwala-Nr-71_2026-Senatu-UWr-z-2026-06-24-w-sprawie-programu-studiow-dla-kierunku-ekonomia-stacjonarne-i-niestacjonarne-I-i-II.pdf"
+      ],
+      [
+        "Prawo e-biznesu",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/E-BIZNES-uchwala-nr-57_2023-senatu-uwr-z-2023-03-22-w-sprawie-programu-studiow-dla-kierunku-prawo-e-biznesu-i-stopni.pdf"
+      ],
+      [
+        "Kryminologia",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/KRYMINOLOGIA-I-uchwala-nr-58_2023-senatu-uwr-z-2023-03-22-w-sprawie-programu-studiow-dla-kierunku-kryminologia-i-stopnia.pdf"
+      ],
+      [
+        "Administracja",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/ADMINISTRACJA-II-uchwala-nr-61_2023-senatu-uwr-z-2023-03-22-w-sprawie-programu-studiow-dla-kierunku-administracja-ii-stopnia.pdf"
+      ],
+      [
+        "Ekonomia",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/Uchwala-Nr-93_2023-Senatu-UWr-z-2023-04-26-w-sprawie-programu-studiow-dla-kierunku-ekonomia-II-stopnia.pdf"
+      ],
+      [
+        "Kryminologia prawnicza",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/KRYMINOLOGIA-PRAWNICZA-II-uchwala-nr-60_2023-senatu-uwr-z-2023-03-22-w-sprawie-programu-dla-kierunku-kryminologia-prawnicza-ii-stopnia.pdf"
+      ],
+      [
+        "Konsulting prawny i gospodarczy",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/Uchwala-Nr-130_2023-Senatu-UWr-z-2023-05-24-w-sprawie-programu-studiow-dla-kierunku-Konsulting-prawny-i-gospodarczy-II-stopnia.pdf"
+      ],
+      [
+        "PRAWO",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/Program-studiow-PRAWO-od-roku-akademickiego-2019-2020.pdf"
+      ],
+      [
+        "BACHELOR OF BUSINESS AND ADMINISTRATION",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/BBA-uchwala-nr-59_2023-senatu-uwr-z-2023-03-22-w-sprawie-programu-studiow-dla-kierunku-bachelor-of-business-and-administration-i-stopnia.pdf"
+      ],
+      [
+        "CRIMINAL JUSTICE",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/CJ-uchwala-nr-20_2022-senatu-uwr-z-dnia-2022-03-23-w-sprawie-programu-studiow-dla-kierunku-criminal-justice-i-stopnia.pdf"
+      ],
+      [
+        "LL.B. INTERNATIONAL AND EUROPEAN ENVIRONMENTAL LAW",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/LLB-Uchwala-Nr-3_2024-Senatu-UWr-z-2024-01-24.pdf"
+      ],
+      [
+        "ADMINISTRATION IN INTERNATIONAL ORGANIZATIONS",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/AIOUCH2-1.pdf"
+      ],
+      [
+        "LL.M. INTERNATIONAL AND EUROPEAN LAW",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/LLMUCH2.pdf"
+      ],
+      [
+        "MASTER OF ECONOMICS AND FINANCE",
+        "https://prawo.uwr.edu.pl/wp-content/uploads/sites/210/2025/04/MEF-Uchwala-Nr-212_2023-Senatu-UWr-z-2023-11-22.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "sociology-programs",
+    "url": "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/",
+    "type": "html",
+    "links": [
+      [
+        "Socjologia",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/socjologia/"
+      ],
+      [
+        "Praca Socjalna",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/praca-socjalna/"
+      ],
+      [
+        "Socjologia Ekonomiczna",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/socjologia-ekonomiczna/"
+      ],
+      [
+        "Analityka społeczna",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/analityka-spoleczna/"
+      ],
+      [
+        "Organizacja i zarządzanie usługami społecznymi",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/organizacja-i-zarzadzanie-uslugami-spolecznymi/"
+      ],
+      [
+        "Data and Society",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/data-and-society/"
+      ],
+      [
+        "Applied Social and Intercultural Studies",
+        "https://socjologia.uwr.edu.pl/kandydaci/kierunki-i-specjalnosci/applied-social-and-intercultural-studies/"
+      ]
+    ]
+  },
+  {
+    "name": "archeo-syl",
+    "url": "https://archeo.uwr.edu.pl/dydaktyka/sylabusy/",
+    "type": "html",
+    "links": [
+      [
+        "01 Wstęp do archeologii pdf 152 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/01_Wstep-do-archeologii.pdf"
+      ],
+      [
+        "02 Wprowadzenie do archeologii Polski pdf 160 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/02_Wprowadzenie-do-archeologii-Polski.pdf"
+      ],
+      [
+        "03 Wprowadzenie do nauk o Ziemi pdf 211 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03_Wprowadzenie-do-nauk-o-Ziemi.pdf"
+      ],
+      [
+        "04 Antropologia fizyczna pdf 113 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/04_Antropologia-fizyczna.pdf"
+      ],
+      [
+        "05 Dokumentacja w archeologii pdf 178 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/05_Dokumentacja-w-archeologii.pdf"
+      ],
+      [
+        "06 Wprowadzenie do archeologii Nowego Świata pdf 138 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/06_Wprowadzenie-do-arch-Nowego-Swiata.pdf"
+      ],
+      [
+        "07 Podstawy informatyki dla archeologów pdf 152 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/07_Podstawy-informatyki-dla-archeologow.pdf"
+      ],
+      [
+        "08 Traseologia pdf 132 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2025/10/S1_I_rok_Traseologia_20251002.pdf"
+      ],
+      [
+        "09 Archeologia Powszechna Paleolit i Mezolit pdf 103 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/09_Archeologia-Powszechna-Paleolit-i-Mezolit.pdf"
+      ],
+      [
+        "10 Nauki pokrewne archeologii pdf 99 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/10_Nauki-pokrewne-archeologii.pdf"
+      ],
+      [
+        "11 Archeologia społeczna pdf 203 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/02/Archeologia-spoleczna_S1R1_20260225.pdf"
+      ],
+      [
+        "12 Bioarcheologia pdf 118 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/12_Bioarcheologia.pdf"
+      ],
+      [
+        "13 Geoarcheologia pdf 118 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/13_Geoarcheologia.pdf"
+      ],
+      [
+        "14 Muzealnictwo i ochrona zabytków pdf 128 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/14_Muzealnictwo-i-ochrona-zabytkow.pdf"
+      ],
+      [
+        "15 Metodyka badań wykopaliskowych pdf 90 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/15_Metodyka-badan-wykopaliskowych-1st.pdf"
+      ],
+      [
+        "01 Archeologia powszechna neolit pdf 138 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/10/01_Archeologia_powszechna_neolit_20261007.pdf"
+      ],
+      [
+        "02 Archeologia powszechna epoka brązu pdf 118 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2025/01/02_Archeologia-powszechna_epoka_brazu_20241001.pdf"
+      ],
+      [
+        "03 Archeologia klasyczna pdf 127 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03_Archeologia-klasyczna.pdf"
+      ],
+      [
+        "04 GIS w archeologii pdf 89 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/04_GIS-w-archeologii.pdf"
+      ],
+      [
+        "05 Konwersatorium specjalistyczne pdf 81 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/05_Konwersatorium-specjalistyczne.pdf"
+      ],
+      [
+        "06 Proseminarium pdf 136 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/06_Proseminarium.pdf"
+      ],
+      [
+        "07 Konserwacja zabytków archeologicznych pdf 161 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/02/07_Konserwacja-zabytkow-archeologicznych_20240202.pdf"
+      ],
+      [
+        "08 Metodyka prospekcji archeologicznej pdf 113 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/08_Metodyka-prospekcji-archeologicznej-1st.pdf"
+      ],
+      [
+        "09 Język obcy nowożytny pdf 113 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/09_Jezyk-obcy-nowozytny.pdf"
+      ],
+      [
+        "10 Archeologia Powszechna okres lateński pdf 131 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/10_Archeologia-powszechna.-Okres-latenski_S1R2_20260128_1.pdf"
+      ],
+      [
+        "11 Archeologia Powszechna Okres wpływów rzymskich pdf 196 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/11_Archeologia-Powszechna_Okres-wplywow-rzymskich.pdf"
+      ],
+      [
+        "12 Podstawy numizmatyki pdf 112 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/12_Podstawy-numizmatyki.pdf"
+      ],
+      [
+        "13 Metodyka badań wykopaliskowych pdf 90 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/13_Metodyka-badan-wykopaliskowych-1st.pdf"
+      ],
+      [
+        "14 Ćwiczenia muzealne pdf 151 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/02/Cwiczenia_muzealne_20260218.pdf"
+      ],
+      [
+        "01 Archeologia Powszechna wczesne średniowiecze pdf 143 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/01_Archeologia-Powszechna_wczesne-sredniowiecze.pdf"
+      ],
+      [
+        "02 Konwersatorium specjalistyczne pdf 80 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/02_Konwersatorium-specjalistyczne.pdf"
+      ],
+      [
+        "03 Seminarium licencjackie pdf 85 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03_Seminarium-licencjackie.pdf"
+      ],
+      [
+        "04 Język obcy nowożytny pdf 113 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/04_Jezyk-obcy-nowozytny.pdf"
+      ],
+      [
+        "05 Archeologia powszechna późne średniowiecze pdf 93 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/05_Archeologia-Powszechna_pozne-sredniowiecze.pdf"
+      ],
+      [
+        "06 Przedsiębiorczość w archeologii pdf 122 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/02/Przedsiebiorczosc-w-archeologii_20240229.pdf"
+      ],
+      [
+        "07 Metodyka badań zabytków ruchomych pdf 309 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2025/03/07_Metodyka-badan-zabytkow-ruchomych-_20250326.pdf"
+      ],
+      [
+        "Archaeological ceramic through time and space pdf 72 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Archaeological-ceramic-through-time-and-space_S1_20260119.pdf"
+      ],
+      [
+        "Archeologia historyczna XVI-XX w. pdf 105 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Archeologia-historyczna-XVII-XX-w._S1_20260113.pdf"
+      ],
+      [
+        "Archeologia kolonizacji europejskiej XV-XIX w. pdf 96 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Archeologia-kolonizacji-europejskiej-XV-XIX-w._S1_20260114.pdf"
+      ],
+      [
+        "Archeologia konfliktów pdf 185 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03-Archeologia-konfliktow_S1.pdf"
+      ],
+      [
+        "Archeologia sądowa w teorii i praktyce pdf 168 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/02/Archeologia-sadowa-w-teorii-i-praktyce_S1_20260213.pdf"
+      ],
+      [
+        "Crafts of the Bronze Age Europe pdf 126 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2025/10/Crafts-of-the-Bronze-Age-Europe_sylabus_S1_20251006_EN.pdf"
+      ],
+      [
+        "Świat opisany i świat przedstawiony w monetach średniowiecznych pdf 117 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Swiat-opisany-i-swiat-przedstawiony-na-monetach-sredniowiecznych_S1_20260114.pdf"
+      ],
+      [
+        "Świat Rzymian w świetle ich kultury materialnej pdf 245 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Swiat-Rzymian-w-swietle-ich-kultury-materialnej_S1_20260129.pdf"
+      ],
+      [
+        "Pseudoscience and critical reading in archaeology pdf 181 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/02/Pseudoscience-and-critical-reading-in-archaeology_S1_20260225.pdf"
+      ],
+      [
+        "TU JEST PIES POGRZEBANY. Archeologia pochówków zwierzęcych pdf 277 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/TU-JEST-PIES-POGRZEBANY.-Archeologia-pochowkow-zwierzecych_S1_20260114.pdf"
+      ],
+      [
+        "Zabytki archeologiczne jako archeometryczne źródło informacji o przeszłości pdf 131 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Zabytki-archeologiczne-jako-archeometryczne-zrodlo-informacji-o-przeszlosci_S1_20260128.pdf"
+      ],
+      [
+        "01a Organizacja społeczna i gospodarka łowców-zbieraczy pdf 325 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/01a_Organizacja-spoleczna-i-gospodarka-lowcow-zbieraczy.pdf"
+      ],
+      [
+        "01b Eksperyment i rekonstrukcja we współczesnej przestrzeni społecznej pdf 291 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/01b_Eksperyment-i-rekonstrukcja-we-wspolczesnej-przestrzeni-spolecznej.pdf"
+      ],
+      [
+        "02a Pieniądz i handel w średniowiecznej Europie pdf 144 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/02a_Pieniadz-i-handel-w-sredniowiecznej-Europie.pdf"
+      ],
+      [
+        "02b Ochrona dziedzictwa kulturowego społeczności pozaeuropejskich pdf 150 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/02b_Ochrona-dziedzictwa-kulturowego-spolecznosci-pozaeuropejskich-.pdf"
+      ],
+      [
+        "03a Społeczności pradziejowe w perspektywie badań interdyscyplinarnych pdf 120 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03a_Spolecznosci-pradziejowe-w-perspektywie-badan-interdyscyplinarnych.pdf"
+      ],
+      [
+        "03b Archeologia industrialna pdf 117 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03b_Archeologia-industrialna-1.pdf"
+      ],
+      [
+        "04 Seminarium magisterskie pdf 335 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/04_Seminarium-magisterskie.pdf"
+      ],
+      [
+        "05 Metodologia i historia archeologii pdf 322 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/05_Metodologia-i-historia-archeologii.pdf"
+      ],
+      [
+        "06 Metodyka badań wykopaliskowych pdf 354 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/06_Metodyka-badan-wykopaliskowych.pdf"
+      ],
+      [
+        "07 Podstawy zarządzania w archeologii pdf 173 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/04/Podstawy-zarzadzania-w-archeologii_20260415.pdf"
+      ],
+      [
+        "01 Archeologia a przekaz społeczny i polityczny w świecie śródziemnomorskim pdf 189 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/01-Archeologia-a-przekaz-spoleczny-i-polityczny-w-swiecie-srodziemnomorskim.pdf"
+      ],
+      [
+        "02 Archeologia krajobrazu kulturowego w średniowiecznej Europie pdf 91 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/02-Archeologia-krajobrazu-kulturowego-w-sredniowiecznej-Europie.pdf"
+      ],
+      [
+        "03 Archeologia sądowa pdf 108 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/03-Archeologia-sadowa.pdf"
+      ],
+      [
+        "04 Język obcy nowożytny B2+ pdf 102 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/04_Jezyk-obcy-nowozytny-B2.pdf"
+      ],
+      [
+        "05 Komunikacja i kontakty dalekosiężne w epoce brązu i żelaza pdf 372 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2025/10/Komunikacja-i-kontakty-dalekosiezne-w-epoce-brazu-i-zelaza_S2_20251008.pdf"
+      ],
+      [
+        "06 Metodyka badań wykopaliskowych pdf 144 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/06-Metodyka-badan-wykopaliskowych.pdf"
+      ],
+      [
+        "07 Metodyka prospekcji archeologicznej (Archeologia powszechna) pdf 146 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/07-Metodyka-prospekcji-archeologicznej-Archeologia-powszechna.pdf"
+      ],
+      [
+        "08 Metodyka prospekcji archeologicznej (Archeologia w przestrzeni publicznej) pdf 143 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/08-Metodyka-prospekcji-archeologicznej-Archeologia-w-przestrzeni-publicznej.pdf"
+      ],
+      [
+        "09 Seminarium magisterskie pdf 127 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/10_Seminarium-magisterskie.pdf"
+      ],
+      [
+        "10 Sztuka i symbole w pradziejach, znaczenia i życie społeczne pdf 149 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Sztuka-i-symbole-w-pradziejach.-Znaczenia-i-zycie-spoleczne_S2_R2_20260124.pdf"
+      ],
+      [
+        "11 Zarządzanie dziedzictwem kulturowym – wybrane zagadnienia pdf 159 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/12-Zarzadzanie-dziedzictwem-kulturowym-–-wybrane-zagadnienia.pdf"
+      ],
+      [
+        "12 Zwierzęta i ich ludzie. Historia udomowienia pdf 91 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/13-Zwierzeta-i-ich-ludzie.-Historia-udomowienia.pdf"
+      ],
+      [
+        "13 Everyday life in the Roman world pdf 138 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/14-Everyday-life-in-the-Roman-world.pdf"
+      ],
+      [
+        "Archaeological ceramic through time and space pdf 84 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Archaeological-ceramic-through-time-and-space_S2_20260123.pdf"
+      ],
+      [
+        "Archeologia historyczna XVI-XX w. pdf 91 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Archeologia-historyczna-XVII-XX-w._S2_20260113.pdf"
+      ],
+      [
+        "Archeologia kolonizacji europejskiej XV-XIX w. pdf 100 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Archeologia-kolonizacji-europejskiej-XV-XIX-w._S2_20260114.pdf"
+      ],
+      [
+        "Archeologia konfliktów pdf 86 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2024/01/02-Archeologia-konfliktow-S2.pdf"
+      ],
+      [
+        "Archeologia sądowa w teorii i praktyce pdf 171 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/02/Archeologia-sadowa-w-teorii-i-praktyce_S2_20260213.pdf"
+      ],
+      [
+        "Crafts of the Bronze Age Europe pdf 100 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2025/10/Crafts-of-the-Bronze-Age-Europe_sylabus_S2_20251006_EN.pdf"
+      ],
+      [
+        "Kultura materialna w Imperium Rzymskim pdf 178 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Kultura-materialna-w-Imperium-Rzymskim_S2_20260114.pdf"
+      ],
+      [
+        "Pseudoscience and critical reading in archaeology pdf 89 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/02/Pseudoscience-and-critical-reading-in-archaeology_S2_20260225.pdf"
+      ],
+      [
+        "Świat opisany i świat przedstawiony w monetach średniowiecznych pdf 123 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Swiat-opisany-i-swiat-przedstawiony-na-monetach-sredniowiecznych_S2_20260114.pdf"
+      ],
+      [
+        "TU JEST PIES POGRZEBANY. Archeologia pochówków zwierzęcych pdf 306 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/TU-JEST-PIES-POGRZEBANY.-Archeologia-pochowkow-zwierzecych_S2_20260114.pdf"
+      ],
+      [
+        "Zabytki archeologiczne jako archeometryczne źródło informacji o przeszłości pdf 129 KB",
+        "https://archeo.uwr.edu.pl/wp-content/uploads/sites/84/2026/01/Zabytki-archeologiczne-jako-archeometryczne-zrodlo-informacji-o-przeszlosci_S2_20260128.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "physics-programs",
+    "url": "https://wfa.uwr.edu.pl/kierunki-studiow/",
+    "type": "html",
+    "links": [
+      [
+        "Krótko o kierunkach studiów",
+        "/kandydaci"
+      ],
+      [
+        "Astrophysics Master’s Course",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/astrophysics/"
+      ],
+      [
+        "Master’s Study of Theoretical Physics",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/masters-study-of-theoretical-physics/"
+      ],
+      [
+        "Theoretical-Physics-Info",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/theoretical-physics-info/"
+      ],
+      [
+        "Theoretical-Physics: We are international.",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/theoretical-physics-we-are-international/"
+      ],
+      [
+        "Astronomia",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/astronomia/"
+      ],
+      [
+        "Fizyka",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/fizyka/"
+      ],
+      [
+        "Informatyka Stosowana i Systemy Pomiarowe",
+        "https://wfa.uwr.edu.pl/kierunki-studiow/informatyka-stosowana-i-systemy-pomiarowe/"
+      ]
+    ]
+  },
+  {
+    "name": "security-programs",
+    "url": "https://ismb.uwr.edu.pl/studenci/organizacja-ksztalcenia/nowe-programy-studiow-obowiazujace-od-rekrutacji-2024-2025/",
+    "type": "html",
+    "links": [
+      [
+        "Program studiów Bezpieczeństwo narodowe I stopnia pdf 1 MB",
+        "https://ismb.uwr.edu.pl/wp-content/uploads/sites/366/2024/04/Uchwala-Nr-219_2023-Senatu-UWr-z-2023-12-20-w-sprawie-programu-studiow-dla-kierunku-Bezpieczenstwo-narodowe-na-poziomie-studiow-pierwszego-stopnia.pdf"
+      ],
+      [
+        "Program studiów Bezpieczeństwo międzynarodowe II stopnia pdf 734 KB",
+        "https://ismb.uwr.edu.pl/wp-content/uploads/sites/366/2024/04/Uchwala-Nr-220_2023-Senatu-UWr-z-2023-12-20-w-sprawie-programu-studiow-dla-kierunku-Bezpieczenstwo-miedzynarodowe-na-poziomie-studiow-drugiego-stopnia.pdf"
+      ],
+      [
+        "Program studiów Stosunki międzynarodowe I i II stopnia pdf 3 MB",
+        "https://ismb.uwr.edu.pl/wp-content/uploads/sites/366/2024/04/Uchwala-Nr-218_2023-Senatu-UWr-z-2023-12-20-w-sprawie-programu-studiow-dla-kierunku-Stosunki-miedzynarodowe-na-poziomie-studiow-pierwszego-i-drugiego-stopnia.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "biotech-programs",
+    "url": "https://biotech.uwr.edu.pl/studia-i-stopnia-2/",
+    "type": "html",
+    "links": [
+      [
+        "Program studiów licencjackich",
+        "https://biotech.uwr.edu.pl/studia-i-stopnia-2/programy-studiow-licencjackich/"
+      ],
+      [
+        "Profil absolwenta",
+        "https://biotech.uwr.edu.pl/studia-i-i-ii-stopnia/profile-absolwentow/"
+      ],
+      [
+        "Plany zajęć",
+        "https://biotech.uwr.edu.pl/studia-i-i-ii-stopnia/plan-zajec/"
+      ],
+      [
+        "Sylabusy",
+        "https://biotech.uwr.edu.pl/sylabusy/"
+      ],
+      [
+        "Informacje organizacyjne",
+        "https://biotech.uwr.edu.pl/studia-i-i-ii-stopnia/informacje-dla-studentow/"
+      ],
+      [
+        "Lektoraty",
+        "https://spnjo.uwr.edu.pl/studenci-studiow-stacjonarnych/i-stopien/"
+      ],
+      [
+        "Stypendia",
+        "https://biotech.uwr.edu.pl/studia-i-i-ii-stopnia/stypendia-dla-studentow-2/"
+      ]
+    ]
+  },
+  {
+    "name": "europe-programs",
+    "url": "https://ise.uwr.edu.pl/studenci/programy-studiow/",
+    "type": "html",
+    "links": [
+      [
+        "Dyplomacja Europejska studia I stopnia stacjonarne i niestacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Dyplomacja-Europejska-studia-I-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-25-02-1.pdf"
+      ],
+      [
+        "Dyplomacja Europejska studia II stopnia stacjonarne i niestacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Dyplomacja-Europejska-studia-II-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "Specjalnosci Dyplomacja europejska, studia II stopnia stacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Dyplomacja-europejska-Specjalnosci-magisterskie_2022-01-13_15-38-00.pdf"
+      ],
+      [
+        "Europeistyka studia I stopnia stacjonarne i niestacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Europeistyka-studia-I-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "Specjalności Europeistyka, studia I stopnia stacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Specjalnosci-Europeistyka_2022-01-12_12-07-28.pdf"
+      ],
+      [
+        "Europeistyka studia II stopnia stacjonarne i niestacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Europeistyka-studia-II-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "Zarzadzanie migracjami studia I stopnia stacjonarne",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Zarzadzanie-migracjami-studia-I-stopnia-stacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "European Studies II stopnia stacjonarne w jezyku angielskim obowiązuje od roku 2022/2023",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/03/European-Studies-Programme-Document.pdf"
+      ],
+      [
+        "Zarządzanie migracjami studia I stopnia stacjonarne, dla roczników rekrutujących się od roku ak. 2024/2025 pdf 541 KB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/06/Zarzadzanie-migracjami_od-2024-2025.pdf"
+      ],
+      [
+        "Dyplomacja Europejska studia I stopnia stacjonarne i niestacjonarne pdf 2 MB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Dyplomacja-Europejska-studia-I-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-25-02-1.pdf"
+      ],
+      [
+        "Dyplomacja Europejska studia II stopnia stacjonarne i niestacjonarne pdf 2 MB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Dyplomacja-Europejska-studia-II-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "Specjalnosci Dyplomacja europejska, studia II stopnia stacjonarne pdf 425 KB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Dyplomacja-europejska-Specjalnosci-magisterskie_2022-01-13_15-38-00.pdf"
+      ],
+      [
+        "Europeistyka studia I stopnia stacjonarne i niestacjonarne pdf 872 KB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2025/04/DN_Europeistyka_zmiany-programowe_po_SKN_2_04.pdf"
+      ],
+      [
+        "Specjalności Europeistyka, studia I stopnia stacjonarne pdf 452 KB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Specjalnosci-Europeistyka_2022-01-12_12-07-28.pdf"
+      ],
+      [
+        "Europeistyka studia II stopnia stacjonarne i niestacjonarne pdf 2 MB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Europeistyka-studia-II-stopnia-stacjonarne-i-niestacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "Zarzadzanie migracjami studia I stopnia stacjonarne pdf 712 KB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/Zarzadzanie-migracjami-studia-I-stopnia-stacjonarne_2021-11-24_17-19-35.pdf"
+      ],
+      [
+        "European Studies II stopnia stacjonarne w jezyku angielskim obowiązuje od roku 2022/2023 pdf 171 KB",
+        "https://ise.uwr.edu.pl/wp-content/uploads/sites/369/2024/04/European-Studies-Programme-Document.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "history-programs",
+    "url": "https://hist.uwr.edu.pl/program-polityka-jakosci-ksztalcenia-ocena-jakosci-ksztalcenia/",
+    "type": "html",
+    "links": [
+      [
+        "historia I i II stopnia",
+        "https://hist.uwr.edu.pl/wp-content/uploads/sites/74/2025/10/Uchwala-Nr-76_2025-Senatu-UWr-z-2025-06-25-w-sprawie-programu-studiow-dla-kierunku-historia-studia-stacjonarne-i-niestacjonarne-I-i-II-stopnia.pdf"
+      ],
+      [
+        "dziedzictwo kultury materialnej I stopnia",
+        "https://hist.uwr.edu.pl/wp-content/uploads/sites/74/2025/10/Dziedzictwo-kultury-materialnej-1.-stopnia.pdf"
+      ],
+      [
+        "historia w przestrzeni publicznej II stopnia",
+        "https://hist.uwr.edu.pl/wp-content/uploads/sites/74/2025/10/Program-Public-History.pdf"
+      ],
+      [
+        "Akredytacje",
+        "https://hist.uwr.edu.pl/wewnetrzny-system-zapewniania-jakosci-ksztalcenia/"
+      ],
+      [
+        "Wewnętrzny system zapewnienia jakości kształcenia",
+        "https://wnhip.uwr.edu.pl/wp-content/uploads/sites/459/2023/10/Zarzadzenie-1-z-2020-o-wewnetrznym-systemie-jakosci-ksztalcenia-1.pdf"
+      ],
+      [
+        "Zespoły ds. jakości i oceny kształcenia",
+        "https://wnhip.uwr.edu.pl/wp-content/uploads/sites/459/2024/12/Sklady-pomocniczych-KZdJK.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "polish-programs",
+    "url": "https://ifp.uwr.edu.pl/studia-i-stopnia/",
+    "type": "html",
+    "links": [
+      [
+        "Filologia polska",
+        "https://ifp.uwr.edu.pl/studia-i-stopnia/filologia-polska-stacjonarne-i-stopnia/"
+      ],
+      [
+        "Edukacja polonistyczna",
+        "https://ifp.uwr.edu.pl/studia-i-stopnia/edukacja-polonistyczna/"
+      ],
+      [
+        "Kultura i praktyka tekstu: twórcze pisanie i edytorstwo",
+        "https://ifp.uwr.edu.pl/studia-i-stopnia/kipt/"
+      ]
+    ]
+  },
+  {
+    "name": "ethno-programs",
+    "url": "https://etnologia.uwr.edu.pl/program-studiow/",
+    "type": "html",
+    "links": [
+      [
+        "Studia I stopnia",
+        "https://etnologia.uwr.edu.pl/wp-content/uploads/sites/134/2025/12/Etnologia-i-antropologia-kulturowa-studia-I-stopnia.pdf"
+      ],
+      [
+        "Studia II stopnia",
+        "https://etnologia.uwr.edu.pl/wp-content/uploads/sites/134/2025/12/Etnologia-i-antropologia-kulturowa-studia-II-stopnia.pdf"
+      ]
+    ]
+  },
+  {
+    "name": "german-programs",
+    "url": "https://ifg.uwr.edu.pl/studia/filologia-germanska-i-stopnia/",
+    "type": "html",
+    "links": [
+      [
+        "Program studiów dla kierunku filologia germańska na poziomie studiów pierwszego i drugiego stopnia.",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/Uchwala-Nr-80_2025-Senatu-UWr-z-2025-06-25-w-sprawie-programu-filologia-germanska-studia-stacjonarne-i-niestacjonarne-I-i-II-stopnia.pdf"
+      ],
+      [
+        "Studia licencjackie (ważny od r. akad. 2025/26)",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/stacjonarne_lic_202526.pdf"
+      ],
+      [
+        "Program kształcenia przygotowującego do wykonywania zawodu nauczyciela",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/blokC_lic_202526.pdf"
+      ],
+      [
+        "Studia licencjackie (ważny od r. akad. 2022/23)",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/stacjonarne_lic_202223.pdf"
+      ],
+      [
+        "Program kształcenia przygotowującego do wykonywania zawodu nauczyciela",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/blokC_licImag_202223.pdf"
+      ],
+      [
+        "Efekty kształcenia – studia I stopnia (stacjonarne)",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/Efekty_ksztalcenia_studia_I_stopnia.pdf"
+      ],
+      [
+        "Efekty uczenia się – studia I stopnia (stacjonarne)",
+        "https://ifg.uwr.edu.pl/wp-content/uploads/sites/844/2026/05/Efekty_uczenia_sie_studia_I_stopnia.pdf"
+      ],
+      [
+        "Sylabusy wszystkich zajęć dla lat I-III studiów licencjackich",
+        "https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_prz_kod_pattern=21-fg-s1"
+      ]
+    ]
+  },
+  {
+    "name": "geo-programs",
+    "url": "https://wnoz.uwr.edu.pl/kierunki-studiow/",
+    "type": "html",
+    "links": [
+      [
+        "Geografia",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-licencjackie/"
+      ],
+      [
+        "Geologia",
+        "https://ing.uwr.edu.pl/studenci/geologia-i-stopien-licencjat/"
+      ],
+      [
+        "Gospodarka przestrzenna",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-licencjackie/"
+      ],
+      [
+        "Inżynieria geologiczna",
+        "https://ing.uwr.edu.pl/studenci/inzynieria-geologiczna-i-stopien/"
+      ],
+      [
+        "Ochrona środowiska",
+        "https://msos.uwr.edu.pl/studia-pierwszego-stopnia/"
+      ],
+      [
+        "Turystka",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-licencjackie/"
+      ],
+      [
+        "Geografia",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-magisterskie/"
+      ],
+      [
+        "Geologia",
+        "https://ing.uwr.edu.pl/studenci/geologia-ii-stopien---magisterskie/"
+      ],
+      [
+        "Gospodarka przestrzenna",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-magisterskie/"
+      ],
+      [
+        "Klimatologia i ochrona atmosfery z elementami sztucznej inteligencji",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-magisterskie/"
+      ],
+      [
+        "Inżynieria geologiczna",
+        "https://ing.uwr.edu.pl/studenci/inzynieria-geologiczna-ii-stopien-magisterskie/"
+      ],
+      [
+        "Ochrona środowiska",
+        "https://msos.uwr.edu.pl/studia-drugiego-stopnia/"
+      ],
+      [
+        "Turystka",
+        "https://igrr.uwr.edu.pl/strona-glowna2-2/dla-studenta/studia-magisterskie/"
+      ]
+    ]
+  }
+]

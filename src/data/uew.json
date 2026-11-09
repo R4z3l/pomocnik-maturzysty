@@ -1,0 +1,1852 @@
+{
+  "version": "2026-10-24-uew-audit",
+  "checkedAt": "2026-10-25",
+  "scopeNote": "Uniwersytet Ekonomiczny we Wrocławiu: 20 stacjonarnych ofert I stopnia we Wrocławiu z katalogu 2026/27, w tym 5 anglojęzycznych. Uchwała R.0000.26.2026 z 25.06.2026 opublikowała zasady rekrutacji 2027/28. Oferta kierunków 2027/28 pozostaje do potwierdzenia; historyczne progi dotyczą wyłącznie własnych roczników.",
+  "universities": [
+    {
+      "id": "uew",
+      "name": "Uniwersytet Ekonomiczny we Wrocławiu",
+      "shortName": "UEW",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-programmes",
+        "uew-rules-2027",
+        "mapa-akademicka-uew-audit"
+      ],
+      "coverage": "20 ofert stacjonarnych I stopnia z katalogu 2026/27: 15 polskich i 5 anglojęzycznych. Kalkulator domyślnie korzysta z opublikowanej uchwały 2027/28; można wybrać starsze zasady 2026/27. Oferta kierunków 2027/28 wymaga potwierdzenia."
+    }
+  ],
+  "sources": [
+    {
+      "id": "uew-list-2026",
+      "title": "Informator dla kandydatów 2026/2027 – lista wszystkich kierunków i trybów",
+      "url": "https://rekrutacja.uew.pl/wp-content/uploads/sites/2/2026/04/Informator-dla-kandydatow-2026-2027.pdf",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Tabela ofert odróżnia kierunki, stopień i tryb, a następnie osobno wymienia studia w języku angielskim i filię w Jeleniej Górze. Zakres wybrano tylko z wierszy I stopień stacjonarne dla siedziby uczelni i sekcji English."
+    },
+    {
+      "id": "uew-rules-2026",
+      "title": "Zasady rekrutacji na stacjonarne studia I stopnia",
+      "url": "https://rekrutacja.uew.pl/en/studia-i-stopnia-zasady-rekrutacji/",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Zasada opublikowana dla rekrutacji 2026/2027 (uchwała R.0000.49.2025): suma z trzech pisemnych przedmiotów: matematyka, jeden nowożytny język obcy, jeden przedmiot z listy polski/geografia/historia/WOS/fizyka/chemia/biologia/informatyka/filozofia. Poziom podstawowy ×0,5, rozszerzony ×1; język obcy w klasie dwujęzycznej ×1,5. Program anglojęzyczny: angielski rozszerzony lub dwujęzyczny, minimum 60%. Nie potwierdza rocznika 2027/2028."
+    },
+    {
+      "id": "uew-thresholds-2026",
+      "title": "Progi punktowe – I stopień, rekrutacja 2026/2027 (pierwsze i drugie ustalenie)",
+      "url": "https://rekrutacja.uew.pl/informacje-praktyczne/najwazniejsze-informacje/progi-punktowe/",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Oficjalne progi rekrutacyjne dla kandydatów obywateli polskich. Strona rozróżnia pierwsze i drugie ustalenie. Wartości odwzorowano jako oficjalne progi danej rundy, nie jako minimalne zasady kwalifikacji na przyszły nabór. Ta sama archiwalna tabela zawiera także roczniki 2024/2025, 2023/2024 i 2022/2023; w starszych tabelach bez jawnej tury round pozostaje null."
+    },
+    {
+      "id": "uew-thresholds-2025",
+      "title": "Progi punktowe – studia stacjonarne I stopnia, 2025/2026",
+      "url": "https://rekrutacja.uew.pl/progi-punktowe-studia-stacjonarne-i-stopnia/",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Oficjalna tabela progów dla obywateli polskich. W tabeli nie podano tury, zatem round=null."
+    },
+    {
+      "id": "uew-thresholds-2024",
+      "title": "Pierwsze progi punktowe – studia stacjonarne I stopnia, rekrutacja 2024/2025",
+      "url": "https://rekrutacja.uew.pl/progi-punktowe-i-stopien-studiow-stacjonarnych/",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Strona podaje datę decyzji Komisji Rekrutacyjnej 18 lipca 2024 i nazywa wartości pierwszymi progami dla kierunków prowadzonych we Wrocławiu; kwalifikacja obywateli polskich i cudzoziemców z polską maturą."
+    },
+    {
+      "id": "uew-programmes",
+      "title": "Karty kierunków i programy studiów 2026/2027",
+      "url": "https://rekrutacja.uew.pl/wyszukiwarka-kierunkow/lista-kierunkow/",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Biuro Rekrutacji",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Oficjalny katalog kart kierunków, z opisami, perspektywami zawodowymi i odnośnikami do programów. Indywidualne karty mogą mieć odrębne ścieżki i specjalności."
+    },
+    {
+      "id": "uew-rules-2027",
+      "title": "Uchwała R.0000.26.2026 — zasady rekrutacji 2027/2028",
+      "url": "https://www.bip.ue.wroc.pl/download/attachment/4202/uchwala-senatu-r0000262026.pdf?v=1782885195",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu — Senat, Biuletyn Informacji Publicznej",
+      "checkedAt": "2026-10-25",
+      "kind": "official",
+      "note": "25.06.2026; §4 s.5–9 PDF. Nowa matura pisemna: matematyka + język + przedmiot do wyboru, także biznes i zarządzanie. PP×0,5, PR×1, język dwujęzyczny×1,5. Na kierunkach anglojęzycznych angielski PR/D minimum60%. Opublikowane zasady nie są kompletną listą uruchomionych kierunków."
+    },
+    {
+      "id": "mapa-akademicka-uew-audit",
+      "title": "Mapa Akademicka — karta Uniwersytetu Ekonomicznego we Wrocławiu (kontrola bez importu)",
+      "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/",
+      "publisher": "Wrocławska Mapa Akademicka — SSMIZ Polska",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Sprawdzono kontrolnie. Metadane dateModified: 15.06.2021; wykaz obejmuje 11 nazw studiów I stopnia po polsku i 4 po angielsku, w tym historyczne nazwy. Nie potwierdza aktualnej oferty 2026/27–2027/28. Nie znaleziono na tej karcie progów2022+ ani wersjonowanych reguł. Nie zaimportowano danych do kalkulatorów ani historii."
+    },
+    {
+      "id": "opinie-uew-overview",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — karta uczelni",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Karta zawiera ogólny opis, ogólnikowy harmonogram rekrutacji i link do oficjalnej strony. Nie jest źródłem formalnych reguł."
+    },
+    {
+      "id": "opinie-uew-programmes",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — kierunki studiów 2027/2028",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/kierunki-studiow/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Strona deklaruje rok 2027/2028 i pokazuje katalog nazw kierunków, lecz nie weryfikuje katalogu 2027/2028 uczelni, trybu, poziomu i lokalizacji każdej nazwy. Nie dodano nowych ofert na podstawie samej listy portalu."
+    },
+    {
+      "id": "opinie-uew-admissions",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — rekrutacja na studia 2027/2028",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/rekrutacja/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Tekst opisuje ogólne kroki naboru i odsyła do oficjalnego systemu. Nie zawiera kierunkowych zasad rekrutacji ani szczegółowego kalendarza; nie importowano reguł."
+    },
+    {
+      "id": "opinie-uew-thresholds",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — progi punktowe 2027",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/progi-punktowe/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Odczytano tabele 2026/2027, 2025/2026, 2024/2025, 2023/2024 i 2022/2023 dla studiów stacjonarnych I stopnia, gdzie portal jawnie podaje ten tryb i poziom. Dla 2024/2025 portal podaje jedynie studia I stopnia; brak jawnego trybu. Porównanie zakresu bieżącej oferty z uew.json nie ujawniło brakujących kwalifikujących się wartości 2022+ dla aktualnych stacjonarnych ofert I stopnia. Wartości na tej stronie nie zastępują oficjalnych progów."
+    },
+    {
+      "id": "opinie-uew-analityka-card",
+      "title": "Analityka gospodarcza we Wrocławiu — karta kierunku",
+      "url": "https://opinieouczelniach.pl/kierunki-studiow/analityka-gospodarcza/wroclaw/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Karta opisuje zakres studiów I i II stopnia, przykładowe moduły, przedmioty i ogólny zestaw maturalny. Nie podaje czasu trwania ani jednoznacznego rocznika, trybu studiów i formalnej reguły. Nie uzupełnia null duration w danych Uniwersytetu Ekonomicznego we Wrocławiu."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "uew-analityka-gospodarcza",
+      "universityId": "uew",
+      "name": "Analityka gospodarcza",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Łączy ekonomię z analizą danych o gospodarce, rynkach i przedsiębiorstwach. Uczy ilościowego opisywania zjawisk, pracy na danych i przygotowywania analiz wspierających decyzje. To propozycja dla osób zainteresowanych matematyką, statystyką i interpretacją informacji gospodarczych.",
+      "fields": [
+        "ekonomia",
+        "analiza danych",
+        "statystyka",
+        "rynek"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 230,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 220,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "analityk danych gospodarczych",
+        "analityk rynku",
+        "specjalista ds. badań i analiz"
+      ],
+      "careerNote": "Przykładowe role wynikające z profilu kierunku; uczelnia wskazuje perspektywy zawodowe na karcie kierunku.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-e-biznes",
+      "universityId": "uew",
+      "name": "E-biznes",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Skupia się na prowadzeniu działalności i sprzedaży w środowisku cyfrowym. Łączy zagadnienia biznesowe z e-commerce, marketingiem internetowym, platformami i analizą zachowań klientów.",
+      "fields": [
+        "e-commerce",
+        "marketing cyfrowy",
+        "biznes cyfrowy"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 195,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 185,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "specjalista e-commerce",
+        "specjalista marketingu internetowego",
+        "koordynator sprzedaży online"
+      ],
+      "careerNote": "Przykładowe role zgodne z tematyką kształcenia; nie stanowią gwarancji zatrudnienia.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-ekobiznes",
+      "universityId": "uew",
+      "name": "Ekobiznes",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Łączy ekonomię i zarządzanie z tematyką środowiskową oraz zrównoważonym rozwojem. Przygotowuje do rozumienia ekonomicznych skutków działań prośrodowiskowych i uwzględniania ich w działalności organizacji.",
+      "fields": [
+        "ekonomia środowiska",
+        "zrównoważony rozwój",
+        "zarządzanie"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 175,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 166,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 110,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 120,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "specjalista ds. zrównoważonego rozwoju",
+        "analityk środowiskowy",
+        "specjalista ds. projektów ekologicznych"
+      ],
+      "careerNote": "Przykładowe stanowiska do których może prowadzić profil ekonomiczno-środowiskowy; zakres zadań zależy od pracodawcy.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-ekonomia",
+      "universityId": "uew",
+      "name": "Ekonomia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Program obejmuje podstawy ekonomii oraz analizę współczesnej gospodarki, rynków i decyzji przedsiębiorstw oraz instytucji publicznych. Pozwala rozwijać rozumienie procesów gospodarczych i wykorzystanie narzędzi analitycznych w decyzjach biznesowych i publicznych.",
+      "fields": [
+        "ekonomia",
+        "analiza rynków",
+        "gospodarka"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 200,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 185,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "analityk rynków",
+        "specjalista ds. rozwoju biznesu",
+        "analityk w instytucji publicznej"
+      ],
+      "careerNote": "Przykłady ról możliwych po studiach ekonomicznych; konkretna rola zależy od kompetencji i wymagań pracodawcy.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-finanse-i-rachunkowosc",
+      "universityId": "uew",
+      "name": "Finanse i rachunkowość",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Przygotowuje do pracy z finansami przedsiębiorstw, rynkami finansowymi i rachunkowością. Obejmuje analizę finansową, ewidencję i sprawozdawczość oraz interpretowanie informacji potrzebnych do zarządzania organizacją.",
+      "fields": [
+        "finanse",
+        "rachunkowość",
+        "analiza finansowa"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 200,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 188,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 150,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "analityk finansowy",
+        "księgowy",
+        "specjalista ds. raportowania finansowego"
+      ],
+      "careerNote": "Przykładowe ścieżki; niektóre wyspecjalizowane zawody mogą wymagać dodatkowych kwalifikacji.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-informatyka-w-zarzadzaniu-produkcja",
+      "universityId": "uew",
+      "name": "Informatyka w zarządzaniu produkcją",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Inżynierski kierunek o praktycznym zastosowaniu IT w przedsiębiorstwach produkcyjnych. Program opisany przez uczelnię obejmuje systemy wspierające produkcję i logistykę, programowanie, automatyzację, robotyzację, IoT i analizę jakości.",
+      "fields": [
+        "informatyka",
+        "produkcja",
+        "automatyzacja",
+        "logistyka"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 110,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Kierunek oznaczony w tabeli jako nowy; tury nie podano."
+        }
+      ],
+      "careers": [
+        "inżynier systemów IT",
+        "analityk danych produkcyjnych",
+        "specjalista automatyki i robotyki przemysłowej"
+      ],
+      "careerNote": "Uczelnia wymienia m.in. inżyniera systemów IT, analityka danych i specjalistę automatyki; role wymagają kompetencji branżowych.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-informatyka-w-biznesie",
+      "universityId": "uew",
+      "name": "Informatyka w biznesie",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Łączy kompetencje informatyczne z rozumieniem procesów biznesowych. Przygotowuje do analizy wymagań organizacji, pracy z systemami informatycznymi i danych oraz wspierania cyfrowej transformacji przedsiębiorstw.",
+      "fields": [
+        "informatyka",
+        "systemy biznesowe",
+        "analiza procesów"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 190,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 172,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 130,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "analityk biznesowo-systemowy",
+        "konsultant systemów ERP",
+        "analityk danych biznesowych"
+      ],
+      "careerNote": "Przykładowe stanowiska łączące IT i procesy organizacji; zależą od nabytych narzędzi i praktyki.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-komunikacja-spoleczna",
+      "universityId": "uew",
+      "name": "Komunikacja społeczna",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Dotyczy komunikowania się organizacji z otoczeniem, mediów i relacji społecznych. Program łączy analizę przekazów z planowaniem komunikacji i działaniami informacyjnymi w firmach i instytucjach.",
+      "fields": [
+        "komunikacja",
+        "media",
+        "public relations"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 168,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 150,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "specjalista ds. komunikacji",
+        "specjalista public relations",
+        "koordynator komunikacji wewnętrznej"
+      ],
+      "careerNote": "Przykładowe role komunikacyjne, których zakres i wymagania zależą od branży i pracodawcy.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-logistyka",
+      "universityId": "uew",
+      "name": "Logistyka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Obejmuje planowanie i koordynowanie przepływu materiałów, informacji i towarów. Kierunek łączy organizację łańcuchów dostaw z analizą procesów, transportem, magazynowaniem i narzędziami zarządzania.",
+      "fields": [
+        "logistyka",
+        "transport",
+        "łańcuch dostaw"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 195,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 195,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "koordynator łańcucha dostaw",
+        "specjalista ds. logistyki",
+        "planista transportu"
+      ],
+      "careerNote": "Przykłady ról w logistyce; konkretne obowiązki zależą od sektora i skali przedsiębiorstwa.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-miedzynarodowe-stosunki-gospodarcze",
+      "universityId": "uew",
+      "name": "Międzynarodowe stosunki gospodarcze",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Bada międzynarodową wymianę, działalność firm na rynkach zagranicznych oraz otoczenie gospodarcze i instytucjonalne. Łączy ekonomię z handlem zagranicznym, analizą rynków i zagadnieniami współpracy międzynarodowej.",
+      "fields": [
+        "ekonomia międzynarodowa",
+        "handel zagraniczny",
+        "rynki"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 210,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 205,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "specjalista ds. handlu zagranicznego",
+        "analityk rynków międzynarodowych",
+        "koordynator współpracy międzynarodowej"
+      ],
+      "careerNote": "Przykładowe role wykorzystujące wiedzę o rynkach międzynarodowych; znajomość języków i doświadczenie są odrębnymi atutami.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-nieruchomosci-i-gospodarka-przestrzenna",
+      "universityId": "uew",
+      "name": "Nieruchomości i gospodarka przestrzenna",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Łączy rynek nieruchomości z ekonomicznym i przestrzennym wymiarem gospodarowania. Program dotyczy funkcjonowania rynku, inwestycji, zarządzania nieruchomościami oraz planowania i wykorzystania przestrzeni.",
+      "fields": [
+        "nieruchomości",
+        "gospodarka przestrzenna",
+        "inwestycje"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 200,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 195,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "specjalista ds. nieruchomości",
+        "analityk rynku nieruchomości",
+        "specjalista ds. gospodarki przestrzennej"
+      ],
+      "careerNote": "Przykładowe kierunki kariery; wykonywanie niektórych czynności regulowanych może wymagać dodatkowych uprawnień.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-rachunkowosc-i-podatki",
+      "universityId": "uew",
+      "name": "Rachunkowość i podatki",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Koncentruje się na ewidencji gospodarczej, sprawozdawczości finansowej i rozliczeniach podatkowych. Przygotowuje do interpretowania przepisów i danych księgowych w działalności przedsiębiorstw.",
+      "fields": [
+        "rachunkowość",
+        "podatki",
+        "sprawozdawczość"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 200,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 182,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 150,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 120,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "księgowy",
+        "specjalista ds. podatków",
+        "specjalista ds. sprawozdawczości"
+      ],
+      "careerNote": "Przykładowe role księgowo-podatkowe; zakres odpowiedzialności zależy od stanowiska i doświadczenia.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-zarzadzanie",
+      "universityId": "uew",
+      "name": "Zarządzanie",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Przedstawia metody zarządzania organizacją, ludźmi i procesami. Łączy podstawy ekonomii z planowaniem, marketingiem, finansami, organizacją pracy i podejmowaniem decyzji.",
+      "fields": [
+        "zarządzanie",
+        "organizacja",
+        "biznes"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 168,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 130,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "koordynator zespołu",
+        "specjalista ds. organizacji",
+        "analityk biznesowy"
+      ],
+      "careerNote": "Ogólne przykłady stanowisk; wejście do roli kierowniczej zwykle wymaga doświadczenia.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-zarzadzanie-i-inzynieria-produkcji",
+      "universityId": "uew",
+      "name": "Zarządzanie i inżynieria produkcji",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Kierunek inżynierski łączący zarządzanie przedsiębiorstwem z techniczną organizacją i doskonaleniem procesów produkcyjnych. Obejmuje planowanie, jakość, efektywność, technologię i koordynację produkcji.",
+      "fields": [
+        "inżynieria produkcji",
+        "zarządzanie",
+        "jakość"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 115,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 110,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 110,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 100,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "inżynier produkcji",
+        "specjalista ds. jakości",
+        "planista produkcji"
+      ],
+      "careerNote": "Przykłady ról inżyniersko-organizacyjnych, zależne od branży i praktyki.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-zarzadzanie-projektami",
+      "universityId": "uew",
+      "name": "Zarządzanie projektami",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Skupia się na przygotowaniu, planowaniu, realizacji i kontroli projektów. Łączy organizację pracy zespołu, harmonogramowanie, budżetowanie, komunikację i zarządzanie ryzykiem.",
+      "fields": [
+        "zarządzanie projektami",
+        "organizacja",
+        "procesy"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język niemiecki",
+        "język włoski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 190,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Pierwsze ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 166,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Drugie ustalenie; kandydaci z polską maturą."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "Strona nie podaje tury."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "Pierwszy próg, 18.07.2024."
+        }
+      ],
+      "careers": [
+        "koordynator projektów",
+        "asystent kierownika projektu",
+        "specjalista ds. PMO"
+      ],
+      "careerNote": "Przykładowe role projektowe; samodzielne prowadzenie dużych projektów zwykle wymaga doświadczenia.",
+      "admissionRuleId": "uew-2027-pl"
+    },
+    {
+      "id": "uew-business-informatics",
+      "universityId": "uew",
+      "name": "Business Informatics",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "An English-taught programme combining information technology with business processes. It covers the use of information systems, data and digital tools to analyse organisational needs and improve business operations.",
+      "fields": [
+        "business IT",
+        "information systems",
+        "data analysis"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Na studiach anglojęzycznych językiem punktowanym jest angielski PR/D z wynikiem minimum60%. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 190,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "First threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Second threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "No round identified by the page."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "First threshold, 18 July 2024."
+        }
+      ],
+      "careers": [
+        "business systems analyst",
+        "ERP consultant",
+        "business data analyst"
+      ],
+      "careerNote": "Illustrative roles at the intersection of business and IT; employment depends on skills and experience.",
+      "admissionRuleId": "uew-2027-en"
+    },
+    {
+      "id": "uew-business-management",
+      "universityId": "uew",
+      "name": "Business Management",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "An English-language programme introducing management of organisations, people and business processes. It combines core business knowledge with planning, marketing, finance and decision-making in international settings.",
+      "fields": [
+        "management",
+        "business",
+        "organisation"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Na studiach anglojęzycznych językiem punktowanym jest angielski PR/D z wynikiem minimum60%. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 205,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "First threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 198,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Second threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "No round identified by the page."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 180,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "First threshold, 18 July 2024."
+        }
+      ],
+      "careers": [
+        "business development specialist",
+        "project coordinator",
+        "management analyst"
+      ],
+      "careerNote": "Illustrative early-career directions; management responsibility usually grows with experience.",
+      "admissionRuleId": "uew-2027-en"
+    },
+    {
+      "id": "uew-finance",
+      "universityId": "uew",
+      "name": "Finance",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "An English-taught programme focused on financial decision-making, corporate finance and financial markets. Students develop skills in interpreting financial information and analysing investment and business choices.",
+      "fields": [
+        "finance",
+        "financial analysis",
+        "markets"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Na studiach anglojęzycznych językiem punktowanym jest angielski PR/D z wynikiem minimum60%. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 200,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "First threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 200,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Second threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 150,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "No round identified by the page."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 150,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "First threshold, 18 July 2024."
+        }
+      ],
+      "careers": [
+        "financial analyst",
+        "treasury specialist",
+        "investment operations analyst"
+      ],
+      "careerNote": "Illustrative finance roles; specialist work may require additional qualifications or experience.",
+      "admissionRuleId": "uew-2027-en"
+    },
+    {
+      "id": "uew-international-business",
+      "universityId": "uew",
+      "name": "International Business",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Explores how companies operate across national markets, including international trade, business strategy and cross-border cooperation. The English-language format develops an international business perspective alongside economic foundations.",
+      "fields": [
+        "international business",
+        "trade",
+        "global markets"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Na studiach anglojęzycznych językiem punktowanym jest angielski PR/D z wynikiem minimum60%. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 205,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "First threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 198,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Second threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "No round identified by the page."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 160,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "First threshold, 18 July 2024."
+        }
+      ],
+      "careers": [
+        "international sales specialist",
+        "export coordinator",
+        "international market analyst"
+      ],
+      "careerNote": "Illustrative roles related to cross-border business; language ability and practical experience affect access.",
+      "admissionRuleId": "uew-2027-en"
+    },
+    {
+      "id": "uew-management-accounting",
+      "universityId": "uew",
+      "name": "Management Accounting",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Focuses on accounting information used by managers to plan, control and evaluate organisational performance. The English-language course connects cost and management accounting with budgeting, reporting and business decisions.",
+      "fields": [
+        "management accounting",
+        "controlling",
+        "business analysis"
+      ],
+      "subjects": [
+        "matematyka",
+        "język angielski",
+        "język polski",
+        "geografia",
+        "historia",
+        "WOS",
+        "fizyka",
+        "chemia",
+        "biologia",
+        "informatyka",
+        "filozofia",
+        "biznes i zarządzanie"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta kierunku: 2026/2027. Opublikowane ogólne zasady 2027/2028: matematyka + nowożytny język obcy + jeden przedmiot do wyboru, w tym biznes i zarządzanie. Podstawa ×0,5, rozszerzenie ×1, język dwujęzyczny ×1,5. Na studiach anglojęzycznych językiem punktowanym jest angielski PR/D z wynikiem minimum60%. Podstawa: uchwała R.0000.26.2026, §4. W kalkulatorze można przełączyć na regułę 2026/27; progi pozostają historyczne.",
+      "sourceIds": [
+        "uew-list-2026",
+        "uew-rules-2026",
+        "uew-programmes",
+        "uew-thresholds-2026",
+        "uew-thresholds-2025",
+        "uew-thresholds-2024",
+        "uew-rules-2027"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": "pierwsza",
+          "value": 190,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "First threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2026/2027",
+          "round": "druga",
+          "value": 170,
+          "status": "official",
+          "sourceId": "uew-thresholds-2026",
+          "note": "Second threshold setting; Polish Matura candidates."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2025",
+          "note": "No round identified by the page."
+        },
+        {
+          "year": "2024/2025",
+          "round": "pierwsza",
+          "value": 140,
+          "status": "official",
+          "sourceId": "uew-thresholds-2024",
+          "note": "First threshold, 18 July 2024."
+        }
+      ],
+      "careers": [
+        "management accountant",
+        "cost analyst",
+        "controlling analyst"
+      ],
+      "careerNote": "Illustrative roles related to internal accounting and performance information; duties vary by organisation.",
+      "admissionRuleId": "uew-2027-en"
+    }
+  ]
+}

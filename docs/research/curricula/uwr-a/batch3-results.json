@@ -1,0 +1,261 @@
+[
+  {
+    "name": "uwr-data-and-society-plan",
+    "url": "https://socjologia.uwr.edu.pl/wp-content/uploads/sites/393/2026/03/Uchwala-Nr-123_2025-Senatu-UWr-z-2025-11-19-w-sprawie-programu-studiow-dla-kierunku-Data-and-Societystudia-stacjonarne-I-stopnia.pdf",
+    "type": "pdf",
+    "chars": 208885
+  },
+  {
+    "name": "uwr-biotechnologia-plan",
+    "url": "https://biotech.uwr.edu.pl/wp-content/uploads/sites/261/2025/11/PROGRAM_LIC_2023_2024.pdf",
+    "type": "pdf",
+    "chars": 25528
+  },
+  {
+    "name": "uwr-fizyka-plan",
+    "url": "https://wfa.uwr.edu.pl/wp-content/uploads/sites/216/2025/10/FIZYKA-1_BEZ_SPECJALNOSCI_TOK-A_i_B_Plan_studiow_dla_cyklu_ksztalcenia_2025-2028.pdf",
+    "type": "pdf",
+    "chars": 21921
+  },
+  {
+    "name": "uwr-astronomia-plan",
+    "url": "https://wfa.uwr.edu.pl/wp-content/uploads/sites/216/2025/10/ASTRONOMIA-1_TOK-A_Plan_studiow_dla_cyklu_ksztalcenia_2025-2028.pdf",
+    "type": "pdf",
+    "chars": 10287
+  },
+  {
+    "name": "uwr-edukacja-polonistyczna-plan",
+    "url": "https://ifp.uwr.edu.pl/wp-content/uploads/sites/213/2026/03/Edukacja-polonistyczna-program.pdf",
+    "type": "pdf",
+    "chars": 93058
+  },
+  {
+    "name": "uwr-geografia-plan",
+    "url": "https://igrr.uwr.edu.pl/wp-content/uploads/sites/297/2024/12/2023_24_gf-lic_program-skrocony_obligat.pdf",
+    "type": "pdf",
+    "chars": 8979
+  },
+  {
+    "name": "uwr-geoinformacja-plan",
+    "url": "https://igrr.uwr.edu.pl/wp-content/uploads/sites/297/2026/09/skrocony-plan-studiow-GEOINFORMACJA.pdf",
+    "type": "pdf",
+    "chars": 10178
+  },
+  {
+    "name": "uwr-gospodarka-przestrzenna-plan",
+    "url": "https://igrr.uwr.edu.pl/wp-content/uploads/sites/297/2024/12/2023_24_gp-lic_program-skrocony.pdf",
+    "type": "pdf",
+    "chars": 386
+  },
+  {
+    "name": "geografia-specialties",
+    "url": "https://igrr.uwr.edu.pl/wp-content/uploads/sites/297/2025/04/2023_24_gf-lic_program-skrocony_fakult.pdf",
+    "type": "pdf",
+    "chars": 6095
+  },
+  {
+    "name": "polish-spec",
+    "url": "https://ifp.uwr.edu.pl/studia-i-stopnia/filologia-polska-stacjonarne-i-stopnia/fp-i-specjalnosci/",
+    "type": "html",
+    "links": []
+  },
+  {
+    "name": "chem-info",
+    "url": "https://chem.uwr.edu.pl/studenci/",
+    "type": "html",
+    "links": [
+      [
+        "Niezbędnik Studenta",
+        "https://chem.uwr.edu.pl/studenci/niezbednik-studenta/"
+      ],
+      [
+        "Dziekanat",
+        "https://chem.uwr.edu.pl/studenci/dziekanat/"
+      ],
+      [
+        "Plany zajęć",
+        "https://chem.uwr.edu.pl/studenci/plany-zajec/"
+      ],
+      [
+        "Programy krajowe",
+        "https://chem.uwr.edu.pl/studenci/program-mobilnosci-studentow-i-doktorantow-most/"
+      ],
+      [
+        "Programy międzynarodowe",
+        "https://chem.uwr.edu.pl/programy-miedzynarodowe/"
+      ],
+      [
+        "Samorząd Studencki",
+        "https://chem.uwr.edu.pl/studenci/samorzad-studencki/"
+      ],
+      [
+        "Koło Naukowe",
+        "https://www.facebook.com/knchjez"
+      ],
+      [
+        "Centrum Aktywność Studenckiej i Doktoranckiej",
+        "https://casid.uwr.edu.pl/"
+      ]
+    ]
+  },
+  {
+    "name": "phil-studies",
+    "url": "https://filozofia.uwr.edu.pl/studia/",
+    "type": "html",
+    "links": [
+      [
+        "Plany zajęć",
+        "https://filozofia.uwr.edu.pl/studia/plany-zajec/"
+      ],
+      [
+        "Absolwenci",
+        "https://filozofia.uwr.edu.pl/studia/absolwenci/"
+      ],
+      [
+        "Dokumenty",
+        "https://filozofia.uwr.edu.pl/studia/dokumenty/"
+      ],
+      [
+        "Nauka w trybie zdalnym",
+        "https://filozofia.uwr.edu.pl/studia/nauka-w-trybie-zdalnym/"
+      ],
+      [
+        "Tutorzy",
+        "https://filozofia.uwr.edu.pl/studia/tutorzy/"
+      ],
+      [
+        "Zasady dyplomowania",
+        "https://filozofia.uwr.edu.pl/studia/zasady-dyplomowania/"
+      ],
+      [
+        "Aktywność studencka",
+        "https://filozofia.uwr.edu.pl/studia/aktywnosc-studencka/"
+      ],
+      [
+        "Programy studiów",
+        "https://filozofia.uwr.edu.pl/studia/programy-studiow/"
+      ],
+      [
+        "Olimpiada Filozoficzna",
+        "https://filozofia.uwr.edu.pl/studia/olimpiada-filozoficzna/"
+      ],
+      [
+        "Mobilność",
+        "https://filozofia.uwr.edu.pl/studia/mobilnosc/"
+      ]
+    ]
+  },
+  {
+    "name": "ethics-studies",
+    "url": "https://etyka.uwr.edu.pl/",
+    "error": "HTTPSConnectionPool(host='etyka.uwr.edu.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='etyka.uwr.edu.pl', port=443): Failed to resolve 'etyka.uwr.edu.pl' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "name": "biotech-en",
+    "url": "https://biotech.uwr.edu.pl/en/",
+    "type": "html",
+    "links": [
+      [
+        "Shape the Future – Study Biotechnology at the University of Wrocław!",
+        "https://biotech.uwr.edu.pl/en/admission-step-by-step/"
+      ],
+      [
+        "Faculty Seminars",
+        "https://biotech.uwr.edu.pl/en/2026/10/22/faculty-seminars/"
+      ],
+      [
+        "We encourage all interested students to review the recruitment details for the study visit. Open Call for Faculty of Biotechnology Students: Arqus Twinning 2.0 […]",
+        "https://biotech.uwr.edu.pl/en/2026/10/19/open-call-for-faculty-of-biotechnology-students-arqus-twinning-2-0-mobility-opportunity/"
+      ],
+      [
+        "We encourage master’s and doctoral students to learn more about the scholarship programme and the […] The call for applications for the BioLAB 2027–28 Program is […]",
+        "https://biotech.uwr.edu.pl/en/2026/10/15/the-call-for-applications-for-the-biolab-2027-28-program-is-now-open/"
+      ],
+      [
+        "Two Open Lectures by Visiting Researchers",
+        "https://biotech.uwr.edu.pl/en/2026/10/07/two-open-lectures-by-visiting-researchers/"
+      ],
+      [
+        "We invite you to an open guest lecture by Prof. […]",
+        "https://biotech.uwr.edu.pl/en/2026/09/25/72553/"
+      ],
+      [
+        "We invite you to a meeting with a representative of 10x Genomics. Invitation to a Presentation by 10xGenomics",
+        "https://biotech.uwr.edu.pl/en/2026/09/17/invitation-to-a-presentation-by-10xgenomics/"
+      ],
+      [
+        "We invite you to an open guest lecture by Prof. Geoffrey Brown Prof. Geoffrey Brown – guest lecture",
+        "https://biotech.uwr.edu.pl/en/2026/09/14/prof-geoffrey-brown-guest-lecture/"
+      ],
+      [
+        "Show All",
+        "https://biotech.uwr.edu.pl/en/news/"
+      ],
+      [
+        "Department of Biochemistry",
+        "https://biotech.uwr.edu.pl/en/department-of-biochemistry/"
+      ],
+      [
+        "Department of Bioinformatics and Genomics",
+        "https://biotech.uwr.edu.pl/en/department-of-bioinformatics-and-genomics/"
+      ],
+      [
+        "Department of Biophysics",
+        "https://biotech.uwr.edu.pl/en/department-of-biophysics-2/"
+      ],
+      [
+        "Department of Lipids and Liposomes",
+        "https://biotech.uwr.edu.pl/en/department-of-lipids-and-liposomes/"
+      ],
+      [
+        "Department of Biotransformation",
+        "https://biotech.uwr.edu.pl/en/department-of-biotransformation/"
+      ],
+      [
+        "Department o Molecular Microbiology",
+        "https://biotech.uwr.edu.pl/en/department-of-molecular-microbiology/"
+      ],
+      [
+        "Department of Cell Pathology",
+        "https://biotech.uwr.edu.pl/en/department-of-cell-pathology/"
+      ],
+      [
+        "Department of Medical Biotechnology",
+        "https://biotech.uwr.edu.pl/en/department-of-medical-biotechnology/"
+      ],
+      [
+        "Department of Cellular Molecular Biology",
+        "biotech.uwr.edu.pl/en/department-of-cellular-molecular-biology/"
+      ],
+      [
+        "Department of Protein Engineering",
+        "https://protein.uwr.edu.pl/"
+      ],
+      [
+        "Department of Chemical Biology",
+        "https://biotech.uwr.edu.pl/en/laboratory-of-chemical-biology/"
+      ],
+      [
+        "Laboratory of Medical Biology",
+        "https://biotech.uwr.edu.pl/en/laboratory-of-medical-biology/"
+      ],
+      [
+        "Department of Cytobiochemistry",
+        "https://biotech.uwr.edu.pl/en/department-of-cytobiochemistry/"
+      ],
+      [
+        "Laboratory of Nuclear Proteins",
+        "https://biotech.uwr.edu.pl/en/laboratory-of-nuclear-proteins/"
+      ],
+      [
+        "Department of Genetic Biochemistry",
+        "https://biotech.uwr.edu.pl/en/department-of-genetic-biochemistry/"
+      ]
+    ]
+  },
+  {
+    "name": "euro-cultures",
+    "url": "https://wnhip.uwr.edu.pl/studia-w-jezyku-angielskim/",
+    "error": "404 Client Error: Not Found for url: https://wnhip.uwr.edu.pl/studia-w-jezyku-angielskim/"
+  }
+]

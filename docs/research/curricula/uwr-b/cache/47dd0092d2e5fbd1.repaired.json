@@ -1,0 +1,117 @@
+[
+  {
+    "page": 1,
+    "context": "1 PROGRAM STUDIÓW Publikowanie cyfrowe i sieciowe studia pierwszego stopnia, stacjonarne Plan studiów Rok studiów: I Semestr: pierwszy Lp. Nazwa przedmiotu O/F",
+    "subjects": [
+      "Edytory grafiki",
+      "Edytory tekstu",
+      "Etyka i etykieta w komunikacji językowej",
+      "Historia mediów",
+      "Komunikacja w teorii i praktyce",
+      "Komunikacja wizualna",
+      "Podstawy edytorstwa",
+      "Przedmiot humanistyczny***",
+      "Przedmiot do wyboru****",
+      "Obowiązkowe szkolenie BHP oraz ochrony ppoż. (wpis)",
+      "CMS – systemy zarządzania treścią",
+      "Edytorstwo publikacji cyfrowych"
+    ]
+  },
+  {
+    "page": 2,
+    "context": "2 3 Edytorstwo publikacji cyfrowych O K 30 3 Zo 4 Książka w ekosystemie mediów O W 15 3 E 5 Książka w ekosystemie mediów O K 30 3 Zo 6 Kultura języka O K",
+    "subjects": [
+      "Edytorstwo publikacji cyfrowych",
+      "Książka w ekosystemie mediów",
+      "Kultura języka",
+      "Praca w programie inDesign",
+      "Techniki wywierania wpływu",
+      "Twórcze pisanie – warsztaty",
+      "Lektorat języka obcego",
+      "Przedmiot do wyboru ****",
+      "Czytanie i czytelnik",
+      "Ocena jakości informacji",
+      "Podstawy typografii",
+      "Rynek wydawniczy – aspekty praktyczne",
+      "Wstęp do marketingu",
+      "Zarządzanie kolekcjami e- dokumentów",
+      "Zasoby informacji"
+    ]
+  },
+  {
+    "page": 3,
+    "context": "3 11 Rynek pracy O K 15 1 Zo 12 Specjalność: komunikacja cyfrowa // Specjalność: projektowanie publikacji O/F W/K/L 60 6 Zo Razem 360 30 Semestr:",
+    "subjects": [
+      "Rynek pracy",
+      "Specjalność: komunikacja cyfrowa // Specjalność: projektowanie",
+      "Czytanie i czytelnik - projekt",
+      "Informacja w teorii i praktyce",
+      "Podstawy nauk o komunikacji społecznej i mediach",
+      "Praktyczne aspekty prawa",
+      "Rynek książki w Polsce i na świecie",
+      "Sieciowe środowisko pracy",
+      "Wprowadzenie do pracy naukowej",
+      "Wyszukiwanie informacji",
+      "Lektorat języka obcego",
+      "Wychowanie fizyczne",
+      "Specjalność: projektowanie",
+      "Konwersatorium terminologiczne (język angielski)",
+      "Metody badań jakościowych i ilościowych",
+      "Otwarta nauka i kultura"
+    ]
+  },
+  {
+    "page": 4,
+    "context": "4 4 Wiedza o kulturze O W 15 3 E 5 Wiedza o kulturze O K 30 2 Zo 6 Seminarium licencjackie O S 30 5 Zo 7 Wychowanie fizyczne O Ć 30 0 Z 8 Specja",
+    "subjects": [
+      "Wiedza o kulturze",
+      "Seminarium licencjackie",
+      "Wychowanie fizyczne",
+      "Specjalność: komunikacja cyfrowa // Specjalność: projektowanie",
+      "Przedmiot humanistyczny***",
+      "Przedmiot do wyboru****",
+      "CRM - zarządzanie relacjami z klientami",
+      "Praca z przekładem",
+      "Lektorat języka obcego (wpis)",
+      "Specjalność: projektowanie"
+    ]
+  },
+  {
+    "page": 5,
+    "context": "5 Wskaźniki ECTS Liczba punktów ECTS wymagana do ukończenia studiów pierwszego stopnia 180 Liczba punktów ECTS dla przedmiotów do wyboru: specjalnościowe, do wyboru i se",
+    "subjects": [
+      "E-marketing"
+    ]
+  },
+  {
+    "page": 6,
+    "context": "6 2 Netnografia O L 30 3 Zo 3 Networking O Wr 15 2 Zo Razem 75 8 Rok studiów: III Semestr: piąty Lp. Nazwa przedmiotu O/F* Forma zajęć** Liczba godzi",
+    "subjects": [
+      "Netnografia",
+      "Networking",
+      "Projektowanie grafiki (rastrowa i wektorowa)",
+      "Współczesna grafika użytkowa",
+      "Społeczne oddziaływanie mediów",
+      "Społeczności współpracy - Wikipedia",
+      "Prawo w Internecie",
+      "Ekologia informacji",
+      "UI/UX - User Interface/User Experience",
+      "Kanały dystrybucji cyfrowej"
+    ]
+  },
+  {
+    "page": 7,
+    "context": "7 Lp. Nazwa przedmiotu O/F* Forma zajęć** Liczba godzin Punkty ECTS Forma zaliczenia 1 Edytorstwo dzieł literackich O K 30 3 Zo 2 Prawo autorskie O K 15 2",
+    "subjects": [
+      "Edytorstwo dzieł literackich",
+      "Prawo autorskie",
+      "Wizualizacja treści",
+      "InDesign - projekt",
+      "Redakcja i korekta tekstu",
+      "Rynek wydawniczy w anglojęzycznych zasobach",
+      "Content marketing",
+      "Estetyka w projektowaniu",
+      "Przetwarzanie danych w procesie digitalizacji"
+    ]
+  }
+]

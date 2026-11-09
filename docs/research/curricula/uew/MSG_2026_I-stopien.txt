@@ -1,0 +1,198 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+3 244 139 105 0 0 132 76 56 0 0 30
+4 330 135 165 30 0 164 72 76 16 0 30
+4 435 210 180 45 0 220 112 84 24 0 30
+2 379 210 165 4 0 176 112 60 4 0 30
+2 405 135 195 30 45 200 72 92 16 20 30
+0 195 45 75 30 45 105 24 40 16 25 30
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Mikroekonomia I I E 30 15 15 16 8 8 3
+Makroekonomia I I Z 30 15 15 16 8 8 3
+Finanse II E 30 15 15 16 8 8 3
+Rachunkowość II E 30 15 15 16 8 8 3
+Zarządzanie II E 60 30 30 32 16 16 6
+Matematyka I E 60 30 30 32 16 16 6
+Prawo I Z 30 30 16 16 3
+Technologie cyfrowe II Z 30 30 16 16 3
+Metodyka badań naukowych IV Z 15 15 8 8 2
+315 165 120 30 0 168 88 64 16 0 32
+Studia niestacjonarne E
+C
+T
+S
+RAZEM SEKCJA I
+E
+C
+T
+S
+Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+lato 2028/2029 - Semestr 6
+MIĘDZYNARODOWE STOSUNKI GOSPODARCZE
+I STOPIEŃ
+2026/2027 - 2028/2029
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+Nazwa przedmiotu Sem.
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+zima 2028/2029 - Semestr 5
+lato 2027/2028 - Semestr 4
+Forma 
+zal.
+Studia stacjonarne
+I ST - MSG
+
+PAGE 2
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Studia niestacjonarne E
+C
+T
+S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne
+Podstawy logistyki międzynarodowej III E 45 15 30 24 8 16 3
+Biznes międzynarodowy III E 60 30 30 32 16 16 4
+Zarządzanie w biznesie międzynarodowym III Z 45 15 30 24 8 16 3
+Design Thinking w rozwiązywaniu problemów 
+biznesowych VI Z 30 30 16 16 2
+Marketing międzynarodowy III E 45 30 15 24 16 8 3
+Rozliczenia międzynarodowe V E 45 15 30 24 8 16 2
+Polityka ekonomiczna II Z 30 15 15 16 8 8 3
+Społeczna odpowiedzialność biznesu III Z 30 30 16 16 2
+Pozyskiwanie i analiza danych ekonomicznych V Z 45 15 30 24 8 16 2
+Analiza finansowa przedsiębiorstw III Z 30 15 15 16 8 8 2
+Klastry w globalnej gospodarce V Z 30 15 15 16 8 8 2
+Finanse międzynarodowe V E 30 15 15 16 8 8 2
+465 210 225 30 0 248 112 120 16 0 30RAZEM SEKCJA II
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+I ST - MSG
+
+PAGE 3
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Studia niestacjonarne E
+C
+T
+S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne
+Mikroekonomia II II E 30 15 15 16 8 8 3
+Makroekonomia II II Z 30 15 15 16 8 8 3
+Globalny rynek żywności IV E 45 30 15 24 16 8 4
+Międzynarodowa ekonomia porównawcza IV Z 30 15 15 16 8 8 3
+Statystyka opisowa III Z 30 15 15 16 8 8 3
+Prawo cywilne i handlowe - wymiar międzynarodowy IV Z 30 30 16 16 3
+Reżimy polityczne XXI wieku i ich wpływ na 
+prowadzenie biznesu I E 30 15 15 16 8 8 6
+Marketing  I Z 30 15 15 16 8 8 4
+Wspólny rynek Unii Europejskiej IV E 60 30 30 32 16 16 5
+Business Decision Making IV Z 30 30 16 16 3
+Zarządzanie strategiczne III E 45 15 30 24 8 16 3
+Globalne problemy społeczne I Z 30 15 15 16 8 8 5
+Zarządzanie logistyczne w  biznesie 
+międzynarodowym IV Z 30 15 15 16 8 8 3
+Environmental, Social and Corporate Governance w 
+biznesie V Z 30 15 15 16 8 8 2
+Wykład rozwijający kompetencje społeczne i 
+zawodowe II Z 30 30 16 16 2
+510 300 165 45 0 272 160 88 24 0 52
+Moduł I V Z 120 60 60 64 32 32 12
+Moduł II VI Z 120 45 45 30 64 24 24 16 9
+240 105 105 30 0 128 56 56 16 0 21
+Przedmiot humanistyczny I III Z 45 45 24 24 3
+Przedmiot humanistyczny II IV Z 45 45 24 24 3
+90 90 0 0 0 48 48 0 0 0 6
+RAZEM SEKCJA III
+RAZEM SEKCJA IV
+RAZEM SEKCJA V
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+SEKCJA IV. MODUŁY
+I ST - MSG
+
+PAGE 4
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Studia niestacjonarne E
+C
+T
+S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne
+Elektroniczne źródła informacji naukowej IV z 4 4 4 4 0
+Bezpieczeństwo i higiena pracy I z 4 4 4 4 0
+Wychowanie fizyczne IV z 30 30 0 0
+Wychowanie fizyczne V z 30 30 0 0
+Język obcy I - język angielski - S1 II Z 30 30 0 2
+Język obcy I - język angielski - S1 III Z 30 30 0 2
+Język obcy I - język angielski - S1 IV Z 30 30 0 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 30 30 0 2
+Język obcy II - S1 III Z 30 30 0 2
+Język obcy II - S1 IV Z 30 30 0 2
+Język obcy II - S1 V Z 30 30 0 2
+Seminarium dyplomowe V z 45 45 20 20 6
+Seminarium dyplomowe VI z 45 45 25 25 12
+Praca dyplomowa VI z 0
+Praktyka zawodowa (160 h) VI z 7
+368 4 270 4 90 133 4 80 4 45 39
+1988 874 885 139 90 997 468 408 76 45 180
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+RAZEM LICZBA GODZIN NA KIERUNKU
+RAZEM SEKCJA VI
+I ST - MSG
+
+PAGE 5
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Studia niestacjonarne E
+C
+T
+S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne
+Miejsce handlu zagranicznego w rozwoju 
+gospodarczym świata V Z 30 15 15 16 8 8 3
+Międzynarodowy e-commerce V Z 30 15 15 16 8 8 3
+Ekonomika handlu zagranicznego V Z 30 15 15 16 8 8 3
+Inwestowanie w rozwój firmy V Z 30 15 15 16 8 8 3
+Zarządzanie łańcuchem dostaw V Z 30 15 15 16 8 8 3
+Międzynarodowe systemy transportowe V Z 30 15 15 16 8 8 3
+Problemy logistyczne obszarów metropolitalnych V Z 30 15 15 16 8 8 3
+Informacyjne wsparcie procesów logistycznych V Z 30 15 15 16 8 8 3
+Sieciowe modele biznesowe VI Z 30 15 15 16 8 8 2
+Międzynarodowe zarządzanie kadrami VI Z 30 15 15 16 8 8 2
+International Business - Simulation Game VI Z 30 30 16 16 3
+Cyfryzacja i automatyzacja biznesu 
+międzynarodowego w erze AI VI Z 30 15 15 16 8 8 2
+Innowacyjna gospodarka międzynarodowa VI Z 30 15 15 16 8 8 2
+Międzynarodowa atrakcyjność inwestycyjna regionów VI Z 30 15 15 16 8 8 2
+Transformacja energetyczna w biznesie 
+międzynarodowym VI Z 30 15 15 16 8 8 3
+Ekonomia nowych technologii VI Z 30 15 15 16 8 8 2
+Innowacje i zielona gospodarka
+SZCZEGÓŁOWY WYKAZ MODUŁÓW
+Handel międzynarodowy
+Logistyka międzynarodowa
+Biznes międzynarodowy
+I ST - MSG

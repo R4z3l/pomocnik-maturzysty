@@ -1,0 +1,154 @@
+                               GEOINFORMACJA
+                           Studia I stopnia, inżynierskie, 7-semestralne
+
+
+                                                                                                            Liczba godzin
+                                           Punkty    FormaLp.           Nazwa przedmiotu                            Razem godzin                                         ECTS     zaliczenia
+                                                                              Wykłady           Ćwiczenia       Ćwicz. terenowe
+
+ 1                            2                              3             4                5                     6                        7                      8
+                                                 semestr I
+
+ 1   BHP i ppoż.                             0          z           4                4                  0                 0
+
+ 2   Ochrona własności intelektualnej              1          z          10               10                 0                 0
+
+ 3    Analiza matematyczna                     5         E          48               24                 24                0
+
+ 4    Technologie informacyjne                   3          z          30               0                  30                0
+
+ 5   Wstęp do programowania                   5          z          36               12                 24                0
+
+ 6   Podstawy kartografii                       5         E          48               24                 24                0
+
+ 7    Geologia i geomorfologia                    5         E          60               30                 30                0
+
+      Geografia społeczno-ekonomiczna i 8                                        5         E          60               30                 30                0      gospodarka przestrzenna
+
+ 9    Geoinformacja w biznesie                   1          z          16               16                 0                 0
+
+     razem semestr I                        30        4          312            150              162              0
+
+                                            semestr II
+
+10   Algebra liniowa                          4         E          40               20                 20                0
+
+11   Programowanie                          4            z          40               20                 20                0
+
+12   Podstawy topografii i geodezji                4          z          40               20                 20                0
+
+13   Systemy informacji geograficznej 1            4         E          48               24                 24                0
+
+14   Atmosfera i hydrosfera                     4          E          48               24                 24                0
+     Modelowanie zjawisk demograficzno-15                                       4          z          40               20                 20                0     osadniczych
+
+16   Ćwiczenia terenowe - kartografia i topografia      2          z          30               0                  0                30
+
+17   Język obcy nowożytny 1                    4          z          60               0                  60                   0
+
+    razem semestr II                       30        3          346            128              188             30
+
+                                            semestr III
+     Rachunek prawdopodobieństwa i statystyka18                                       3         E          48               24                 24                0     matematyczna
+
+19   Bazy danych i geobazy                     3          z          48               24                 24                0
+
+20   Podstawy wizualizacji kartograficznej           4         E          48               24                 24                0
+
+21   Teledetekcja                            2         E          24               12                 12                0
+
+22   Systemy informacji geograficznej 2            3          z          30               0                  30                0
+
+     Metody ilościowe w obsłudze ruchu23                                       2          z          24               12                 12                0      turystycznego
+
+24   Źródła informacji przestrzennej               2          z          24               0                  24                0
+
+25   Język obcy nowożytny 2                    4          z          60               0                  60                0
+
+26   Przedmioty fakultatywne - geoinformatyczne      3          z          24               0                  24                0
+
+27   Przedmioty fakultatywne - nauki o Ziemi         2          z          20               10                 10                0
+
+28   Przedmioty fakultatywne - geografia człowieka    2          z          20               10                 10                0
+
+    razem semestr III                      30        3          370            116              254              0
+
+                                            semestr IV
+
+29   Automatyzacja geoprzetwarzania              3          z          36               12                 24                0
+
+30   Podstawy fotogrametrii                     3          z          48               24                 24                0
+
+      Ćwiczenia terenowe - pozyskiwanie danych31                                       2          z          30               0                  0                30     środowiskowych
+
+32   Ćwiczenia terenowe - drony                  2          z          30               0                  0                30
+33   Praktyki zawodowe (3 tygodnie = 120 h)        4          z           0                0                  0                 0
+
+34   Język obcy nowożytny 3                    4         E          60               0                  60                0
+
+35   Przedmioty fakultatywne - geoinformatyczne      6          z          36               0                  30                6
+
+36   Przedmioty fakultatywne - nauki o Ziemi         4          z          40               20                 20                0
+
+37   Przedmioty fakultatywne - geografia człowieka    2          z          20               10                 10                0
+
+    razem semestr IV                       30        1          300             66               168             66
+
+                                            semestr V
+
+38   Techniki eksploracji danych                  2          z          36               12                 24                0
+
+39   Mapy internetowe                         3          z          48               24                 24                0
+
+40   Geografia fizyczna kompleksowa              2          z          36               12                 24                0
+
+41   Podstawy sztucznej inteligencji               3         E          48               24                 24                0
+
+42   Przedmioty fakultatywne - geoinformatyczne      6          z          36               0                  36                0
+
+43   Przedmioty fakultatywne - nauki o Ziemi         6          z          60               30                 30                0
+
+44   Przedmioty fakultatywne - geografia człowieka    8          z          80               40                 40                0
+
+    razem semestr V                        30        1          344            142              202              0
+
+                                            semestr VI
+
+45   Cyfryzacja w planowaniu przestrzennym         2          z          24               0                  24                0
+
+     Planowanie zintegrowane w dobie zmian46                                                          z          36               12                 24                0
+      klimatu                                3
+
+47   Analizy krajobrazowe                      3          z          32               10                 10                12
+
+48   Seminarium dyplomowe 1                   2          z          12               0                  12                0
+
+49  WF*                                  0          z          60               0                  60                0
+
+50   Przedmioty fakultatywne - geoinformatyczne      6          z          36               0                  36                0
+51   Przedmioty fakultatywne - nauki o Ziemi         8          z          80               40                 40                0
+
+52   Przedmioty fakultatywne - geografia człowieka    6          z          60               30                 30                0
+
+    razem semestr VI                       30        0          340             92               236             12
+
+                                           semestr VII
+
+53   Podstawy prawa i przedsiębiorczości            3          z          36               24                 12                0
+
+      Historia geoinformacji (przedmiot54                                       3          z          24               24                 0                 0     humanistyczny)
+      Archeologia środowiskowa (przedmiot55                                       2          z          24               24                 0                 0     humanistyczny)
+
+56   Seminarium dyplomowe 2                   2            z          24               0                  24                0
+
+57   Praca dyplomowa i egzamin inżynierski         10        E           0                0                  0                 0
+
+58   Przedmioty fakultatywne - nauki o Ziemi         4          z          40               20                 20                0
+
+59   Przedmioty fakultatywne - geografia człowieka    6          z          60               30                 30                0
+
+    razem semestr VII                      30        1          208            122               86              0
+
+   SUMA                            210      13       2220          816            1296           108
+
+     * zajęcia z WF można realizować na semestrach od II-V, w sumie należy zrealizować 2x30h

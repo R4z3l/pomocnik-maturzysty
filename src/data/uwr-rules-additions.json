@@ -1,0 +1,3685 @@
+{
+  "rules": [
+    {
+      "id": "uwr-anglistyka-2027",
+      "year": "2027/2028",
+      "title": "Anglistyka — polska nowa matura",
+      "formula": "max(język angielski: PP×0/PR×1) + max(język polski: PP×0/PR×0.8) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/9?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Angielski PR",
+          "subjects": [
+            "język angielski"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Polski PR",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.8,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-edukacja-polonistyczna-2027",
+      "year": "2027/2028",
+      "title": "Edukacja polonistyczna — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, język polski: PP×0.25/PR×0.5, język angielski: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/49?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "język polski",
+            "język angielski",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0,
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-etyka-2027",
+      "year": "2027/2028",
+      "title": "Etyka — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5) + max(filozofia: PP×0/PR×2) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/59?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Filozofia",
+          "subjects": [
+            "filozofia"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 2,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-filologia-francuska-2027",
+      "year": "2027/2028",
+      "title": "Filologia francuska — polska nowa matura",
+      "formula": "max(język francuski: PP×0.5/PR×1, język angielski: PP×0.4/PR×0.8, język niemiecki: PP×0.4/PR×0.8, język hiszpański: PP×0.4/PR×0.8, język rosyjski: PP×0.4/PR×0.8, język włoski: PP×0.4/PR×0.8, język portugalski: PP×0.4/PR×0.8, język ukraiński: PP×0.4/PR×0.8) + max(język polski: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, język polski: PP×0.25/PR×0.5, język angielski: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/65?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Wymagany język obcy",
+          "subjects": [
+            "język francuski",
+            "język angielski",
+            "język niemiecki",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false,
+          "options": [
+            {
+              "subject": "język francuski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język angielski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język niemiecki",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język hiszpański",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język włoski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "język polski",
+            "język angielski",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0,
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-filologia-germanska-2027",
+      "year": "2027/2028",
+      "title": "Filologia germańska — polska nowa matura",
+      "formula": "max(język polski: PP×0.25/PR×0.5) + max(język niemiecki: PP×0.5/PR×1, język angielski: PP×0.4/PR×0.8, język francuski: PP×0.4/PR×0.8, język hiszpański: PP×0.4/PR×0.8, język rosyjski: PP×0.4/PR×0.8, język włoski: PP×0.4/PR×0.8, język portugalski: PP×0.4/PR×0.8, język ukraiński: PP×0.4/PR×0.8)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/68?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Obcy do wyboru",
+          "subjects": [
+            "język niemiecki",
+            "język angielski",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "options": [
+            {
+              "subject": "język niemiecki",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język angielski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język francuski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język hiszpański",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język włoski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            }
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-filologia-hiszpanska-2027",
+      "year": "2027/2028",
+      "title": "Filologia hiszpańska — polska nowa matura",
+      "formula": "max(język hiszpański: PP×0.5/PR×1, język angielski: PP×0.4/PR×0.8, język niemiecki: PP×0.4/PR×0.8, język francuski: PP×0.4/PR×0.8, język rosyjski: PP×0.4/PR×0.8, język włoski: PP×0.4/PR×0.8, język portugalski: PP×0.4/PR×0.8, język ukraiński: PP×0.4/PR×0.8) + max(język polski: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, język polski: PP×0.25/PR×0.5, język angielski: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/70?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Wymagany język obcy",
+          "subjects": [
+            "język hiszpański",
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false,
+          "options": [
+            {
+              "subject": "język hiszpański",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język angielski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język niemiecki",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język francuski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język włoski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "język polski",
+            "język angielski",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0,
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-filologia-indyjska-2027",
+      "year": "2027/2028",
+      "title": "Filologia indyjska — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1) + max(matematyka: PP×0.2/PR×0.6, biologia: PP×0.2/PR×0.6, chemia: PP×0.2/PR×0.6, fizyka: PP×0.2/PR×0.6, informatyka: PP×0.2/PR×0.6, geografia: PP×0.2/PR×0.6, WOS: PP×0.2/PR×0.6, język niemiecki: PP×0.2/PR×0.6, język francuski: PP×0.2/PR×0.6, język hiszpański: PP×0.2/PR×0.6, język rosyjski: PP×0.2/PR×0.6, język włoski: PP×0.2/PR×0.6, historia sztuki: PP×0.2/PR×0.6, historia muzyki: PP×0.2/PR×0.6, język portugalski: PP×0.2/PR×0.6, język ukraiński: PP×0.2/PR×0.6, wiedza o tańcu: PP×0.2/PR×0.6) + max(filozofia: PP×0/PR×0.8, historia: PP×0/PR×0.8, język łaciński i kultura antyczna: PP×0/PR×0.8)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/71?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Angielski",
+          "subjects": [
+            "język angielski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "WOS",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.6,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Dodatkowy",
+          "subjects": [
+            "filozofia",
+            "historia",
+            "język łaciński i kultura antyczna"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.8,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-filologia-polska-2027",
+      "year": "2027/2028",
+      "title": "Filologia polska — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/75?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-filozofia-2027",
+      "year": "2027/2028",
+      "title": "Filozofia — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5) + max(filozofia: PP×0/PR×2) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/81?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Filozofia",
+          "subjects": [
+            "filozofia"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 2,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-historia-sztuki-2027",
+      "year": "2027/2028",
+      "title": "Historia sztuki — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/103?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-indywidualne-studia-miedzydziedzinowe-2027",
+      "year": "2027/2028",
+      "title": "Indywidualne studia międzydziedzinowe — polska nowa matura",
+      "formula": "max(język polski: PP×0.6/PR×1) + max(matematyka: PP×0.6/PR×1) + max(język angielski: PP×0.6/PR×1, język niemiecki: PP×0.6/PR×1, język francuski: PP×0.6/PR×1, język hiszpański: PP×0.6/PR×1, język rosyjski: PP×0.6/PR×1, język włoski: PP×0.6/PR×1, język portugalski: PP×0.6/PR×1, język ukraiński: PP×0.6/PR×1) + max(biologia: PP×0/PR×1, chemia: PP×0/PR×1, filozofia: PP×0/PR×1, fizyka: PP×0/PR×1, geografia: PP×0/PR×1, historia: PP×0/PR×1, historia sztuki: PP×0/PR×1, historia muzyki: PP×0/PR×1, informatyka: PP×0/PR×1, język łaciński i kultura antyczna: PP×0/PR×1, WOS: PP×0/PR×1, język angielski: PP×0/PR×1, język niemiecki: PP×0/PR×1, język francuski: PP×0/PR×1, język hiszpański: PP×0/PR×1, język rosyjski: PP×0/PR×1, język włoski: PP×0/PR×1, język portugalski: PP×0/PR×1, język ukraiński: PP×0/PR×1) + punkty z II etapu (pozytywna ocena obowiązkowa)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/107?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.6,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Matematyka",
+          "subjects": [
+            "matematyka"
+          ],
+          "factors": {
+            "basic": 0.6,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.6,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Do wyboru",
+          "subjects": [
+            "biologia",
+            "chemia",
+            "filozofia",
+            "fizyka",
+            "geografia",
+            "historia",
+            "historia sztuki",
+            "historia muzyki",
+            "informatyka",
+            "język łaciński i kultura antyczna",
+            "WOS",
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            2
+          ]
+        }
+      ],
+      "caveat": "Karta uznaje również język grecki i kulturę antyczną, którego profil nie obsługuje. Warunek 240 dotyczy matur przed rozmową; wynik nie potwierdza zaproszenia. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "minimumMaturaTotal": 240,
+      "extraExam": {
+        "key": "consultation",
+        "label": "II etap — rozmowa konsultacyjna",
+        "min": 0,
+        "max": 440,
+        "passMin": 264,
+        "allowedValues": [
+          0,
+          264,
+          308,
+          352,
+          396,
+          440
+        ],
+        "note": "Do II etapu: minimum 240 z matur i maksymalnie dwukrotność limitu przyjęć. Dwa własne tematy zgłoszone przy rejestracji wraz z minimum dwiema pozycjami bibliograficznymi. Punkty: ndst0/dst264/dst+308/db352/db+396/bdb440. Suma obu etapów, rozmowa musi być pozytywna."
+      }
+    },
+    {
+      "id": "uwr-informacja-naukowa-i-bibliotekoznawstwo-2027",
+      "year": "2027/2028",
+      "title": "Informacja naukowa i bibliotekoznawstwo — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, język polski: PP×0.25/PR×0.5, język angielski: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/109?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "język polski",
+            "język angielski",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0,
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-italianistyka-2027",
+      "year": "2027/2028",
+      "title": "Italianistyka — polska nowa matura",
+      "formula": "max(język włoski: PP×0.5/PR×1, język angielski: PP×0.4/PR×0.8, język niemiecki: PP×0.4/PR×0.8, język francuski: PP×0.4/PR×0.8, język hiszpański: PP×0.4/PR×0.8, język rosyjski: PP×0.4/PR×0.8, język portugalski: PP×0.4/PR×0.8, język ukraiński: PP×0.4/PR×0.8) + max(język polski: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, język polski: PP×0.25/PR×0.5, język angielski: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/116?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Wymagany język obcy",
+          "subjects": [
+            "język włoski",
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false,
+          "options": [
+            {
+              "subject": "język włoski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język angielski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język niemiecki",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język francuski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język hiszpański",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0.4,
+              "extended": 0.8,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "język polski",
+            "język angielski",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0,
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-judaistyka-2027",
+      "year": "2027/2028",
+      "title": "Judaistyka — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.2/PR×1) + max(matematyka: PP×0/PR×0.5, biologia: PP×0/PR×0.5, chemia: PP×0/PR×0.5, fizyka: PP×0/PR×0.5, informatyka: PP×0/PR×0.5, geografia: PP×0/PR×0.5, historia: PP×0/PR×0.5, WOS: PP×0/PR×0.5, filozofia: PP×0/PR×0.5, język niemiecki: PP×0/PR×0.5, język francuski: PP×0/PR×0.5, język hiszpański: PP×0/PR×0.5, język rosyjski: PP×0/PR×0.5, język włoski: PP×0/PR×0.5, historia sztuki: PP×0/PR×0.5, historia muzyki: PP×0/PR×0.5, język łaciński i kultura antyczna: PP×0/PR×0.5, język portugalski: PP×0/PR×0.5, język ukraiński: PP×0/PR×0.5, wiedza o tańcu: PP×0/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/117?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Angielski",
+          "subjects": [
+            "język angielski"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-koreanistyka-2027",
+      "year": "2027/2028",
+      "title": "Koreanistyka — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1) + max(matematyka: PP×0/PR×0.6, biologia: PP×0/PR×0.6, chemia: PP×0/PR×0.6, fizyka: PP×0/PR×0.6, informatyka: PP×0/PR×0.6, geografia: PP×0/PR×0.6, historia: PP×0/PR×0.6, WOS: PP×0/PR×0.6, filozofia: PP×0/PR×0.6, język niemiecki: PP×0/PR×0.6, język francuski: PP×0/PR×0.6, język hiszpański: PP×0/PR×0.6, język rosyjski: PP×0/PR×0.6, język włoski: PP×0/PR×0.6, historia sztuki: PP×0/PR×0.6, historia muzyki: PP×0/PR×0.6, język portugalski: PP×0/PR×0.6, język ukraiński: PP×0/PR×0.6, wiedza o tańcu: PP×0/PR×0.6) + max(język łaciński i kultura antyczna: PP×0/PR×0.8)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/124?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Angielski",
+          "subjects": [
+            "język angielski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.6,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Łacina",
+          "subjects": [
+            "język łaciński i kultura antyczna"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.8,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo-2027",
+      "year": "2027/2028",
+      "title": "Kultura i praktyka tekstu: twórcze pisanie i edytorstwo — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/127?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-literatura-swiatowa-komparatystyka-i-wielokulturowosc-2027",
+      "year": "2027/2028",
+      "title": "Literatura światowa: komparatystyka i wielokulturowość — polska nowa matura",
+      "formula": "max(język polski: PP×0/PR×1) + max(język angielski: PP×0.4/PR×1, język niemiecki: PP×0.4/PR×1, język francuski: PP×0.4/PR×1, język hiszpański: PP×0.4/PR×1, język rosyjski: PP×0.4/PR×1, język włoski: PP×0.4/PR×1, język portugalski: PP×0.4/PR×1, język ukraiński: PP×0.4/PR×1) + max(filozofia: PP×0/PR×0.5, geografia: PP×0/PR×0.5, historia: PP×0/PR×0.5, historia sztuki: PP×0/PR×0.5, język łaciński i kultura antyczna: PP×0/PR×0.5, WOS: PP×0/PR×0.5, język angielski: PP×0/PR×0.5, język niemiecki: PP×0/PR×0.5, język francuski: PP×0/PR×0.5, język hiszpański: PP×0/PR×0.5, język rosyjski: PP×0/PR×0.5, język włoski: PP×0/PR×0.5, język portugalski: PP×0/PR×0.5, język ukraiński: PP×0/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/130?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski PR",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Do wyboru",
+          "subjects": [
+            "filozofia",
+            "geografia",
+            "historia",
+            "historia sztuki",
+            "język łaciński i kultura antyczna",
+            "WOS",
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-logopedia-2027",
+      "year": "2027/2028",
+      "title": "Logopedia — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(biologia: PP×0/PR×0.75, język angielski: PP×0/PR×0.75, język niemiecki: PP×0/PR×0.75, język francuski: PP×0/PR×0.75, język hiszpański: PP×0/PR×0.75, język rosyjski: PP×0/PR×0.75, język włoski: PP×0/PR×0.75, język portugalski: PP×0/PR×0.75, język ukraiński: PP×0/PR×0.75, matematyka: PP×0.25/PR×0.5, chemia: PP×0/PR×0.5, fizyka: PP×0/PR×0.5, geografia: PP×0/PR×0.5, historia: PP×0/PR×0.5, informatyka: PP×0/PR×0.5, WOS: PP×0/PR×0.5) + punkty z II etapu (pozytywna ocena obowiązkowa)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/133?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Dodatkowy",
+          "subjects": [
+            "biologia",
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński",
+            "matematyka",
+            "chemia",
+            "fizyka",
+            "geografia",
+            "historia",
+            "informatyka",
+            "WOS"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            1
+          ],
+          "options": [
+            {
+              "subject": "biologia",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język angielski",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język niemiecki",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język francuski",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język hiszpański",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język włoski",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0,
+              "extended": 0.75,
+              "bilingual": 0
+            },
+            {
+              "subject": "matematyka",
+              "basic": 0.25,
+              "extended": 0.5,
+              "bilingual": 0
+            },
+            {
+              "subject": "chemia",
+              "basic": 0,
+              "extended": 0.5,
+              "bilingual": 0
+            },
+            {
+              "subject": "fizyka",
+              "basic": 0,
+              "extended": 0.5,
+              "bilingual": 0
+            },
+            {
+              "subject": "geografia",
+              "basic": 0,
+              "extended": 0.5,
+              "bilingual": 0
+            },
+            {
+              "subject": "historia",
+              "basic": 0,
+              "extended": 0.5,
+              "bilingual": 0
+            },
+            {
+              "subject": "informatyka",
+              "basic": 0,
+              "extended": 0.5,
+              "bilingual": 0
+            },
+            {
+              "subject": "WOS",
+              "basic": 0,
+              "extended": 0.5,
+              "bilingual": 0
+            }
+          ]
+        }
+      ],
+      "caveat": "II etap obowiązkowy; samo wyliczenie matur nie jest końcowym wynikiem. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "extraExam": {
+        "key": "interview",
+        "label": "II etap — rozmowa kwalifikacyjna",
+        "min": 0,
+        "max": 30,
+        "passMin": 18,
+        "note": "Maksymalnie 70 najlepszych kandydatów z etapu I; wprowadzenie punktów nie potwierdza zaproszenia. Ocena komunikacji, wymowy, głosu, płynności, słuchu i możliwe próby motoryki artykulacyjnej. Suma etapów I i II."
+      }
+    },
+    {
+      "id": "uwr-medyczna-biotechnologia-molekularna-2027",
+      "year": "2027/2028",
+      "title": "Medyczna biotechnologia molekularna — polska nowa matura",
+      "formula": "max(chemia: PP×0/PR×1) + max(biologia: PP×0/PR×1) + max(matematyka: PP×0.4/PR×1, fizyka: PP×0/PR×1) + max(język angielski: PP×0.1/PR×0.25)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/140?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Chemia PR",
+          "subjects": [
+            "chemia"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Biologia PR",
+          "subjects": [
+            "biologia"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Do wyboru",
+          "subjects": [
+            "matematyka",
+            "fizyka"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "options": [
+            {
+              "subject": "matematyka",
+              "basic": 0.4,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "fizyka",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Angielski",
+          "subjects": [
+            "język angielski"
+          ],
+          "factors": {
+            "basic": 0.1,
+            "extended": 0.25,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Obowiązkowe minimum angielskiego z przypisu: PP≥75% LUB PR≥30%; nie wolno traktować etykiety przedmiot dodatkowy jako zwolnienia z warunku. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "requirements": [
+        {
+          "label": "Angielski pisemny PP minimum 75% lub PR minimum 30%",
+          "options": [
+            {
+              "subject": "język angielski",
+              "level": "basic",
+              "minPercent": 75
+            },
+            {
+              "subject": "język angielski",
+              "level": "extended",
+              "minPercent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwr-muzykologia-2027",
+      "year": "2027/2028",
+      "title": "Muzykologia — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/144?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-niderlandystyka-2027",
+      "year": "2027/2028",
+      "title": "Niderlandystyka — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1) + max(matematyka: PP×0.25/PR×0.5, język polski: PP×0.25/PR×0.5, język angielski: PP×0.25/PR×0.5, biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, informatyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, język niemiecki: PP×0.25/PR×0.5, język francuski: PP×0.25/PR×0.5, język hiszpański: PP×0.25/PR×0.5, język rosyjski: PP×0.25/PR×0.5, język włoski: PP×0.25/PR×0.5, historia sztuki: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, język portugalski: PP×0.25/PR×0.5, język ukraiński: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/146?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "język polski",
+            "język angielski",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0,
+            1
+          ]
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-ochrona-srodowiska-2026",
+      "year": "2026/2027",
+      "title": "Ochrona środowiska — polska nowa matura",
+      "formula": "max(biologia: PP×0/PR×1, geografia: PP×0/PR×1) + max(biologia: PP×0/PR×1, geografia: PP×0/PR×1, chemia: PP×0/PR×1, fizyka: PP×0/PR×1, matematyka: PP×0.5/PR×1) + max(informatyka: PP×0/PR×0.4, język polski: PP×0.2/PR×1, język angielski: PP×0.2/PR×1, język niemiecki: PP×0.2/PR×1, język francuski: PP×0.2/PR×1, język hiszpański: PP×0.2/PR×1, język rosyjski: PP×0.2/PR×1, język włoski: PP×0.2/PR×1, język portugalski: PP×0.2/PR×1, język ukraiński: PP×0.2/PR×1)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/148?rok=2&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Wymagany",
+          "subjects": [
+            "biologia",
+            "geografia"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny do wyboru",
+          "subjects": [
+            "biologia",
+            "geografia",
+            "chemia",
+            "fizyka",
+            "matematyka"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0
+          ],
+          "options": [
+            {
+              "subject": "biologia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "geografia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "chemia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "fizyka",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "matematyka",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Dodatkowy",
+          "subjects": [
+            "informatyka",
+            "język polski",
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "options": [
+            {
+              "subject": "informatyka",
+              "basic": 0,
+              "extended": 0.4,
+              "bilingual": 0
+            },
+            {
+              "subject": "język polski",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język angielski",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język niemiecki",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język francuski",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język hiszpański",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język włoski",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0.2,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        }
+      ],
+      "caveat": "Brak opublikowanej tabeli 2027/2028; kalkulator dotyczy wyłącznie 2026/2027. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-pedagogika-2027",
+      "year": "2027/2028",
+      "title": "Pedagogika — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4) + max(matematyka: PP×0.5/PR×1, biologia: PP×0.5/PR×1, chemia: PP×0.5/PR×1, fizyka: PP×0.5/PR×1, informatyka: PP×0.5/PR×1, geografia: PP×0.5/PR×1, historia: PP×0.5/PR×1, WOS: PP×0.5/PR×1, filozofia: PP×0.5/PR×1, historia sztuki: PP×0.5/PR×1, historia muzyki: PP×0.5/PR×1, język łaciński i kultura antyczna: PP×0.5/PR×1, wiedza o tańcu: PP×0.5/PR×1)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/152?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-pedagogika-przedszkolna-i-wczesnoszkolna-2027",
+      "year": "2027/2028",
+      "title": "Pedagogika przedszkolna i wczesnoszkolna — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(matematyka: PP×0.5/PR×1) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4) + max(biologia: PP×0.5/PR×1, chemia: PP×0.5/PR×1, fizyka: PP×0.5/PR×1, informatyka: PP×0.5/PR×1, geografia: PP×0.5/PR×1, historia: PP×0.5/PR×1, WOS: PP×0.5/PR×1, filozofia: PP×0.5/PR×1, historia sztuki: PP×0.5/PR×1, historia muzyki: PP×0.5/PR×1, język łaciński i kultura antyczna: PP×0.5/PR×1, wiedza o tańcu: PP×0.5/PR×1) + punkty z II etapu (pozytywna ocena obowiązkowa)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/154?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Matematyka",
+          "subjects": [
+            "matematyka"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "II etap obowiązkowy. Karta zawiera dodatkowo zastrzeżenie, że o przyjęcie nie mogą ubiegać się osoby z dysleksją; kalkulator nie weryfikuje tego warunku, interpretację należy uzyskać w uczelni. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "extraExam": {
+        "key": "interview",
+        "label": "II etap — rozmowa kwalifikacyjna",
+        "min": 1,
+        "max": 6,
+        "passMin": 3,
+        "note": "Ocena motywacji, komunikacji i artykulacji, wrażliwości muzycznej, twórczego myślenia; ranking sumuje etapy I i II."
+      }
+    },
+    {
+      "id": "uwr-pedagogika-specjalna-2027",
+      "year": "2027/2028",
+      "title": "Pedagogika specjalna — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4) + max(matematyka: PP×0.5/PR×1, biologia: PP×0.5/PR×1, chemia: PP×0.5/PR×1, fizyka: PP×0.5/PR×1, informatyka: PP×0.5/PR×1, geografia: PP×0.5/PR×1, historia: PP×0.5/PR×1, WOS: PP×0.5/PR×1, filozofia: PP×0.5/PR×1, historia sztuki: PP×0.5/PR×1, historia muzyki: PP×0.5/PR×1, język łaciński i kultura antyczna: PP×0.5/PR×1, wiedza o tańcu: PP×0.5/PR×1)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/156?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Język polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Język obcy nowożytny",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia sztuki",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-publikowanie-cyfrowe-i-sieciowe-2027",
+      "year": "2027/2028",
+      "title": "Publikowanie cyfrowe i sieciowe — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1, język niemiecki: PP×0.5/PR×1, język francuski: PP×0.5/PR×1, język hiszpański: PP×0.5/PR×1, język rosyjski: PP×0.5/PR×1, język włoski: PP×0.5/PR×1, język portugalski: PP×0.5/PR×1, język ukraiński: PP×0.5/PR×1, matematyka: PP×0.5/PR×1, historia sztuki: PP×0/PR×1, informatyka: PP×0/PR×1) + max(biologia: PP×0.25/PR×0.5, chemia: PP×0.25/PR×0.5, fizyka: PP×0.25/PR×0.5, geografia: PP×0.25/PR×0.5, historia: PP×0.25/PR×0.5, WOS: PP×0.25/PR×0.5, filozofia: PP×0.25/PR×0.5, historia muzyki: PP×0.25/PR×0.5, język łaciński i kultura antyczna: PP×0.25/PR×0.5, wiedza o tańcu: PP×0.25/PR×0.5)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/171?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Do wyboru",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński",
+            "matematyka",
+            "historia sztuki",
+            "informatyka"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "options": [
+            {
+              "subject": "język angielski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język niemiecki",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język francuski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język hiszpański",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język rosyjski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język włoski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język portugalski",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "język ukraiński",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "matematyka",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "historia sztuki",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "informatyka",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "biologia",
+            "chemia",
+            "fizyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "historia muzyki",
+            "język łaciński i kultura antyczna",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0.25,
+            "extended": 0.5,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-sinologia-2027",
+      "year": "2027/2028",
+      "title": "Sinologia — polska nowa matura",
+      "formula": "max(język polski: PP×0.5/PR×1) + max(język angielski: PP×0.5/PR×1) + max(matematyka: PP×0/PR×0.6, biologia: PP×0/PR×0.6, chemia: PP×0/PR×0.6, fizyka: PP×0/PR×0.6, informatyka: PP×0/PR×0.6, geografia: PP×0/PR×0.6, historia: PP×0/PR×0.6, WOS: PP×0/PR×0.6, filozofia: PP×0/PR×0.6, język niemiecki: PP×0/PR×0.6, język francuski: PP×0/PR×0.6, język hiszpański: PP×0/PR×0.6, język rosyjski: PP×0/PR×0.6, język włoski: PP×0/PR×0.6, historia sztuki: PP×0/PR×0.6, historia muzyki: PP×0/PR×0.6, język portugalski: PP×0/PR×0.6, język ukraiński: PP×0/PR×0.6, wiedza o tańcu: PP×0/PR×0.6) + max(język łaciński i kultura antyczna: PP×0/PR×0.8)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/173?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Polski",
+          "subjects": [
+            "język polski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Angielski",
+          "subjects": [
+            "język angielski"
+          ],
+          "factors": {
+            "basic": 0.5,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka",
+            "informatyka",
+            "geografia",
+            "historia",
+            "WOS",
+            "filozofia",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "historia sztuki",
+            "historia muzyki",
+            "język portugalski",
+            "język ukraiński",
+            "wiedza o tańcu"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.6,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        },
+        {
+          "label": "Łacina",
+          "subjects": [
+            "język łaciński i kultura antyczna"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0.8,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-techniki-eksperymentalne-w-kryminalistyce-2027",
+      "year": "2027/2028",
+      "title": "Techniki eksperymentalne w kryminalistyce — polska nowa matura",
+      "formula": "max(biologia: PP×0/PR×1, chemia: PP×0/PR×1) + max(matematyka: PP×0.5/PR×1, biologia: PP×0/PR×1, chemia: PP×0/PR×1, fizyka: PP×0/PR×1) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/196?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Biologia lub chemia",
+          "subjects": [
+            "biologia",
+            "chemia"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": false
+        },
+        {
+          "label": "Inny do wyboru",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0
+          ],
+          "options": [
+            {
+              "subject": "matematyka",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "biologia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "chemia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "fizyka",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Przypis: lepsza z biologii/chemii do wymaganej grupy, druga do puli wyboru. Ponieważ oba współczynniki PR wynoszą 1, globalna maksymalizacja z wykluczeniem powtórzenia daje identyczną sumę (także przy remisie). Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    },
+    {
+      "id": "uwr-zielona-chemia-2027",
+      "year": "2027/2028",
+      "title": "Zielona chemia — polska nowa matura",
+      "formula": "max(matematyka: PP×0.5/PR×1, biologia: PP×0/PR×1, chemia: PP×0/PR×1, fizyka: PP×0/PR×1) + max(matematyka: PP×0.5/PR×1, biologia: PP×0/PR×1, chemia: PP×0/PR×1, fizyka: PP×0/PR×1) + max(język angielski: PP×0.2/PR×0.4, język niemiecki: PP×0.2/PR×0.4, język francuski: PP×0.2/PR×0.4, język hiszpański: PP×0.2/PR×0.4, język rosyjski: PP×0.2/PR×0.4, język włoski: PP×0.2/PR×0.4, język portugalski: PP×0.2/PR×0.4, język ukraiński: PP×0.2/PR×0.4)",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/210?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25",
+      "groups": [
+        {
+          "label": "Pierwszy przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "options": [
+            {
+              "subject": "matematyka",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "biologia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "chemia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "fizyka",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Drugi inny przedmiot",
+          "subjects": [
+            "matematyka",
+            "biologia",
+            "chemia",
+            "fizyka"
+          ],
+          "factors": {
+            "basic": 0,
+            "extended": 0,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true,
+          "excludeSubjectsFromGroups": [
+            0
+          ],
+          "options": [
+            {
+              "subject": "matematyka",
+              "basic": 0.5,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "biologia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "chemia",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            },
+            {
+              "subject": "fizyka",
+              "basic": 0,
+              "extended": 1,
+              "bilingual": 0
+            }
+          ]
+        },
+        {
+          "label": "Obcy",
+          "subjects": [
+            "język angielski",
+            "język niemiecki",
+            "język francuski",
+            "język hiszpański",
+            "język rosyjski",
+            "język włoski",
+            "język portugalski",
+            "język ukraiński"
+          ],
+          "factors": {
+            "basic": 0.2,
+            "extended": 0.4,
+            "bilingual": 0
+          },
+          "weight": 1,
+          "optional": true
+        }
+      ],
+      "caveat": "Dwa różne przedmioty, brak zdawanego do wyboru daje 0. Zagnieżdżenie HTML nie zmienia prostej pierwszej tabeli nowej matury. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu."
+    }
+  ],
+  "programmeUpdates": [
+    {
+      "id": "uwr-anglistyka",
+      "admissionRuleId": "uwr-anglistyka-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język angielski",
+        "język polski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "język portugalski",
+        "język ukraiński",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-bachelor-of-business-and-administration",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/16?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-biotechnology",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/27?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-chemistry",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/35?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-criminal-justice",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/38?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-culture-thought-and-humanity",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/40?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-data-and-society",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/41?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-edukacja-polonistyczna",
+      "admissionRuleId": "uwr-edukacja-polonistyczna-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-english-for-knowledge-culture-and-innovation",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. IELTS: co najmniej 5,5 z każdej umiejętności. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/54?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-etyka",
+      "admissionRuleId": "uwr-etyka-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu",
+        "filozofia",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-european-cultures",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/61?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-filologia-francuska",
+      "admissionRuleId": "uwr-filologia-francuska-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język francuski",
+        "język angielski",
+        "język niemiecki",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "język polski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-filologia-germanska",
+      "admissionRuleId": "uwr-filologia-germanska-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język niemiecki",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-filologia-hiszpanska",
+      "admissionRuleId": "uwr-filologia-hiszpanska-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język hiszpański",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "język polski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-filologia-indyjska",
+      "admissionRuleId": "uwr-filologia-indyjska-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "WOS",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "historia sztuki",
+        "historia muzyki",
+        "język portugalski",
+        "język ukraiński",
+        "wiedza o tańcu",
+        "filozofia",
+        "historia",
+        "język łaciński i kultura antyczna"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-filologia-polska",
+      "admissionRuleId": "uwr-filologia-polska-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-filozofia",
+      "admissionRuleId": "uwr-filozofia-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu",
+        "filozofia",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-genetics-and-experimental-biology",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/212?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-historia-sztuki",
+      "admissionRuleId": "uwr-historia-sztuki-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-indywidualne-studia-miedzydziedzinowe",
+      "admissionRuleId": "uwr-indywidualne-studia-miedzydziedzinowe-2027",
+      "admissionNote": "Zasady 2027/2028. Karta uznaje również język grecki i kulturę antyczną, którego profil nie obsługuje. Warunek 240 dotyczy matur przed rozmową; wynik nie potwierdza zaproszenia. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "matematyka",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "biologia",
+        "chemia",
+        "filozofia",
+        "fizyka",
+        "geografia",
+        "historia",
+        "historia sztuki",
+        "historia muzyki",
+        "informatyka",
+        "język łaciński i kultura antyczna",
+        "WOS"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-informacja-naukowa-i-bibliotekoznawstwo",
+      "admissionRuleId": "uwr-informacja-naukowa-i-bibliotekoznawstwo-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-italianistyka",
+      "admissionRuleId": "uwr-italianistyka-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język włoski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język portugalski",
+        "język ukraiński",
+        "język polski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-judaistyka",
+      "admissionRuleId": "uwr-judaistyka-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "język portugalski",
+        "język ukraiński",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-koreanistyka",
+      "admissionRuleId": "uwr-koreanistyka-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "historia sztuki",
+        "historia muzyki",
+        "język portugalski",
+        "język ukraiński",
+        "wiedza o tańcu",
+        "język łaciński i kultura antyczna"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo",
+      "admissionRuleId": "uwr-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-literatura-swiatowa-komparatystyka-i-wielokulturowosc",
+      "admissionRuleId": "uwr-literatura-swiatowa-komparatystyka-i-wielokulturowosc-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "filozofia",
+        "geografia",
+        "historia",
+        "historia sztuki",
+        "język łaciński i kultura antyczna",
+        "WOS"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-ll-b-international-and-european-environmental-law",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/131?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-logopedia",
+      "admissionRuleId": "uwr-logopedia-2027",
+      "admissionNote": "Zasady 2027/2028. II etap obowiązkowy; samo wyliczenie matur nie jest końcowym wynikiem. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "biologia",
+        "matematyka",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "historia",
+        "informatyka",
+        "WOS"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-medyczna-biotechnologia-molekularna",
+      "admissionRuleId": "uwr-medyczna-biotechnologia-molekularna-2027",
+      "admissionNote": "Zasady 2027/2028. Obowiązkowe minimum angielskiego z przypisu: PP≥75% LUB PR≥30%; nie wolno traktować etykiety przedmiot dodatkowy jako zwolnienia z warunku. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "chemia",
+        "biologia",
+        "matematyka",
+        "fizyka",
+        "język angielski"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-muzykologia",
+      "admissionRuleId": "uwr-muzykologia-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-niderlandystyka",
+      "admissionRuleId": "uwr-niderlandystyka-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-ochrona-srodowiska",
+      "admissionRuleId": "uwr-ochrona-srodowiska-2026",
+      "admissionNote": "Zasady 2026/2027. Brak opublikowanej tabeli 2027/2028; kalkulator dotyczy wyłącznie 2026/2027. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "biologia",
+        "geografia",
+        "chemia",
+        "fizyka",
+        "matematyka",
+        "informatyka",
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-pedagogika",
+      "admissionRuleId": "uwr-pedagogika-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-pedagogika-przedszkolna-i-wczesnoszkolna",
+      "admissionRuleId": "uwr-pedagogika-przedszkolna-i-wczesnoszkolna-2027",
+      "admissionNote": "Zasady 2027/2028. II etap obowiązkowy. Karta zawiera dodatkowo zastrzeżenie, że o przyjęcie nie mogą ubiegać się osoby z dysleksją; kalkulator nie weryfikuje tego warunku, interpretację należy uzyskać w uczelni. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "matematyka",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-pedagogika-specjalna",
+      "admissionRuleId": "uwr-pedagogika-specjalna-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia sztuki",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-political-science",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/158?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-publikowanie-cyfrowe-i-sieciowe",
+      "admissionRuleId": "uwr-publikowanie-cyfrowe-i-sieciowe-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński",
+        "matematyka",
+        "historia sztuki",
+        "informatyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "historia muzyki",
+        "język łaciński i kultura antyczna",
+        "wiedza o tańcu"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-sinologia",
+      "admissionRuleId": "uwr-sinologia-2027",
+      "admissionNote": "Zasady 2027/2028. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "geografia",
+        "historia",
+        "WOS",
+        "filozofia",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "historia sztuki",
+        "historia muzyki",
+        "język portugalski",
+        "język ukraiński",
+        "wiedza o tańcu",
+        "język łaciński i kultura antyczna"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-stosunki-miedzynarodowe-specjalnosc-global-studies",
+      "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/186?rok=6&tab=harmonogram",
+      "subjectsVerified": false
+    },
+    {
+      "id": "uwr-techniki-eksperymentalne-w-kryminalistyce",
+      "admissionRuleId": "uwr-techniki-eksperymentalne-w-kryminalistyce-2027",
+      "admissionNote": "Zasady 2027/2028. Przypis: lepsza z biologii/chemii do wymaganej grupy, druga do puli wyboru. Ponieważ oba współczynniki PR wynoszą 1, globalna maksymalizacja z wykluczeniem powtórzenia daje identyczną sumę (także przy remisie). Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński"
+      ],
+      "subjectsVerified": true
+    },
+    {
+      "id": "uwr-zielona-chemia",
+      "admissionRuleId": "uwr-zielona-chemia-2027",
+      "admissionNote": "Zasady 2027/2028. Dwa różne przedmioty, brak zdawanego do wyboru daje 0. Zagnieżdżenie HTML nie zmienia prostej pierwszej tabeli nowej matury. Polska nowa matura pisemna PP/PR; bez dwujęzycznej, starej matury, IB/EB, zagranicznych świadectw i olimpiad. Lista dowolnych przedmiotów i języków ograniczona do SUBJECTS profilu; inne uznawane przedmioty wymagają ręcznego przeliczenia. Brak opcjonalnego przedmiotu daje 0; wymaganych nie wolno pominąć. Wynik nie gwarantuje przyjęcia ani zaproszenia do kolejnego etapu.",
+      "subjects": [
+        "matematyka",
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język niemiecki",
+        "język francuski",
+        "język hiszpański",
+        "język rosyjski",
+        "język włoski",
+        "język portugalski",
+        "język ukraiński"
+      ],
+      "subjectsVerified": true
+    }
+  ],
+  "blockers": [
+    {
+      "id": "uwr-bachelor-of-business-and-administration",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/16?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/16?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-biotechnology",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/27?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/27?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-chemistry",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/35?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/35?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-criminal-justice",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/38?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/38?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-culture-thought-and-humanity",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/40?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/40?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-data-and-society",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/41?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/41?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-english-for-knowledge-culture-and-innovation",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. IELTS: co najmniej 5,5 z każdej umiejętności. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/54?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/54?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-european-cultures",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/61?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/61?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-genetics-and-experimental-biology",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/212?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/212?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-ll-b-international-and-european-environmental-law",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/131?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/131?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-political-science",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/158?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/158?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    },
+    {
+      "id": "uwr-stosunki-miedzynarodowe-specjalnosc-global-studies",
+      "reason": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/186?rok=6&tab=harmonogram",
+      "sourceUrl": "https://rekrutacja.uwr.edu.pl/kierunek/186?rok=6&tab=zasady-rekrutacji",
+      "checkedAt": "2026-10-25"
+    }
+  ]
+}

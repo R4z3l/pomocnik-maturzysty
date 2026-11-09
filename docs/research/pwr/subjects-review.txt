@@ -1,0 +1,53 @@
+# Ręczny odczyt obu stron załącznika 3, 02.11.2026.
+# B=biologia; Z=biznes i zarządzanie; C=chemia; F=fizyka; G=geografia; I=informatyka; M=matematyka.
+automatyka i robotyka|F I M
+automatyka przemysłowa|F I M
+biomechanika inżynierska|B C F M
+biotechnologia|B C F M
+bezpieczeństwo i higiena pracy|B C F G I
+chemia i analityka przemysłowa|C F M
+chemia i inżynieria materiałów|C F M
+cyberbezpieczeństwo|F I
+Electronic and Computer Engineering|F I M
+elektromobilność|F I M
+elektronika|F I M
+elektronika i fotonika|F I M
+elektroradiologia|B C F
+elektrotechnika|F I M
+geodezja i kartografia|F G I
+geoenergetyka|F G I
+geoinformatyka|F G I
+gospodarka o obiegu zamkniętym i ochrona klimatu|B C F G M
+górnictwo i geologia|C F G
+informatyczne systemy automatyki|F I
+informatyka algorytmiczna|F I
+informatyka stosowana|F I
+informatyka techniczna|F I
+inteligentna elektronika|F I M
+inżynieria biomedyczna|B C F I
+inżynieria chemiczna i procesowa|C F M
+inżynieria pojazdów i napędów niskoemisyjnych|F M
+inżynieria surowców mineralnych|C F G
+inżynieria systemów|F I
+inżynieria środowiska|F M
+inżynieria zarządzania|F I M
+lekarski|C F
+logistyka przemysłowa|F M
+matematyka i algorytmy sztucznej inteligencji|F I M
+matematyka i analiza danych|F I M
+matematyka stosowana i sztuczna inteligencja|F I M
+mechanika i budowa maszyn|F M
+mechatroniczne systemy automatyki|F I M
+mechatronika|F M
+Medical Informatics|F I
+optyka|B C F I M
+robotyka i automatyzacja procesów|F M
+sztuczna inteligencja|F I
+technologia chemiczna|C F M
+teleinformatyka|F I
+telekomunikacja|F I
+transport|F M
+zarządzanie|Z F I
+zarządzanie i inżynieria produkcji|F M
+zarządzanie infrastrukturą i środowiskiem|B C F G I M
+pozostałe kierunki studiów|F

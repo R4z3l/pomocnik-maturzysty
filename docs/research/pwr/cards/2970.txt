@@ -1,0 +1,199 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Mechaniczny
+Mechanika i budowa maszyn w j. angielskim
+Limit miejsc
+20
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Mechanika i budowa maszyn w j. angielskim
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+9 300 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+angielski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria mechaniczna
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Kierunek przygotowuje absolwentów do pracy inżynierskiej w zakresie projektowania, wytwarzania oraz eksploatacji urządzeń technicznych (pojazdów, maszyn, instalacji) z wykorzystaniem nowoczesnych metod, technologii oraz narzędzi projektowych i technologicznych. Studenci w czasie studiów zdobywają wiedzę na temat metod projektowania urządzeń, poznają właściwości i zasady doboru standardowych jak i nowoczesnych materiałów konstrukcyjnych, zdobywają wiedzę o procesach technologicznych poznając nowoczesne technologie wytwarzania. Potrafią także przeprowadzić diagnozę stanu technicznego urządzeń i zaproponować procesy naprawcze.
+PROGRAM STUDIÓW
+Mechanical engineering design
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+mechanika i budowa maszyn w języku angielskim
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik awionik
+Technik budowy jednostek pływających
+Technik chłodnictwa i klimatyzacji
+Technik elektroenergetyk transportu szynowego
+Technik elektromobilności
+Technik elektryk
+Technik energetyk
+Technik górnictwa odkrywkowego
+Technik górnictwa otworowego
+Technik górnictwa podziemnego
+Technik informatyk
+Technik inżynierii sanitarnej
+Technik inżynierii środowiska i melioracji
+Technik mechanik
+Technik mechanik lotniczy
+Technik mechanik okrętowy
+Technik mechanizacji rolnictwa i agrotroniki
+Technik mechatronik
+Technik odlewnik
+Technik papiernictwa
+Technik podziemnej eksploatacji kopalin innych niż węgiel kamienny
+Technik pojazdów kolejowych
+Technik pojazdów samochodowych
+Technik procesów drukowania
+Technik programista
+Technik przemysłu drzewnego
+Technik przemysłu jachtowego
+Technik przemysłu metalurgicznego
+Technik przeróbki kopalin stałych
+Technik przetwórstwa mleczarskiego
+Technik robotyk
+Technik spawalnictwa
+Technik technologii drewna
+Technik technologii szkła
+Technik transportu drogowego
+Technik transportu kolejowego
+Technik urządzeń dźwigowych
+Technik urządzeń i systemów energetyki odnawialnej
+Technik wiertnik
+Technik żeglugi śródlądowej
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia:
+w biurach projektowych i firmach na stanowisku konstruktora
+w firmach produkcyjnych jako inżynierowie procesów technologicznych
+w ośrodkach i działach badawczo-rozwojowych jako inżynierowie ds. rozwoju
+jako inżynierowie ds. eksploatacji, serwisu, dozoru technicznego w firmach i instytucjach użytkujących pojazdy, maszyny lub inne urządzenia techniczne
+Praktyki i staże oraz miejsca pracy absolwentów:
+Bosch – BSH
+KGHM
+Collins Aerospace
+SITECH
+Volkswagen Motor Polska
+VOLVO
+Toyota Motor Manufacturing Poland
+RONAL
+Electrolux Poland
+Whirlpool
+DeLaval
+European Brakes and Chassis Components
+GKN Driveline
+LG Chem
+Mahle Behr
+Mondelez
+PARKER HANNIFIN MANUFACTURING POLAND
+Nestlé Polska
+PMPoland
+3M
+Polaris Poland
+ZF WABCO Polska
+MPK Wrocław
+GERMAZ
+Wropol Engineering
+POLCAMP
+BADER Polska
+Bombardier Transportation
+Colgate-Palmolive Manufacturing
+Selena
+Simoldes Plasticos
+Pratt & Whitney
+NG Engineering
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

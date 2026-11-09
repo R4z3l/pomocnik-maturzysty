@@ -1,0 +1,217 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Informatyczne systemy automatyki
+Limit miejsc
+130
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Informatyczne systemy automatyki
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 100 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Na kierunku kształceni są informatycy, którzy – oprócz wiedzy podstawowej – specjalizują się w zakresie użytkowania, projektowania i programowania cyfrowych systemów automatyki, sieci i telematyki przemysłowej, systemów optymalizacji i sterowania, z wykorzystaniem sterowników mikroprocesorowych, sieci neuronowych (w tym sieci głębokich) oraz metod przetwarzania i rozpoznawania obrazów. Studia obejmują szeroki zakres technologii informacyjnych w automatyce, od systemów pozyskiwania informacji, przetwarzania ich w decyzje aż po przechowywanie informacji w specjalizowanych bazach danych i obrazów. Zastosowania tej wiedzy obejmują: informatyzację, automatyzację i cyberbezpieczeństwo procesów technologicznych oraz monitorowanie jakości produkcji, projektowanie warstwy inteligentnej budynków, modelowanie i optymalizację złożonych systemów produkcyjnych, transportowych oraz wymianę informacji przez sieci.
+Zachęcamy do zapoznania się z programem studiów na kierunku informatyczne systemy automatyki.
+PROGRAM STUDIÓW
+W programach studiów wszystkich specjalności kierunku ISA znajdują się aktualne tematy związane ze sztuczną inteligencją, ze szczególnym uwzględnieniem sieci neuronowych i uczenia maszynowego.
+Inteligentne systemy Przemysłu 4.0
+Kształcenie obejmuje narzędzia programistyczne, metody i algorytmy do zarządzania, wspomagania decyzji i sterowania w ujęciu Przemysłu 4.0 – Inteligentnych Fabryk (Smart Factories) przy użyciu: systemów i sieci komputerowych, systemów wbudowanych, mobilnych, wizyjnych, sieci neuronowych, uczenia i widzenia maszynowego oraz robotów kooperujących. Student specjalności Inteligentne systemy Przemysłu 4.0 ma możliwość poznania wielu nowatorskich i zaawansowanych technologii i rozwiązań z obszaru IT wykorzystywanych w nowoczesnych systemach przemysłowych, w tym m.in. przemysłowy internet rzeczy, chmury obliczeniowe, cyberbezpieczeństwo oraz mikroserwisy. Absolwent jest przygotowany do pracy w charakterze informatyka odpowiedzialnego za obsługę procesów produkcyjnych oraz do pełnienia funkcji menedżerskich w firmach produkcyjnych i logistycznych.
+Komputerowe systemy sterowania
+Kształcenie na studiach I stopnia obejmuje metody i środki informatyki dla sterowania procesami technologicznymi, projektowania, uruchamiania, utrzymania systemów automatyki z wymianą informacji poprzez sieci informatyczne oparte na standardowych protokołach transmisji danych, akwizycji danych pomiarowych, ich archiwizacji i wizualizacji. Studenci nabywają umiejętności twórczego projektowania cyfrowych układów automatyki oraz zespołowego rozwiązywania zagadnień aplikacyjnych. Absolwent poznaje metody i języki programowania sterowników oraz stacji operatorskich, zasady projektowania i aplikacji interfejsów programowych i sprzętowych między urządzeniami a otoczeniem, metodologię tworzenia systemów inteligentnego, rozproszonego sterowania procesami, budynkami i miastami.
+Na II stopniu kształcenie obejmuje metody i środki informatyki konieczne do projektowania cyfrowych systemów sterowania, rozwiązywania zadań optymalizacji i wykorzystania technik sztucznej inteligencji w sterowaniu procesami. Studenci nabywają umiejętności projektowania i realizacji cyfrowych urządzeń automatyki, telemetrii i zdalnego serwisu z uwzględnieniem aspektów innowacyjności i uwarunkowań biznesowych. Absolwenci doskonalą umiejętności wykorzystania nowoczesnych technologii automatyzacji opartych na wymianie informacji za pośrednictwem sieci komputerowych, w tym cyfrowych rozproszonych systemów sterowania, oraz zapewnienia i zwiększania wieloaspektowego bezpieczeństwa oraz niezawodności komputerowych systemów sterowania.
+Zastosowania inżynierii komputerowej
+Zasadniczą intencją przy określeniu katalogu kursów na specjalności  jest wykształcenie specjalisty łączącego w sobie dwa rodzaje kompetencji: wysokiego poziomu umiejętności programistycznych w zakresie większości wiodących obecnie narzędzi (C#/C++, Python, Java, Oracle/SQL, Matlab, technika mikroprocesorowa, układy FPGA) oraz znajomości metod matematyki oraz statystyki stosowanej, pozwalających na analizę danych i budowę modeli, umożliwiających symulację i informatyzację rzeczywistych procesów.
+Uniwersalny/interdyscyplinarny charakter wiedzy  w połączeniu z praktycznymi umiejętnościami  daje absolwentowi wyjątkowo szerokie możliwości i swobodę na rynku pracy.
+W rezultacie, student specjalności zdobywa ogólną wiedzę i umiejętności informatyczne w tym w zakresie automatyki obejmujące: uczenie i widzenie maszynowe
+go
+oraz przetwarzanie informacji, modelowanie, identyfikację i symulację systemów przemysłowych oraz informatycznych, sterowanie i adaptacyjne podejmowanie decyzji.
+Absolwent – poznając na I stopniu podstawowe pojęcia i algorytmy z tych dziedzin i pogłębiając je na stopniu II o podstawy teoretyczne i zagadnienia zaawansowane, przygotowany jest do pracy w przemyśle, w firmach informatycznych,  w tym typu  start-up, prowadzenia własnej działalności, a także uczestniczenia w zespołach naukowych i badawczo-wdrożeniowych.
+Zastosowania technologii informacyjnych
+Specjalność zapewnia absolwentom wykształcenie w zakresie stosowania nowoczesnych  technologii  informacyjnych  w systemach informatycznych automatyki z uwzględnieniem zagadnień projektowania systemów (platformy programistyczne, systemy wbudowane, obiektowe i rozproszone bazy danych, przetwarzanie równoległe i programowanie systemów mobilnych), problemów uczenia sieci neuronowych (w tym sieci głębokich) oraz wykorzystania zaawansowanych metod przetwarzania i uczenia rozpoznawania obrazów.  Kształcenie na tej specjalności obejmuje też systemy wspomagania decyzji i problemy zarządzania zasobami informatycznymi. Studenci tej specjalności mają możliwość odbywania zajęć i realizacji prac dyplomowych w unikatowym laboratorium Monitorowania i sterowania jakością produkcji za pomocą systemów wizyjnych, korzystających z pełnego spektrum kamer od podczerwieni do ultrafioletu i wyspecjalizowanego oprogramowania.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+informatyczne systemy automatyki
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik grafiki i poligrafii cyfrowej
+Technik informatyk
+Technik programista
+Technik tyfloinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+programista C, C++, C#, Java, Python, tester, lider zespołów programistycznych
+specjalista w zakresie projektowania i uczenia sieci neuronowych, klasyfikatorów oraz systemów wizyjnych
+specjalista sterowania procesami technologicznymi
+specjalista optymalizacji procesów Przemysłu 4.0
+programista sterowników PLC
+szef lub członek zespołu planowania i monitorowania jakości produkcji
+Praktyki i staże
+poznanie specyfiki pracy inżyniera w środowisku zbliżonym do przyszłego miejsca pracy absolwenta
+zdobycie doświadczenia poprzez realizację zadań praktycznych (pod nadzorem osoby upoważnionej) m.in. z wykorzystaniem wiadomości teoretycznych z zakresu objętego dotychczasowym programem nauczania
+zdobycie doświadczenia w pracy zespołowej, zapoznanie się wymaganiami przyszłych pracodawców
+Do najważniejszych firm, z którymi współpracuje wydział w zakresie organizacji praktyk studenckich należą m.in.:
+A+V Sp. z o.o. we Wrocławiu
+Aleuro Converting Trade Sp. z o.o w Oławie
+Architecture Center (Better Poland Sp. z o.o.) we Wrocławiu
+Bartek Candles Sp. j. w Oławie
+Biuro Inżynierskie SOFTECHNIK Sp. z o.o.Sp.k. we Wrocławiu
+BLStream S.A.
+CEMAR Andrzej Cetner – Bielawa
+Certico Websolution Sp. z o.o. we Wrocławiu
+Cinterion Wireless Modules Poland Sp. z o.o.
+CMS Mirage Sp. z o.o. we Wrocławiu
+Comarch S.A. w Krakowie (Oddział we Wrocławiu)
+CONTIUM S.A. we Wrocławiu
+ITG S.A. we Wrocławiu
+Divante Sp. z o.o. w Warszawie
+Exaity Group Sp. z o.o. we Wrocławiu
+Globallogic Sp. z o.o. we Wrocławiu
+Grinn Global Sp. z o.o. we Wrocławiu
+Healthcare Technologies Solutions Polska Sp. z o.o. we Wrocławiu
+HUMAN DIALOG Sp. z o.o. we Wrocławiu
+HyperCREW Sp. z o.o. w Nowym Sączu
+Identt – Sp. z o.o. we Wrocławiu
+IMMD Health Sp. z o.o. we Wrocławiu
+INSERT Sp. z o.o. we Wrocławiu
+IT Kontrakt Sp. z o.o. we Wrocławiu
+ITeam S.A. we Wrocławiu
+KEN Technologie Informatyczne Sp. z o.o. we Wrocławiu
+KOMPOZYTY Sp. z o.o. w Oławie
+MIBM Mechanika i Budowa Maszyn Sp. z o.o. Sp. k. – Ostrów Wlkp.
+MICROSOFT Sp. z o.o. w Warszawie
+MRC Doltech Sp. z o.o. we Wrocławiu
+Neurosoft sp. z o.o. we Wrocławiu
+NeuroSYS Sp. z o.o. we Wrocławiu
+Nokia Siemens Networks Sp. z o.o. w Warszawie
+OPTOSOFT Sp. z o.o. we Wrocławiu
+PGS Software S.A. we Wrocławiu
+PSI – Projektowanie Systemów Informatycznych we Wrocławiu
+Procom System S.A. we Wrocławiu
+Research & Engineering Center Sp. z o.o.
+S&T Software Development Sp. z o.o. we Wrocławiu
+Siemens Enterprise Communications Sp. z o.o. w Warszawie
+Siemens Sp. z o.o. we Wrocławiu
+SISCO IT GROUP POLSKA Sp. z o.o. we Wrocławiu
+SMT Software Sp. z o.o. we Wrocławiu
+SOLSOFT Software Development s.c.
+STARWARE Sp. z o.o. w Miękini
+STERMEDIA Sp. z o.o. we Wrocławiu
+THB Systemy Informatyczne Sp. z o.o.
+Tieto Poland Sp. z o.o we Wrocławiu
+Transition Technologies- Control Solution Sp. z o.o. we Wrocławiu
+Transition Technologies S.A. w Warszawie
+Trusted Information Consulting Sp. z o.o. w Warszawie
+TYLDA Sp. z o.o. we Wrocławiu
+UNIT 4 Software Engineering Sp. z o.o.
+UNIT 4 TETA S.A. we Wrocławiu
+VEGANET Sp. z o.o. we Wrocławiu
+VIESSMANN Technika Grzewcza Sp. z o.o. wraz z Centrum R&D (w Legnicy i we Wrocławiu)
+VOLVO IT Sp. z o.o. we Wrocławiu
+WASKO S.A. w Gliwicach
+X-Coding IT Studio s.c. we Wrocławiu
+ASTOR Sp. z o.o. (Wrocław, Kraków, Gdańsk I inne Oddziały.)
+Critical Mission by Astor Sp. z o.o.- Wrocław (Łany)
+ENCON Sp. z o.o. we Wrocławiu
+SABUR Sp. z o.o. w Warszawie
+Beckhoff Automation Sp. z o.o.we Wrocławiu
+SDS Automatyka Sp. z o.o. Sp.K. we Wrocławiu
+TOYOTA Motor Manufacturing Poland w Jelczu Laskowicach
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

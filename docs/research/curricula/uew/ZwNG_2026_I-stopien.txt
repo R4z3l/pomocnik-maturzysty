@@ -1,0 +1,148 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+3 0 0 0 0 0 164 84 64 16 0 30
+3 0 0 0 0 0 188 112 68 8 0 30
+3 0 0 0 0 0 188 96 68 24 0 30
+2 0 0 0 0 0 176 80 76 20 0 30
+0 0 0 0 0 0 192 80 52 40 20 30
+0 0 0 0 0 0 89 32 24 8 25 30
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Wprowadzenie do mikroekonomii II E 0 16 8 8 3
+Wprowadzenie do makroekonomii II Z 0 16 8 8 3
+Finanse I Z 0 16 8 8 3
+Rachunkowość II E 0 16 8 8 3
+Zarządzanie I E 0 32 16 16 6
+Matematyka I E 0 32 16 16 6
+Prawo I Z 0 16 16 3
+Technologie cyfrowe I Z 0 16 16 3
+Metodyka badań naukowych IV Z 0 8 8 2
+0 0 0 0 0 168 88 64 16 0 32
+E
+C
+T
+S
+ZARZĄDZANIE W NOWOCZESNEJ GOSPODARCE
+I STOPIEŃ
+2026/2027 - 2028/2029 Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+lato 2027/2028 - Semestr 4
+zima 2028/2029 - Semestr 5
+lato 2028/2029 - Semestr 6
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+RAZEM SEKCJA I
+I ST-ZwNG
+
+PAGE 2
+Zachowania organizacyjne I Z 0 16 8 8 3
+Zarządzanie logistyką II E 0 32 16 8 8 4
+Nauka o przedsiębiorstwie II Z 0 16 8 8 3
+Statystyka opisowa III E 0 24 8 8 8 4
+Zarządzanie projektami IV E 0 24 8 8 8 4
+Zarządzanie zasobami ludzkimi III E 0 24 16 8 4
+Badania marketingowe III Z 0 16 8 8 3
+Zarządzanie jakością IV Z 0 16 8 8 3
+Strategia rozwoju organizacji III E 0 32 16 16 4
+Zarządzanie ryzykiem V Z 0 16 8 8 2
+Media i komunikacja w biznesie IV Z 0 16 8 8 2
+0 0 0 0 0 232 112 96 24 0 36
+Zarządzanie przestrzenią I Z 0 16 8 8 3
+Marketing I E 0 16 8 8 3
+Zarządzanie środowiskiem II Z 0 16 8 8 3
+Biznesowe zastosowania arkusza kalkulacyjnego III Z 0 24 8 16 4
+Controlling finansowy III Z 0 24 16 8 4
+Zarządzanie społeczną odpowiedzialnością i kapitałem 
+społecznym V Z 0 16 8 8 2
+Organizacja pracy i zarządzanie produkcją IV E 0 24 16 8 4
+Zarządzanie relacjami z klientami IV Z 0 16 8 8 3
+Badania operacyjne IV Z 0 16 8 8 3
+Zarządzanie małym przedsiębiorstwem IV Z 0 16 8 8 3
+Zarządzanie międzynarodowe V Z 0 16 8 8 2
+E-commerce V Z 0 16 8 8 2
+Negocjacje w zarządzaniu IV Z 0 16 8 8 2
+Firma symulacyjna V Z 0 16 8 8 2
+Inteligencja emocjonalna II Z 0 16 16 2
+Business Sustainability V Z 0 8 8 2
+Wykład rozwijający kompetencje społeczne i 
+zawodowe II Z 0 16 16 2
+0 0 0 0 0 288 168 88 32 0 46
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+RAZEM SEKCJA II
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+RAZEM SEKCJA III
+I ST-ZwNG
+
+PAGE 3
+Moduł I V Z 0 64 32 32 10
+Moduł II VI Z 0 64 32 24 8 11
+0 0 0 0 0 128 64 24 40 0 21
+Przedmiot humanistyczny I II Z 0 24 24 3
+Przedmiot humanistyczny II III Z 0 24 24 3
+0 0 0 0 0 48 48 0 0 0 6
+Elektroniczne źródła informacji naukowej IV Z 0 4 4 0
+Bezpieczeństwo i higiena pracy I Z 0 4 4 0
+Wychowanie fizyczne IV Z 0 0 0
+Wychowanie fizyczne V z 0 0 0
+Język obcy I - język angielski - S1 II Z 0 0 2
+Język obcy I - język angielski - S1 III Z 0 0 2
+Język obcy I - język angielski - S1 IV Z 0 0 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 0 0 2
+Język obcy II - S1 III Z 0 0 2
+Język obcy II - S1 IV Z 0 0 2
+Język obcy II - S1 V Z 0 0 2
+Seminarium dyplomowe V z 0 20 20 6
+Seminarium dyplomowe VI z 0 25 25 12
+Praca dyplomowa VI z 0
+Praktyka zawodowa (160 h) VI z 7
+0 0 0 0 0 133 4 80 4 45 39
+0 0 0 0 0 997 484 352 116 45 180
+SEKCJA IV. MODUŁY
+RAZEM SEKCJA IV
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+RAZEM SEKCJA V
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+RAZEM SEKCJA VI
+RAZEM LICZBA GODZIN NA KIERUNKU
+I ST-ZwNG
+
+PAGE 4
+Logistyka 5.0 V Z 0 16 8 8 3
+Transport i spedycja międzynarodowa V Z 0 16 8 8 2
+Logistyka zakupów i dystrybucji V Z 0 16 8 8 3
+Zarządzanie globalnymi łańcuchami dostaw V Z 0 16 8 8 2
+Merchandising V Z 0 16 8 8 2
+AI w biznesie V Z 0 16 8 8 3
+Reklama 5.0 V Z 0 16 8 8 3
+Revenue management V Z 0 16 8 8 2
+Turkusowe zarządzanie zasobami ludzkimi VI Z 0 16 8 8 3
+Tutoring rozwojowy VI Z 0 16 8 8 3
+Systemy informatyczne HRM VI Z 0 16 8 8 3
+Jakość życia zawodowego VI Z 0 16 8 8 2
+Systemy zarządzania jakością w przemyśle 4.0 VI Z 0 16 8 8 3
+Metody doskonalenia organizacji VI Z 0 16 8 8 3
+Lider zarządzania jakością VI Z 0 16 8 8 2
+Audytor jakości VI Z 0 16 8 8 3
+HR Excellence
+Zarządzanie jakością w przedsiębiorstwie
+SZCZEGÓŁOWY WYKAZ MODUŁÓW
+Menedżer łańcucha dostaw
+Sales management  5.0
+I ST-ZwNG

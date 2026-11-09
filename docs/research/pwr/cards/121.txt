@@ -1,0 +1,151 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Mechaniczny
+Robotyka i automatyzacja procesów
+Limit miejsc
+150
+/
+rekrutacja letnia (stacjonarne) Wrocław
+30
+/
+rekrutacja letnia (stacjonarne) Legnica
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Robotyka i automatyzacja procesów
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 400 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław, Legnica
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria mechaniczna
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Studenci podczas studiów nabywają wiedzę sprawnego projektowania, programowania i testowania zautomatyzowanych maszyn, robotów i manipulatorów. Uczą się jak zintegrować układy sterowania ze strukturą mechaniczną maszyn. Zapoznają się z zagadnieniami rozwoju i zastosowań sztucznej inteligencji w systemach automatyki oraz robotyki. Uczą się posługiwania językami programowania oraz odpowiednimi narzędziami informatycznymi do opracowania programów komputerowych.
+Są w stanie stworzyć oprogramowanie mikrokontrolerów lub mikroprocesorów sterujących w systemie automatyki. Potrafią przeprowadzić pomiary z wykorzystaniem systemów komputerowych. Znają i potrafią wykorzystać narzędzie CAD/MES przy projektowaniu elementów robotów i manipulatorów oraz zautomatyzowanych systemów wytwórczych.
+Przygotowywani są do twórczej pracy inżynierskiej w zakresie projektowania i eksploatacji robotów i manipulatorów, autonomicznych pojazdów, zautomatyzowanych maszyn i procesów roboczych.
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+robotyka i automatyzacja procesów
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik elektronik
+Technik elektroautomatyk okrętowy
+Technik elektryk
+Technik energetyk
+Technik informatyk
+Technik mechanik
+Technik mechanik lotniczy
+Technik mechanik okrętowy
+Technik mechatronik
+Technik pojazdów samochodowych
+Technik programista
+Technik robotyk
+Technik teleinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Absolwenci kierunku Robotyka i Automatyzacja Procesów z powodzeniem znajdują zatrudnienie we wszystkich gałęziach gospodarki, a w szczególności: w przemyśle budowy maszyn i urządzeń, biurach projektowych na stanowiskach związanych m.in. z:
+obsługą i nadzorem zautomatyzowanych obrabiarek,
+utrzymaniem ruchu linii produkcyjnych,
+projektowaniem robotów i manipulatorów,
+robotyzacją i automatyzacją procesów wytwarzania,
+programowaniem robotów i maszyn,
+obsługą i eksploatacją maszyn roboczych i pojazdów.
+Miejsca pracy absolwentów
+Bosch – BSH,
+FAURECIA,
+Collins Aerospace,
+Volkswagen Motor Polska,
+VOLVO,
+Toyota Motor Manufacturing Poland.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

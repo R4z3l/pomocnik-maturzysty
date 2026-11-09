@@ -1,0 +1,8 @@
+{
+  "sourceUrl": "https://ela.nauka.gov.pl/sla-server/v6.0/dataExperts/graduates/graduates-major-data.csv",
+  "checkedAt": "2026-10-25",
+  "sha256": "a8db2e3338409e443bcf2408a28671f0fe94354fafe394507d74be9251453d70",
+  "bytes": 225383185,
+  "retainedRows": 76,
+  "criteria": "2024; institutions3840/3873; S; level1/JM"
+}

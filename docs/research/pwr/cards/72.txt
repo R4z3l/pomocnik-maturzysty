@@ -1,0 +1,143 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Sztuczna inteligencja
+Limit miejsc
+64
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Sztuczna inteligencja
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+brak naboru/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Kierunek Sztuczna Inteligencja (
+https://studiuj.ai/
+) kształci, na siedmiosemestralnych studiach I stopnia w języku polskim, inżynierów informatyków o rozległej wiedzy i umiejętnościach informatycznych oraz poszerzonej wiedzy matematycznej niezbędnej to operowania w obszarze sztucznej inteligencji. Kierunek został utworzony w odpowiedzi na potrzeby nowoczesnej gospodarki i rynku pracy oraz cyfrowej transformacji. Kierunek został objęty projektem “EDU PWR – edukacja na Politechnice Wrocławskiej w odpowiedzi na potrzeby nowoczesnej gospodarki i rynku pracy” realizowanego przez Politechnikę Wrocławską w ramach programu Fundusze Europejskie dla Rozwoju Społecznego (FERS), który dla najlepszych studentów rozpoczynających studia w 2025 i 2026 oferuje dodatkowe możliwości rozwoju jak staże w firmach, wyjazdy na międzynarodowe konferencje naukowe czy udział w międzynarodowych szkołach letnich.
+Zachęcamy do zapoznania się z programem studiów na kierunku sztuczna inteligencja.
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+sztuczna inteligencja
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik informatyk
+Technik programista
+Technik tyfloinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Absolwent studiów I stopnia kierunku Sztuczna Inteligencja posiada kwalifikacje obejmujące wiedzę, umiejętności i kompetencje inżynierskie w zakresie:
+Architektury i organizacji komputerów,
+Języków programowania, algorytmów i struktur danych, paradygmatów programowania oraz technik efektywnego programowania,
+Sieci komputerowych, administracji systemami i cyberbezpieczeństwa w tym metod audytów i metod zabezpieczania systemów AI,
+Baz i hurtowni danych, projektowania baz danych, ekstrakcji, analizy i przetwarzania danych multimodalnych, złożonych i masowych oraz wnioskowania w oparciu o dane.
+Projektowania oprogramowania oraz zarządzania projektem programistycznym,
+Zaawansowanych metod i narzędzi programistycznych,
+Sztucznej inteligencji, uczenia maszynowego i inżynierii wiedzy,
+Systemów rozproszonych, pracy w systemach chmurowych, estymacji zapotrzebowania na zasoby i budowania  rozwiązań opartych o systemy chmurowe,
+Modeli głębokich, generatywnych i innych zaawansowanych narzędzi sztucznej inteligencji,
+Sposobów wdrażania i utrzymywania modeli i systemów sztucznej inteligencji,
+Biznesowych, etycznych, prawnych i społecznych aspektów sztucznej inteligencji,
+Szybkiej adaptacji do zmieniającej się wiedzy, technik i narzędzi w obszarze sztucznej inteligencji,
+Trendów rozwojowych w sztucznej inteligencji.
+Absolwent potrafi zdefiniować problem, pozyskać niezbędne dane, zaprojektować rozwiązanie, opracować i wytrenować prototyp modelu oraz wdrożyć rozwiązanie oparte o wytrenowany prototyp, w tym oszacować niezbędne zasoby i zaprojektować infrastrukturę niezbędną do jej działania.
+Absolwent posiada również zaawansowaną wiedzę z zakresu nauk podstawowych: analizy matematycznej, algebry z geometrią analityczną, logiki, matematyki dyskretnej, rachunku prawdopodobieństwa i statystyki oraz fizyki, które są niezbędne z punktu widzenia rozwijania rozwiązań opartych o sztuczną inteligencję oraz kontynuacji nauki na studiach II stopnia.
+Istotnym uzupełnieniem wykształcenia inżyniera jest wiedza dotyczącą przedsiębiorczości, zakładania i funkcjonowania firm (startupów) oraz społecznych i zawodowych problemów które można rozwiązywać używając Sztucznej Inteligencji. Ponadto absolwent zna język angielski w stopniu umożliwiającym mu swobodne wypowiadanie się, również w formie pisemnej, na tematy związane z wykonywaną pracą.
+Dużą rolę w kształceniu inżynierów sztucznej inteligencji przywiązuje się też do umiejętności miękkich, takich jak umiejętność prezentacji rozwiązań, storytelling, umiejętność pracy w interdyscyplinarnym zespole, umiejętność empatyzacji i definiowania problemu (design thinking).
+PERSPEKTYWY ZATRUDNIENIA
+Absolwenci kontynuują naukę na studiach II stopnia, zakładają własne firmy rozwijające produkty oparte o sztuczną inteligencję lub są zatrudniani na stanowiskach projektantów i programistów rozwiązań opartych o sztuczną inteligencję (AI Engineer, ML Engineer, DS Engineer, ML Ops, AI Ops, Data Engineer).
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

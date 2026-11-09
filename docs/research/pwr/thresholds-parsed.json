@@ -1,0 +1,5942 @@
+[
+  {
+    "year": "2026/2027",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "I tura",
+    "value": 570.3,
+    "status": "value",
+    "raw": "570,30",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "II tura",
+    "value": 482.55,
+    "status": "value",
+    "raw": "482,55",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "I tura",
+    "value": 186.9,
+    "status": "value",
+    "raw": "186,90",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "II tura",
+    "value": 158.55,
+    "status": "value",
+    "raw": "158,55",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "I tura",
+    "value": 193,
+    "status": "value",
+    "raw": "193 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "II tura",
+    "value": 162.35,
+    "status": "value",
+    "raw": "162,35 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "III tura",
+    "value": 224.75,
+    "status": "value",
+    "raw": "224,75 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "I tura",
+    "value": 240.1,
+    "status": "value",
+    "raw": "240,10 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "II tura",
+    "value": 220.2,
+    "status": "value",
+    "raw": "220,2 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "III tura",
+    "value": 232.5,
+    "status": "value",
+    "raw": "232,5 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "I tura",
+    "value": 160.7,
+    "status": "value",
+    "raw": "160,70 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "II tura",
+    "value": 131,
+    "status": "value",
+    "raw": "131 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "III tura",
+    "value": 131.25,
+    "status": "value",
+    "raw": "131,25 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "I tura",
+    "value": 150.85,
+    "status": "value",
+    "raw": "150,85 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "II tura",
+    "value": 131.8,
+    "status": "value",
+    "raw": "131,8 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "III tura",
+    "value": 151.4,
+    "status": "value",
+    "raw": "151,4 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "I tura",
+    "value": 154.1,
+    "status": "value",
+    "raw": "154,10 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "II tura",
+    "value": 149.1,
+    "status": "value",
+    "raw": "149,1 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "III tura",
+    "value": 237.5,
+    "status": "value",
+    "raw": "237,5 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "I tura",
+    "value": 152.45,
+    "status": "value",
+    "raw": "152,45 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "II tura",
+    "value": 123.7,
+    "status": "value",
+    "raw": "123,7 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "III tura",
+    "value": 130.55,
+    "status": "value",
+    "raw": "130,55 (*120 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "I tura",
+    "value": 419.05,
+    "status": "value",
+    "raw": "419,05",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "III tura",
+    "value": 406,
+    "status": "value",
+    "raw": "406,00",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "I tura",
+    "value": 245.7,
+    "status": "value",
+    "raw": "245,70",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "I tura",
+    "value": 365.75,
+    "status": "value",
+    "raw": "365,75",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "III tura",
+    "value": 354.8,
+    "status": "value",
+    "raw": "354,80",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "I tura",
+    "value": 387.35,
+    "status": "value",
+    "raw": "387,35",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "I tura",
+    "value": 350.3,
+    "status": "value",
+    "raw": "350,30",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "III tura",
+    "value": 319.9,
+    "status": "value",
+    "raw": "319,9",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": 279.6,
+    "status": "value",
+    "raw": "279,60",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "I tura",
+    "value": 296.5,
+    "status": "value",
+    "raw": "296,50",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Sztuczna inteligencja",
+    "round": "I tura",
+    "value": 476.85,
+    "status": "value",
+    "raw": "476,85",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Sztuczna inteligencja",
+    "round": "II tura",
+    "value": 523,
+    "status": "value",
+    "raw": "523",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Sztuczna inteligencja",
+    "round": "III tura",
+    "value": 458,
+    "status": "value",
+    "raw": "458",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "I tura",
+    "value": 259,
+    "status": "value",
+    "raw": "259,00",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "III tura",
+    "value": 408.6,
+    "status": "value",
+    "raw": "408,6",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "I tura",
+    "value": 154.5,
+    "status": "value",
+    "raw": "154,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "I tura",
+    "value": 271.95,
+    "status": "value",
+    "raw": "271,95 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "II tura",
+    "value": 317.2,
+    "status": "value",
+    "raw": "317,2 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "III tura",
+    "value": 301.7,
+    "status": "value",
+    "raw": "301,7 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "I tura",
+    "value": 162.9,
+    "status": "value",
+    "raw": "162,90 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "III tura",
+    "value": 198.45,
+    "status": "value",
+    "raw": "198,45 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "I tura",
+    "value": 355.15,
+    "status": "value",
+    "raw": "355,15 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "II tura",
+    "value": 340,
+    "status": "value",
+    "raw": "340 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Bezpieczeństwo i higiena pracy",
+    "round": "I tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Bezpieczeństwo i higiena pracy",
+    "round": "II tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Bezpieczeństwo i higiena pracy",
+    "round": "III tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "I tura",
+    "value": 276.5,
+    "status": "value",
+    "raw": "276,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "III tura",
+    "value": 251.8,
+    "status": "value",
+    "raw": "251,80",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "I tura",
+    "value": 106.5,
+    "status": "value",
+    "raw": "106,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "II tura",
+    "value": 174.5,
+    "status": "value",
+    "raw": "174,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "III tura",
+    "value": 163.55,
+    "status": "value",
+    "raw": "163,55",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "I tura",
+    "value": 201.4,
+    "status": "value",
+    "raw": "201,4",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "II tura",
+    "value": 245.5,
+    "status": "value",
+    "raw": "245,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "III tura",
+    "value": 244.7,
+    "status": "value",
+    "raw": "244,70",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "I tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "I tura",
+    "value": 103.7,
+    "status": "value",
+    "raw": "103,7",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "II tura",
+    "value": 95.25,
+    "status": "value",
+    "raw": "95,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "III tura",
+    "value": 226.2,
+    "status": "value",
+    "raw": "226,2",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "I tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "II tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "III tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "I tura",
+    "value": 85.4,
+    "status": "value",
+    "raw": "85,4 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "II tura",
+    "value": 113.2,
+    "status": "value",
+    "raw": "113,2 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "III tura",
+    "value": 374.8,
+    "status": "value",
+    "raw": "374,80 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "I tura",
+    "value": 111.25,
+    "status": "value",
+    "raw": "111,25 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "II tura",
+    "value": 320.2,
+    "status": "value",
+    "raw": "320,2 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "III tura",
+    "value": 327.3,
+    "status": "value",
+    "raw": "327,30 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "I tura",
+    "value": 175.25,
+    "status": "value",
+    "raw": "175,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "II tura",
+    "value": 175.95,
+    "status": "value",
+    "raw": "175,95",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "I tura",
+    "value": 150.05,
+    "status": "value",
+    "raw": "150,05",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "II tura",
+    "value": 162.2,
+    "status": "value",
+    "raw": "162,2",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "I tura",
+    "value": 176.25,
+    "status": "value",
+    "raw": "176,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "II tura",
+    "value": 180.15,
+    "status": "value",
+    "raw": "180,15",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "III tura",
+    "value": 294.3,
+    "status": "value",
+    "raw": "294,30",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "I tura",
+    "value": 156.95,
+    "status": "value",
+    "raw": "156,95",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "I tura",
+    "value": 401.5,
+    "status": "value",
+    "raw": "401,50",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "I tura",
+    "value": 71.95,
+    "status": "value",
+    "raw": "71,95",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "II tura",
+    "value": 135.2,
+    "status": "value",
+    "raw": "135,2",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "I tura",
+    "value": 70,
+    "status": "value",
+    "raw": "70,00",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "II tura",
+    "value": 140.4,
+    "status": "value",
+    "raw": "140,4",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "I tura",
+    "value": 347.45,
+    "status": "value",
+    "raw": "347,45",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "II tura",
+    "value": 317.6,
+    "status": "value",
+    "raw": "317,6",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "I tura",
+    "value": 240.45,
+    "status": "value",
+    "raw": "240,45",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "III tura",
+    "value": 244.55,
+    "status": "value",
+    "raw": "244,55",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "I tura",
+    "value": 331.25,
+    "status": "value",
+    "raw": "331,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "II tura",
+    "value": 251.5,
+    "status": "value",
+    "raw": "251,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "I tura",
+    "value": 378.4,
+    "status": "value",
+    "raw": "378,40",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "II tura",
+    "value": 315.2,
+    "status": "value",
+    "raw": "315,2",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "I tura",
+    "value": 434.3,
+    "status": "value",
+    "raw": "434,30",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "II tura",
+    "value": 259.6,
+    "status": "value",
+    "raw": "259,6",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "I tura",
+    "value": 392.9,
+    "status": "value",
+    "raw": "392,90",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "II tura",
+    "value": 361.05,
+    "status": "value",
+    "raw": "361,05",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "I tura",
+    "value": 302.75,
+    "status": "value",
+    "raw": "302,75",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "II tura",
+    "value": 321.5,
+    "status": "value",
+    "raw": "321,5",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "III tura",
+    "value": 305.9,
+    "status": "value",
+    "raw": "305,90",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "I tura",
+    "value": 181,
+    "status": "value",
+    "raw": "181,00",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "II tura",
+    "value": 266.6,
+    "status": "value",
+    "raw": "266,6",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "I tura",
+    "value": 246.3,
+    "status": "value",
+    "raw": "246,3",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "II tura",
+    "value": 267,
+    "status": "value",
+    "raw": "267",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "I tura",
+    "value": 301.95,
+    "status": "value",
+    "raw": "301,95 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "II tura",
+    "value": 255.8,
+    "status": "value",
+    "raw": "255,8 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "III tura",
+    "value": 262.8,
+    "status": "value",
+    "raw": "262,80 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "I tura",
+    "value": 302.85,
+    "status": "value",
+    "raw": "302,85 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "II tura",
+    "value": 305.95,
+    "status": "value",
+    "raw": "305,95 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "III tura",
+    "value": 302.5,
+    "status": "value",
+    "raw": "302,50 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "I tura",
+    "value": 301.35,
+    "status": "value",
+    "raw": "301,35 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "II tura",
+    "value": 355,
+    "status": "value",
+    "raw": "355 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "III tura",
+    "value": 299.65,
+    "status": "value",
+    "raw": "299,65 (*220 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical informatics",
+    "round": "I tura",
+    "value": 213.05,
+    "status": "value",
+    "raw": "213,05 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical informatics",
+    "round": "II tura",
+    "value": 299.5,
+    "status": "value",
+    "raw": "299,5 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical informatics",
+    "round": "III tura",
+    "value": 241,
+    "status": "value",
+    "raw": "241,00 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "I tura",
+    "value": 200.05,
+    "status": "value",
+    "raw": "200,05 (*180 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "II tura",
+    "value": 190.8,
+    "status": "value",
+    "raw": "190,8 (*180 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "III tura",
+    "value": 245.3,
+    "status": "value",
+    "raw": "245,30 (*180 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "I tura",
+    "value": 478.25,
+    "status": "value",
+    "raw": "478,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "II tura",
+    "value": 465.45,
+    "status": "value",
+    "raw": "465,45",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "I tura",
+    "value": 370.45,
+    "status": "value",
+    "raw": "370,45",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "II tura",
+    "value": 345.2,
+    "status": "value",
+    "raw": "345,2",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "III tura",
+    "value": 365.75,
+    "status": "value",
+    "raw": "365,75",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "I tura",
+    "value": 221.25,
+    "status": "value",
+    "raw": "221,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "II tura",
+    "value": 268.9,
+    "status": "value",
+    "raw": "268,9",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "III tura",
+    "value": 409.6,
+    "status": "value",
+    "raw": "409,60",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "I tura",
+    "value": 102.5,
+    "status": "value",
+    "raw": "102,50",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "II tura",
+    "value": 185.15,
+    "status": "value",
+    "raw": "185,15",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "III tura",
+    "value": 345.2,
+    "status": "value",
+    "raw": "345,20",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "I tura",
+    "value": 84.05,
+    "status": "value",
+    "raw": "84,05",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "II tura",
+    "value": 208.4,
+    "status": "value",
+    "raw": "208,4",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "III tura",
+    "value": 340.9,
+    "status": "value",
+    "raw": "340,9",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Mechatroniczne systemy automatyki",
+    "round": "I tura",
+    "value": 200,
+    "status": "value",
+    "raw": "200,00",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Mechatroniczne systemy automatyki",
+    "round": "II tura",
+    "value": 300.4,
+    "status": "value",
+    "raw": "300,4",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Mechatroniczne systemy automatyki",
+    "round": "III tura",
+    "value": 413.75,
+    "status": "value",
+    "raw": "413,75",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i algorytmy sztucznej inteligencji",
+    "round": "I tura",
+    "value": 380,
+    "status": "value",
+    "raw": "380,00",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i algorytmy sztucznej inteligencji",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i algorytmy sztucznej inteligencji",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "I tura",
+    "value": 432.8,
+    "status": "value",
+    "raw": "432,80",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana i sztuczna inteligencja",
+    "round": "I tura",
+    "value": 380.65,
+    "status": "value",
+    "raw": "380,65",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana i sztuczna inteligencja",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana i sztuczna inteligencja",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "I tura",
+    "value": 600.55,
+    "status": "value",
+    "raw": "600,55 (*500 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "III tura",
+    "value": 605.15,
+    "status": "value",
+    "raw": "605,15 (*500 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Medyczny",
+    "programme": "Elektroradiologia",
+    "round": "I tura",
+    "value": 281.6,
+    "status": "value",
+    "raw": "281,6",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Medyczny",
+    "programme": "Elektroradiologia",
+    "round": "II tura",
+    "value": 282.15,
+    "status": "value",
+    "raw": "282,15",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Medyczny",
+    "programme": "Elektroradiologia",
+    "round": "III tura",
+    "value": 380.25,
+    "status": "value",
+    "raw": "380,25",
+    "inScope": true
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Legnicy",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "I tura",
+    "value": 143.4,
+    "status": "value",
+    "raw": "143,4",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Legnicy",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Legnicy",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "III tura",
+    "value": 197.45,
+    "status": "value",
+    "raw": "197,45",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "I tura",
+    "value": 96.55,
+    "status": "value",
+    "raw": "96,55",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "II tura",
+    "value": 152,
+    "status": "value",
+    "raw": "152",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "III tura",
+    "value": 241.35,
+    "status": "value",
+    "raw": "241,35",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Budownictwo",
+    "round": "I tura",
+    "value": 114.95,
+    "status": "value",
+    "raw": "114,95",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Budownictwo",
+    "round": "II tura",
+    "value": 94.1,
+    "status": "value",
+    "raw": "94,1",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Budownictwo",
+    "round": "III tura",
+    "value": 71.7,
+    "status": "value",
+    "raw": "71,70",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Zarządzanie infrastrukturą i środowiskiem",
+    "round": "I tura",
+    "value": 111.55,
+    "status": "value",
+    "raw": "111,55",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Zarządzanie infrastrukturą i środowiskiem",
+    "round": "II tura",
+    "value": 92.4,
+    "status": "value",
+    "raw": "92,4",
+    "inScope": false
+  },
+  {
+    "year": "2026/2027",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Zarządzanie infrastrukturą i środowiskiem",
+    "round": "III tura",
+    "value": 127.75,
+    "status": "value",
+    "raw": "127,75",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "I tura",
+    "value": 624.05,
+    "status": "value",
+    "raw": "624,05",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "II tura",
+    "value": 563.35,
+    "status": "value",
+    "raw": "563,35",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "I tura",
+    "value": 157.4,
+    "status": "value",
+    "raw": "157,40",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "II tura",
+    "value": 53.3,
+    "status": "value",
+    "raw": "53,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "I tura",
+    "value": 100,
+    "status": "value",
+    "raw": "100 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "III tura",
+    "value": 151.5,
+    "status": "value",
+    "raw": "151,50 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo zrównoważone infrastruktury transportowej",
+    "round": "I tura",
+    "value": 62.75,
+    "status": "value",
+    "raw": "62,75 (warunek)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo zrównoważone infrastruktury transportowej",
+    "round": "II tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo zrównoważone infrastruktury transportowej",
+    "round": "III tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "I tura",
+    "value": 216.25,
+    "status": "value",
+    "raw": "216,25 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "II tura",
+    "value": 200.55,
+    "status": "value",
+    "raw": "200,55 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "III tura",
+    "value": 167,
+    "status": "value",
+    "raw": "167,00 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "I tura",
+    "value": 71.9,
+    "status": "value",
+    "raw": "71,90 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "II tura",
+    "value": 109.95,
+    "status": "value",
+    "raw": "109,95 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "III tura",
+    "value": 238.8,
+    "status": "value",
+    "raw": "238,80 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "I tura",
+    "value": 109.2,
+    "status": "value",
+    "raw": "109,20 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "II tura",
+    "value": 87.8,
+    "status": "value",
+    "raw": "87,80 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "III tura",
+    "value": 118.7,
+    "status": "value",
+    "raw": "118,70 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "I tura",
+    "value": 108.45,
+    "status": "value",
+    "raw": "108,45 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "II tura",
+    "value": 108.3,
+    "status": "value",
+    "raw": "108,30 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "III tura",
+    "value": 91.25,
+    "status": "value",
+    "raw": "91,25 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "I tura",
+    "value": 82.6,
+    "status": "value",
+    "raw": "82,60 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "II tura",
+    "value": 90.3,
+    "status": "value",
+    "raw": "90,30 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "III tura",
+    "value": 85.2,
+    "status": "value",
+    "raw": "85,20 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "I tura",
+    "value": 407.85,
+    "status": "value",
+    "raw": "407,85",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "II tura",
+    "value": 389.7,
+    "status": "value",
+    "raw": "389,70",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "I tura",
+    "value": 256.4,
+    "status": "value",
+    "raw": "256,40",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "I tura",
+    "value": 389.65,
+    "status": "value",
+    "raw": "389,65",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "II tura",
+    "value": 372.9,
+    "status": "value",
+    "raw": "372,90",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "I tura",
+    "value": 426.05,
+    "status": "value",
+    "raw": "426,05",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "II tura",
+    "value": 368.8,
+    "status": "value",
+    "raw": "368,80",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "I tura",
+    "value": 388.8,
+    "status": "value",
+    "raw": "388,80",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "II tura",
+    "value": 343.4,
+    "status": "value",
+    "raw": "343,40",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": 300.9,
+    "status": "value",
+    "raw": "300,90",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": 280.3,
+    "status": "value",
+    "raw": "280,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "I tura",
+    "value": 313.8,
+    "status": "value",
+    "raw": "313,80",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Sztuczna inteligencja",
+    "round": "I tura",
+    "value": 462.2,
+    "status": "value",
+    "raw": "462,20",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Sztuczna inteligencja",
+    "round": "II tura",
+    "value": 455,
+    "status": "value",
+    "raw": "455,00",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Sztuczna inteligencja",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "I tura",
+    "value": 251.3,
+    "status": "value",
+    "raw": "251,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "I tura",
+    "value": 149.05,
+    "status": "value",
+    "raw": "149,05",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "II tura",
+    "value": 320.8,
+    "status": "value",
+    "raw": "320,80",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "I tura",
+    "value": 130.45,
+    "status": "value",
+    "raw": "130,45 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "I tura",
+    "value": 100.6,
+    "status": "value",
+    "raw": "100,60 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "II tura",
+    "value": 105.1,
+    "status": "value",
+    "raw": "105,10 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "III tura",
+    "value": 116.4,
+    "status": "value",
+    "raw": "116,40 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "I tura",
+    "value": 136.3,
+    "status": "value",
+    "raw": "136,30 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "II tura",
+    "value": 135.9,
+    "status": "value",
+    "raw": "135,90 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "I tura",
+    "value": 241.05,
+    "status": "value",
+    "raw": "241,05",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "II tura",
+    "value": 146.35,
+    "status": "value",
+    "raw": "146,35",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "III tura",
+    "value": 44.3,
+    "status": "value",
+    "raw": "44,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "I tura",
+    "value": 100,
+    "status": "value",
+    "raw": "100,00",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "II tura",
+    "value": 89,
+    "status": "value",
+    "raw": "89,00",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "III tura",
+    "value": 79.45,
+    "status": "value",
+    "raw": "79,45",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "I tura",
+    "value": 204.5,
+    "status": "value",
+    "raw": "204,50",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "II tura",
+    "value": 76.7,
+    "status": "value",
+    "raw": "76,70",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "III tura",
+    "value": 101.2,
+    "status": "value",
+    "raw": "101,20",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "I tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "II tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "I tura",
+    "value": 111.85,
+    "status": "value",
+    "raw": "111,85",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "II tura",
+    "value": 71.6,
+    "status": "value",
+    "raw": "71,60",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "III tura",
+    "value": 183.45,
+    "status": "value",
+    "raw": "183,45",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "I tura",
+    "value": 90.85,
+    "status": "value",
+    "raw": "90,85",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "III tura",
+    "value": 136.6,
+    "status": "value",
+    "raw": "136,6",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "I tura",
+    "value": 101.75,
+    "status": "value",
+    "raw": "101,75 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "II tura",
+    "value": 130,
+    "status": "value",
+    "raw": "130,00 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "III tura",
+    "value": 100.15,
+    "status": "value",
+    "raw": "100,15 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "I tura",
+    "value": 80.2,
+    "status": "value",
+    "raw": "80,20 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "II tura",
+    "value": 80.5,
+    "status": "value",
+    "raw": "80,50 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "III tura",
+    "value": 81.3,
+    "status": "value",
+    "raw": "81,30 (*80 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "I tura",
+    "value": 165.75,
+    "status": "value",
+    "raw": "165,75 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "III tura",
+    "value": 235.4,
+    "status": "value",
+    "raw": "235,40 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "I tura",
+    "value": 141.7,
+    "status": "value",
+    "raw": "141,70 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "II tura",
+    "value": 200.95,
+    "status": "value",
+    "raw": "200,95 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "III tura",
+    "value": 330.9,
+    "status": "value",
+    "raw": "330,90 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "I tura",
+    "value": 162.3,
+    "status": "value",
+    "raw": "162,30 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "II tura",
+    "value": 114.75,
+    "status": "value",
+    "raw": "114,75 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "III tura",
+    "value": 140,
+    "status": "value",
+    "raw": "140,00 (*100 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "I tura",
+    "value": 90.2,
+    "status": "value",
+    "raw": "90,20",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "I tura",
+    "value": 375,
+    "status": "value",
+    "raw": "375,00",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "I tura",
+    "value": 59.3,
+    "status": "value",
+    "raw": "59,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "II tura",
+    "value": 71.3,
+    "status": "value",
+    "raw": "71,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "III tura",
+    "value": 56,
+    "status": "value",
+    "raw": "56,00",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "I tura",
+    "value": 66.45,
+    "status": "value",
+    "raw": "66,45",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "II tura",
+    "value": 63.2,
+    "status": "value",
+    "raw": "63,20",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "III tura",
+    "value": 58.4,
+    "status": "value",
+    "raw": "58,40",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "I tura",
+    "value": 209.3,
+    "status": "value",
+    "raw": "209,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "II tura",
+    "value": 201.1,
+    "status": "value",
+    "raw": "201,10",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "I tura",
+    "value": 97.1,
+    "status": "value",
+    "raw": "97,10",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "I tura",
+    "value": 181.95,
+    "status": "value",
+    "raw": "181,95",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "II tura",
+    "value": 152.95,
+    "status": "value",
+    "raw": "152,95",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "I tura",
+    "value": 218.05,
+    "status": "value",
+    "raw": "218,05",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "II tura",
+    "value": 191.95,
+    "status": "value",
+    "raw": "191,95",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "I tura",
+    "value": 361.5,
+    "status": "value",
+    "raw": "361,50",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "II tura",
+    "value": 314.2,
+    "status": "value",
+    "raw": "314,20",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "I tura",
+    "value": 251.5,
+    "status": "value",
+    "raw": "251,50",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "II tura",
+    "value": 186.45,
+    "status": "value",
+    "raw": "186,45",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "I tura",
+    "value": 174.7,
+    "status": "value",
+    "raw": "174,70",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "II tura",
+    "value": 171.3,
+    "status": "value",
+    "raw": "171,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "I tura",
+    "value": 68.35,
+    "status": "value",
+    "raw": "68,35",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "II tura",
+    "value": 83.6,
+    "status": "value",
+    "raw": "83,60",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "I tura",
+    "value": 110.75,
+    "status": "value",
+    "raw": "110,75",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "II tura",
+    "value": 62,
+    "status": "value",
+    "raw": "62,00",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "I tura",
+    "value": 290.5,
+    "status": "value",
+    "raw": "290,50 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "II tura",
+    "value": 217.2,
+    "status": "value",
+    "raw": "217,20 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "III tura",
+    "value": 328.05,
+    "status": "value",
+    "raw": "328,05 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "I tura",
+    "value": 316.65,
+    "status": "value",
+    "raw": "316,65 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "II tura",
+    "value": 241.1,
+    "status": "value",
+    "raw": "241,10 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "III tura",
+    "value": 213.7,
+    "status": "value",
+    "raw": "213,7 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "I tura",
+    "value": 343.15,
+    "status": "value",
+    "raw": "343,15 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "II tura",
+    "value": 324.4,
+    "status": "value",
+    "raw": "324,40 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical informatics",
+    "round": "I tura",
+    "value": 205.8,
+    "status": "value",
+    "raw": "205,80 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical informatics",
+    "round": "II tura",
+    "value": 204,
+    "status": "value",
+    "raw": "204,00 (*200 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical informatics",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "I tura",
+    "value": 181,
+    "status": "value",
+    "raw": "181,00 (*150 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "II tura",
+    "value": 199,
+    "status": "value",
+    "raw": "199,00 (*150 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "III tura",
+    "value": 168.55,
+    "status": "value",
+    "raw": "168,55 (*150 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "I tura",
+    "value": 452.5,
+    "status": "value",
+    "raw": "452,50",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "II tura",
+    "value": 426.85,
+    "status": "value",
+    "raw": "426,85",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "I tura",
+    "value": 271.45,
+    "status": "value",
+    "raw": "271,45",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "II tura",
+    "value": 237.1,
+    "status": "value",
+    "raw": "237,10",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "I tura",
+    "value": 142.6,
+    "status": "value",
+    "raw": "142,60 (*115 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "II tura",
+    "value": 142,
+    "status": "value",
+    "raw": "142,00 (*115 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "III tura",
+    "value": 141.8,
+    "status": "value",
+    "raw": "141,80 (*115 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "I tura",
+    "value": 65.4,
+    "status": "value",
+    "raw": "65,40",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "II tura",
+    "value": 55.65,
+    "status": "value",
+    "raw": "55,65",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "III tura",
+    "value": 66.1,
+    "status": "value",
+    "raw": "66,10",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "I tura",
+    "value": 77.6,
+    "status": "value",
+    "raw": "77,60 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "II tura",
+    "value": 88.5,
+    "status": "value",
+    "raw": "88,50 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "III tura",
+    "value": 76.3,
+    "status": "value",
+    "raw": "76,30 (*70 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inżynieria mikrosystemów mechatronicznych",
+    "round": "I tura",
+    "value": 86.8,
+    "status": "value",
+    "raw": "86,80",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inżynieria mikrosystemów mechatronicznych",
+    "round": "II tura",
+    "value": 80.9,
+    "status": "value",
+    "raw": "80,90",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inżynieria mikrosystemów mechatronicznych",
+    "round": "III tura",
+    "value": 70.05,
+    "status": "value",
+    "raw": "70,05",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i algorytmy sztucznej inteligencji",
+    "round": "I tura",
+    "value": 370.1,
+    "status": "value",
+    "raw": "370,10",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i algorytmy sztucznej inteligencji",
+    "round": "II tura",
+    "value": 373.5,
+    "status": "value",
+    "raw": "373,50",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i algorytmy sztucznej inteligencji",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "I tura",
+    "value": 407.3,
+    "status": "value",
+    "raw": "407,30",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana i sztuczna inteligencja",
+    "round": "I tura",
+    "value": 367.5,
+    "status": "value",
+    "raw": "367,50",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana i sztuczna inteligencja",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana i sztuczna inteligencja",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "I tura",
+    "value": 639.15,
+    "status": "value",
+    "raw": "639,15 (*500 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "III tura",
+    "value": 552.3,
+    "status": "value",
+    "raw": "552,30 (*500 pkt)",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Medyczny",
+    "programme": "Elektroradiologia",
+    "round": "I tura",
+    "value": 230.25,
+    "status": "value",
+    "raw": "230,25",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Medyczny",
+    "programme": "Elektroradiologia",
+    "round": "II tura",
+    "value": 312.8,
+    "status": "value",
+    "raw": "312,80",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Medyczny",
+    "programme": "Elektroradiologia",
+    "round": "III tura",
+    "value": 224.4,
+    "status": "value",
+    "raw": "224,40",
+    "inScope": true
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Legnicy",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "I tura",
+    "value": 60.2,
+    "status": "value",
+    "raw": "60,20",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Legnicy",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "II tura",
+    "value": 148.2,
+    "status": "value",
+    "raw": "148,20",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Legnicy",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "I tura",
+    "value": 84.75,
+    "status": "value",
+    "raw": "84,75",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "II tura",
+    "value": 60.75,
+    "status": "value",
+    "raw": "60,75",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "I tura",
+    "value": 90.7,
+    "status": "value",
+    "raw": "90,70",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "II tura",
+    "value": 173.8,
+    "status": "value",
+    "raw": "173,80",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "III tura",
+    "value": 61.45,
+    "status": "value",
+    "raw": "61,45",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": 62.2,
+    "status": "value",
+    "raw": "62,20",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": 63.8,
+    "status": "value",
+    "raw": "63,80",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": null,
+    "status": "missing",
+    "raw": "–",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": 61.3,
+    "status": "value",
+    "raw": "61,30",
+    "inScope": false
+  },
+  {
+    "year": "2025/2026",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": 204.2,
+    "status": "value",
+    "raw": "204,20",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "I tura",
+    "value": 560.55,
+    "status": "value",
+    "raw": "560,55",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "II tura",
+    "value": 509.5,
+    "status": "value",
+    "raw": "509,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Architektury",
+    "programme": "Architektura",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "I tura",
+    "value": 149.9,
+    "status": "value",
+    "raw": "149,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Architektury",
+    "programme": "Gospodarka przestrzenna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "I tura",
+    "value": 117.65,
+    "status": "value",
+    "raw": "117,65 (*70)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "II tura",
+    "value": 73.85,
+    "status": "value",
+    "raw": "73,85",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Budownictwa Lądowego i Wodnego",
+    "programme": "Budownictwo",
+    "round": "III tura",
+    "value": 94.1,
+    "status": "value",
+    "raw": "94,1",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "I tura",
+    "value": 115.5,
+    "status": "value",
+    "raw": "115,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "II tura",
+    "value": 132.5,
+    "status": "value",
+    "raw": "132,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Biotechnologia",
+    "round": "III tura",
+    "value": 228.2,
+    "status": "value",
+    "raw": "228,2",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "I tura",
+    "value": 72.5,
+    "status": "value",
+    "raw": "72,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i analityka przemysłowa",
+    "round": "III tura",
+    "value": 75.3,
+    "status": "value",
+    "raw": "75,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "I tura",
+    "value": 132.2,
+    "status": "value",
+    "raw": "132,2",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "II tura",
+    "value": 109.45,
+    "status": "value",
+    "raw": "109,45",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Chemia i inżynieria materiałów",
+    "round": "III tura",
+    "value": 281,
+    "status": "value",
+    "raw": "281",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria materiałowa",
+    "round": "I tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria materiałowa",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria materiałowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "I tura",
+    "value": 90.9,
+    "status": "value",
+    "raw": "90,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "II tura",
+    "value": 152.55,
+    "status": "value",
+    "raw": "152,55",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Inżynieria chemiczna i procesowa",
+    "round": "III tura",
+    "value": 111.3,
+    "status": "value",
+    "raw": "111,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "I tura",
+    "value": 78.5,
+    "status": "value",
+    "raw": "78,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "II tura",
+    "value": 151.5,
+    "status": "value",
+    "raw": "151,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Chemiczny",
+    "programme": "Technologia chemiczna",
+    "round": "III tura",
+    "value": 102.5,
+    "status": "value",
+    "raw": "102,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "I tura",
+    "value": 372.1,
+    "status": "value",
+    "raw": "372,1",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "II tura",
+    "value": 355.95,
+    "status": "value",
+    "raw": "355,95",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Cyberbezpieczeństwo",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "I tura",
+    "value": 272,
+    "status": "value",
+    "raw": "272",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyczne systemy automatyki",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "I tura",
+    "value": 428.3,
+    "status": "value",
+    "raw": "428,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "II tura",
+    "value": 384.7,
+    "status": "value",
+    "raw": "384,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka algorytmiczna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "I tura",
+    "value": 447.8,
+    "status": "value",
+    "raw": "447,8",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "I tura",
+    "value": 410.05,
+    "status": "value",
+    "raw": "410,05",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka stosowana w j. angielskim",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": 275.5,
+    "status": "value",
+    "raw": "275,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "I tura",
+    "value": 317.5,
+    "status": "value",
+    "raw": "317,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Inżynieria systemów",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "I tura",
+    "value": 254.85,
+    "status": "value",
+    "raw": "254,85",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "II tura",
+    "value": 328.8,
+    "status": "value",
+    "raw": "328,8",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Teleinformatyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "I tura",
+    "value": 208.1,
+    "status": "value",
+    "raw": "208,1",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Informatyki i telekomunikacji",
+    "programme": "Telekomunikacja",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "I tura",
+    "value": 127.7,
+    "status": "value",
+    "raw": "127,7 (*90)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "II tura",
+    "value": 125.15,
+    "status": "value",
+    "raw": "125,15 (*90)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Automatyka przemysłowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "I tura",
+    "value": 93.1,
+    "status": "value",
+    "raw": "93,1 (*90)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "II tura",
+    "value": 94.6,
+    "status": "value",
+    "raw": "94,6 (*90)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Elektromobilność",
+    "round": "III tura",
+    "value": 133.75,
+    "status": "value",
+    "raw": "133,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "I tura",
+    "value": 100.9,
+    "status": "value",
+    "raw": "100,9 (*90)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "II tura",
+    "value": 93.3,
+    "status": "value",
+    "raw": "93,3 (*90)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektryczny",
+    "programme": "Elektrotechnika",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "I tura",
+    "value": 278.35,
+    "status": "value",
+    "raw": "278,35",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "II tura",
+    "value": 129.2,
+    "status": "value",
+    "raw": "129,2",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geodezja i kartografia",
+    "round": "III tura",
+    "value": 137.25,
+    "status": "value",
+    "raw": "137,25",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "I tura",
+    "value": 106.2,
+    "status": "value",
+    "raw": "106,2",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "II tura",
+    "value": 136.6,
+    "status": "value",
+    "raw": "136,6",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoenergetyka",
+    "round": "III tura",
+    "value": 75.4,
+    "status": "value",
+    "raw": "75,4",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "I tura",
+    "value": 151.25,
+    "status": "value",
+    "raw": "151,25",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "II tura",
+    "value": 151,
+    "status": "value",
+    "raw": "151",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geoinformatyka",
+    "round": "III tura",
+    "value": 142.05,
+    "status": "value",
+    "raw": "142,05",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "I tura",
+    "value": 81.3,
+    "status": "value",
+    "raw": "81,3 (*warunek)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Geologia stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "not-opened",
+    "raw": "kierunek nieuruchomiony",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "I tura",
+    "value": 59.2,
+    "status": "value",
+    "raw": "59,2",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "II tura",
+    "value": 71.6,
+    "status": "value",
+    "raw": "71,6",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Górnictwo i geologia",
+    "round": "III tura",
+    "value": 52.6,
+    "status": "value",
+    "raw": "52,6",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "I tura",
+    "value": 68.7,
+    "status": "value",
+    "raw": "68,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "II tura",
+    "value": 40,
+    "status": "value",
+    "raw": "40",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Geoinżynierii, Górnictwa i Geologii",
+    "programme": "Inżynieria surowców mineralnych",
+    "round": "III tura",
+    "value": 82.5,
+    "status": "value",
+    "raw": "82,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "I tura",
+    "value": 108.85,
+    "status": "value",
+    "raw": "108,85 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "II tura",
+    "value": 112.9,
+    "status": "value",
+    "raw": "112,9 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+    "round": "III tura",
+    "value": 183.7,
+    "status": "value",
+    "raw": "183,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "I tura",
+    "value": 104.25,
+    "status": "value",
+    "raw": "104,25 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "II tura",
+    "value": 105,
+    "status": "value",
+    "raw": "105 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Inżynierii Środowiska",
+    "programme": "Inżynieria środowiska",
+    "round": "III tura",
+    "value": 119.1,
+    "status": "value",
+    "raw": "119,1",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "I tura",
+    "value": 175.9,
+    "status": "value",
+    "raw": "175,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "II tura",
+    "value": 193.7,
+    "status": "value",
+    "raw": "193,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Inżynieria zarządzania",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "I tura",
+    "value": 138.75,
+    "status": "value",
+    "raw": "138,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "II tura",
+    "value": 126.4,
+    "status": "value",
+    "raw": "126,4",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "I tura",
+    "value": 135.4,
+    "status": "value",
+    "raw": "135,4",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "II tura",
+    "value": 115.25,
+    "status": "value",
+    "raw": "115,25",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Zarządzania",
+    "programme": "Zarządzanie w języku angielskim",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "I tura",
+    "value": 65.3,
+    "status": "value",
+    "raw": "65,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "II tura",
+    "value": 49.9,
+    "status": "value",
+    "raw": "49,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Energetyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "I tura",
+    "value": 344.8,
+    "status": "value",
+    "raw": "344,8",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "II tura",
+    "value": 210.05,
+    "status": "value",
+    "raw": "210,05",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Lotnictwo i kosmonautyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "I tura",
+    "value": 57.3,
+    "status": "value",
+    "raw": "57,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "II tura",
+    "value": 53.7,
+    "status": "value",
+    "raw": "53,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Mechanika i budowa maszyn energetycznych",
+    "round": "III tura",
+    "value": 62.3,
+    "status": "value",
+    "raw": "62,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "I tura",
+    "value": 90.85,
+    "status": "value",
+    "raw": "90,85",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "II tura",
+    "value": 49.5,
+    "status": "value",
+    "raw": "49,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczno-Energetyczny",
+    "programme": "Odnawialne źródła energii",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "I tura",
+    "value": 108.15,
+    "status": "value",
+    "raw": "108,15",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "II tura",
+    "value": 103.6,
+    "status": "value",
+    "raw": "103,6",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Biomechanika inżynierska",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "I tura",
+    "value": 57.5,
+    "status": "value",
+    "raw": "57,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Inżynieria pojazdów i napędów niskoemisyjnych",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "I tura",
+    "value": 104.65,
+    "status": "value",
+    "raw": "104,65",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Logistyka przemysłowa",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "I tura",
+    "value": 150.25,
+    "status": "value",
+    "raw": "150,25 (*110)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "II tura",
+    "value": 173.15,
+    "status": "value",
+    "raw": "173,15 (*110)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "I tura",
+    "value": 217.85,
+    "status": "value",
+    "raw": "217,85",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechanika i budowa maszyn w języku angielskim",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "I tura",
+    "value": 203.65,
+    "status": "value",
+    "raw": "203,65",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "II tura",
+    "value": 189.5,
+    "status": "value",
+    "raw": "189,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Mechatronika",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "I tura",
+    "value": 166.05,
+    "status": "value",
+    "raw": "166,05",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Robotyka i automatyzacja procesów",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "I tura",
+    "value": 45.5,
+    "status": "value",
+    "raw": "45,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "II tura",
+    "value": 85.5,
+    "status": "value",
+    "raw": "85,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Transport",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "I tura",
+    "value": 74.9,
+    "status": "value",
+    "raw": "74,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "II tura",
+    "value": 106.7,
+    "status": "value",
+    "raw": "106,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Mechaniczny",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "I tura",
+    "value": 186.3,
+    "status": "value",
+    "raw": "186,3 (*180)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "II tura",
+    "value": 255.3,
+    "status": "value",
+    "raw": "255,3 (*110)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Fizyka techniczna",
+    "round": "III tura",
+    "value": 195.95,
+    "status": "value",
+    "raw": "195,95",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "I tura",
+    "value": 291.5,
+    "status": "value",
+    "raw": "291,5 (*180)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "II tura",
+    "value": 238.25,
+    "status": "value",
+    "raw": "238,25 (*180)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria biomedyczna",
+    "round": "III tura",
+    "value": 248.25,
+    "status": "value",
+    "raw": "248,25",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "I tura",
+    "value": 239.5,
+    "status": "value",
+    "raw": "239,5 (*180)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "II tura",
+    "value": 186.3,
+    "status": "value",
+    "raw": "186,3 (*180)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Inżynieria kwantowa",
+    "round": "III tura",
+    "value": 330.9,
+    "status": "value",
+    "raw": "330,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical Informatics",
+    "round": "I tura",
+    "value": 231.75,
+    "status": "value",
+    "raw": "231,75 (*150)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical Informatics",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Medical Informatics",
+    "round": "III tura",
+    "value": 201.7,
+    "status": "value",
+    "raw": "201,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "I tura",
+    "value": 107,
+    "status": "value",
+    "raw": "107 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "II tura",
+    "value": 104.5,
+    "status": "value",
+    "raw": "104,5 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Podstawowych Problemów Techniki",
+    "programme": "Optyka",
+    "round": "III tura",
+    "value": 245.9,
+    "status": "value",
+    "raw": "245,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "I tura",
+    "value": 408.7,
+    "status": "value",
+    "raw": "408,7",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "II tura",
+    "value": 370.85,
+    "status": "value",
+    "raw": "370,85",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Automatyka i robotyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "I tura",
+    "value": 225.75,
+    "status": "value",
+    "raw": "225,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "II tura",
+    "value": 210,
+    "status": "value",
+    "raw": "210",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Electronic and Computer Engineering",
+    "round": "III tura",
+    "value": 223.75,
+    "status": "value",
+    "raw": "223,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "I tura",
+    "value": 101.65,
+    "status": "value",
+    "raw": "101,65 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "II tura",
+    "value": 102.5,
+    "status": "value",
+    "raw": "102,5 (*100)",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika",
+    "round": "III tura",
+    "value": 127.1,
+    "status": "value",
+    "raw": "127,1",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "I tura",
+    "value": 66,
+    "status": "value",
+    "raw": "66",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "II tura",
+    "value": 57.45,
+    "status": "value",
+    "raw": "57,45",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Elektronika i fotonika",
+    "round": "III tura",
+    "value": 62.5,
+    "status": "value",
+    "raw": "62,5",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "I tura",
+    "value": 58.2,
+    "status": "value",
+    "raw": "58,2",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "II tura",
+    "value": 68.3,
+    "status": "value",
+    "raw": "68,3",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inteligentna elektronika",
+    "round": "III tura",
+    "value": 82.95,
+    "status": "value",
+    "raw": "82,95",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inżynieria mikrosystemów mechatronicznych",
+    "round": "I tura",
+    "value": 78.9,
+    "status": "value",
+    "raw": "78,9",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inżynieria mikrosystemów mechatronicznych",
+    "round": "II tura",
+    "value": 88.75,
+    "status": "value",
+    "raw": "88,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Elektroniki, Fotoniki i Mikrosystemów",
+    "programme": "Inżynieria mikrosystemów mechatronicznych",
+    "round": "III tura",
+    "value": 65.75,
+    "status": "value",
+    "raw": "65,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka",
+    "round": "I tura",
+    "value": 293.55,
+    "status": "value",
+    "raw": "293,55",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka",
+    "round": "II tura",
+    "value": 301.75,
+    "status": "value",
+    "raw": "301,75",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "I tura",
+    "value": 422.55,
+    "status": "value",
+    "raw": "422,55",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "II tura",
+    "value": 414,
+    "status": "value",
+    "raw": "414",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka i analiza danych",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana",
+    "round": "I tura",
+    "value": 325.65,
+    "status": "value",
+    "raw": "325,65",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Matematyki",
+    "programme": "Matematyka stosowana",
+    "round": "III tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "I tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "II tura",
+    "value": null,
+    "status": "missing",
+    "raw": "—",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Medyczny",
+    "programme": "Lekarski",
+    "round": "III tura",
+    "value": 574.1,
+    "status": "value",
+    "raw": "574,1",
+    "inScope": true
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Legnicy",
+    "programme": "Automatyka przemysłowa",
+    "round": "I tura",
+    "value": 62.5,
+    "status": "value",
+    "raw": "62,5",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Legnicy",
+    "programme": "Automatyka przemysłowa",
+    "round": "II tura",
+    "value": 119.7,
+    "status": "value",
+    "raw": "119,7",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Legnicy",
+    "programme": "Automatyka przemysłowa",
+    "round": "III tura",
+    "value": 90,
+    "status": "value",
+    "raw": "90",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "I tura",
+    "value": 53.7,
+    "status": "value",
+    "raw": "53,7",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "II tura",
+    "value": 75.5,
+    "status": "value",
+    "raw": "75,5",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Legnicy",
+    "programme": "Mechanika i budowa maszyn",
+    "round": "III tura",
+    "value": 49.8,
+    "status": "value",
+    "raw": "49,8",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": 63,
+    "status": "value",
+    "raw": "63",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": 83.95,
+    "status": "value",
+    "raw": "83,95",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Jeleniej Górze",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": 70.9,
+    "status": "value",
+    "raw": "70,9",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Informatyka techniczna",
+    "round": "I tura",
+    "value": 65.25,
+    "status": "value",
+    "raw": "65,25",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Informatyka techniczna",
+    "round": "II tura",
+    "value": 70.9,
+    "status": "value",
+    "raw": "70,9",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Informatyka techniczna",
+    "round": "III tura",
+    "value": 137,
+    "status": "value",
+    "raw": "137,0",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "I tura",
+    "value": 79.3,
+    "status": "value",
+    "raw": "79,3",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "II tura",
+    "value": 74.9,
+    "status": "value",
+    "raw": "74,9",
+    "inScope": false
+  },
+  {
+    "year": "2024/2025",
+    "faculty": "Filia w Wałbrzychu",
+    "programme": "Zarządzanie i inżynieria produkcji",
+    "round": "III tura",
+    "value": 119.3,
+    "status": "value",
+    "raw": "119,3",
+    "inScope": false
+  }
+]

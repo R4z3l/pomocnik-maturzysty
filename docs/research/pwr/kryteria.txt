@@ -1,0 +1,1485 @@
+Strona główna
+Rekrutacja
+Kryteria przyjęć
+Kryteria przyjęć na studia I stopnia
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Matura z OKE
+Kierunek Lekarski
+Matura dwujęzyczna
+Matura IB
+Stara matura
+Matura uzyskana poza Polską
+Olimpijczycy
+Dyplom zawodowy na poziomie technika
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
++
+E
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+*
+JO
+Język obcy
+JP
+Język polski
+E
+Egzamin z rysunku (tylko dla kandydatów na kierunek Architektura)
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+(*)
+przedmioty dodatkowe uwzględniane na poszczególnych kierunkach:
+PRZEDMIOT DODATKOWY
+KIERUNKI
+FIZYKA
+– wszystkie kierunki studiów
+BIOLOGIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inżynieria biomedyczna
+– optyka
+– zarządzanie infrastrukturą i środowiskiem
+CHEMIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– górnictwo i geologia
+– inżynieria biomedyczna
+– inżynieria chemiczna i procesowa
+– inżynieria materiałowa
+– inżynieria surowców mineralnych
+– technologia chemiczna
+– optyka
+– lekarski
+– zarządzanie infrastrukturą i środowiskiem
+GEOGRAFIA
+– bezpieczeństwo i higiena pracy
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– górnictwo i geologia
+– inżynieria surowców mineralnych
+– zarządzanie infrastrukturą i środowiskiem
+INFORMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+–
+bezpieczeństwo i higiena pracy
+– cyberbezpieczeństwo
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– informatyczne systemy automatyki
+– informatyka algorytmiczna
+– informatyka stosowana
+– informatyka stosowana w j. ang.
+– informatyka techniczna
+– inteligentna elektronika
+– inżynieria biomedyczna
+– inżynieria systemów
+– inżynieria zarządzania
+– matematyka i algorytmy sztucznej inteligencji
+– matematyka i analiza danych
+– matematyka stosowana i sztuczna inteligencja
+– mechatroniczne systemy automatyki
+– Medical Informatics
+– optyka
+– sztuczna inteligencja
+– teleinformatyka
+– telekomunikacja
+– zarządzanie
+– zarządzanie w j. ang.
+– zarządzanie infrastrukturą i środowiskiem
+MATEMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inteligentna elektronika
+– inżynieria chemiczna i procesowa
+– inżynieria pojazdów i napędów niskoemisyjnych
+– inżynieria środowiska
+– logistyka przemysłowa
+– mechanika i budowa maszyn
+– mechatroniczne systemy automatyki
+– mechatronika
+– robotyka i automatyzacja procesów
+– technologia chemiczna
+– transport
+– zarządzanie i inżynieria produkcji
+– zarządzanie infrastrukturą i środowiskiem
+W przypadku zdawania kilku przedmiotów branych pod uwagę, do wskaźnika rekrutacyjnego wliczany jest korzystniejszy wynik (przy uwzględnieniu założenia, że liczba P oraz R liczona jest z tego samego przedmiotu).
+Dla kandydatów z dyplomem zawodowym technika do punktów za przedmiot dodatkowy może zostać wliczony wynik egzaminu zawodowego. Szczegóły znajdziecie w zakładce
+„Dyplom zawodowy na poziomie technika”
+.
+W
+M
+= B + M + PD + 0,1JO + 0,1JP
+jeśli B=0 lub M=0, to W
+M
+= 0
+gdzie:
+B – jest równa 2,5 R, gdzie
+R – liczba punktów odpowiadających wynikowi egzaminu maturalnego z biologii na poziomie rozszerzonym,
+M – jest równy większej z liczb: P albo P + 1,5 R albo 2,5 R, gdzie
+P – liczba punktów odpowiadających wynikowi egzaminu maturalnego z matematyki na poziomie podstawowym,
+R – liczba punktów odpowiadających wynikowi egzaminu maturalnego z matematyki na poziomie rozszerzonym,
+PD – jest równy większej z liczb: P albo P + 1,5 R albo 2,5 R, gdzie
+P – liczba punktów odpowiadających wynikowi egzaminu maturalnego z fizyki lub chemii na poziomie podstawowym,
+R – liczba punktów odpowiadających wynikowi egzaminu maturalnego z fizyki lub chemii na poziomie rozszerzonym,
+JO – jest równa większej z liczb: P albo P + 1,5 R albo 2,5 R, gdzie
+P – liczba punktów odpowiadających wynikowi pisemnego egzaminu maturalnego z języka obcego na poziomie podstawowym,
+R – liczba punktów odpowiadających wynikowi pisemnego egzaminu maturalnego z języka obcego na poziomie rozszerzonym lub na poziomie dwujęzycznym,
+JP – jest równa większej z liczb: P albo R, gdzie
+P – liczba punktów odpowiadających wynikowi pisemnego egzaminu maturalnego z języka polskiego na poziomie podstawowym,
+R – liczba punktów odpowiadających wynikowi pisemnego egzaminu maturalnego z języka polskiego na poziomie rozszerzonym,
+Maksymalna wartość wskaźnika rekrutacyjnego (WM) wynosi 785 punktów.
+Minimalna wartość wskaźnika rekrutacyjnego (WM) wynosi 500 punktów.
+Przy obliczaniu wskaźnika rekrutacyjnego wartości poszczególnych składników wyliczane są zawsze z użyciem formuły najkorzystniejszej dla kandydata w zależności od poziomu zdawania egzaminu dojrzałości.
+M
++
+M
+D
++
+PD
++
+PD
+D
++
+0,1JO
++
+0,1JP
++
+E
+M
+PD
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JO
+jest równa większej z liczb:
+2,5 *
+R
+albo 3,5 *
+JO
+D
+MD
+PDD
+jest równa liczbie punktów na poziomie dwujęzycznym
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+MD
+Matematyka w języku obcym
+JO
+Język obcy
+E
+Egzamin z rysunku (tylko dla kandydatów na kierunek Architektura)
+PD
+Przedmiot dodatkowy*
+PDD
+Przedmiot dodatkowy w języku obcym*
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+JOD
+Wynik procentowy z matury z języka obcego na poziomie dwujęzycznym
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli PD + PD
+D
+jest większa niż 250 punktów, to przyjmuje się PD + PD
+D
+= 250
+Jeżeli M + M
+D
+jest większa niż 250 punktów, to przyjmuje się z + z
+D
+= 250
+Jeżeli JO jest większa niż 250 punktów, to przyjmuje się JO = 250 punktów.
+(*)
+przedmioty dodatkowe uwzględniane na poszczególnych kierunkach:
+PRZEDMIOT DODATKOWY
+KIERUNKI
+FIZYKA
+– wszystkie kierunki studiów
+BIOLOGIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inżynieria biomedyczna
+– optyka
+– zarządzanie infrastrukturą i środowiskiem
+CHEMIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– górnictwo i geologia
+– inżynieria biomedyczna
+– inżynieria chemiczna i procesowa
+– inżynieria materiałowa
+– inżynieria surowców mineralnych
+– technologia chemiczna
+– optyka
+– lekarski
+– zarządzanie infrastrukturą i środowiskiem
+GEOGRAFIA
+– bezpieczeństwo i higiena pracy
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– górnictwo i geologia
+– inżynieria surowców mineralnych
+– zarządzanie infrastrukturą i środowiskiem
+INFORMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+–
+bezpieczeństwo i higiena pracy
+– cyberbezpieczeństwo
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– informatyczne systemy automatyki
+– informatyka algorytmiczna
+– informatyka stosowana
+– informatyka stosowana w j. ang.
+– informatyka techniczna
+– inteligentna elektronika
+– inżynieria biomedyczna
+– inżynieria systemów
+– inżynieria zarządzania
+– matematyka i algorytmy sztucznej inteligencji
+– matematyka i analiza danych
+– matematyka stosowana i sztuczna inteligencja
+– mechatroniczne systemy automatyki
+– Medical Informatics
+– optyka
+– sztuczna inteligencja
+– teleinformatyka
+– telekomunikacja
+– zarządzanie
+– zarządzanie w j. ang.
+– zarządzanie infrastrukturą i środowiskiem
+MATEMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inteligentna elektronika
+– inżynieria chemiczna i procesowa
+– inżynieria pojazdów i napędów niskoemisyjnych
+– inżynieria środowiska
+– logistyka przemysłowa
+– mechanika i budowa maszyn
+– mechatroniczne systemy automatyki
+– mechatronika
+– robotyka i automatyzacja procesów
+– technologia chemiczna
+– transport
+– zarządzanie i inżynieria produkcji
+– zarządzanie infrastrukturą i środowiskiem
+W przypadku zdawania kilku przedmiotów branych pod uwagę, do wskaźnika rekrutacyjnego wliczany jest korzystniejszy wynik (przy uwzględnieniu założenia, że liczba P oraz R liczona jest z tego samego przedmiotu).
+Dla kandydatów z dyplomem zawodowym technika do punktów za przedmiot dodatkowy może zostać wliczony wynik egzaminu zawodowego. Szczegóły znajdziecie w zakładce
+„Dyplom zawodowy na poziomie technika”
+.
+Wskaźnik rekrutacyjny kandydata z maturą międzynarodową IB na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
++
+E
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+*
+JO
+Język obcy
+JP
+Język polski
+E
+Egzamin z rysunku (tylko dla kandydatów na kierunek Architektura)
+P
+Wynik z poziomu SL
+R
+Wynik z poziomu HL
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Przyjmuje się następujące przeliczenie ocen z matury międzynarodowej IB:
+Ocena (dla poziomu SL i HL)
+Punkty
+7
+100
+6
+92
+5
+80
+4
+64
+3
+48
+2
+30
+1
+0
+(*)
+przedmioty dodatkowe uwzględniane na poszczególnych kierunkach:
+PRZEDMIOT DODATKOWY
+KIERUNKI
+FIZYKA
+– wszystkie kierunki studiów
+BIOLOGIA
+– biomechanika inżynierska
+– biotechnologia
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inżynieria biomedyczna
+– optyka
+CHEMIA
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– górnictwo i geologia
+– inżynieria biomedyczna
+– inżynieria chemiczna i procesowa
+– inżynieria materiałowa
+– inżynieria surowców mineralnych
+– technologia chemiczna
+– optyka
+– lekarski
+GEOGRAFIA
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– górnictwo i geologia
+– inżynieria surowców mineralnych
+INFORMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+– cyberbezpieczeństwo
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– informatyczne systemy automatyki
+– informatyka algorytmiczna
+– informatyka stosowana
+– informatyka stosowana w j. ang.
+– informatyka techniczna
+– inteligentna elektronika
+– inżynieria biomedyczna
+– inżynieria mikrosystemów    mechatronicznych
+– inżynieria systemów
+– inżynieria zarządzania
+– matematyka i algorytmy sztucznej inteligencji
+– matematyka i analiza danych
+– matematyka stosowana i sztuczna inteligencja
+– Medical Informatics
+– optyka
+– sztuczna inteligencja
+– teleinformatyka
+– telekomunikacja
+– zarządzanie
+– zarządzanie w j. ang.
+MATEMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inteligentna elektronika
+– inżynieria chemiczna i procesowa
+– inżynieria mikrosystemów    mechatronicznych
+– inżynieria pojazdów i napędów niskoemisyjnych
+– inżynieria środowiska
+– logistyka przemysłowa
+– mechanika i budowa maszyn
+– mechatronika
+– robotyka i automatyzacja procesów
+– technologia chemiczna
+– transport
+– zarządzanie i inżynieria produkcji
+W przypadku zdawania kilku przedmiotów branych pod uwagę, do wskaźnika rekrutacyjnego wliczany jest korzystniejszy wynik (przy uwzględnieniu założenia, że liczba P oraz R liczona jest z tego samego przedmiotu).
+M + PD + 0,1JO + 0,1JP + E
+M
+liczba punktów uzyskana z przeliczenia oceny z pisemnego egzaminu dojrzałości z matematyki
+PD
+liczba punktów uzyskana z przeliczenia oceny z pisemnego lub ustnego egzaminu dojrzałości z przedmiotu dodatkowego, albo liczba punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie
+JO
+suma punktów uzyskana z przeliczenia ocen z egzaminu dojrzałości z dowolnego nowożytnego języka obcego z części pisemnej i ustnej; dla kandydata, który zdawał tylko część pisemną lub ustną do punktów uzyskanych z przeliczenia oceny ze zdanego egzaminu dojrzałości dodaje się liczbę punktów uzyskanych z przeliczenia oceny końcowej z tego języka; jeśli kandydat nie zdawał egzaminu dojrzałości z języka obcego JO odpowiada liczbie punktów z przeliczenia najlepszej oceny końcowej z dowolnego nowożytnego języka obcego; JO = 250 punktów dla kandydata zwolnionego z egzaminu dojrzałości na podstawie certyfikatu
+JP
+liczba punktów uzyskana z przeliczenia oceny z egzaminu dojrzałości z języka polskiego z części pisemnej
+E
+wynik zdanego obowiązkowego egzaminu z rysunku – dotyczy tylko kandydatów na studia stacjonarne I stopniana kierunek Architektura
+(*)
+przedmioty dodatkowe uwzględniane na poszczególnych kierunkach:
+PRZEDMIOT DODATKOWY
+KIERUNKI
+FIZYKA
+– wszystkie kierunki studiów
+BIOLOGIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inżynieria biomedyczna
+– optyka
+– zarządzanie infrastrukturą i środowiskiem
+CHEMIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– górnictwo i geologia
+– inżynieria biomedyczna
+– inżynieria chemiczna i procesowa
+– inżynieria materiałowa
+– inżynieria surowców mineralnych
+– technologia chemiczna
+– optyka
+– lekarski
+– zarządzanie infrastrukturą i środowiskiem
+GEOGRAFIA
+– bezpieczeństwo i higiena pracy
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– górnictwo i geologia
+– inżynieria surowców mineralnych
+– zarządzanie infrastrukturą i środowiskiem
+INFORMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+–
+bezpieczeństwo i higiena pracy
+– cyberbezpieczeństwo
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– informatyczne systemy automatyki
+– informatyka algorytmiczna
+– informatyka stosowana
+– informatyka stosowana w j. ang.
+– informatyka techniczna
+– inteligentna elektronika
+– inżynieria biomedyczna
+– inżynieria systemów
+– inżynieria zarządzania
+– matematyka i algorytmy sztucznej inteligencji
+– matematyka i analiza danych
+– matematyka stosowana i sztuczna inteligencja
+– mechatroniczne systemy automatyki
+– Medical Informatics
+– optyka
+– sztuczna inteligencja
+– teleinformatyka
+– telekomunikacja
+– zarządzanie
+– zarządzanie w j. ang.
+– zarządzanie infrastrukturą i środowiskiem
+MATEMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inteligentna elektronika
+– inżynieria chemiczna i procesowa
+– inżynieria pojazdów i napędów niskoemisyjnych
+– inżynieria środowiska
+– logistyka przemysłowa
+– mechanika i budowa maszyn
+– mechatroniczne systemy automatyki
+– mechatronika
+– robotyka i automatyzacja procesów
+– technologia chemiczna
+– transport
+– zarządzanie i inżynieria produkcji
+– zarządzanie infrastrukturą i środowiskiem
+W przypadku zdawania kilku przedmiotów branych pod uwagę, do wskaźnika rekrutacyjnego wliczany jest korzystniejszy wynik (przy uwzględnieniu założenia, że liczba P oraz R liczona jest z tego samego przedmiotu).
+Dla kandydatów z dyplomem zawodowym technika do punktów za przedmiot dodatkowy może zostać wliczony wynik egzaminu zawodowego. Szczegóły znajdziecie w zakładce
+„Dyplom zawodowy na poziomie technika”
+.
+Do określenia wskaźnika rekrutacyjnego przyjmuje się następujące przeliczenie:
+ocena
+skala 1-6
+liczba punktów dla
+matematyki, fizyki, języka obcego
+liczba punktów dla
+języka polskiego
+6
+(celująca)
+250
+100
+5
+(bardzo dobra)
+206,25
+82,5
+4
+(dobra)
+162,5
+65
+3
+(dostateczna)
+118,75
+47,5
+2
+(dopuszczająca)
+75
+30
+ocena
+skala 2-5
+liczba punktów dla
+matematyki, fizyki, języka obcego
+liczba punktów dla
+języka polskiego
+5
+(bardzo dobra)
+250
+100
+4
+(dobra)
+175
+70
+3
+(dostateczna)
+100
+40
+Wskaźnik rekrutacyjny kandydata z maturą uzyskaną poza Polską na studia I stopnia jest liczony wg wzoru
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
++
+E
+M
+PD
+JO
+JP
+jest równa liczbie punktów uzyskanych z przeliczenia oceny ze świadectwa uprawniającego do ubiegania się o przyjęcie na studia
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+*
+JO
+Język obcy
+JP
+Język polski
+E
+Egzamin z rysunku (tylko dla kandydatów na kierunek Architektura)
+Wynik punktowy ustalany jest indywidualnie po dokonaniu przez Dział Rekrutacji analizy dokumentów o wykształceniu
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+(*)
+przedmioty dodatkowe uwzględniane na poszczególnych kierunkach:
+PRZEDMIOT DODATKOWY
+KIERUNKI
+FIZYKA
+– wszystkie kierunki studiów
+BIOLOGIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inżynieria biomedyczna
+– optyka
+– zarządzanie infrastrukturą i środowiskiem
+CHEMIA
+– bezpieczeństwo i higiena pracy
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– elektroradiologia
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– górnictwo i geologia
+– inżynieria biomedyczna
+– inżynieria chemiczna i procesowa
+– inżynieria materiałowa
+– inżynieria surowców mineralnych
+– technologia chemiczna
+– optyka
+– lekarski
+– zarządzanie infrastrukturą i środowiskiem
+GEOGRAFIA
+– bezpieczeństwo i higiena pracy
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– górnictwo i geologia
+– inżynieria surowców mineralnych
+– zarządzanie infrastrukturą i środowiskiem
+INFORMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+–
+bezpieczeństwo i higiena pracy
+– cyberbezpieczeństwo
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– geodezja i kartografia
+– geoenergetyka
+– geoinformatyka
+– informatyczne systemy automatyki
+– informatyka algorytmiczna
+– informatyka stosowana
+– informatyka stosowana w j. ang.
+– informatyka techniczna
+– inteligentna elektronika
+– inżynieria biomedyczna
+– inżynieria systemów
+– inżynieria zarządzania
+– matematyka i algorytmy sztucznej inteligencji
+– matematyka i analiza danych
+– matematyka stosowana i sztuczna inteligencja
+– mechatroniczne systemy automatyki
+– Medical Informatics
+– optyka
+– sztuczna inteligencja
+– teleinformatyka
+– telekomunikacja
+– zarządzanie
+– zarządzanie w j. ang.
+– zarządzanie infrastrukturą i środowiskiem
+MATEMATYKA
+– automatyka i robotyka
+– automatyka przemysłowa
+– biomechanika inżynierska
+– biotechnologia
+– chemia i analityka przemysłowa
+– chemia i inżynieria materiałów
+– Electronic and Comupter Engineering
+– elektromobilność
+– elektronika
+– elektronika i fotonika
+– elektrotechnika
+– gospodarka o obiegu zamkniętym i ochrona klimatu
+– inteligentna elektronika
+– inżynieria chemiczna i procesowa
+– inżynieria pojazdów i napędów niskoemisyjnych
+– inżynieria środowiska
+– logistyka przemysłowa
+– mechanika i budowa maszyn
+– mechatroniczne systemy automatyki
+– mechatronika
+– robotyka i automatyzacja procesów
+– technologia chemiczna
+– transport
+– zarządzanie i inżynieria produkcji
+– zarządzanie infrastrukturą i środowiskiem
+W przypadku zdawania kilku przedmiotów branych pod uwagę, do wskaźnika rekrutacyjnego wliczany jest korzystniejszy wynik (przy uwzględnieniu założenia, że liczba P oraz R liczona jest z tego samego przedmiotu).
+Postępowanie kwalifikacyjne dla kandydatów – obywateli Polski z maturą uzyskaną poza granicami Polski odbywa się zgodnie z Warunkami i trybem rekrutacji, po uwzględnieniu następujących zmian:
+7.1. Kandydat składa dokumenty, o których mowa w §14 punkt 1 podpunkty a i c-f Warunków rekrutacji oraz kopię świadectwa lub innego dokumentu uzyskanego poza granicami Polski uprawniającego do ubiegania się o przyjęcie na studia wraz z apostille lub legalizacją poświadczone przez Politechnikę Wrocławską (w celu poświadczenia przedkłada do wglądu oryginały odpowiednich dokumentów).
+7.2. W przypadku, gdy świadectwo lub inny dokument został uznany w drodze decyzji administracyjnej za uprawniający do ubiegania się o przyjęcie na studia, kandydat składa kopię decyzji kuratora oświaty Strona 10 z 14 o uznaniu świadectwa lub innego dokumentu za dokument potwierdzający w Rzeczypospolitej Polskiej uprawnienie do ubiegania się o przyjęcie na studia poświadczoną przez Politechnikę Wrocławską (w celu poświadczenia przedkłada do wglądu oryginały odpowiednich dokumentów).
+7.3. W przypadku, gdy świadectwo lub inny dokument został uznany za równoważny polskiemu
+świadectwu dojrzałości, kandydat składa kopię zaświadczenia z kuratorium oświaty o równoważności
+uzyskanego za granicą świadectwa lub innego dokumentu z polskim świadectwem dojrzałości,
+poświadczoną przez Politechnikę Wrocławską (w celu poświadczenia przedkłada do wglądu oryginały
+odpowiednich dokumentów).
+7.7. Wskaźniki rekrutacyjne WI oraz WM, o których mowa w § 9 lub § 10 Warunków rekrutacji są wyliczane przez Dział Rekrutacji na podstawie dokumentów uprawniających do przyjęcia kandydata na studia I stopnia lub jednolite studia magisterskie.
+7.8. Politechnika Wrocławska wymaga tłumaczenia dokumentów na język polski lub angielski:
+a. poświadczonych lub sporządzonych przez tłumacza przysięgłego, albo
+b. poświadczonych przez właściwego konsula Rzeczypospolitej Polskiej urzędującego w danym
+kraju.
+Kandydat może złożyć kopię tłumaczenia dokumentów poświadczoną przez Politechnikę Wrocławską
+(w celu poświadczenia przedkłada do wglądu oryginał dokumentu).
+Szczegółowych informacji w sprawie świadectw uzyskanych poza granicami Polski udzielają pracownicy Działu Rekrutacji.
+Olimpiada Astronomiczna
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Olimpiada Matematyczna
+Wydział
+Kierunek
+Budownictwa Lądowego i Wodnego
+budownictwo, budownictwo w języku angielskim
+Chemiczny
+Advanced Nano and Biomaterials – MONABIPHOT, Biosciences, biotechnologia, chemia, Chemical Engineering and Technology, chemia i analityka przemysłowa, chemia i inżynieria materiałów, inżynieria chemiczna i procesowa, Sustianable Biomass and Bioproducts Engineering, technologia chemiczna, Urban Mining – Inżynieria recyklingu
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, informatyczne systemy automatyki, informatyka algorytmiczna, informatyka stosowana, informatyka stosowana w języku angielskim, informatyka techniczna, informatyka techniczna w języku angielskim, inżynieria systemów, sztuczna inteligencja, teleinformatyka, telekomunikacja, zaufane systemy sztucznej inteligencji
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+inżynieria zarządzania, zarządzanie, zarządzanie w języku angielskim
+Mechaniczno – Energetyczny
+energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii
+Mechaniczny
+biomechanika inżynierska, inżynieria pojazdów i napędów niskoemisyjnych, logistyka przemysłowa, mechanika i budowa maszyn, mechanika i budowa maszyn w języku angielskim, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, inżynieria kwantowa, optyka, Medical Informatics
+Elektroniki, Fotoniki i Mikrosystemów
+automatyka i robotyka, elektronika, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, mechatroniczne systemy automatyki
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Medyczny
+lekarski, elektroradiologia
+Olimpiada Fizyczna
+Wydział
+Kierunek
+Budownictwa Lądowego i Wodnego
+budownictwo, budownictwo w języku angielskim
+Chemiczny
+Advanced Nano and Biomaterials – MONABIPHOT, Biosciences, biotechnologia, chemia, Chemical Engineering and Technology, chemia i analityka przemysłowa, chemia i inżynieria materiałów, inżynieria chemiczna i procesowa, Sustianable Biomass and Bioproducts Engineering, technologia chemiczna, Urban Mining – Inżynieria recyklingu
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, informatyczne systemy automatyki, informatyka stosowana, informatyka stosowana w języku angielskim, informatyka techniczna, informatyka techniczna w języku angielskim, inżynieria systemów, teleinformatyka, telekomunikacja
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, zarządzanie infrastrukturą i środowiskiem
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu
+Zarządzania
+inżynieria zarządzania
+Mechaniczno – Energetyczny
+energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii
+Mechaniczny
+biomechanika inżynierska, inżynieria pojazdów i napędów niskoemisyjnych, logistyka przemysłowa, mechanika i budowa maszyn, mechanika i budowa maszyn w języku angielskim, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, inżynieria kwantowa, optyka, Medical Informatics
+Elektroniki, Fotoniki i Mikrosystemów
+automatyka i robotyka, elektronika, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, mechatroniczne systemy automatyki
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Medyczny
+lekarski, elektroradiologia
+Olimpiada Informatyczna
+Wydział
+Kierunek
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, informatyczne systemy automatyki, informatyka algorytmiczna, informatyka stosowana, informatyka stosowana w języku angielskim, informatyka techniczna, inżynieria systemów, teleinformatyka, telekomunikacja, sztuczna inteligencja,
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, zarządzanie infrastrukturą i środowiskiem
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu
+Zarządzania
+inżynieria zarządzania, zarządzanie, zarządzanie w języku angielskim
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, inżynieria kwantowa, optyka, Medical Informatics
+Elektroniki, Fotoniki i Mikrosystemów
+automatyka i robotyka, elektronika, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, mechatroniczne systemy automatyki
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Olimpiada Chemiczna
+Wydział
+Kierunek
+Chemiczny
+Advanced Nano and Biomaterials – MONABIPHOT, Biosciences, biotechnologia, chemia, Chemical Engineering and Technology, chemia i analityka przemysłowa, chemia i inżynieria materiałów, inżynieria chemiczna i procesowa, Sustianable Biomass and Bioproducts Engineering, technologia chemiczna, Urban Mining – Inżynieria recyklingu
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, inżynieria kwantowa, optyka
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Medyczny
+lekarski, elektroradiologia
+Olimpiada Biologiczna
+Wydział
+Kierunek
+Chemiczny
+Advanced Nano and Biomaterials – MONABIPHOT, Biosciences, biotechnologia, chemia, Chemical Engineering and Technology, chemia i analityka przemysłowa, chemia i inżynieria materiałów, inżynieria chemiczna i procesowa, Sustianable Biomass and Bioproducts Engineering, technologia chemiczna, Urban Mining – Inżynieria recyklingu
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Inżynierii środowiska
+zarządzanie infrastrukturą i środowiskiem
+Podstawowych Problemów Techniki
+inżynieria biomedyczna, optyka
+Medyczny
+lekarski, elektroradiologia
+Olimpiada Geograficzna
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy Geodezyjnej i Kartograficznej
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy i Umiejętności Handlowo-Menadżerskich
+Wydział
+Kierunek
+Zarządzania
+zarządzanie, zarządzanie w języku angielskim
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy Ekonomicznej
+Wydział
+Kierunek
+Zarządzania
+inżynieria zarządzania, zarządzanie, zarządzanie w języku angielskim
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Przedsiębiorczości
+Wydział
+Kierunek
+Informatyki i Telekomunikacji
+inżynieria systemów
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+zarządzanie, zarządzanie w języku angielskim
+Olimpiada Filozoficzna
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Olimpiada Wiedzy o Biznesie i Innowacjach
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada z wiedzy o planowaniu i zarządzaniu karierą zawodową
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Lingwistyki Matematycznej
+Wydział
+Kierunek
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, informatyczne systemy automatyki, informatyka techniczna, informatyka techniczna w języku angielskim, teleinformatyka, telekomunikacja
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Podstawowych Problemów Techniki
+Medical Informatics
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Olimpiada Wiedzy i Umiejętności Budowlanych
+Wydział
+Kierunek
+Budownictwa Lądowego i Wodnego
+budownictwo, budownictwo w języku angielskim
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Innowacji Technicznych i Wynalazczości *
+* w tym jej kontynuacje:
+Olimpiada Innowacji Technicznych w Elektronice i Mechatronice
+Olimpiada Innowacji Technicznych w Telekomunikacji i Informatyce
+Olimpiada Innowacji Technicznych w Mechanice
+Olimpiada Innowacji Technicznych w Ochronie Środowiska
+Olimpiady Wiedzy o Wynalazczości
+Wydział
+Kierunek
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, informatyczne systemy automatyki, teleinformatyka, telekomunikacja
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+inżynieria zarządzania, zarządzanie, zarządzanie w języku angielskim
+Mechaniczno-Energetyczny
+energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii
+Mechaniczny
+biomechanika inżynierska, inżynieria pojazdów i napędów niskoemisyjnych, logistyka przemysłowa, mechanika i budowa maszyn, mechanika i budowa maszyn w języku angielskim, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, optyka, Medical Informatics
+Elektroniki, Fotoniki i Mikrosystemów
+automatyka i robotyka, elektronika, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, mechatroniczne systemy automatyki
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Olimpiada Wiedzy Elektrycznej i Elektronicznej "EUROELEKTRA"
+Wydział
+Kierunek
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, informatyczne systemy automatyki, informatyka techniczna, informatyka techniczna w języku angielskim, teleinformatyka, telekomunikacja
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Mechaniczno-Energetyczny
+energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, optyka
+Elektroniki, Fotoniki i Mikrosystemów
+automatyka i robotyka, elektronika, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, mechatroniczne systemy automatyki
+Olimpiada Wiedzy Elektrycznej i Energetycznej "EUROELEKTRA"
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Ogólnopolska Olimpiada Wiedzy Elektrycznej i Elektronicznej
+Wydział
+Kierunek
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, infromatyczne systemy automatyki, informatyka techniczna, informatyka techniczna w języku angielskim, teleinformatyka, telekomunikacja
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Mechaniczno-Energetyczny
+energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii
+Elektroniki, Fotoniki i Mikrosystemów
+elektronika, elektronika i fotonika, Electronic and Computer Engineering, inteligentna elektronika, mechatroniczne systemy automatyki
+Olimpiada Wiedzy Technicznej
+Wydział
+Kierunek
+Budownictwa Lądowego i Wodnego
+budownictwo, budownictwo w języku angielskim
+Informatyki i Telekomunikacji
+cyberbezpieczeństwo, infromatyczne systemy automatyki, informatyka techniczna, informatyka techniczna w języku angielskim, teleinformatyka, telekomunikacja
+Elektryczny
+automatyka przemysłowa, elektromobilność, elektrotechnika, elektrotechnika w języku angielskim
+Geoinżynierii, Górnictwa i Geologii
+geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+inżynieria zarządzania, zarządzanie, zarządzanie w języku angielskim
+Mechaniczno – Energetyczny
+energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii
+Mechaniczny
+biomechanika inżynierska, inżynieria pojazdów i napędów niskoemisyjnych, logistyka przemysłowa, mechanika i budowa maszyn, mechanika i budowa maszyn w języku angielskim, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji
+Podstawowych Problemów Techniki
+fizyka techniczna, inżynieria biomedyczna, Medical Informatics, optyka
+Elektroniki, Fotoniki i Mikrosystemów
+automatyka i robotyka, elektronika, elektronika i fotonika, Electronic and Computer Engineering, inteligentna elektronika, mechatroniczne systemy automatyki
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Olimpiada z Astronomii i Astrofizyki
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Ogólnopolska Olimpiada Języka Angielskiego
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Ogólnopolska Olimpiada Języka Niemieckiego
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Wiedza o Polsce i Świecie Współczesnym
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Medialna
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy o Państwie i Prawie
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy o Prawie
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy Górniczej "O Złotą Lampkę"
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy, geodezja i kartografia, geoinformatyka, górnictwo i geologia, górnictwo i geologia po angielsku, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy i Umiejętności Rolniczych
+Wydział
+Kierunek
+Inżynierii Środowiska
+Enviromental Quality Management, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Olimpiada Statystyczna
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+inżynieria zarządzania, zarządzanie, zarządzanie w języku angielskim
+Podstawowych Problemów Techniki
+Medical Informatics
+Matematyki
+matematyka i algorytmy sztucznej inteligencji, matematyka stosowana i sztuczna inteligencja, matematyka i analiza danych
+Ogólnopolska Olimpiada "Warto wiedzieć więcej o ubezpieczeniach społecznych"
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+zarządzanie
+Olimpiada Techniki Samochodowej
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Mechaniczny
+mechanika i budowa maszyn
+Olimpiada Spedycyjno-logistyczna
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+zarządzanie
+Mechaniczny
+transport
+Ogólnopolska Olimpiada Logistyczna
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Zarządzania
+zarządzanie
+Mechaniczny
+transport, zarządzanie i inżynieria produkcji
+Olimpiada Elektroników i Mechatroników ELEKTROMECHATRON
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy o Turystyce
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada "Buduj z Pasją"
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy o Elektrotechnice i Energetyce EDU-ELEKTRA
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Ochrony Środowiska i Chemii Zrównoważonego Rozwoju
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy Technicznej-Inżynieria w Elektroenergetyce
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy o Procesie Inwestycyjno-Budowlanym
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Ogólnopolska Olimpiada Wiedzy i Umiejętności Instalacyjnych
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Ogólnopolska Olimpiada Wiedzy o Finansach "Finansomania"
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada "Rachunkowość w biznesie"
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Nowoczesnych Technologii Informacyjnych i Komunikacyjnych TeleInfoCup
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Ogólnopolska Olimpiada Wiedzy o Transporcie Kolejowym pn.: "KOLEJ NA... KOLEJ"
+Wydział
+Kierunek
+Inżynierii Środowiska
+zarządzanie infrastrukturą i środowiskiem
+Olimpiada Wiedzy i Umiejętności Menedżerskich
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Olimpiada Ochrony Środowiska i Chemii Zrównoważonego Rozwoju
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Olimpiada Wiedzy Technicznej - Inżynieria w Elektroenergetyce
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Olimpiada Wiedzy o Wynalazczości
+Wydział
+Kierunek
+Geoinżynierii, Górnictwa i Geologii
+bezpieczeństwo i higiena pracy
+Laureaci i finaliści olimpiad przedmiotowych, których wykaz zamieszczono powyżej, przyjmowani są na określone kierunki studiów na podstawie oryginału dyplomu potwierdzającego uprawnienia olimpijczyka oraz złożonych dokumentów, zgodnie z warunkami formalnymi i terminarzem obowiązujących w danym roku. Przyjęcie na studia na podstawie wyniku olimpiady jest możliwe tylko jeden raz i tylko w tej rekrutacji, która odbywa się w roku uzyskania, przez laureata lub finalistę, świadectwa maturalnego, przy czym podstawą może być wynik olimpiady uzyskany zarówno w roku zdawania egzaminu maturalnego, jak i w latach wcześniejszych
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+NAZWA ZAWODU
+KIERUNKI
+Technik administracji
+bezpieczeństwo i higiena pracy, zarządzanie, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik analityk
+bezpieczeństwo i higiena pracy, chemia i analityka przemysłowa, gospodarka o obiegu zamkniętym i ochrona klimatu, inżynieria biomedyczna, zarządzanie infrastrukturą i środowiskiem
+Technik architektury krajobrazu
+geodezja i kartografia, inżynieria surowców mineralnych, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik automatyk
+bezpieczeństwo i higiena pracy, informatyczne systemy automatyki, automatyka przemysłowa, automatyka i robotyka, elektromobilność, elektrotechnika, energetyka, górnictwo i geologia, geodezja i kartografia, geoinformatyka, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, inżynieria środowiska, biomechanika inżynierska, logistyka przemysłowa, lotnictwo i kosmonautyka, mechanika i budowa maszyn, mechanika i budowa maszyn energetycznych, mechatroniczne systemy automatyki, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, , inżynieria biomedyczna, inteligentna elektronika, elektronika i fotonika, Electronic and Computer Engineering, elektronika, odnawialne źródła energii, zarządzanie infrastrukturą i środowiskiem
+Technik automatyk sterowania ruchem kolejowym
+automatyka przemysłowa, elektromobilność, elektrotechnika
+Technik awionik
+lotnictwo i kosmonautyka, mechanika i budowa maszyn, mechatronika, transport
+Technik bezpieczeństwa i higieny pracy
+bezpieczeństwo i higiena pracy, inżynieria biomedyczna, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik budownictwa
+bezpieczeństwo i higiena pracy, budownictwo, górnictwo i geologia, geologia stosowana, geodezja i kartografia, geoenergetyka, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, odnawialne źródła energii, budownictwo zrównoważone infrastruktury transportowej, zarządzanie infrastrukturą i środowiskiem
+Technik budownictwa kolejowego
+bezpieczeństwo i higiena pracy, budownictwo, budownictwo zrównoważone infrastruktury transportowej, górnictwo i geologia, geologia stosowana, geodezja i kartografia, geoenergetyka, inżynieria surowców mineralnych, transport, zarządzanie infrastrukturą i środowiskiem
+Technik budownictwa wodnego
+bezpieczeństwo i higiena pracy, budownictwo, budownictwo zrównoważone infrastruktury transportowej, górnictwo i geologia, geologia stosowana, geodezja i kartografia, geoenergetyka, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik budowy dróg
+bezpieczeństwo i higiena pracy, budownictwo, budownictwo zrównoważone infrastruktury transportowej, górnictwo i geologia, geologia stosowana, geodezja i kartografia, geoenergetyka, inżynieria surowców mineralnych, zarządzanie infrastrukturą i środowiskiem
+Technik budowy jednostek pływających
+mechanika i budowa maszyn, transport,
+Technik ceramik
+technologia chemiczna, chemia i inżynieria materiałów, inżynieria materiałowa
+Technik chłodnictwa i klimatyzacji
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geologia stosowana, geoenergetyka, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, energetyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, mechanika i budowa maszyn, zarządzanie infrastrukturą i środowiskiem
+Technik dentystyczny
+inżynieria biomedyczna,
+Technik ekonomista
+zarządzanie, zarządzanie i inżynieria produkcji, logistyka przemysłowa, zarządzanie infrastrukturą i środowiskiem
+Technik eksploatacji portów i
+terminali
+logistyka przemysłowa, transport, zarządzanie i inżynieria produkcji, zarządzanie infrastrukturą i środowiskiem
+Technik elektroenergetyk transportu
+szynowego
+automatyka przemysłowa, elektromobilność, elektrotechnika, logistyka przemysłowa, mechanika i budowa maszyn, transport,
+Technik elektronik
+cyberbezpieczeństwo, teleinformatyka, telekomunikacja, automatyka przemysłowa, automatyka i robotyka, elektromobilność, elektrotechnika, mechatronika, robotyka i automatyzacja procesów, inżynieria biomedyczna, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, elektronika, elektroradiologia, energetyka, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, mechatroniczne systemy automatyki, odnawialne źródła energii, zarządzanie infrastrukturą i środowiskiem
+Technik elektroniki i informatyki medycznej
+biomechanika inżynierska, automatyka przemysłowa, automatyka i robotyka, Electronic and Computer Engineering, elektronika, elektromobilność, elektrotechnika, inżynieria biomedyczna, inteligentna elektronika, elektronika i fotonika, mechatroniczne systemy automatyki, Medical Informatics, elektroradiologia
+Technik elektroautomatyk okrętowy
+automatyka przemysłowa, elektromobilność, elektrotechnika, mechatronika, robotyka i automatyzacja procesów
+Technik elektroradiolog
+inżynieria biomedyczna, elektroradiologia
+Technik elektromobilności
+automatyka przemysłowa, elektromobilność, elektronika, elektrotechnika, inteligentna elektronika, mechanika i budowa maszyn, mechatroniczne systemy automatyki, mechatronika, transport, zarządzanie infrastrukturą i środowiskiem
+Technik elektryk
+bezpieczeństwo i higiena pracy, automatyka przemysłowa, elektromobilność, elektrotechnika, energetyka, mechanika i budowa maszyn energetycznych, lotnictwo i kosmonautyka, odnawialne źródła energii, mechanika i budowa maszyn, mechatroniczne systemy automatyki, mechatronika, robotyka i automatyzacja procesów, zarządzanie infrastrukturą i środowiskiem
+Technik energetyk
+bezpieczeństwo i higiena pracy, automatyka przemysłowa, elektromobilność, elektrotechnika, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, energetyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, mechanika i budowa maszyn, mechatroniczne systemy automatyki, mechatronika, robotyka i automatyzacja procesów, zarządzanie infrastrukturą i środowiskiem
+Technik farmaceutyczny
+inżynieria biomedyczna,
+Technik fotografii i multimediów
+geodezja i kartografia, geoinformatyka
+Technik gazownictwa
+inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, energetyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, zarządzanie infrastrukturą i środowiskiem
+Technik geodeta
+bezpieczeństwo i higiena pracy, geodezja i kartografia, górnictwo i geologia, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik geolog
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geologia stosowana, geoenergetyka, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik gospodarki odpadami
+bezpieczeństwo i higiena pracy, zarządzanie infrastrukturą i środowiskiem
+Technik górnictwa odkrywkowego
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, mechanika i budowa maszyn, zarządzanie infrastrukturą i środowiskiem
+Technik górnictwa otworowego
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, mechanika i budowa maszyn, zarządzanie infrastrukturą i środowiskiem
+Technik górnictwa podziemnego
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, mechanika i budowa maszyn, zarządzanie infrastrukturą i środowiskiem
+Technik grafiki i poligrafii cyfrowej
+informatyczne systemy automatyki
+Technik handlowiec
+zarządzanie, zarządzanie i inżynieria produkcji, logistyka przemysłowa
+Technik informatyk
+automatyka przemysłowa, automatyka i robotyka, bezpieczeństwo i higiena pracy, cyberbezpieczeństwo, informatyka techniczna, informatyczne systemy automatyki, teleinformatyka, telekomunikacja, górnictwo i geologia, geologia stosowana, geodezja i kartografia, geoinformatyka, geoenergetyka, inżynieria surowców mineralnych, inżynieria środowiska,  gospodarka o obiegu zamkniętym i ochrona klimatu, biomechanika inżynierska, mechanika i budowa maszyn, mechatroniczne systemy automatyki, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, inżynieria biomedyczna, Medical Informatics, elektronika, elektromobilność, elektrotechnika, logistyka przemysłowa, sztuczna inteligencja, zarządzanie, zarządzanie infrastrukturą i środowiskiem
+Technik inżynierii sanitarnej
+bezpieczeństwo i higiena pracy, geoenergetyka, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, energetyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, mechanika i budowa maszyn, zarządzanie infrastrukturą i środowiskiem
+Technik inżynierii środowiska i
+melioracji
+bezpieczeństwo i higiena pracy, geodezja i kartografia, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, mechanika i budowa maszyn, zarządzanie infrastrukturą i środowiskiem
+Technik leśnik
+geodezja i kartografia, inżynieria surowców mineralnych, gospodarka o obiegu zamkniętym i ochrona klimatu, zarządzanie infrastrukturą i środowiskiem
+Technik logistyk
+transport, zarządzanie i inżynieria produkcji, zarządzanie, logistyka przemysłowa, zarządzanie infrastrukturą i środowiskiem
+Technik lotniskowych służb
+operacyjnych
+lotnictwo i kosmonautyka, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa
+Technik masażysta
+biomechanika inżynierska
+Technik mechanik
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, mechanika i budowa maszyn energetycznych, lotnictwo i kosmonautyka, biomechanika inżynierska, mechanika i budowa maszyn, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa
+Technik mechanik lotniczy
+lotnictwo i kosmonautyka, biomechanika inżynierska, mechanika i budowa maszyn, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa
+Technik mechanik okrętowy
+biomechanika inżynierska, mechanika i budowa maszyn, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa
+Technik mechanizacji rolnictwa i
+agrotroniki
+mechanika i budowa maszyn
+Technik mechatronik
+automatyka przemysłowa, automatyka i robotyka, elektromobilność, elektrotechnika, mechanika i budowa maszyn energetycznych, lotnictwo i kosmonautyka, biomechanika inżynierska, mechanika i budowa maszyn, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, inżynieria biomedyczna, mechatroniczne systemy automatyki, Medical Informatics, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, elektronika, energetyka, logistyka przemysłowa, zarządzanie infrastrukturą i środowiskiem
+Technik nawigator morski
+geodezja i kartografia, geoinformatyka,
+Technik ochrony środowiska
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, inżynieria środowiska, , gospodarka o obiegu zamkniętym i ochrona klimatu, energetyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, zarządzanie infrastrukturą i środowiskiem
+Technik odlewnik
+mechanika i budowa maszyn, zarządzanie i inżynieria produkcji,
+Technik optyk
+biomechanika inżynierska, inżynieria biomedyczna, optyka
+Technik organizacji turystyki
+zarządzanie, zarządzanie infrastrukturą i środowiskiem
+Technik ortopeda
+biomechanika inżynierska, inżynieria biomedyczna,
+Technik papiernictwa
+mechanika i budowa maszyn
+Technik podziemnej eksploatacji
+kopalin innych niż węgiel kamienny
+bezpieczeństwo i higiena pracy, górnictwo i geologia, geoenergetyka, geologia stosowana, inżynieria surowców mineralnych, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, mechanika i budowa maszyn, transport, zarządzanie infrastrukturą i środowiskiem
+Technik pojazdów kolejowych
+automatyka przemysłowa, bezpieczeństwo i higiena pracy, elektromobilność, elektrotechnika, mechanika i budowa maszyn, mechatronika, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa, inżynieria surowców mineralnych, górnictwo i geologia, geologia stosowana, geoenergetyka, geodezja i kartografia,
+Technik pojazdów samochodowych
+bezpieczeństwo i higiena pracy, mechanika i budowa maszyn, mechatronika, transport, zarządzanie i inżynieria produkcji, robotyka i automatyzacja procesów, odnawialne źródła energii, mechanika i budowa maszyn energetycznych, lotnictwo i kosmonautyka, logistyka przemysłowa, inżynieria surowców mineralnych,  górnictwo i geologia, geologia stosowana, geoenergetyka, geodezja i kartografia, energetyka,
+Technik procesów drukowania
+mechanika i budowa maszyn,
+Technik pożarnictwa
+bezpieczeństwo i higiena pracy, inżynieria środowiska, zarządzanie infrastrukturą i środowiskiem
+Technik prac biurowych
+bezpieczeństwo i higiena pracy,
+Technik programista
+bezpieczeństwo i higiena pracy, cyberbezpieczeństwo, teleinformatyka, telekomunikacja, górnictwo i geologia, geodezja i kartografia, geoinformatyka, geoenergetyka, inżynieria surowców mineralnych, elektronika, informatyczne systemy automatyki, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, biomechanika inżynierska, mechanika i budowa maszyn, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, inżynieria biomedyczna, mechatroniczne systemy automatyki, Medical Informatics, elektronika i fotonika, inteligentna elektronika, Electronic and Computer Engineering, sztuczna inteligencja, logistyka przemysłowa, geologia stosowana, automatyka i robotyka, zarządzanie infrastrukturą i środowiskiem
+Technik przemysłu drzewnego
+mechanika i budowa maszyn,
+Technik przemysłu jachtowego
+mechanika i budowa maszyn,
+Technik przemysłu metalurgicznego
+technologia chemiczna, mechanika i budowa maszyn, inżynieria materiałowa, chemia i inżynieria materiałów
+Technik przeróbki kopalin stałych
+bezpieczeństwo i higiena pracy, technologia chemiczna, górnictwo i geologia, geoenergetyka, inżynieria surowców mineralnych, mechanika i budowa maszyn, geologia stosowana, zarządzanie infrastrukturą i środowiskiem
+Technik przetwórstwa mleczarskiego
+biotechnologia, mechanika i budowa maszyn
+Technik pszczelarz
+gospodarka o obiegu zamkniętym i ochrona klimatu
+Technik rachunkowości
+zarządzanie, zarządzanie infrastrukturą i środowiskiem
+Technik realizacji nagłośnień
+elektronika
+Technik realizacji nagrań
+elektronika
+Technik reklamy
+zarządzanie
+Technik renowacji elementów architektury
+geodezja i kartografia
+Technik robotyk
+automatyka przemysłowa, bezpieczeństwo i higiena pracy, elektromobilność, elektrotechnika, górnictwo i geologia, geodezja i kartografia, geoinformatyka, geoenergetyka, inżynieria surowców mineralnych, inżynieria środowiska, biomechanika inżynierska, mechanika i budowa maszyn, mechatroniczne systemy automatyki, mechatronika, robotyka i automatyzacja procesów, transport, zarządzanie i inżynieria produkcji, inżynieria biomedyczna, Medical Informatics, Electronic and Computer Engineering, elektronika, automatyka i robotyka, elektroradiologia, energetyka, geologia stosowana, logistyka przemysłowa, lotnictwo i kosmonautyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, zarządzanie infrastrukturą i środowiskiem
+Technik robót wykończeniowych w
+budownictwie
+budownictwo, budownictwo zrównoważonej infrastruktury transportowej,
+Technik spawalnictwa
+mechanika i budowa maszyn, zarządzanie i inżynieria produkcji,
+Technik spedytor
+transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa, zarządzanie,
+Technik sterylizacji medycznej
+inżynieria biomedyczna,
+Technik szerokopasmowej komunikacji elektronicznej
+cyberbezpieczeństwo, teleinformatyka, telekomunikacja, elektronika i fotonika, inteligentna elektronika, inżynieria biomedyczna, mechatroniczne systemy automatyki,
+Technik technologii chemicznej
+bezpieczeństwo i higiena pracy, technologia chemiczna, gospodarka o obiegu zamkniętym i ochrona klimatu, inżynieria biomedyczna, zarządzanie infrastrukturą i środowiskiem
+Technik technologii drewna
+technologia chemiczna, chemia i inżynieria materiałów, inżynieria materiałowa, mechanika i budowa maszyn,
+Technik technologii szkła
+technologia chemiczna, chemia i inżynieria materiałów, inżynieria materiałowa, mechanika i budowa maszyn,
+Technik technologii żywności
+01,02,03,04,05
+biotechnologia
+Technik teleinformatyk
+bezpieczeństwo i higiena pracy, cyberbezpieczeństwo, informatyka techniczna, teleinformatyka, telekomunikacja, mechatronika, robotyka i automatyzacja procesów, inteligentna elektronika, Electronic and Computer Engineering, inżynieria biomedyczna, mechatroniczne systemy automatyki, Medical Informatics, elektronika, inżynieria surowców mineralnych, górnictwo i geologia, geologia stosowana, geoinformatyka, geoenergetyka, geodezja i kartografia, zarządzanie infrastrukturą i środowiskiem
+Technik telekomunikacji
+cyberbezpieczeństwo, teleinformatyka, telekomunikacja, inżynieria biomedyczna, mechatroniczne systemy automatyki, Medical Informatics, zarządzanie infrastrukturą i środowiskiem
+Technik transportu drogowego
+bezpieczeństwo i higiena pracy, budownictwo, budownictwo zrównoważone infrastruktury transportowej, górnictwo i geologia, geodezja i kartografia, geoenergetyka, inżynieria surowców mineralnych, mechanika i budowa maszyn, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa, geologia stosowana, zarządzanie infrastrukturą i środowiskiem
+Technik transportu kolejowego
+bezpieczeństwo i higiena pracy, budownictwo, budownictwo zrównoważone infrastruktury transportowej, górnictwo i geologia, geodezja i kartografia, geoenergetyka, inżynieria surowców mineralnych, mechanika i budowa maszyn, transport, zarządzanie i inżynieria produkcji, logistyka przemysłowa, geologia stosowana, zarządzanie infrastrukturą i środowiskiem
+Technik turystyki na obszarach wiejskich
+zarządzanie infrastrukturą i środowiskiem
+Technik tyfloinformatyk
+informatyczne systemy automatyki, Medical Informatics, inżynieria biomedyczna, sztuczna inteligencja,
+Technik usług pocztowych i finansowych
+zarządzanie,
+Technik urządzeń dźwigowych
+mechanika i budowa maszyn, logistyka przemysłowa,
+Technik urządzeń sanitarnych
+bezpieczeństwo i higiena pracy,
+Technik urządzeń i systemów
+energetyki odnawialnej
+automatyka przemysłowa, bezpieczeństwo i higiena pracy, elektromobilność, elektrotechnika, inżynieria środowiska, gospodarka o obiegu zamkniętym i ochrona klimatu, energetyka, mechanika i budowa maszyn energetycznych, odnawialne źródła energii, mechanika i budowa maszyn, mechatroniczne systemy automatyki, elektronika i fotonika, inteligentna elektronika, zarządzanie infrastrukturą i środowiskiem
+Technik wiertnik
+bezpieczeństwo i higiena pracy, mechanika i budowa maszyn, inżynieria surowców mineralnych, górnictwo i geologia, geologia stosowana, geoenergetyka, zarządzanie infrastrukturą i środowiskiem
+Technik żeglugi śródlądowej
+budownictwo, budownictwo zrównoważone infrastruktury transportowej, transport, mechanika i budowa maszyn

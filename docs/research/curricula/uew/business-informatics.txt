@@ -1,0 +1,81 @@
+General information
+Recruitment rules and schedule
+Documents
+Olympiads and competitions
+Business Informatics is a full-time study programme designed to combine advanced knowledge of information technologies with management and business competencies. The programme equips students with both theoretical foundations and strong practical skills required to design, analyse, and implement IT solutions supporting modern organisations and digital business processes.
+The programme offers a modular structure, allowing students to tailor their educational path according to their interests and career goals. In the final semesters, students choose two complementary modules, which together form a coherent competence profile. This flexible approach enables students to combine technical, analytical, and managerial perspectives and to adapt their skill set to the rapidly changing requirements of the digital economy.
+Courses are delivered using up-to-date technologies and tools, including AI-based solutions, no-code/low-code platforms, data visualisation techniques, and modern software development environments. The programme also benefits from close cooperation with industry practitioners through guest lectures and applied projects, ensuring strong alignment with current market needs.
+Graduates of Business Informatics are well prepared for careers in environments where digital competencies, data-driven decision-making, and technological innovation are critical. The programme attracts students from different countries and responds to the growing global demand for specialists who can bridge the gap between business and advanced information technologies.
+Course leader:
+dr Małgorzata Sobińska
+Contact
+:
+Department of Business Intelligence in Management
+Adiunkt, Menedżer kierunku Business Informatics,
+block Z, room 706 and 714
+Harmonogram rekrutacji na studia stacjonarne I stopnia
+Zasady rekrutacji na studia stacjonarne
+Rekrutacja cudzoziemców
+Recruitment of Polish citizens with certificates or diplomas obtained abroad:
+Studia I stopnia
+Wymagane dokumenty na studia I stopnia stacjonarne
+Rekrutacja cudzoziemców
+Recruitment of Polish citizens with certificates or diplomas obtained abroad:
+Studia I stopnia stacjonarne
+Senat Uniwersytetu Ekonomicznego we Wrocławiu wyraża zgodę na przyznanie uprawnień laureatom i finalistom olimpiad przedmiotowych przy ubieganiu się o przyjęcie na studia w latach 2019-2022 według konkretnych zasad.
+Sprawdź:
+Uprawnienia laureatów olimpiad
+Learn more about study programme
+PROGRAMME 2026/2027
+pdf
+2 MB
+Check student profiles
+The graduate will have the skills to analyze and synthesize business problems, adapt to changing conditions, solve problems of implementing and using information and communication technologies (ICT), work in a project team, as well as the ability to learn and update knowledge. These skills will be acquired along with knowledge in the field of IT, management, accounting, finance, quantitative methods and economics.
+Consider career prospects
+Business Process Analyst
+Business or Data Analyst
+Software or Application Specialist
+AI and Digital Transformation Specialist
+IT Project Manager
+Systems Analyst and Designer
+IT Consultant or Managerial IT Specialist
+Modules
+You will choose in your second year of study
+Software Development and User Experience
+This module focuses on the practical aspects of programming, software design, and user experience. Students learn to create reliable and user-friendly business applications using modern programming tools and design principles.
+Core courses (from current specialisations):
+· Database Design
+· Web Application Engineering
+· Programming of Mobile Applications
+· UX Design for Business Systems
+Learning outcomes: Students will gain competence in the design and implementation of software systems with strong usability and business orientation.
+Sem. 5 Hours: 120 ECTS: 12
+Business Analytics
+This module focuses on data analytics and intelligence solutions that support business decision-making. It develops practical skills in using modern analytical tools and applying AI-based methods in managerial contexts.
+Core courses (from current specialisations):
+· Information Visualization and User Experience in Business Systems
+· No-Code Approach to Machine Learning
+· Intelligent Decision Support Systems
+· AI-Driven Business Solutions
+Learning outcomes: Students will learn to apply AI and machine learning techniques to analyse data and support business insights, integrating analytical thinking with decision-making tools.
+Sem. 5 Hours: 120 ECTS: 12
+AI in Business
+Overview: This module introduces practical applications of artificial intelligence in management and decision-making. It focuses on real-world implementations of AI and intelligent systems.
+Core courses (from current specialisations):
+· Artificial Intelligence for Improving Management
+· Intelligent Agent-based Systems
+· Fundamentals of Artificial Neural Networks
+· Natural Language Processing
+Learning outcomes: Students gain an understanding of AI concepts, tools, and their impact on managerial processes and innovation.
+Sem. 6 Hours: 120 ECTS: 8
+AI and Digital Transformation
+Overview: This module combines modern digital technologies with managerial perspectives. Students learn how to apply emerging technologies to improve organisational processes, innovation, and decision-making.
+Core courses (from current specialisations):
+· Business Applications of Generative Artificial Intelligence
+· Digital Twin Technology
+· Intelligent Agent-based Systems
+· Language Technologies in Business Contexts
+Learning outcomes: Students will understand the potential of advanced digital technologies and how to integrate them into enterprise transformation initiatives.
+Sem. 6 Hours: 120 ECTS: 8
+Check study fees
+here

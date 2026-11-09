@@ -1,0 +1,231 @@
+                                               006                              Uchwała RW Nr
+
+                 Biologia człowieka                                   UCHWAŁA NR 164/2023
+                 Studia I stopnia                                 SENATU UNIWERSYTETU WROCŁAWSKIEGO
+               2023/24/25/26                                                        z dnia 21 czerwca 2023 r.
+                                                          pkt        suma                                   ćw.        Kod
+            NAZWA PRZEDMIOTU                          E/Z           wykł.  konw.  sem.   ćw.   lab.
+                                                    ECTS         godz                                             ter.       USOS
+                                                         SEMESTR 1
+Przedmioty obowiązkowe
+Anatomia człowieka I
+                                                         7      E     80     40                   40               25-BC-S1-E1-AnaC
+Human anatomy I
+Archeologia
+                                                         4      Z      60     30                   30                25-BC-S1-E1-Arch
+Archeology
+Biofizyka
+                                                         2      Z      20     20                                         25-BC-S-E1-BioFiz
+Biophysics
+Chemia dla biologów
+                                                         5      Z      50     25                         25         25-BC-S1-E1-CheB
+Chemistry for biologists
+Ekologia człowieka
+                                                         3      E     30     30                                      25-BC-S1-E1-EkoC
+Human ecology
+Podstawy biologii komórki zwierzęcej
+                                                         2      Z      30     10                         20         25-BC-S1-E1-PBKZ
+Animal cell biology - introduction
+Podstawy komunikacji formalnej
+                                                         1      Z      12            12                              25-BC-S1-E1-PodKF
+Fundamentals of formal communication
+Radzenie sobie ze stresem
+                                                         1      Z      15            15                               25-BC-S1-E1-RasSS
+Stress coping
+Szkolenie BHP i Ppoż
+                                                         0      Z      4                           4               00-BHP
+Health and safety
+                                               Razem:   25    2 E    301    155     27           74    45
+Przedmioty do wyboru za pkt ECTS:                            5
+                                                          pkt        suma                                   ćw.        Kod
+            NAZWA PRZEDMIOTU                          E/Z           wykł.  konw.  sem.   ćw.   lab.
+                                                    ECTS         godz                                             ter.       USOS
+                                                         SEMESTR 2
+Przedmioty obowiązkowe
+Anatomia człowieka II
+                                                         7      E     80     40                   40                25-BC-S1-E2-AnatCII
+Human anatomy II
+Antropologia biologiczna
+                                                         5      E     60     30                   30               25-BC-S1-E2-AntB
+Biological anthropology
+Mikrobiologia
+                                                         4      Z      60     30                         30         25-BC-S1-E2-Mik
+Microbiology
+Wczesne etapy ontogenezy człowieka
+                                                         2      Z      20     20                                    25-BC-S1-E2-WczEOC
+Early stages of human ontogeny
+                                               Razem:   18    2 E    220    120                  70    30
+Przedmioty do wyboru za pkt ECTS:                            12
+Wybór poziomu przedmiotu
+Parazytozy człowieka*
+                                                         2      Z      25     25                                     25-BC-S1-W-ParC
+Human parasitosis
+Parazytozy człowieka – kurs rozszerzony*
+                                                         3      Z      45     25                         20        25-BC-S1-W-ParCKR
+Human parasitosis – extended course
+Wybór dowolny przedmiotów za pozostałe pkt ECTS
+
+
+
+
+
+                                                                     Strona 1 z 3
+Liczba egzaminów na I roku:                                         4
+                                                          pkt        suma                                   ćw.        Kod
+            NAZWA PRZEDMIOTU                          E/Z           wykł.  konw.  sem.   ćw.   lab.
+                                                    ECTS         godz                                             ter.       USOS
+                                                         SEMESTR 3
+Przedmioty obowiązkowe
+Czynniki rozwoju człowieka i ochrony zdrowia
+                                                         5      E     60     30                   30               25-BC-S1-E3-CRCOZ
+Factors of human development and health protection
+Genetyka
+                                                         4      E     60     30                         30         25-BC-S1-E3-Gen
+Genetics
+Język angielski
+                                                         4      Z      60                          60                60-S-JA-…
+English
+Osteometria i kranioskopia
+                                                         4      E     45     15                   30                25-BC-S1-E3-OstKran
+Osteometry and cranioscopy
+Podstawy statystyki w naukach o człowieku I
+                                                         4      E     45     25                   20               25-BC-S1-E3-PSNCI
+Introduction to statistics in the human sciences I
+Wprowadzenie do immunologii człowieka
+                                                         2      Z      25     15                   10               25-BC-S1-E3-WdIC
+Introduction to human immunology
+Wychowanie fizyczne
+                                                         0      Z      30                          30             8545-WF-…
+Physical education
+Wykorzystanie języka angielskiego w biologii człowieka
+                                                         2      Z      20                          20               25-BC-S1-E3-WJABC
+English language usage in human biology
+                                               Razem:   25    4 E    345    115                  200    30
+Przedmioty do wyboru za pkt ECTS:                            5
+                                                          pkt        suma                                   ćw.        Kod
+            NAZWA PRZEDMIOTU                          E/Z           wykł.  konw.  sem.   ćw.   lab.
+                                                    ECTS         godz                                             ter.       USOS
+                                                         SEMESTR 4
+Przedmioty obowiązkowe
+Antropometria i antroposkopia
+                                                         4      Z      50                          50               25-BC-S1-E4-AA
+Anthropometry and anthroposcopy
+Choroby infekcyjne człowieka
+                                                         5      E     50     30                         20         25-BC-S1-E4-CICz
+Human infectious diseases
+Etologia człowieka
+                                                         3      Z      30                          30                25-BC-S1-E4-EC
+Human ethology
+Fizjologia zwierząt
+                                                         5      E     75     30                         45         25-BC-S1-E4-FZ
+Animal physiology
+Język angielski
+                                                         4      Z      60                          60                60-S-JA-…
+English
+Osteologia wieku rozwojowego
+                                                         2      E     15     15                                   25-BC-S1-E4-OWR
+Developmental period osteology
+Współczesne metody badań w paleoantropologii
+                                                         5      Z      60     30                   30              25-BC-S1-E4-WMBP
+Contemporary research methods in paleoanthropology
+Wychowanie fizyczne
+                                                         0      Z      30                          30             8545-WF-…
+Physical education
+                                               Razem:   28    3 E    370    105                  200    65
+Przedmioty do wyboru za pkt ECTS:                            2
+Liczba egzaminów na II roku:                                        7
+                                                          pkt        suma                                   ćw.        Kod
+            NAZWA PRZEDMIOTU                          E/Z           wykł.  konw.  sem.   ćw.   lab.
+                                                    ECTS         godz                                             ter.       USOS
+                                                         SEMESTR 5
+
+Semestry 5 i 6 mogą być realizowane w sposób alternatywny poprzez realizację projektu badawczego, opcja ta przeznaczona jest wyłącznie dla studentów ze
+średnią minimum 4.5. Student w semestrze 5. i 6. będzie zobowiązany do dokończenia kształcenia językowego, do realizacji pracy dyplomowej oraz do ułożenia
+indywidualnego programu studiów tak, aby każdy z semestrów ukończyć na poziomie min. 30 ECTS. Projekt badawczy nie może stanowić części pracy dyplomowej.
+
+Projekt badawczy
+                                                         10     Z    bw
+Research project
+Przedmioty obowiązkowe
+Język angielski
+                                                         4      E     60                          60                60-S-JA-…
+English
+Podstawy bioetyki
+                                                         1      Z      15            15                              25-BC-S1-E5-PB
+Principles of bioethics
+Podstawy statystyki w naukach o człowieku II
+                                                         2      Z      20                          20                25-BC-S1-E5-PSNCII
+Introduction to statistics in the human sciences II
+Prawo autorskie i prawo pracy
+                                                         1      Z      15     15                                      25-BC-S1-E5-PAPP
+Copyright and labour law
+Prymatologia
+                                                         3      Z      35     15                   20                25-BC-S1-E5-P
+Primatology
+Techniki przygotowania pracy dyplomowej
+                                                         1      Z      15                          15               25-BC-S1-E5-TPPD
+Techniques of diploma thesis preparation
+Przygotowanie pracy licencjackiej
+                                                         10     Z    bw                                               25-BC-S1-E5-PPL
+Preparation of B.Sc. thesis
+                                               Razem:   22    1 E    160     30     15           115
+Przedmioty do wyboru za pkt ECTS:                            8
+Wybór poziomu przedmiotu
+Biologia populacji ludzkich*
+                                                         2      Z      25     15                   10               25-BC-S1-W-BPL
+Biology of human populations
+
+
+
+
+                                                                     Strona 2 z 3
+Biologia populacji ludzkich – kurs rozszerzony*
+                                                         3      Z      45     25                   20              25-BC-S1-W-BPLKR
+Biology of human populations – advanced course
+Metody antropologiczne w kryminalistyce*
+                                                         2      Z      30                          30              25-BC-S1-W-MAK
+Anthropological methods in forensic science
+Metody antropologiczne w kryminalistyce – kurs rozszerzony*
+                                                         4      Z      60     15                   45              25-BC-S1-W-MAKKR
+Anthropological methods in forensic science – advanced course
+Wybór dowolny przedmiotów za pozostałe ECTS
+                                                          pkt        suma                                   ćw.        Kod
+            NAZWA PRZEDMIOTU                          E/Z           wykł.  konw.  sem.   ćw.   lab.
+                                                    ECTS         godz                                             ter.       USOS
+                                                         SEMESTR 6
+Projekt badawczy
+                                                         10     Z    bw
+Research project
+Przedmioty obowiązkowe
+Antropogeneza
+                                                         4      E     45     30                   15                25-BC-S1-E6-A
+Anthropogenesis
+Ekologia behawioralna człowieka
+                                                         3      Z      30     15                   15               25-BC-S1-E6-EBC
+Human behavioral ecology
+Ergonomia
+                                                         2      Z      25     15                   10                25-BC-S1-E6-Er
+Ergonomics
+Ewolucjonizm
+                                                         5      E     60     30                   30                25-BC-S1-E6-E
+Evolutionism
+Komercjalizacja badań naukowych
+                                                         1      Z      15                          15               25-BC-S1-E6-KBN
+Commercialisation of scientific research
+Przygotowanie pracy licencjackiej
+                                                         10     Z    bw                                               25-BC-S1-E6-PPL
+Preparation of B.Sc. thesis
+                                               Razem:   25    2 E    175     90                   85
+Przedmioty do wyboru za pkt ECTS:                            5
+Liczba egzaminów na roku III:                                        3
+Liczba godzin obowiązkowych w ciągu 6 semestrów:                    1571
+Liczba godzin z przedmiotów do wyboru                              445
+                                                          Łącznie:        2016
+LEGENDA
+* Student w obrębie danego przedmiotu ma do wyboru kurs podstawowy lub rozszerzony
+
+
+
+
+
+                                                                     Strona 3 z 3

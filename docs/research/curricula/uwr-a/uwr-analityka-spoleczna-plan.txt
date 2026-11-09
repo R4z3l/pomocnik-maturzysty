@@ -1,0 +1,1351 @@
+                       UCHWAŁA NR 44/2024
+                SENATU UNIWERSYTETU WROCŁAWSKIEGO
+                                    z dnia 20 marca 2024 r.
+
+       w sprawie programu studiów dla kierunku Analityka społeczna
+                  na poziomie studiów pierwszego stopnia
+
+Na podstawie art. 28 ust. 1 pkt 11 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym
+i nauce (Dz. U. 2023 poz. 742, z późn. zm.) uchwala się, co następuje:
+
+     § 1. Senat Uniwersytetu Wrocławskiego ustala program studiów dla kierunku Analityka
+społeczna na poziomie studiów pierwszego stopnia o profilu ogólnoakademickim dla cykli kształ-
+cenia rozpoczynających się od roku akademickiego 2024/2025 w brzmieniu określonym w za-
+łączniku do niniejszej uchwały.
+
+     § 2. Uchwała wchodzi w życie z dniem podjęcia.
+
+
+
+
+
+                                                     Przewodniczący Senatu UWr
+                                                         Rektor: prof. R. Olkiewicz
+                                                                                                           Załącznik do uchwały Nr 44/2024 Senatu Uniwersytetu
+                                                                                                  Wrocławskiego z 20 marca 2024 r.
+
+
+
+OGÓLNY OPIS PROGRAMU STUDIÓW
+
+Dane podstawowe
+
+Nazwa wydziału                                                      Wydział Nauk Społecznych
+
+Nazwa kierunku studiów/specjalności w języku polskim                    Analityka społeczna
+
+Nazwa kierunku studiów/specjalności w języku angielskim                  Social analytics
+
+Poziom studiów                                                      pierwszego stopnia
+
+Profil kształcenia                                                     ogólnoakademicki
+
+Forma studiów                                                          stacjonarne
+
+Liczba semestrów                                              6
+
+Język, w którym prowadzone są studia                                       polski
+
+Tytuł zawodowy nadawany absolwentom                                       licencjat
+
+Rok akademicki, od którego obowiązuje program studiów               2024/2025
+
+Uzyskiwane uprawnienia zawodowe (jeśli dotyczy)                             -
+
+Koncepcja kształcenia
+
+Cele kształcenia, wskazanie związku koncepcji kierunku studiów ze Stra-   Tworzony kierunek jest zgodny z Misją Uczelni  i odpowiada na wyzwania
+tegią Rozwoju UWr                                                   zawarte w Strategii Rozwoju Uniwersytetu Wrocławskiego na lata 2021 –
+
+                                                             1
+2030 określonej Uchwałą Senatu Uniwersytetu Wrocławskiego Nr 34/2020
+z dnia 6 maja 2020 r. w zadaniach:
+- 2.3.6 – Efektywne kształcenie kompetencji przydatnych na rynku pracy;
+- 2.3.10 – Tworzenie i promowanie oferty kształcenia o obszarze profesjo-
+nalnym.
+Strategia Rozwoju Uniwersytetu Wrocławskiego zakłada najwyższą jakość,
+zwiększenie skuteczności i różnorodności kształcenia, otwartość i gotowość
+na wyzwania. Misją Uniwersytetu Wrocławskiego jest m.in.: budowanie ka-
+pitału społecznego i intelektualnego poprzez kształtowanie ludzi o otwar-
+tych umysłach, przygotowanych do działania w skali lokalnej  i globalnej,
+odnajdujących się w zmieniającym się świecie, akceptujących różnorod-
+ność oraz świadomych wagi tożsamości narodowej i regionalnej. Wartości
+stanowiące fundament UWr to efektywne kształcenie i kompetencje przy-
+datne na rynku pracy, reakcja na zmiany, podążanie za uniwersalnymi
+trendami rozwojowymi oraz synergia działalności edukacyjnej i naukowej.
+Założenia kierunku studiów “Analityka społeczna” w pełni wpisują się w
+strategię rozwoju UWr. Kierunek tworzony w Instytucie Socjologii na Wy-
+dziale Nauk Społecznych UWr to studia o profilu ogólnoakademickim, któ-
+rych przedmiotem jest kształcenie wszechstronnych umiejętności w zakre-
+sie przetwarzania danych, pozwalających efektywnie wykorzystywać tra-
+dycyjne i najnowsze techniki badawcze do analizy złożonych procesów spo-
+łecznych oraz prognozowania ich przebiegu. Studia kładą również nacisk
+na przekazywanie wiedzy teoretycznej, która ułatwia identyfikację oraz do-
+bór adekwatnych metod zbierania i analizy informacji, a także zrozumienie
+statystycznych podstaw poszczególnych rozwiązań analitycznych. Celem
+kształcenia jest wyposażenie studenta w wiedzę, umiejętności i kompeten-
+cje z zakresu gromadzenia, przechowywania, analizowania i interpretowa-
+nia dużych zbiorów danych społecznych, które pozwolą mu znaleźć zatrud-
+nienie w roli analityka, konsultanta, eksperta, lidera bądź menadżera w
+sektorze publicznym  i prywatnym. Program traktuje zagadnienie analizy
+danych w sposób kompleksowy, włączając w zakres kształcenia poznawa-
+nie nie tylko zaawansowanych technik analitycznych, ale też kontekstu
+społecznego, który prowadzi do powstawania zjawisk poddawanych bada-
+niom, a także wymaga dogłębnego zrozumienia w celu postawienia traf-
+nych wniosków oraz sformułowania adekwatnych rekomendacji. Dlatego
+program ten ma charakter wszechstronny  i obejmuje wiele zagadnień
+związanych bezpośrednio z poznawaniem podstawowych zasad życia spo-
+łecznego, reguł ekonomicznych oraz teoretycznych ujęć struktur, procesów
+i problemów społecznych, projektowaniem badań, gromadzeniem  i prze-
+twarzaniem danych (także za pomocą big data oraz uczenia maszyno-
+
+
+2
+                                                                  wego), jak również właściwą interpretacją  i skutecznym rozpowszechnia-
+                                                              niem otrzymanych wyników oraz formułowaniem rekomendacji praktycz-
+                                                                       nych. Studenci poznają także elementy zarządzania projektami, zapoznają
+                                                                                  się z prawnymi podstawami gromadzenia i wykorzystania danych, a w ra-
+                                                        mach specjalizacji uzyskują szczegółową wiedzę na temat wyzwań anali-
+                                                                      tycznych w wybranym obszarze życia społecznego: bezpieczeństwa i edu-
+                                                                                     kacji, zarządzania miastem bądź marketingu i badań rynkowych.
+                                                                   Absolwent kierunku "Analityka Społeczna" to profesjonalista posiadający
+                                                                   wszechstronne umiejętności w zakresie przetwarzania danych, który po-
+                                                                                              trafi wykorzystać tradycyjne i najnowsze techniki badawcze do analizy zło-
+                                                                  żonych procesów społecznych oraz prognozowania ich przebiegu. Posiada
+                                                                     również wiedzę teoretyczną, która ułatwia mu identyfikację oraz dobór
+                                                                adekwatnych metod zbierania i analizy informacji, a także rozumie staty-
+                                                                       styczne podstawy poszczególnych rozwiązań analitycznych. Znajomość za-
+                                                             awansowanych technik przetwarzania danych, takich jak uczenie maszy-
+                                                          nowe czy analiza big data, pozwala mu efektywnie eksplorować i wydoby-
+                                                           wać istotne informacje z dużych zbiorów danych. Ponadto, absolwent po-
+                                                                                              trafi projektować badania, które umożliwiają wytwarzanie nowych danych
+                                               w oparciu o ugruntowane, ilościowe  i jakościowe metody badań społecz-
+                                                                      nych. Zdobywa także kompetencje organizowania pracy grupowej i zarzą-
+                                                                      dzania zespołem, które są niezbędne do rzetelnej, skutecznej i terminowej
+                                                                                      realizacji większych projektów badawczych. Wykształcony analityk doko-Sylwetka absolwenta
+                                                                     nuje zaawansowanej charakterystyki badanych podmiotów, identyfikuje
+                                                                                ich mocne  i słabe strony, szanse  i zagrożenia, a także nakreśla perspek-
+                                                                tywy rozwojowe wraz ze ścieżkami ich implementacji. W ramach dostęp-
+                                                                nych specjalizacji uzyskuje też umiejętność dogłębnego rozumienia zjawisk
+                                                                      charakterystycznych dla wybranego aspektu rzeczywistości społecznej.
+                                                           Zdobywa zdolność identyfikacji przyczyn tych zjawisk, potrafi uchwycić ich
+                                                                  przemiany i natężenie poprzez dobór oraz analizę różnorodnych danych, a
+                                                                       także posiada umiejętność formułowania wniosków  i rekomendacji, które
+                                                                          służą eliminowaniu ryzyk oraz wzmacnianiu pożądanych procesów społecz-
+                                                                      nych. Po ukończeniu studiów, absolwent jest przygotowany do podjęcia
+                                                                     pracy jako analityk, konsultant, ekspert, lider, menadżer w sektorze pu-
+                                                                     blicznym  i prywatnym, a także do kontynuacji studiów na II stopniu na
+                                                                      kierunkach z dziedziny nauk społecznych. Jest również pełnoprawnym,
+                                                          świadomym obywatelem, gotowym do działania w ramach demokratycz-
+                                                              nego systemu społecznego.
+                                                                     Kierunek studiów stanowi odpowiedź na wyzwania, jakie stawiają dyna-
+                                                                      micznie rozwijające się zasoby informacyjne nowoczesnych społeczeństwWskazanie potrzeb społeczno-gospodarczych prowadzenia studiów.
+                                                                        korzystających z technologii informacyjnych. Rozwój technik informacyj-
+                                                                       nych, związanych z pozyskiwaniem i magazynowaniem danych, znacząco
+                                                             3
+                                                                         zwiększył ilość dostępnych danych, które mogą, jak  i powinny być wyko-
+                                                                   rzystywane przez przedsiębiorstwa produkcyjne, usługowe oraz podmioty
+                                                                            instytucjonalne. Obecnie ilość zbieranych danych przekracza możliwości
+                                                                           analityczne tradycyjnych metod ich przetwarzania. Biorąc pod uwagę lo-
+                                                                         gikę rozwoju technologicznego w tej dziedzinie, należy się spodziewać dal-
+                                                                        szego, lawinowego wzrostu dostępnych danych. Będą one wykorzystywane
+                                                                zarówno w doskonaleniu zarządzania społecznościami  (szczególnie w
+                                                                       aspekcie zmniejszania zagrożeń  i budowania systemów bezpieczeństwa
+                                                                        społecznego), dopasowywaniu oferty kierowanej do klientów w sytuacji,
+                                                               gdy rynek został znacząco zmieniony i zdynamizowany przez handel elek-
+                                                                               troniczny, jak i w podnoszeniu jakości życia w przestrzeni układów osadni-
+                                                                         czych, kiedy coraz więcej ludzi mieszka w coraz większych aglomeracjach.
+                                                             Kluczowym celem kształcenia tego kierunku studiów - by uczynić zadość
+                                                                  oczekiwaniom płynącym ze sfery społeczno–gospodarczej - jest wyposa-
+                                                                         żenie absolwentów w umiejętność analitycznego myślenia, wspomaganego
+                                                             zaawansowanymi modelami przetwarzania zarówno ilościowych, jak  i ja-
+                                                                      kościowych, danych społecznych, a także technikami modelowania danych
+                                                                      społecznych  i rynkowych. Program kierunku kładzie nacisk na te modele
+                                                                             analityczne, które wspomagają analizy predykcyjne i prognostyczne w uję-
+                                                                                ciu wielowymiarowym. Jednocześnie dostarcza on absolwentom niezbęd-
+                                                                         nej wiedzy socjologicznej o charakterze teoretycznym (tak w aspektach
+                                                                       ogólnospołecznych, jak i specjalistyczno-socjologicznych). Wyzwaniem dla
+                                                               nowoczesnego przemysłu, usług i zarządzania zbiorowościami jest bowiem
+                                                                            nie tylko zebranie  i przetworzenie ogromnej ilości danych, ale także ich
+                                                                               interpretacja. Nie można jej dokonać bez wyobraźni socjologicznej  i spe-
+                                                                         cyficznego języka opisu analitycznego. Te natomiast można ukształtować
+                                                                              studiując, między innymi, współczesne teorie socjologiczne.
+
+Dziedzina(y) nauki, do której(ych) odnoszą się efekty uczenia się          dziedzina nauk społecznych
+
+Dyscyplina(y) naukowa(e), do której(ych) odnoszą się efekty uczenia się   nauki socjologiczne
+
+
+PROGRAM STUDIÓW
+
+Nazwa wydziału                                                      Wydział Nauk Społecznych
+
+Nazwa kierunku studiów                                                   Analityka społeczna
+
+
+                                                             4
+ Poziom studiów                                                            studia pierwszego stopnia
+
+ Profil kształcenia                                                     ogólnoakademicki
+
+ Program obowiązuje od roku akademickiego                          2024/2025
+
+
+1. Przyporządkowanie kierunku studiów do dziedzin nauki i dyscyplin naukowych na podstawie efektów uczenia się.
+
+                                                                                               Dyscyplina wiodąca
+ Dziedzina nauki                                 Dyscyplina naukowa                              (dyscyplina, w której uzyskiwana jest ponad po-
+                                                                                          łowa efektów uczenia się)
+
+ nauki społeczne                                nauki socjologiczne                                   ---
+
+
+2. Tabela procentowego udziału liczby punktów ECTS dla poszczególnych dyscyplin w łącznej liczbie punktów ECTS wymaganej do
+ukończenia studiów.
+
+                                                                                         Procentowy udział liczby punktów ECTS dla po-
+ Dziedzina nauki                                 Dyscyplina naukowa                            szczególnych dyscyplin w łącznej liczbie punk-
+                                                                                      tów ECTS wymaganej do ukończenia studiów
+
+ nauki społeczne                                nauki socjologiczne                     100%
+
+
+3. Informacje ogólne o programie studiów.
+
+
+ Liczba semestrów                                              6
+
+ Liczba punktów ECTS wymagana do ukończenia studiów                180
+
+ Tytuł zawodowy nadawany absolwentom                                       licencjat
+
+ Forma studiów                                                          stacjonarna
+
+ Kod ISCED                                                    0314
+
+
+                                                             5
+ Liczba punktów ECTS w ramach zajęć do wyboru                      78
+
+ Łączna liczba punktów ECTS, jaką student musi uzyskać w ramach zajęć
+ prowadzonych z bezpośrednim udziałem nauczycieli akademickich lub in-  180 (188 – dotyczy cudzoziemców)
+ nych osób prowadzących zajęcia
+ Liczba punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych
+                                                             7 lub nauk społecznych (nie mniej niż 5 ECTS)
+ Liczba punktów ECTS w ramach zajęć z lektoratu języka obcego nowo-
+                                                             12
+ żytnego
+ Liczba punktów ECTS w ramach zajęć z lektoratu języka polskiego dla cu-
+ dzoziemców na studiach w języku polskim lub studiach w języku angiel-   8
+ skim
+ Liczba godzin, liczba punktów ECTS, zasady i forma odbywania praktyk                                                                             nie dotyczy
+ zawodowych
+                                                             1864 (1984 – dotyczy cudzoziemców)
+                                                w tym specjalności (do wyboru 1 z 3): Łączna liczba godzin zajęć w programie studiów (z podziałem na poszcze-
+                                                                              Analityka, zarządzanie i edukacja w obszarze bezpieczeństwa: 360
+ gólne specjalności, jeśli dotyczy)                                                                           Analityka danych miejskich: 360
+                                                                           Analityka danych w marketingu: 360
+
+4. Opis efektów uczenia się zdefiniowanych dla programów studiów w odniesieniu do charakterystyk drugiego stopnia Polskiej Ramy
+Kwalifikacji dla kwalifikacji na poziomach 6-7 uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji
+pełnej na poziomie 4.
+
+
+ KIERUNEK: Analityka społeczna
+
+ DYSCYPLINY NAUKOWE: nauki socjologiczne (100%)
+
+ POZIOM KSZTAŁCENIA: 6 PRK
+
+ PROFIL KSZTAŁCENIA: ogólnoakademicki
+
+ EFEKTY UCZENIA SIĘ DLA KIERUNKU
+
+ Symbol efektu uczenia                                                                                                   Odniesienie do charak-
+                      Po ukończeniu studiów pierwszego stopnia na kierunku Analityka społeczna absolwent uzyska się dla programu stu-                                                                                                       terystyk drugiego
+                          efekty uczenia się w zakresie:
+ diów                                                                                                                      stopnia PRK (kody)
+
+                                                             6
+WIEDZA
+
+                         Identyfikuje rodzaje danych społecznych oraz wskazuje ich źródła; czyni to w stopniu zaawansowa-
+K_W01              nym, obejmującym wszystkie dane wykorzystywane w badaniach społecznych (zarówno ilościowe  P6S_WG
+                         jak i jakościowe), jak i wszystkie rodzaje źródeł (zarówno dokumentarne jak i gromadzone cyfrowo).
+                     Wskazuje i charakteryzuje zaawansowane metody i techniki pozyskiwania danych z istniejących
+K_W02                                                                                    P6S_WG                        zbiorów, w tym z wykorzystaniem uczenia maszynowego.
+                        Opisuje sposoby pozyskiwania nowych danych społecznych (niedostępnych w istniejących zbio-
+K_W03                 rach) i charakteryzuje zaawansowane metody i techniki obejmujące, poza tradycyjnymi, także     P6S_WG
+                    metody cyfrowe i techniki programistyczne.
+                     Wymienia zaawansowane procedury statystyczne wraz z opisem ich działania, znaczenia oraz uza-
+K_W04                                                                                    P6S_WG
+                      sadnieniem stosowania.
+                     Wskazuje programy do analizy statystycznej oraz kluczowe elementy języków programistycznych iK_W05                                                                                    P6S_WG
+                     bazodanowych, które są wykorzystywane w zaawansowanej analizie danych społecznych.
+                       Charakteryzuje metody i techniki zaawansowanej analizy danych społecznych, zarówno ilościo-
+K_W06                wych, jakościowych jak i prognostycznych, a także wymienia zasady dopasowania metod anali-    P6S_WG
+                       tycznych do charakteru danych.
+                         Interpretuje w zaawansowanym stopniu dane społeczne umożliwiające formułowanie trafnych
+K_W07                                                                                    P6S_WG
+                     wniosków i rekomendacji.
+                       Przedstawia zasady opisu i wizualizacji wyników analiz oraz dopasowywania ich do charakteru da-K_W08                                                                                    P6S_WG
+                       nych.
+                   Omawia w zaawansowanym stopniu koncepcje teoretyczne, które są kluczowe dla zrozumienia
+K_W09                                                                                    P6S_WG                        zjawisk społecznych.
+                        Referuje najważniejsze zasoby informacji związane z przedmiotem analizy i jego otoczeniem: dane
+K_W10                urzędowe, badania opinii publicznej, raporty instytucji badawczych, przepisy prawne, specyfikę    P6S_WG
+                      podmiotu; wskazuje dane niezbędne do opisu wybranych zjawisk społecznych oraz ich przemian.
+                        Określa fundamentalne dylematy związane ze zmianą wybranego aspektu rzeczywistości społecz-
+K_W11                   nej, w tym związane z zapewnieniem zasobów, wsparcia, szkoleń, monitorowania zmiany i jej     P6S_WK
+                         ewaluacji.
+                         Identyfikuje ekonomiczne, prawne, etyczne i inne uwarunkowania konieczne do uwzględnienia w
+K_W12                 toku działań analitycznych służących przedsiębiorczemu rozwiązywaniu problemów w wybranym    P6S_WK
+                        aspekcie rzeczywistości społecznej.
+
+K_W13               Wymienia zalety i wady określonych modeli przedsiębiorczego zarządzania.                   P6S_WK
+
+K_W14               Wymienia pojęcia oraz zasady z zakresu ochrony własności przemysłowej i prawa autorskiego.     P6S_WK
+
+
+
+                                                             7
+UMIEJĘTNOŚCI
+
+                       Samodzielnie pozyskuje, przetwarza i analizuje dane, wykorzystując zaawansowane metody staty-
+                         styczne, uczenie maszynowe i analizę big data w oparciu o programy statystyczne do analizy danych
+K_U01                                                                                     P6S_UW
+                        oraz języki programistyczne  i bazodanowe, wykorzystując zróżnicowane źródła danych  i stosując
+                       właściwe metody i narzędzia, w szczególności cyfrowe.
+                   Na podstawie analizy danych społecznych, formułuje prognozy adekwatnie do charakteru badanych
+K_U02                                                                                     P6S_UW
+                        zjawisk i problemów.
+
+K_U03                 Raportuje dane, stosując właściwe metody i narzędzia, w szczególności cyfrowe.               P6S_UW
+
+                        Weryfikuje poprawność przeprowadzonej analizy poprzez wykorzystanie narzędzi i procedur staty-
+K_U04                                                                                     P6S_UW                        stycznych.
+                   Na podstawie analizy danych empirycznych formułuje wnioski diagnostyczne i strategiczne oraz re-
+K_U05                komendacje, które są wynikiem przeprowadzonych analiz oraz pozostają w zgodzie ze stanem badań  P6S_UW
+                w wybranym obszarze życia społecznego.
+                   Na podstawie analizy danych empirycznych rozpoznaje problemy społeczne charakterystyczne dlaK_U06                                                                                     P6S_UW
+                     wybranego obszaru rzeczywistości społecznej.
+                          Trafnie dobiera dane, które opisują wybrany obszar rzeczywistości społecznej oraz właściwie dia-
+K_U07                                                                                     P6S_UW                       gnozuje charakter i natężenie problemów występujących w tym obszarze.
+                       Jasno  i precyzyjnie komunikuje wnioski z dokonanych analiz w formie pisemnej  i ustnej (raport
+K_U08                badawczy, notatka prasowa, tekst naukowy, wypowiedź medialna, uczestnictwo w debacie); dobiera  P6S_UW
+                       odpowiedni sposób wizualizacji danych.
+                      Gromadzi, przetwarza dane  i prezentuje wyniki ich analiz w zgodzie z obowiązującymi zasadami
+K_U09                                                                                           P6S_UK
+                     prawnymi i etycznymi, zapewniając bezpieczeństwo i prywatność informacji.
+                        Planuje  i organizuje pracę własną  i zespołu; zarządza grupą zadaniową  i przyjmuje w niej różne
+K_U10                     role, zgodnie z określoną strategią i zasadami funkcjonowania; rozwiązuje konflikty poprzez nego-  P6S_UK
+                          cjacje i mediacje.
+
+K_U11                  Projektuje i wdraża dalszą ścieżkę własnego uczenia się w perspektywie krótko- i długoterminowej.  P6S_UO
+
+                        Prezentuje umiejętności językowe w zakresie dziedzin nauki i dyscyplin naukowych, właściwych dla
+K_U12                 kierunku analityka społeczna, zgodne z wymaganiami określonymi dla poziomu B2 Europejskiego  P6S_UU
+                    Systemu Opisu Kształcenia Językowego.
+
+KOMPETENCJE SPOŁECZNE
+
+                        Krytycznie ocenia posiadaną wiedzę i odbierane treści, wskazując ich potencjalne deficyty i sposobyK_K01                                                                                            P6S_KK
+                           ich zniwelowania.
+
+
+                                                             8
+                       Uznaje znaczenie wiedzy w rozwiązywaniu problemów poznawczych, dobierając odpowiednią per- K_K02                                                                                            P6S_KK
+                       spektywę teoretyczną i zasięgając opinii ekspertów.
+                       Uznaje znaczenie wiedzy w rozwiązywaniu problemów praktycznych, wskazując na możliwości apli-
+ K_K03                                                                                            P6S_KK                        kacyjne stanowisk teoretycznych i zasięgając opinii ekspertów.
+                       Angażuje się na rzecz otoczenia społecznego, wywiązuje się ze zobowiązań społecznych współorga- K_K04                                                                                          P6S_KO
+                          nizując taką działalność.
+                            Inicjuje działania na rzecz interesu publicznego i uczestniczy w nich zgodnie z obywatelskimi zobo-
+ K_K05                                                                                          P6S_KO                         wiązaniami, systematycznie je ewaluując.
+
+ K_K06          W sposób przedsiębiorczy podejmuje działania w rożnych dziedzinach życia społecznego.         P6S_KO
+
+                         Przestrzega zasad etyki zawodowej, wskazuje stosowne standardy postępowania dla współpracow-
+ K_K07                                                                                            P6S_KR                       ników i interesariuszy.
+                        Respektuje dorobek i tradycje zawodu, uwzględniając istniejące akty normatywne (np. kodeks ESO-
+ K_K08               MAR, Ustawę o ochronie danych osobowych); wskazuje, jak pełnić profesjonalne role zawodowe w  P6S_KR
+                       sposób odpowiedzialny i sumienny.
+
+Objaśnienie symboli:
+PRK – Polska Rama Kwalifikacji
+P6S_WG/P7S _WG – kod składnika opisu kwalifikacji dla poziomu 6 i 7 w charakterystykach drugiego stopnia Polskiej Ramy Kwalifikacji
+K_W - kierunkowe efekty uczenia się w zakresie wiedzy
+K_U - kierunkowe efekty uczenia się w zakresie umiejętności
+K_K - kierunkowe efekty uczenia się w zakresie kompetencji społecznych
+01, 02, 03 i kolejne - kolejny numer kierunkowego efektu uczenia się
+
+5. Treści programowe.
+
+                                                                                                                    Przypisane do przedmiotu
+ l.p.   Nazwa przedmiotu          Treści programowe                                                            kierunkowe efekty uczenia
+                                                                                                                                      się
+                              Wprowadzenie do nauk społecznych ma na celu zapoznanie studentów z podstawo-  K_W09, K_W11       Wprowadzenie do nauk
+  1.                         wymi pojęciami oraz strukturami społecznymi, które umożliwiają opis, zrozumienie i  K_U06, K_U10
+        społecznych                                     interpretację różnorodnych zjawisk społecznych.                                K_K01, K_K02
+                              Program przedmiotu zakłada: Interpretację  i ocenę zdarzeń ekonomicznych, zacho-
+                                dzących na poziomie całego kraju i wśród pojedynczych podmiotów gospodarki; wy-
+                                     jaśnienie podstawowych kategorii rynkowych, relacji i procesów gospodarczych; opis
+       Ekonomiczne i gospodar-                                                                     K_W09, K_W11
+                                zasad funkcjonowania przedsiębiorstw, gospodarstw domowych, instytucji finanso-  2.    cze wymiary życia spo-                                                                      K_U06
+                             wych oraz ich wzajemnych zależności; cenę funkcjonowania podmiotów gospodar-        łecznego                                                                                        K_K01, K_K02
+                                 czych pod względem zróżnicowanych kryteriów, a przede wszystkim poziomu ryzyka
+                               ekonomicznego oraz racjonalności ich działania; przedstawienie zasad funkcjonowa-
+                                    nia gospodarki rynkowej, a także mierników wzrostu ekonomicznego w odniesieniu do
+
+                                                             9
+                                      cykli koniunkturalnych; omówienie najważniejszych problemów współczesnych go-
+                                spodarek, w tym również sposobów równoważenia tych problemów w świetle kluczo-
+                           wych teorii makroekonomicznych.
+                               Przedmiot służy zrozumieniu globalnych transformacji społecznych poprzez analizę
+                            wpływu globalizacji na struktury społeczne, relacje międzykulturowe oraz instytucje.  K_W09, K_W11
+      Globalne procesy spo-3.                            Ponadto kurs ułatwi studentom świadome spojrzenie na globalne wyzwania, jakimi są  K_U06
+      łeczne
+                              przemiany ekonomiczne i technologiczne, migracje, rozwój ekonomiczny, nierówności  K_K01, K_K02
+                                społeczne oraz kwestie zrównoważonego rozwoju.
+                            Celem zajęć jest wprowadzenie studentów w problematykę kluczowych problemów
+                                społecznych z uwzględnieniem identyfikacji najważniejszych cech tych problemów, ich
+                               przyczyn oraz skutków, jak też wpływu na ład społeczny. W trakcie zajęć studenci                                                                                             K_W09, K_W11
+     Współczesne problemy     poznają sposoby diagnozowania oraz pomiaru takich zagrożeń. Dowiedzą się również
+4.                                                                                          K_U06      społeczne               o postawach niektórych przedstawicieli władz  i ekspertów wobec wybranych proble-
+                                                                                                    K_K01, K_K02
+                      mów społecznych i sposobów ich rozwiązywania. Studenci poznają także rozróżnienie
+                            problemów  i ich specyfikę w podziale na problemy globalne, międzynarodowe  i lo-
+                                  kalne.
+                               Przedmiot skupia się na analizie relacji między kulturą a społeczeństwem, oferując
+                             studentom zrozumienie wpływu kultury na różnorodne sfery życia społecznego, w tym  K_W09, K_W11
+      Kulturowe aspekty życia5.                               m.in. na normy społeczne, wartości oraz instytucje. W ramach przedmiotu omawiane  K_U06
+      społecznego
+                               są również teorie kulturowe analizujące, jak kultura wpływa na indywidualne identy-  K_K01, K_K02
+                                     fikacje i procesy grupowe.
+                               Przedmiot stanowi wprowadzenie do logiki. W szczególności są omawiane następujące
+                                                                                     K_W07
+                                zagadnienia: prawda i fałsz jako wartości logiczne; klasyczny rachunek zdań; trady-6.    Logika i jej zastosowanie                                                                    K_U05
+                                cyjna logika nazw; definicje - rodzaje  i budowa definicji, błędy w definiowaniu; ele-                                                                                                    K_K01, K_K02
+                           menty pragmatyki logicznej.
+                            Celem przedmiotu jest poszerzenie wiedzy studentów z zakresu procesów komunikacji
+                                  społecznej, ze szczególnym uwzględnieniem identyfikacji cech i form komunikacji spo-
+                                    łecznej. Kurs skupia się na analizie procesów komunikowania w społeczeństwie, ze
+                              szczególnym uwzględnieniem komunikacji masowej, gdzie omawiane są zarówno za-
+                              sady działania mediów, jak i ich wpływ na odbiorców. W ramach przedmiotu omawiane
+                               są funkcje komunikacji masowej w kontekście społeczeństwa. Ponadto, kurs skupia
+                                     się na zagadnieniach komunikacji grupowej  i międzykulturowej, analizując zjawiska  K_W09
+     Komunikacja społeczna i7.                           propagandy i reklamy jako istotne formy komunikowania się, a także formy zarządza-  K_U07, K_U08
+      treningi komunikacyjne
+                                  nia ludźmi i współpracy z nimi w celu realizacji określonych zadań oraz celów instytu-  K_K01, K_K03, K_K05
+                                              cji, formy czy korporacji.
+                  W ramach przedmiotu studenci uczą się także, jak przeprowadzać mediacje, jak przy-
+                             gotować się do spotkania ze stronami/ uczestnikami o odmiennych poglądach oraz
+                                  jak prowadzić konstruktywną dyskusję. W trakcie uczenia się technik negocjacji po-
+                                znają różne strategie i taktyki negocjacyjne oraz umiejętności w zakresie budowania
+                                        relacji  i przekonywania innych. Uczą się, jak przygotować się do negocjacji, jak for-
+
+                                                           10
+                           mułować i przedstawiać argumenty oraz jak szukać kompromisu. Uczą się rozwiązy-
+                             wania sporów i konfliktów: poznają różne ich rodzaje oraz sposoby ich rozwiązywania.
+                             Uczą się, jak identyfikować przyczyny konfliktów oraz jak budować pozytywny dialog
+                                 z drugą stroną oraz kreować propozycje rozwiązań konkretnych problemów i jak wdra-
+                                żać je w życie. Zajęcia mają charakter konwersatoryjno-warsztatowy. W ich ramach
+                                 studenci mają również możliwość praktycznego zastosowania zdobytej wiedzy.
+                              Kurs jest skoncentrowany na nauce fundamentalnych zasad programowania kompu-
+                              terowego w wybranym języku programistycznym, który będzie wykorzystywany na  K_W05     Wprowadzenie do progra-
+8.                              potrzeby pozyskiwania i analizy danych. Studenci zdobędą wiedzę na temat struktur  K_U03, K_U11
+     mowania I                               danych, składni kodu oraz podstawowych algorytmów analitycznych. Przedmiot ten  K_K01
+                                stanowi solidne fundamenty dla osób rozpoczynających pracę z programowaniem.
+                                   Treści programowe obejmują słownictwo, gramatykę języka obcego zgodne z wyma-
+                              ganiami określonymi dla poziomu B2 Europejskiego Systemu Opisu Kształcenia Języ-
+9.    Język obcy (poziom B2)    kowego. Studenci nabywają umiejętność czytania, pisania, mówienia  i słuchania w  K_U12
+                          obcym języku na określonym w programie poziomie. Kompetencje komunikacyjne
+                                kształtowane są szeroko, umożliwiając porozumienie w różnorodnych sytuacjach.
+                                   Treści programowe obejmują słownictwo, gramatykę języka polskiego zgodne z wy-
+                            maganiami określonymi dla poziomu B2 Europejskiego Systemu Opisu Kształcenia
+      Język polski dla cudzo-10.                           Językowego. Studenci nabywają umiejętność czytania, pisania, mówienia i słuchania  K_U12
+     ziemców (poziom B2)
+                     w języku polskim na określonym w programie poziomie. Kompetencje komunikacyjne
+                                kształtowane są szeroko, umożliwiając porozumienie w różnorodnych sytuacjach.
+                            Celem przedmiotu jest zapoznanie studentów z podstawami procesu pomiaru w ba-
+                               daniach społecznych. Zostaną podjęte następujące kwestie szczegółowe: pojęcie po-                                                                                             K_W01, K_W12
+     Pomiar w naukach spo-    miaru w nauce, założenia epistemologiczne i ontologiczne pomiaru w nauce, specyfika11.                                                                                                 K_U04, K_U07
+      łecznych                 pomiaru w naukach społecznych, rodzaje pomiarów, krytyka pomiarów, błędy pomia-
+                                                                                                    K_K01, K_K02                              rowe: losowe i nielosowe, sposoby redukcji błędów pomiarowych, braki danych a po-
+                                miary.
+                               Przedmiot ten skupia się na zastosowaniach matematycznej  i statystycznej analizy
+                             danych do problemów w badaniach socjologicznych. Statystyka i jej narzędzia trakto-
+                          wane są jak pomocne w zrozumieniu, opisaniu, wyjaśnieniu  i generalizacji zjawisk  i  K_W04, K_W05      Statystyka w analityce
+12.                        fenomenów społecznego świata. Wychodząc od sposobu dokonywania pomiarów po-  K_U02, K_U03, K_U07
+      społecznej                                zwalających na zastosowania statystycznej analizy danych, poprzez zagadnienia po-  K_K03
+                              rządkowania danych i ich opisu, w kolejnych etapach wprowadzane są kolejne pojęcia
+                                umożliwiające budowanie wyjaśnień poprzez modelowanie i stawianie hipotez.
+                                 Zajęcia te mają na celu przygotowanie studentów do prowadzenia badań socjologicz-
+                             nych w oparciu o gromadzenie oraz analizę zebranych danych ilościowych. W ramach  K_W01, K_W02, K_W04
+     Wstęp do ilościowych me-
+13.                              zajęć studenci poznają różne ilościowe techniki badawcze. Nauczą się także, jak pro-  K_U04, K_U05      tod badawczych
+                               jektować badania ilościowe, w tym jak dobierać odpowiednie próby badawcze, jak  K_K02
+                              formułować pytania badawcze oraz jak przygotowywać kwestionariusze.
+
+
+                                                           11
+                                 Zajęcia te mają na celu przygotowanie studentów do prowadzenia badań socjologicz-
+                             nych w oparciu o gromadzenie oraz analizę danych jakościowych. W ramach zajęć  K_W01, K_W02, K_W03
+     Wstęp do jakościowych14.                              studenci poznają różne jakościowe techniki badawcze. Nauczą się także, jak projek-  K_U01, K_U05
+     metod badawczych
+                              tować badania jakościowe, w tym jak formułować pytania badawcze oraz jak przygo-  K_K02
+                              tować różne rodzaje wywiadów bądź obserwacji.
+                               Przedmiot stanowi kompleksowe wprowadzenie w obszar technologii geoinformacyj-
+                                nych, koncentrując się na przekazaniu studentom fundamentalnych umiejętności z
+                               zakresu korzystania z Systemów Informacji Geograficznej (GIS) oraz analizy danych
+                                przestrzennych. Kurs skupia się na omówieniu kluczowych koncepcji związanych z
+                                                                                             K_W10, K_W11     Podstawy analiz geoinfor-  gromadzeniem, przetwarzaniem  i analizą informacji przestrzennej, kładąc nacisk na
+15.                                                                                                 K_U05, K_U06
+     macyjnych (GIS)          tworzenie map tematycznych  i interpretację danych geoinformacyjnych. Uczestnicy                                                                                             K_K06
+                             zdobędą nie tylko teoretyczną wiedzę, lecz również praktyczne umiejętności umożli-
+                                wiające efektywne wykorzystanie narzędzi geoinformatycznych w różnych dziedzi-
+                               nach, takich jak geografia, planowanie przestrzenne czy badanie przestrzennego roz-
+                                  łożenia problemów społecznych.
+                              Kurs skupia się na zapoznaniu uczestników z kluczowymi aspektami baz danych. Stu-
+                                 denci poznają zagadnienia związane z projektowaniem struktury baz danych, norma-                                                                                             K_W05, K_W12, K_W14
+     Wprowadzenie do baz da-   lizacją oraz zapytaniami SQL umożliwiającymi efektywne wydobycie, modyfikację  i16.                                                                                                 K_U03, K_U09
+     nych                        analizę danych. Zajęcia obejmują praktyczne zastosowanie zdobytej wiedzy w real-
+                                                                                                    K_K01, K_K03                             nych scenariuszach, rozwijając umiejętności studentów w obszarze zarządzania da-
+                              nymi.
+                              Kurs ten koncentruje się na wypracowaniu u studentów świadomości norm etycznych,
+                               obowiązujących w obszarze analizy danych oraz zagadnień prawnych związanych z  K_W12, K_W13, K_W14
+      Zagadnienia etyczne i
+17.                             prywatnością, ochroną danych osobowych  i zgodnością z aktualnymi regulacjami.  K_U09     prawne w pracy z danymi
+                                 Uczestnicy zdobywają umiejętność identyfikacji potencjalnych dylematów etycznych  K_K07, K_K08
+                                oraz rozumienia złożonych kwestii prawnych związanych z przetwarzaniem danych.
+                               Przedmiot kontynuuje rozwijanie umiejętności programistycznych, skupiając się na
+                                   bardziej zaawansowanych aspektach tworzenia oprogramowania. Studenci pogłębią
+                                                                                     K_W05     Wprowadzenie do progra-  wiedzę na temat zaawansowanych struktur danych, algorytmów optymalizacyjnych
+18.                                                                                                 K_U03, K_U11     mowania II                oraz projektowania modułowego. Przedmiot ten umożliwia uczestnikom rozwinięcie
+                                                                                             K_K01
+                                 umiejętności rozwiązywania bardziej złożonych problemów programistycznych i efek-
+                             tywnego zarządzania kodem źródłowym.
+                            Celem przedmiotu jest zapoznanie studentów z podstawowymi technikami przetwa-
+     Podstawy analizy i inter-    rzania danych, które są uzyskiwane w trakcie empirycznych badań ilościowych w so-  K_W03, K_W06
+19.   pretacja danych ilościo-     cjologii do interpretacji złożonych problemów badawczych. Analizowane będą kwestie  K_U01, K_U02, K_U05
+     wych                     dotyczące procesu badawczego, przekształcania danych, analiz statystycznych oraz  K_K03, K_K06
+                               przygotowania raportu. Studenci poznają też funkcje programu SPSS.
+                            Celem przedmiotu jest zapoznanie studentów z podstawowymi technikami kodowania
+     Podstawy analizy i inter-                                                                      K_W03, K_W06                             danych (i budowania powiązań między nimi), które są uzyskiwane w trakcie empi-
+20.   pretacji danych jakościo-                                                                          K_U01, K_U02, K_U05
+                               rycznych badań jakościowych w socjologii do interpretacji złożonych problemów ba-     wych                                                                                           K_K03, K_K06
+                              dawczych. Analizowane będą kwestie dotyczące procesu badawczego, przekształcania
+                                                           12
+                             danych oraz różnych modeli analitycznych (teoria ugruntowana, analizy biograficzne
+                                       etc.).
+                            Celem wykładu jest przygotowanie studentów do wyboru specjalności. Aby mogli do-
+      Analityka danych w mar-                                                                     K_W07, K_W11, K_W12                             konać tego wyboru w świadomy sposób, konieczne jest ich wprowadzenie w zakres
+21.   ketingu - wykład mono-                                                                           K_U06, K_U11
+                            problemowy specjalnościi “Analityka danych w marketingu” oraz w język  i podsta-      graficzny                                                                                 K_K03
+                        wowe metody stosowane w obszarze badawczym objętym tą specjalnością.
+                            Celem wykładu jest przygotowanie studentów do wyboru specjalności. Aby mogli do-
+      Analityka danych miej-                                                                       K_W07, K_W11, K_W12
+                             konać tego wyboru w świadomy sposób, konieczne jest ich wprowadzenie w zakres22.   skich - wykład monogra-                                                                          K_U06, K_U11
+                            problemowy specjalności “Analityka danych miejskich” oraz w język  i podstawowe
+      ficzny                                                                                    K_K03                            metody stosowane w obszarze badawczym objętym tą specjalnością.
+                            Celem wykładu jest przygotowanie studentów do wyboru specjalności. Aby mogli do-      Analityka, zarządzanie i
+                             konać tego wyboru w świadomy sposób, konieczne jest ich wprowadzenie w zakres  K_W07, K_W11, K_W12
+      edukacja w obszarze bez-23.                          problemowy specjaności “Analityka, zarządzanie  i edukacja w obszarze bezpieczeń-  K_U06, K_U11
+      pieczeństwa - wykład
+                               stwa” oraz w język i podstawowe metody stosowane w obszarze badawczym objętym  K_K03      monograficzny
+                                   tą specjalnością.
+                                  Analiza wariancji to podstawowa technika analityczna dedykowana danym empirycz-
+                        nym o charakterze ilościowym. Wariancja to statystyka, która – jako element skła-                                                                                             K_W04, K_W05, K_W07
+      Analiza wariancji i wpro-   dowy – wchodzi do wielu statystycznych modeli analizy. Jej poznanie jest niezbędne24.                                                                                                 K_U04, K_U05, K_ U07
+     wadzenie do regresji        dla zrozumienia bardziej złożonych technik (regresja). W ramach przedmiotu studenci
+                                                                                             K_K02                               zostaną zapoznani z modelami ANOVA i MANOVA prowadzonymi w różnych schema-
+                                  tach.
+                             Modele analizy wielowymiarowej, których zadaniem jest upraszczać „przestrzeń” wielu
+                               cech opisujących dany obiekt badania, mają charakter podstawowy dla umiejętności
+                                  analityka danych. Pozwalają bowiem dokonywać uogólnień w zakresie niedostępnym  K_W04, K_W05, K_W07     Modele redukcyjne i kla-
+25.                               dla kogoś, kto posługuje się technikami korelacyjnymi. Zjawiska społeczne zawsze są  K_U04, K_U05, K_U07
+      syfikacyjne                           uwarunkowane przez wiele różnych czynników. W ramach przedmiotu studenci zapo-  K_K02
+                                 znani zostaną z takimi metodami jak: analiza czynnikowa, analiza korespondencji,
+                           metoda k-średnich, różne modele analizy skupień, drzewa decyzyjne.
+                                  Analiza treści to jedna z podstawowych metod stosowanych w naukach społecznych
+                            do analizy danych jakościowych. Tradycyjne modele tej analizy (jak np. w metodzie
+                                   biograficznej) są dostosowane do niewielkich zbiorów danych. Rozwój Internetu, a co
+                               za tym idzie rozrost zasobów sieciowych o charakterze tekstowym  i wizualnym, wy-
+      Analiza treści z elemen-   maga stosowanie złożonych algorytmów do wydobywania danych ze źródeł siecio-  K_W04, K_W05, K_W07
+26.   tami uczenia maszyno-    wych, jak  i ich przetwarzania. Ponieważ rzeczywistość ta ma charakter dynamiczny  K_U02, K_U05, K_U07
+     wego                    (zarówno w zakresie struktury danych, ich rodzaju, jak i objętości) niezbędne są tech-  K_K02
+                                       niki maszynowe, wspomagające analizę treści. W ramach przedmiotu studenci nauczą
+                                     się stosowania algorytmów maszynowych między innymi do: tworzenia nowych pojęć,
+                             wykrywania głębokich  i złożonych uwarunkowań zjawisk społecznych, modyfikacji,
+                                 uogólniania i precyzowania danych.
+
+
+                                                           13
+                            Celem zajęć z badań ewaluacyjnych jest nauczenie studentów różnych metod i technik
+                             oceny skuteczności programów realizowanych w podmiotach przetwarzających dane,
+                             a także efektywności rozmieszczenia treści na stronach internetowych. Badania ewa-
+                                 luacyjne (i badania UX) to proces, który ma na celu określenie, w jakim stopniu pro-  K_W08, K_W12, K_W13     Wprowadzenie do badań
+27.                          gramy, projekty, witryny sieciowe  i aplikacje mobilne realizują cele, dla których zo-  K_U05, K_U09      ewaluacyjnych
+                                    stały utworzone oraz czy dane zebrane w tych przedsięwzięciach zostały właściwie  K_K07, K_K08
+                               wykorzystane. Studenci nauczą się, jak przeprowadzać audyty badawcze, w tym jak
+                              przygotować plan audytu, zbierać i analizować dane oraz formułować wnioski i reko-
+                              mendacje.
+                            Celem kursu jest zaznajomienie studentów z kluczowymi koncepcjami, narzędziami i
+                              metodologiami wykorzystywanymi w projektowaniu i analizie doświadczenia użytkow-
+                                   nika. Kurs obejmuje zagadnienia związane z interakcją użytkowników z produktami,  K_W08, K_W12, K_W13
+     Wprowadzenie do badań28.                            stronami internetowymi czy aplikacjami, kładąc nacisk na zrozumienie oczekiwań, po-  K_U05, K_U09
+    UX (User Experience)
+                                  trzeb oraz satysfakcji użytkowników. Studenci zdobywają praktyczne umiejętności w  K_K07, K_K08
+                                  zakresie przeprowadzania badań UX, analizy danych, tworzenia tzw. person oraz pro-
+                                jektowania interfejsów z uwzględnieniem ergonomicznych i estetycznych aspektów.
+                             Program obejmuje wprowadzenie do kluczowych konceptów wypracowanych w XX
+                               wiecznych teoriach socjologicznych. W ramach zajęć, studenci zapoznają się z kon-
+                                  ceptualizacjami m.in. takich pojęć, jak system społeczny, struktura społeczna, nie-
+                                                                                             K_W07, K_W09     Koncepty socjologii        równość społeczna, stratyfikacja społeczna, konflikt społeczny, racjonalny wybór, a
+29.                                                                                                 K_U05, K_U06
+      współczesnej              także praktyk społecznych, rytuałów  i kapitałów społecznych. W rezultacie studenci                                                                                                    K_K02, K_K03
+                             zdobędą zaawansowaną wiedzę socjologiczną, która umożliwi im dogłębną analizę
+                                 zjawisk i procesów społecznych w oparciu o krytyczne zdolności opisowe i interpreta-
+                                  cyjne.
+                               Przedmiot ma charakter organizacyjno–techniczny i usługowy, względem seminarium
+                                   licencjackiego. Aby w ramach seminarium studenci mogli się skoncentrować na pracy
+                                merytorycznej, badawczej  i analitycznej związanej z realizacją projektu, w ramach  K_W12, K_W14
+     Proseminarium licencjac-
+30.                           proseminarium zostaną wyposażeni w takie, między innymi, umiejętności jak: styl  i  K_U09, K_U10, K_U11      kie
+                            metody pisania akademickiego, konstruowanie prezentacji dopasowanych do wymo-  K_K08
+                         gów komunikacji projektowej, kwerendy biblioteczne i sieciowe oraz stosowanie róż-
+                             nych formatów i wzorców typograficznych.
+                                 Zajęcia dotyczyć będą metod analizy danych z wykorzystaniem techniki regresyjnych,
+                             zarówno parametrycznych, jak  i nieparametrycznych. Omówione zostaną procedury  K_W04, K_W05
+31.   Modele regresyjne        budowania funkcji regresji, znaczenia poszczególnych parametrów oraz warunki sto-  K_U05, K_U07
+                              sowania poszczególnych modeli, liniowych, nieliniowych, logistycznych, wielozmien-  K_K02, K_K06
+                           nowych itd.
+     Zaawansowane modele                          Na zajęciach z modelowania równań strukturalnych w naukach społecznych studenci  K_W04, K_W05
+      analityczne (równania32.                           nauczą się podstawowych pojęć  i metod matematycznych stosowanych w analizie  i  K_U05, K_U07
+      strukturalne, sieci neuro-
+                             modelowaniu zjawisk społecznych z wykorzystaniem SEM. Zagadnienia poruszane na  K_K02, K_K06     nowe, modele ścieżkowe)
+
+                                                           14
+                                  zajęciach będą obejmować m.in. wprowadzenie do modelowania strukturalnego, ma-
+                              tematyczne założenia SEM, procedury wykonawcze oraz przykłady zastosowań w pro-
+                              cedurach testowania hipotez oraz prognozowaniu.
+                             Modele logarytmiczno-liniowe to niezbędne narzędzie pracy każdego analityka da-
+                                nych, szczególnie w zakresie badań społecznych, w których większość zmiennych ma
+                                 charakter nominalny. Wyposażenie studentów w umiejętność stosowania różnych mo-  K_W04, K_W05
+33.   Analiza logliniowa            deli logliniowych pozwala im wyjść poza prosty schemat analizy profilowej, oferowanej  K_U05, K_U07
+                     w modułach analiz tabelarycznych. Rozszerza także ich możliwości w zakresie predyk-  K_K02, K_K06
+                               cyjnego wnioskowania statystycznego. W ramach przedmiotu omawiane i stosowane
+                               są modele uogólnione i logitowe.
+                  W ramach przedmiotu studenci poznają podstawy teoretyczne oraz obszary zastoso-  K_W04, K_W05      Szeregi czasowe i modele
+34.                       wań dla prognostycznego modelu szeregów czasowych. W ramach zajęć omawiane i  K_U05, K_U07
+      prognostyczne                               ćwiczone będą głównie modele: autoregresyjne, zintegrowane i z ruchomą średnią.   K_K02, K_K06
+                               Przedmiot ma charakter praktyczny  i wprowadza studentów w specyfikę organiza-
+                                cyjną konstruowania  i zarządzania zespołami projektowymi, wykonującymi badania
+                              empiryczne (zarówno jakościowe, jak  i ilościowe) w szeroko rozumianym obszarze
+                                                                                             K_W08, K_W12, K_W13
+      Zarządzanie badaniami i   nauk społecznych. W ramach zajęć studenci uczą się łączenia w jedną całość różnych35.                                                                                                 K_U06, K_U08, K_U10
+     zespołem badawczym     aspektów procesu: przygotowywanie koncepcji, opracowywanie metodologii, organi-
+                                                                                                    K_K06, K_K07                                 zacja badań terenowych  i kontrola, współpraca z zewnętrznymi podmiotami badaw-
+                              czymi oraz współpraca z ekspertami. Ponadto poznają zasady tworzenia komunika-
+                             tywnych raportów oraz zasad współpracy ze zleceniodawcami badań.
+                                  Wizualizacja danych to proces przekształcania danych numerycznych  i informacji w
+                                  graficzne formy w celu ułatwienia zrozumienia i interpretacji wyników. Studenci nau-
+                                czą się, jak korzystać z różnych narzędzi  i technik wizualizacji, takich jak wykresy,                                                                                             K_W07, K_W08
+                                   tabele, mapy, infografiki  i animacje, aby przedstawić dane w sposób przystępny  i
+36.   Wizualizacja danych                                                                              K_U02, K_U05, K_U08                                 atrakcyjny wizualnie. Raportowanie wyników analiz to proces przekazywania wyników
+                                                                                                    K_K01, K_K03
+                            badań i analiz danych w formie pisemnej lub ustnej. Studenci nauczą się, jak tworzyć
+                                jasne  i zrozumiałe raporty, które będą użyteczne dla różnych odbiorców, takich jak
+                                       klienci, menedżerowie czy decydenci.
+                               Przedmiot stanowi wprowadzenie do teorii społecznych, kształtujących rozumienie
+                              współczesnych społeczeństw. Oferuje studentom kompleksowe spojrzenie na badania
+                                                                i analizy powstałe w socjologii na przełomie XX i XXI wieku oraz w XXI wieku, umoż-
+                                     liwiając zrozumienie przemian społecznych. Kurs obejmuje szereg tematów, m.in. ta-  K_W09, K_W011
+      Teorie społeczne XXI
+37.                               kich jak teoria aktor-sieci, biopolityka i techniki dyscyplinarne, sieci społeczne i usie-  K_U07     wieku
+                                ciowione ruchy społeczne, analiza wielokryzysów, wchodzenie w dorosłość, kwestie  K_K01
+                               dotyczące maszyn społecznych  i inżynierii socjologicznej, późnonowoczesnej czaso-
+                                wości (zwracając uwagę nad okonania Hartmuda Rossy oraz Yuvala Harrariego), eko-
+                                           logii, globalizacji, podmiotowości, feministyczne analizy problemów współczesności.
+      Laboratorium badań spo-                                                                     K_W05, K_W07
+                          Na zajęciach laboratoryjnych z badań społecznych w obszarze bezpieczeństwa stu-
+38.   łecznych w obszarze bez-                                                                          K_U02, K_U06, K_U07                                 denci uczą się praktycznych umiejętności związanych z prowadzeniem badań empi-
+      pieczeństwa                                                                                     K_K01, K_K04
+                                                           15
+                                rycznych. Celem zajęć jest przede wszystkim zapoznanie studentów z różnymi meto-
+                            dami badawczymi stosowanymi w badaniach społecznych w obszarze bezpieczeństwa
+                                oraz nauka planowania, projektowania, przeprowadzania i analizowania wyników ba-
+                               dań.
+                            Prawne podstawy bezpieczeństwa to dziedzina, która zajmuje się analizą i interpreta-
+                                    cją przepisów prawnych związanych z bezpieczeństwem, zarówno na poziomie krajo-
+                         wym, jak i międzynarodowym. Celem zajęć z prawnych podstaw bezpieczeństwa jest                                                                                             K_W09, K_W11
+     Prawne podstawy bezpie-  zapoznanie studentów z podstawowymi pojęciami z zakresu prawa i bezpieczeństwa,39.                                                                                          K_U06
+     czeństwa                   takimi jak: prawo, regulacje prawne, podmioty prawa, odpowiedzialność prawna,
+                                                                                                    K_K01, K_K02, K_K05                                sankcje prawne, itp. Następnie są omawiane przepisy prawne dotyczące bezpieczeń-
+                                stwa, np. w zakresie ochrony danych osobowych, ochrony przeciwpożarowej, ochrony
+                               przed terroryzmem itp.
+                              Podczas tych zajęć studenci zdobywają wiedzę na temat kultury bezpieczeństwa, jej
+                                znaczenia oraz sposobów jej kształtowania. Omawiane są również zagadnienia zwią-
+                             zane z psychologią bezpieczeństwa, czyli sposobami postrzegania  i oceny zagrożeń  K_W09, K_W11
+40.   Kultura bezpieczeństwa    oraz reakcji na nie. Studenci uczą się również, jakie są najważniejsze zagrożenia w  K_U06
+                               różnych obszarach życia, jak je rozpoznawać i jak się przed nimi chronić. Omawiane  K_K01, K_K02
+                               są także kwestie związane z bezpieczeństwem wewnętrznym  i zewnętrznym  i zasa-
+                            dami postępowania w sytuacjach kryzysowych.
+                                                                                             K_W12, K_W13, K_W14                               Przedmiot jest skoncentrowany na przygotowaniu studentów do realizacji samodziel-
+41.  Seminarium licencjackie                                                                          K_U09, K_U10, K_U11                            nego projektu badawczego.
+                                                                                             K_K08
+                            Celem zajęć z bezpieczeństwa narodowego  i międzynarodowego jest przygotowanie
+                              studentów do zrozumienia zagadnień związanych z bezpieczeństwem w skali lokalnej,
+                                  regionalnej i międzynarodowej oraz praktycznych aspektów wdrażania działań zwią-
+                                                                                             K_W07, K_W09, K_W11      Bezpieczeństwo naro-      zanych z ochroną narodowych i międzynarodowych interesów. Podczas tych zajęć stu-
+42.                                                                                                 K_U05, K_U06
+     dowe i międzynarodowe    denci poznają różne aspekty bezpieczeństwa, w tym lokalnego, narodowego, regio-                                                                                             K_K03
+                               nalnego i międzynarodowego, takie jak bezpieczeństwo w kontekście polityki krajowej
+                                                                i zagranicznej, międzynarodowych konfliktów, terroryzmu, migracji, a także zagrożeń
+                              związanych z bronią jądrową i innymi zagrożeniami o charakterze masowym.
+                            Celem zajęć ze strategii zarządzania bezpieczeństwem w instytucjach jest przekazanie
+                             studentom wiedzy i umiejętności z zakresu tworzenia, wdrażania i oceny strategii bez-
+                               pieczeństwa w różnego rodzaju instytucjach. Studenci uczą się planowania działań
+                                                                                             K_W07, K_W09, K_W11,
+      Strategie zarządzania      zapobiegawczych  i reakcyjnych w sytuacjach zagrożenia oraz sposobów minimalizo-                                                                                     K_W13
+43.   bezpieczeństwem w in-    wania ryzyka  i ochrony przed potencjalnymi atakami. Podczas zajęć omawiane są
+                                                                                                   K_U05, K_U06      stytucjach                 m.in. następujące tematy: analiza zagrożeń wewnętrznych i zewnętrznych dla insty-
+                                                                                                    K_K03, K_K05
+                                         tucji, tworzenie  i wdrażanie strategii bezpieczeństwa, zarządzanie ryzykiem, plano-
+                              wanie i organizacja działań ratowniczych, zarządzanie kryzysowe i komunikacja w sy-
+                                 tuacjach kryzysowych, ocena efektywności działań bezpieczeństwa.
+
+
+                                                           16
+                            Proponowany przedmiot to zaawansowany kurs skupiający się na roli badań sondażo-
+                           wych w analizie społecznych kontekstów bezpieczeństwa. Studenci zdobywają posze-
+                               rzoną wiedzę na temat projektowania, przeprowadzania i interpretacji wyników badań
+                              sondażowych, z naciskiem na zastosowanie tych technik w kontekście oceny i analizy     Badania sondażowe w                                                                        K_W07, K_W12
+                               bezpieczeństwa społecznego. Kurs obejmuje aspekty teoretyczne i praktyczne, przy-44.   analizie społecznych kon-                                                                    K_ U02, K_U06, K_U07
+                              gotowując uczestników do kompleksowego podejścia do analizy danych sondażowych
+      tekstów bezpieczeństwa                                                                      K_K03                     w obszarze bezpieczeństwa społecznego. Studenci rozwijają umiejętność formułowa-
+                                  nia pytań badawczych, planowania badań oraz interpretacji wyników, co pozwala na
+                               skuteczną analizę różnych obszarów bezpieczeństwa w kontekście zmiennych spo-
+                                 łecznych, ekonomicznych i kulturowych.
+                               Przedmiot stanowi zaawansowane studium skupione na wykorzystaniu potencjału Big
+                             Data w kontekście analizy zagrożeń oraz projektowania rozwiązań z zakresu bezpie-
+      Big data w analityce za-    czeństwa społecznego. Kurs ten prowadzi studentów przez kompleksowy zakres na-
+                                                                                             K_W03, K_W05, K_W12
+      grożeń i budowaniu pro-    rzędzi i technik, umożliwiając skuteczne przetwarzanie, analizę i interpretację dużych45.                                                                                                 K_U01, K_U03
+      jektów bezpieczeństwa     zbiorów danych w celu identyfikacji potencjalnych zagrożeń społecznych. Studenci                                                                                             K_K06
+      społecznego              zdobywają umiejętności budowania projektów bezpieczeństwa społecznego, uwzględ-
+                                   niając analizę danych w dużym wymiarze oraz implementację innowacyjnych strategii
+                                zapobiegania i zarządzania kryzysowego.
+                              Podczas zajęć z instytucji i służb bezpieczeństwa państwa studenci zdobywają wiedzę
+                            na temat struktur i funkcjonowania różnych instytucji i służb bezpieczeństwa w Polsce
+                                                                i na świecie. Omawiane są kwestie związane z organizacją i kompetencjami instytucji,
+                                  takich jak policja, służby specjalne, wojsko (Rodzaje Sił Zbrojnych  i ich specyfika),
+                                                                                             K_W07, K_W09, K_W11      Instytucje i służby bez-     straż pożarna, straż graniczna, żandarmeria wojskowa etc., a także kwestie związane
+46.                                                                                                 K_U05, K_U06      pieczeństwa państwa       z ich działalnością w różnych obszarach, w tym w zakresie zapobiegania przestępczo-
+                                                                                             K_K03
+                                         ści, ochrony granic i terytorium, zwalczania terroryzmu czy ochrony bezpieczeństwa
+                             narodowego. Studenci uczą się również, jakie są najważniejsze wyzwania, z jakimi
+                                borykają się instytucje i służby bezpieczeństwa, jakie są metody i techniki ich pracy
+                                oraz jakie są zasady współpracy między nimi.
+                            Celem zajęć z zarządzania informacją/komunikacją strategiczną jest przekazanie stu-
+                           dentom wiedzy i umiejętności z zakresu planowania i realizacji strategii komunikacji
+                     w instytucjach  i przedsiębiorstwach. Studenci uczą się, jakie narzędzia  i techniki są
+                               niezbędne do przekazywania informacji i budowania pozytywnego wizerunku organi-  K_W07, K_W09, K_W11,
+      Zarządzanie informacją i    zacji w oczach różnych grup odbiorców, a także zapobiegania (prewencji) i rozwiązy-  K_W13, K_W14
+47.     komunikacja strategiczna  wania istniejących problemów. Podczas zajęć omawiane są m.in. następujące tematy:  K_U05, K_U06
+                               planowanie  i projektowanie strategii komunikacji, budowanie wizerunku organizacji,  K_K03, K_K05
+                              wykorzystywanie różnych kanałów komunikacyjnych w celu przekazywania informa-
+                                              cji, zarządzanie kryzysowe i komunikacja w sytuacjach kryzysowych, analiza i ocena
+                                 skuteczności działań komunikacyjnych.
+                               Przedmiot stanowi zaawansowane badanie wykorzystania danych jakościowych w  K_W03, K_W06, K_W11
+     Dane jakościowe w anali-48.                             kontekście analizy zagrożeń społecznych. Kurs ten skupia się na rozwinięciu umiejęt-  K_U07, K_U09
+       zie zagrożeń społecznych
+                                  ności studentów w zakresie zbierania, analizy  i interpretacji danych jakościowych,  K_K03
+                                                           17
+                                umożliwiając zrozumienie złożoności społecznych zagrożeń. Studenci eksplorują róż-
+                             norodne techniki zbierania danych jakościowych, takie jak wywiady, obserwacje czy
+                                   analiza treści, a następnie uczą się skutecznie analizować te informacje w kontekście
+                                      identyfikacji, oceny i prognozowania zagrożeń społecznych.
+                          Na zajęciach studenci uczą się podstawowych pojęć i metod matematycznych stoso-
+     Równania strukturalne i    wanych w analizie i modelowaniu zjawisk społecznych z wykorzystaniem SEM. Zagad-  K_W07, K_W12
+49.  modele regresyjne w       nienia poruszane na zajęciach obejmują m.in. wprowadzenie do modelowania, mate-  K_U05, K_U07
+       analizie zagrożeń         matyczne założenia omawianych procedur, a także przykłady zastosowania SEM w  K_K02, K_K06
+                               procedurach testowania hipotez oraz prognozowaniu
+                            Celem zajęć jest zaznajomienie studentów ze współczesnymi strategiami, stylami  i
+                            metodami przekazu wiedzy oraz formami uczenia się (samoedukacji). Jest to niezwy-
+                                   kle ważny aspekt edukacji w dobie społeczeństwa uczącego się przez całe życie (Life-
+                                long Learning/ LLL) wymuszony tempem zmian i koniecznością stałego aktualizowania
+                              wiedzy oraz uczenia się nowych rzeczy związanego z rozwojem społeczeństw oraz
+                             problemami związanymi z ich funkcjonowaniem. Tematem zajęć będą takie zagadnie-  K_W09, K_W11, K_W12,
+                                     nia, jak m.in. kwestia podejścia do edukacji, rola misji, kreatywności, elastyczności i  K_W13
+50.   Strategie edukacyjne
+                              samorozwoju, odpowiedzialności, autorytetu, kwestia przywództwa (Leadership),  K_U06, K_U10
+                                konsekwencji, budowania relacji, podstaw z zakresu wystąpień publicznych, doboru  K_K01, K_K02
+                               skutecznych metod edukacyjnych do rodzaju grupy odbiorców i przekazywanych tre-
+                                         ści, skuteczność przekazu, rola metod warsztatowych (praktycznych) i form ich prze-
+                               prowadzania. Ważnym aspektem będzie także omówienie znaczenia tzw. logistyki
+                                 szkoleniowej, typologii szkoleń (otwarte, zamknięte) oraz podstaw biznesu szkolenio-
+                             wego.
+                            Wprowadzenie studentów w podstawowe zagadnienia związane z kształtowaniem  i     Elementy planowania
+                              zarządzaniem przestrzenią miejską, takie jak: historia  i teorie urbanistyki, rodzaje  i  K_W09, K_W11
+      przestrzennego i pod-51.                              funkcje miast, plany zagospodarowania przestrzennego, partycypacja społeczna,  K_U06, K_U10
+     stawy funkcjonowania sa-                            zrównoważony rozwój, rewitalizacja, mobilność, krajobraz, architektura, infrastruk-  K_K01, K_K02, K_K05
+     morządu terytorialnego
+                                    tura, itp.
+                               Przedmiot ten pozwala studentom zrozumieć  i badać zjawiska  i procesy społeczne
+                              zachodzące w miastach, takie jak: struktura i dynamika społeczności miejskich, nie-
+                               równości i wykluczenie społeczne, migracje i integracja, kultura i tożsamość, konflikty  K_W09, K_W11      Socjologia miasta i teorie
+52.                                                          i współpraca, aktywność i organizacje obywatelskie, problemy społeczne i polityki pu-  K_U06, K_U10
+      rozwoju miast                                   bliczne itp. W ramach przedmiotu omawiane są również główne teorie rozwoju miast,  K_K01, K_K02
+                                 które ułatwiają właściwą analizę zjawisk i procesów obserwowanych w miastach eu-
+                                  ropejskich i pozaeuropejskich.
+                               Przedmiot ten uczy studentów podstawowych koncepcji i narzędzi ekonomicznych sto-
+                            sowanych w analizie miast, takich jak: teoria lokalizacji, model monocentryczny i po-  K_W09, K_W11
+53.  Ekonomia miasta           licentryczny, aglomeracja  i zewnętrzności, konkurencja  i kooperacja między mia-  K_U06, K_U10
+                                 stami, rola i koszty usług publicznych, podział i alokacja zasobów, efektywność i spra-  K_K01, K_K02
+                                 wiedliwość, modele rozwoju miast itp.
+
+                                                           18
+                               Przedmiot ma za zadanie zapoznać studentów z dostępnymi danymi społecznymi,
+                                 które mogą być wykorzystywane w analizach miejskich zarówno w badaniach typu
+                                                                                             K_W01, K_W02, K_W10,      Źródła i rodzaje danych    desk research, jak i w budowaniu koncepcji merytorycznych i metodologicznych opar-
+                                                                                     K_W14
+54.   zastanych w badaniach     tych na danych pierwotnych. Realizując ćwiczenia studenci uczą się wyszukiwać źródła                                                                                                   K_U03, K_U09
+      miejskich                danych (takie jak repozytoria i portale udostępniające wyniki badań) oraz pozyskiwać                                                                                             K_K03
+                               zawarte tam zbiory danych do własnych analiz. Przedmiot przewiduje przegląd do-
+                               stępnych źródeł krajowych i wybranych źródeł zagranicznych.
+                              Kurs ten wyposaża studentów w narzędzia potrzebne do holistycznej analizy zjawisk
+     Dane jakościowe i bada-    miejskich, integrując różnorodne podejścia badawcze. W ramach zajęć studenci roz-
+                                                                                             K_W01, K_W06, K_W07      nia sondażowe w analizie   winą umiejętności w zakresie prowadzenia badań sondażowych i jakościowych, które
+55.                                                                                                 K_U01, K_U05
+      zjawisk i przemian miej-    służą identyfikacji preferencji mieszkańców oraz lepszemu zrozumieniu społeczno-                                                                                             K_K03
+      skich                     kulturowych aspektów przemian miejskich. Kurs pozwoli też na rozwinięcie umiejęt-
+                                  ności interpretacji i analizy zgromadzonych danych ilościowych i jakościowych.
+                              Podczas kursu uczestnicy pracują z rzeczywistymi danymi miejskimi, wdrażając zaa-
+                           wansowane techniki analizy danych, w tym uczenie maszynowe, analizę przestrzenną
+                                                                i prognozowanie. Przy użyciu tych narzędzi studenci rozwijają umiejętność identyfi-
+                                     kacji wzorców, trendów i kluczowych zależności w dynamicznym środowisku miejskim.
+                              Kurs ten nie tylko dostarcza praktycznych umiejętności w obszarze analityki big data,  K_W03, K_W05      Big Data w analityce
+56.                                ale również kształtuje świadomość możliwości, jakie stwarza nowoczesna analiza da-  K_U01, K_U03
+      miejskiej                             nych w doskonaleniu procesów podejmowania decyzji i kształtowania lepszych, zrów-  K_K06
+                            noważonych obszarów miejskich. Poprzez omówienie kluczowych koncepcji i narzędzi
+                              związanych z gromadzeniem, przetwarzaniem  i analizą dużych ilości danych miej-
+                                    skich, studenci zdobywają umiejętność efektywnego wykorzystania informacji pocho-
+                              dzących z różnorodnych źródeł.
+                              Kurs ten umożliwia studentom zgłębienie wiedzy na temat zastosowań geoinformacji
+                     w kontekście planowania miejskiego, analizy przestrzennej oraz monitorowania zmian
+                     w otoczeniu miejskim. Poprzez praktyczne projekty  i badania przypadków studenci
+                                                                                             K_W07, K_W12
+      Analizy geoinfomacyjne w  zdobywają umiejętność korzystania z narzędzi geoinformatycznych do analizy danych57.                                                                                                 K_U05, K_U07
+     badaniach miejskich        przestrzennych, w tym mapowania oraz wizualizacji informacji z obszaru miejskiego.
+                                                                                                    K_K02, K_K04, K_K06                              Podczas kursu uczestnicy zgłębiają techniki analizy geoprzestrzennej, wdrażając je do
+                               badania zagadnień związanych z transportem, infrastrukturą miejską, zagospodaro-
+                           waniem przestrzennym oraz problematyką środowiskową.
+                              Kurs ten pozwala studentom na zrozumienie i przyswojenie złożonych regulacji praw-
+                             nych dotyczących pozyskiwania, przetwarzania i wykorzystywania danych w kontek-
+     Prawne aspekty pozyski-    ście analiz miejskich. Podczas trwania kursu studenci praktykują proces wnioskowania  K_W02, K_W13, K_W14
+58.   wania danych na po-      o dostęp do danych miejskich, analizując konkretne przypadki i scenariusze. Ta prak-  K_U09
+      trzeby analiz miejskich     tyczna część kursu umożliwia zrozumienie wyzwań związanych z aspektami prawnymi  K_K05, K_K07, K_K08
+                     w kontekście pozyskiwania danych miejskich, a także kształtuje umiejętności skutecz-
+                            nego i zgodnego z przepisami wnioskowania o dostęp do informacji.
+
+
+                                                           19
+                               Przedmiot skupia się na rozwinięciu umiejętności studentów w zakresie zastosowania
+                              różnorodnych metod analizy wielowymiarowej do badania przemian miejskich. Stu-
+                                 denci zdobywają głębsze zrozumienie technik takich, jak analiza skupień, analiza
+     Badanie przemian miej-                                                                      K_W07, K_W12
+                             głównych składowych oraz analiza dyskryminacyjna, a następnie stosują je do bada-59.   skich z użyciem metod                                                                            K_U05, K_U07
+                                  nia zjawisk i procesów zachodzących w miastach. Poprzez praktyczne ćwiczenia i pro-      analizy wielowymiarowej                                                                           K_K02, K_K06
+                                   jekty badawcze, kurs ten umożliwia wykorzystanie wspomnianych technik do identy-
+                                         fikacji wzorców zmian, a także oceny wpływu czynników społeczno-ekonomicznych
+                                oraz kulturowych na przemiany miast oraz ich mieszkańców.
+                             Wyposażeni w wiedzę w zakresie podstaw matematycznych stosowanych w analizie i
+     Równania strukturalne i                             modelowaniu zjawisk społecznych z wykorzystaniem SEM, studenci w ramach przed-  K_W07, K_W12
+     modele regresyjne w ba-
+60.                           miotu skoncentrują się na zastosowaniu tego modelu do ustalania czynników warun-  K_U05, K_U07      daniu problemów i prze-
+                               kujących określone problemy  i zjawiska miejskie, jak też prognozowania dalszego  K_K02, K_K06
+     mian miejskich                                przebiegu tych zjawisk.
+                               Przedmiot służy rozwinięciu kompetencji studentów w obszarze analizy danych miej-
+                                    skich, interpretacji wyników oraz ich efektywnego wykorzystania w procesie budowa-
+     Elementy badań diagno-                                  nia dokumentów diagnostycznych i strategicznych dla miast i obszarów metropolital-  K_W09, K_W11
+      stycznych i planowania
+                                nych. Szczególny nacisk kładziony jest na umiejętność identyfikacji problemów miej-  K_U06, K_U1061.   strategicznego w oparciu
+                                  skich i opracowywania celów strategicznych w oparciu o zgromadzone dane oraz po-  K_K01, K_K02, K_K04,     o przetwarzanie danych
+                             znane w toku studiów techniki analityczne. Dodatkowo, kurs obejmuje rozwinięcie  K_K05
+      miejskich                                 umiejętności tworzenia narzędzi diagnostycznych, umożliwiających skuteczną ocenę
+                                potrzeb i wyzwań danego obszaru miejskiego.
+                              Kurs ten umożliwia studentom pogłębienie wiedzy z zakresu analizy danych, ich zbie-
+                                    rania, interpretacji oraz wykorzystania w procesie planowania i podejmowania decyzji
+                            na poziomie miejskim. Studenci badają różnorodne aspekty związane z wykorzysta-  K_W09, K_W11, K_W13     Elementy zarządzania
+                            niem danych w planowaniu przestrzennym, inteligentnym transporcie, zarządzaniu  K_U06, K_U10
+62.  miastem w oparciu o                             zasobami miejskimi  i reagowaniu na zmiany społeczno-ekonomiczne. Poprzez prak-  K_K01, K_K02, K_K04,
+     dane                                tyczne ćwiczenia oraz studia przypadków, uczestnicy zdobywają umiejętności wyko-  K_K05
+                                  rzystania narzędzi analitycznych do rozwiązywania rzeczywistych problemów związa-
+                             nych z zarządzaniem miastem.
+                               Przedmiot ma za zadanie zapoznać studentów z dostępnymi danymi społecznymi,
+                                 które mogą być wykorzystywane w analizach marketingowych zarówno w badaniach
+                               typu desk research, jak i w budowaniu koncepcji merytorycznych i metodologicznych  K_W01, K_W02, K_W10,
+                                opartych na danych pierwotnych. Realizując ćwiczenia studenci uczą się wyszukiwać  K_W14
+63.   Źródła danych rynkowych
+                                  źródła danych (takie jak repozytoria i portale udostępniające wyniki badań) oraz po-  K_U03, K_U09
+                               zyskiwać zawarte tam zbiory danych do własnych analiz. Przedmiot przewiduje prze-  K_K03
+                                 gląd wszystkich dostępnych w danym czasie źródeł krajowych i wybranych źródeł za-
+                                granicznych (głównie europejskich)
+                               Przedmiot ma charakter zarówno teoretyczny, jak  i praktyczny. Zachowania konsu-     Zachowania konsumenc-                                                                     K_W09, K_W11
+                             menckie mają charakter społeczny. Jako takie też są w ramach przedmiotu analizo-
+64.   kie i badanie postaw uta-                                                                          K_U06, K_U10                             wane. Jednocześnie studenci poznają specyficzne konteksty sytuacyjne wpływające
+      jonych                                                                                          K_K01, K_K02
+                             zarówno na zachowania indywidualne (sfera psychiczno-emocjonalna), jak i grupowe,
+                                                           20
+                                 które modyfikowane są przez ofertę rynkową i szeroko rozumianą kulturę kształtującą
+                              zachowania nabywcze. W ramach zajęć warsztatowych studenci uczą się stosować
+                            modele analityczne wykorzystywane przy badaniu tzw. postaw ukrytych (między in-
+                            nymi metodę IAT).
+                           E-Commerce to szerokie pojęcie obejmujące techniki sprzedażowe w Internecie, spo-
+                                                                                             K_W03, K_W05                              soby konstruowania oferty rynkowej, ustalanie zasad sieciowej dystrybucji oraz ana-
+65.   e- Commerce                                                                                   K_U01, K_U03
+                                         lizę zachowań konsumenckich w sieci. Te wszystkie aspekty rynku funkcjonującego w                                                                                             K_K06
+                                  Internecie omawiane są w ramach niniejszego przedmiotu
+                               Przedmiot ma charakter interdyscyplinarny. Obejmuje zarówno zagadnienia z pogra-
+                                  nicza psychologii postrzegania oraz wizualnego oddziaływania na emocje, jak  i ele-
+      Analiza projektów rekla-   menty podstaw graficznego konstruowania reklam  i planowania mediów. Wyposaża  K_W07, K_W12
+66.  mowych i badanie sku-    ponadto studentów w umiejętność projektowania dwóch rodzajów badań: jakościo-  K_U05, K_U07
+      teczności reklamy        wych mających na celu ocenę konceptów reklamowych, jak i ilościowych (włącznie z  K_K02, K_K06
+                            modelami eksperymentalnymi), których celem jest ocena skuteczności oddziaływania
+                            komunikatów marketingowych i wpływu na dynamikę sprzedaży.
+                            Celem przedmiotu jest poznanie przez studentów zarówno założeń badań etnograficz-
+                             nych jako badań jakościowych, jak  i specyfiki w wykorzystaniu tej metody w bada-
+                                niach rynkowych do obserwacji  i analizy zjawisk jeszcze nierozpoznanych w swojej
+                                                                                             K_W03, K_W6, K_W11     Badania etnograficzne w    strukturze  i niepoddających się konceptualizacjom ilościowym. W ramach zajęć stu-
+67.                                                                                                 K_U07, K_U09
+     marketingu                denci poznają różne narzędzia badań etnograficznych, takich jak: obserwacja uczest-                                                                                             K_K03
+                                  nicząca, dziennik obserwacji, kodowanie danych w zakresie nabywania i użytkowania
+                             produktów i usług oraz sposobu, w jaki produkty funkcjonują w gospodarstwach do-
+                           mowych.
+                               Metodologia badan rynkowych to zasadniczo metodologia badań społecznych. Bazując
+                            na ogólnych zasadach metodologicznych, wykorzystywanych w badaniach socjologicz-
+                                nych, studenci w ramach przedmiotu zapoznają się ze specyfiką metod i technik badań
+      Jakościowa i ilościowa      społecznych wykorzystywanych w marketingu. Zajęcia obejmują takie zagadnienia,  K_W06, K_W09, K_W11
+68.   metodologia badań ryn-    jak: skalowanie włącznie z narzędziami specyficznie marketingowymi (np. skale sa-  K_U06, K_U10
+     kowych                      tysfakcji i lojalności), sposoby dobierania prób (ze szczególnym uwzględnieniem sche-  K_K01, K_K02
+                          matów celowych  i quasi probabilistycznych), prowadzenie badań dla specyficznych
+                              grup produktowych (np. produkty do higieny intymnej czy produkty dla dzieci), spo-
+                              sób raportowania adresowany do pracowników agencji reklamowych.
+                               Procesy segmentacji to podstawowe procesy społeczne związane z różnicowaniem
+                               obiektów odmiennych i grupowaniem obiektów podobnych. W ramach przedmiotu stu-
+                                 denci poznają teoretyczne podstawy segmentacji klientów, produktów oraz podmio-
+     Segmentacja, różnicowa-                             tów gospodarczych. Poznają też metody, jakie są stosowane w procesie najpierw upo-  K_W07, K_W12, K_W13
+       nie, pozycjonowanie i
+69.                             dobniania funkcjonalnego produktów do siebie (co wynika z charakteru potrzeb, któ-  K_U05, K_U07      profilowanie w zarządza-
+                          rym produkty mają służyć), a następnie ich różnicowania symbolicznego (pomiędzy  K_K02, K_K06      niu rynkami
+                              markami). Wykorzystując proste (analiza kontyngencji), jak i złożone metody (skalo-
+                              wanie wielowymiarowe, analiza czynnikowa, drzewa decyzyjne) statystyczne zdobędą
+                               umiejętność profilowania klientów zarówno w schemacie a priori, jak i post hoc.
+                                                           21
+                                 Przedmiot stanowi zaawansowane studium skupione na wykorzystaniu potencjału Big
+                               Data w kontekście analizy rynkowej: profili konsumentów, przebiegu procesu decy-
+                                                                                               K_W03, K_W05                                 zyjnego oraz konfiguracji produktowych występujących na rynkach konsumenckich.
+  70.   Big Data w marketingu                                                                            K_U01, K_U03
+                                Kurs ten prowadzi studentów przez kompleksowy zakres narzędzi  i technik, umożli-                                                                                               K_K06
+                                   wiając skuteczne przetwarzanie, analizę i interpretację dużych zbiorów danych w celu
+                                        identyfikacji problemów związanych z kształtowaniem oferty rynkowej.
+                                 Przedmiot ma charakter praktyczny i ma na celu zaznajomienie studentów z bardzo       Modelowanie procesów
+                               popularnym wśród analityków rynkowych schematem conjoint analysys. Studenci po-  K_W07, K_W12       rynkowych z użyciem
+  71.                             znają różne warianty tego modelu i zdobędą umiejętność wykorzystywania go do pro-  K_U05, K_U07
+       metod analizy wielowy-                                  jektowania oferty rynkowej w zakresie alternatywnych cech produktu pożądanych  K_K02, K_K06
+       miarowej
+                                  przez klientów.
+                               Wyposażeni w wiedzę w zakresie podstaw matematycznych stosowanych w analizie i
+       Równania strukturalne i                               modelowaniu zjawisk społecznych z wykorzystaniem SEM, studenci w ramach przed-  K_W07, K_W12
+       modele regresyjne w ba-
+  72.                           miotu skoncentrują się na zastosowaniu tego modelu do ustalania czynników warun-  K_U05, K_U07        daniu determinant wybo-
+                                 kujących określone postawy rynkowe konsumentów, jak i prognozowania opartych na  K_K02, K_K06
+       rów konsumenckich                                   tych postawach procesów rynkowych.
+                                   Szeregi czasowe, powszechnie wykorzystywane w analizach na rynkach finansowych,
+                                     ale także w opisie procesu sprzedaży czy też cyklu życia produktu, to bardzo ważne
+                                                                                               K_W07, K_W12        Szeregi czasowe i analiza   narzędzie służące do przewidywania przebiegu różnych procesów rynkowych. W ra-
+  73.                                                                                                 K_U05, K_U07
+       trendów rynkowych      mach przedmiotu studenci poznają metody analizy (indeksowe  i dekompozycyjne)  i                                                                                                      K_K02, K_K06
+                               zdobywają umiejętność stosowania szeregów do analizy tendencji (trendów) i różnego
+                                  rodzaju wahań cykli sprzedaży.
+                                                                                               K_W07, K_W12        Analityka danych w mar-  W ramach przedmiotu studenci wykorzystują poznane wcześniej techniki analityczne
+  74.                                                                                                 K_U05, K_U07        keting-mix              do łączonej analizy wymiarów produktu, składających się na tzw. marketing-mix
+                                                                                                      K_K02, K_K06
+                                 Przedmiot praktyczny, a jego zróżnicowanie zależy od wybranych zajęć. Studenci po-
+                                  znają zasady różnych dyscyplin sportowych, ćwiczeń i innych aktywności sportowych  75.  WF
+                                    stosując je w praktyce, jednocześnie dbając o zdrowie i bezpieczeństwo. Zajęcia dru-
+                             żynowe pozwalają na rozwijanie kompetencji społecznych.
+
+6. Plan studiów.
+
+ ROK STUDIÓW: I
+
+ SEMESTR: PIERWSZY
+
+                                     Forma zajęć                             Sposób we-
+                                                                                                                    Dyscyplina(y), do któ-    Jednostka organi-                                             Liczba godzin zajęć                                ryfikacji      Punkty Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się        zacyjna realizująca
+                                                                                   efektów      ECTS
+                         W    Ć    S    K    Inne   Suma                          przedmiot                 zajęcia                                                                                       uczenia się
+
+
+                                                             22
+Wprowadzenie do nauk spo-
+                        O      30    30                      60       E/Zo        4     nauki socjologiczne        Instytut Socjologiiłecznych
+Ekonomiczne i gospodarcze wy-                        O            30                      30        Zo         4     nauki socjologiczne        Instytut Socjologii
+miary życia społecznego
+
+Globalne procesy społeczne       O                       30           30        Zo         2     nauki socjologiczne        Instytut Socjologii
+
+Statystyka w analityce społecz-
+                        O      30    30                      60       E/Zo        4     nauki socjologiczne        Instytut Socjologiinej
+Kulturowe aspekty życia spo-                        O                       30           30        Zo         3     nauki o kulturze i religii    Instytut Socjologii
+łecznego
+
+Logika i jej zastosowanie        O            30                      30        Zo         4       filozofia                    Instytut Socjologii
+
+Wstęp do ilościowych metod
+                        O      30    30                      60       E/Zo        3     nauki socjologiczne        Instytut Socjologiibadawczych
+Wprowadzenie do programowa-                        O            30                      30        Zo         4     nauki socjologiczne        Instytut Socjologii
+nia I
+Współczesne problemy spo-                        O                       30           30        Zo         2     nauki socjologiczne        Instytut Socjologii
+łeczne
+                                                                                                                                     Szkoła Języka Pol-
+Język polski dla cudzoziemców     O                             30     30        Zo         0      -                         skiego i Kultury dla
+                                                                                                                      Cudzoziemców
+
+BHP                      O                             4      4        Z         0      -
+
+                SUMA                                     364
+                                 90   180       90    34                      30 godzin zajęć/punktów ECTS                                        (394)
+
+SEMESTR: DRUGI
+
+                                    Forma zajęć                             Sposób
+                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   Punkty
+Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+                                                                                                                          Studium Praktycz-
+Język obcy                 OzW                           60     60       Zo        0       -                          nej Nauki Języków
+                                                                                                                        Obcych
+Koncepty socjologii współcze-
+                        O                      30            30       Zo        3      nauki socjologiczne         Instytut Socjologiisnej
+
+Pomiar w naukach społecznych    O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+
+Komunikacja społeczna i tre-                        O                      30            30       Zo        3      nauki socjologiczne         Instytut Socjologii
+ningi komunikacyjne
+Wstęp do jakościowych metod
+                        O      30    30                      60       E/Zo        4      nauki socjologiczne         Instytut Socjologiibadawczych
+
+
+                                                            23
+ Podstawy analiz geoinformacyj-
+                         O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii nych (GIS)
+
+ Wprowadzenie do baz danych     O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+ Zagadnienia etyczne i prawne                         O                      30            30       Zo        2      nauki socjologiczne         Instytut Socjologii
+ w pracy z danymi
+ Wprowadzenie do programowa-
+                         O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii nia II
+ Wprowadzenie do badań UX
+ (User Experience) LUB Wpro-
+                         OzW           30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii wadzenie do badań ewaluacyj-
+ nych
+                                                                                                                                       Szkoła Języka Pol-
+ Język polski dla cudzoziemców     O                             30     30       Zo        0       -                          skiego i Kultury dla
+                                                                                                                        Cudzoziemców
+                 SUMA                               60    360                                  30   180       90                           30
+  godzin zajęć/punktów ECTS                                  (90)   (390)
+
+Studentów obowiązuje zaliczenie w semestrze I szkolenia bibliotecznego
+
+ ROK STUDIÓW: II
+
+ SEMESTR: TRZECI
+
+                                     Forma zajęć                             Sposób                                                                                                                   Dyscyplina(y), do któ-     Jednostka organi-                                             Liczba godzin zajęć                             weryfikacji   Punkty
+ Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca                                                                                   efektów     ECTS
+                         W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                       uczenia się
+
+ Język obcy                 OzW                           60     60       Zo        0       -                     SPNJO
+
+ Podstawy analizy i interpretacja
+                         O            60                      60       Zo        5      nauki socjologiczne         Instytut Socjologii
+ danych ilościowych
+ Podstawy analizy i interpretacji                         O            60                      60       Zo        5      nauki socjologiczne         Instytut Socjologii
+ danych jakościowych
+ Analityka, zarządzanie i eduka-
+ cja w obszarze bezpieczeństwa    O      30                            30        E         3      nauki socjologiczne         Instytut Socjologii
+ - wykład monograficzny
+ Analityka danych miejskich -                         O      30                            30        E         3      nauki socjologiczne         Instytut Socjologii
+ wykład monograficzny
+ Analiza wariancji i wprowadze-
+                         O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii nie do regresji
+ Modele redukcyjne i klasyfika-
+                         O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii cyjne
+
+                                                             24
+Analiza treści z elementami
+                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologiiuczenia maszynowego
+
+Teorie społeczne XXI wieku       O                      30            30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+                                                                                                                                      Szkoła Języka Pol-
+Język polski dla cudzoziemców     O                             30     30       Zo        0       -                          skiego i Kultury dla
+                                                                                                                       Cudzoziemców
+                SUMA                               60    360
+                                 60   210       30                           30
+ godzin zajęć/punktów ECTS                                  (90)   (390)
+
+SEMESTR: CZWARTY
+
+                                    Forma zajęć                             Sposób                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   PunktyNazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+
+Język obcy (poziom B2)        OzW                           60     60        E        12      -                     SPNJO
+
+Proseminarium licencjackie      OzW                30                30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+Modele regresyjne             O            30                      30       Zo        2      nauki socjologiczne         Instytut Socjologii
+
+Zaawansowane modele anali-
+tyczne (równania strukturalne,                        O            30                      30       Zo        2      nauki socjologiczne         Instytut Socjologii
+sieci neuronowe, modele ścież-
+kowe)
+
+Analiza logliniowa             O            30                      30       Zo        2      nauki socjologiczne         Instytut Socjologii
+
+Szeregi czasowe i modele pro-                        O            30                      30       Zo        2      nauki socjologiczne         Instytut Socjologii
+gnostyczne
+Zarządzanie badaniami i zespo-
+                        O                      30           30       Zo        2      nauki socjologiczne         Instytut Socjologiiłem badawczym
+Analityka danych w marketingu                        O      30                            30        E         3      nauki socjologiczne         Instytut Socjologii
+- wykład monograficzny
+
+Wizualizacja danych           O            30                      30       Zo        2      nauki socjologiczne         Instytut Socjologii
+
+                                                                                                                                      Szkoła Języka Pol-Język polski dla cudzoziemców
+                        O                            30     30        E         8       -                          skiego i Kultury dla
+(poziom B2)                                                                                                                       Cudzoziemców
+                SUMA                               60    300               30                                 30   150   30  30
+ godzin zajęć/punktów ECTS                                  (90)   (330)               (38)
+
+
+ROK STUDIÓW: III
+
+                                                            25
+SEMESTR: PIĄTY
+
+                                    Forma zajęć                             Sposób
+                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   Punkty
+Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+
+Zajęcia specjalnościowe        OzW          210                     210       Zo        24     nauki socjologiczne         Instytut Socjologii
+
+                                                                                                                                        Uniwersyteckie
+                                                                                                                      Centrum Wycho-
+WF**                    OzW           60                      60       Zo        0       -                                                                                                                             wania Fizycznego i
+                                                                                                                                  Sportu
+
+Seminarium licencjackie         O                  30                30       Zo        6      nauki socjologiczne         Instytut Socjologii
+
+                SUMA                                      270   30              300               30
+ godzin zajęć/punktów ECTS
+
+SPECJALNOŚĆ: ANALITYKA, ZARZĄDZANIE I EDUKACJA W OBSZARZE BEZPIECZEŃSTWA
+
+                                    Forma zajęć                             Sposób                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   Punkty
+Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+Laboratorium badań społecz-
+nych w obszarze bezpieczeń-      O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+stwa
+Prawne podstawy bezpieczeń-                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+stwa
+
+Kultura bezpieczeństwa         O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+Bezpieczeństwo narodowe i
+                        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologiimiędzynarodowe
+Strategie zarządzania bezpie-                        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+czeństwem w instytucjach
+Badania sondażowe w analizie
+społecznych kontekstów bez-      O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+pieczeństwa
+
+Strategie edukacyjne           O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+                SUMA                                      210                   210               24
+ godzin zajęć/punktów ECTS
+
+SPECJALNOŚĆ: ANALITYKA DANYCH MIEJSKICH
+
+
+                                                            26
+                                    Forma zajęć                             Sposób                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   PunktyNazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+Elementy planowania prze-
+strzennego i podstawy funkcjo-                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+nowania samorządu terytorial-
+nego
+Socjologia miasta i teorie roz-                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+woju miast
+
+Ekonomia miasta             O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+Źródła i rodzaje danych zasta-
+                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologiinych w badaniach miejskich
+Dane jakościowe i badania son-
+dażowe w analizie zjawisk i       O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+przemian miejskich
+
+Big Data w analityce miejskiej     O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+
+Analizy geoinfomacyjne w ba-                        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+daniach miejskich
+                SUMA                                      210                   210               24
+ godzin zajęć/punktów ECTS
+
+SPECJALNOŚĆ: ANALITYKA DANYCH W MARKETINGU
+
+                                    Forma zajęć                             Sposób
+                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   Punkty
+Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+
+Źródła danych rynkowych        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+Zachowania konsumenckie i                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+badanie postaw utajonych
+
+e- Commerce                O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologii
+
+Analiza projektów reklamowych
+                        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologiii badanie skuteczności reklamy
+Badania etnograficzne w mar-                        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+ketingu
+
+Big Data w marketingu          O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+
+Jakościowa i ilościowa metodo-
+                        O            30                      30       Zo        3      nauki socjologiczne         Instytut Socjologiilogia badań rynkowych
+
+                                                            27
+                SUMA
+                                      210                   210               24 godzin zajęć/punktów ECTS
+
+SEMESTR: SZÓSTY
+
+                                    Forma zajęć                             Sposób
+                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   PunktyNazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+
+Zajęcia specjalnościowe        OzW          150                     150       Zo        24     nauki socjologiczne         Instytut Socjologii
+
+Seminarium licencjackie         O                  30                30       Zo        6      nauki socjologiczne         Instytut Socjologii
+
+                SUMA
+                                      150   30              180               30 godzin zajęć/punktów ECTS
+
+SPECJALNOŚĆ: ANALITYKA, ZARZĄDZANIE I EDUKACJA W OBSZARZE BEZPIECZEŃSTWA
+
+                                    Forma zajęć                             Sposób
+                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   PunktyNazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+Laboratorium badań społecz-
+nych w obszarze bezpieczeń-      O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+stwa
+Prawne podstawy bezpieczeń-
+                        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologiistwa
+
+Kultura bezpieczeństwa         O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+
+Bezpieczeństwo narodowe i                        O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+międzynarodowe
+Strategie zarządzania bezpie-
+                        O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologiiczeństwem w instytucjach
+                SUMA
+                                      150                   150               24
+ godzin zajęć/punktów ECTS
+
+SPECJALNOŚĆ: ANALITYKA DANYCH MIEJSKICH
+
+                                    Forma zajęć                             Sposób                                                                                                                  Dyscyplina(y), do któ-     Jednostka organi-                                            Liczba godzin zajęć                             weryfikacji   PunktyNazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                  efektów     ECTS
+                        W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                      uczenia się
+Prawne aspekty pozyskiwania
+danych na potrzeby analiz        O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii
+miejskich
+
+
+                                                            28
+ Badanie przemian miejskich z
+ użyciem metod analizy wielo-     O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+ wymiarowej
+ Równania strukturalne i modele
+ regresyjne w badaniu proble-     O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+ mów i przemian miejskich
+ Elementy badań diagnostycz-
+ nych i planowania strategicz-
+                         O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii nego w oparciu o przetwarzanie
+ danych miejskich
+ Elementy zarządzania miastem
+                         O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii w oparciu o dane
+                 SUMA                                       150                   150               24
+  godzin zajęć/punktów ECTS
+
+ SPECJALNOŚĆ: ANALITYKA DANYCH W MARKETINGU
+
+                                     Forma zajęć                             Sposób                                                                                                                   Dyscyplina(y), do któ-     Jednostka organi-                                             Liczba godzin zajęć                             weryfikacji   Punkty Nazwa przedmiotu/zajęć       O/OzW*                                                                           rej(ych) odnosi się         zacyjna realizująca
+                                                                                   efektów     ECTS
+                         W    Ć    S    K    Inne   Suma                         przedmiot                  zajęcia                                                                                       uczenia się
+ Segmentacja, różnicowanie i
+ pozycjonowanie w zarządzaniu     O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+ rynkami
+ Modelowanie procesów rynko-
+ wych z użyciem metod analizy     O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+ wielowymiarowej
+ Równania strukturalne i modele
+ regresyjne w badaniu determi-    O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+ nant wyborów konsumenckich
+ Szeregi czasowe i analiza tren-                         O            30                      30       Zo        5      nauki socjologiczne         Instytut Socjologii
+ dów rynkowych
+ Analityka danych w marketing-
+                         O            30                      30       Zo        4      nauki socjologiczne         Instytut Socjologii mix
+                 SUMA
+                                       150                   150               24
+  godzin zajęć/punktów ECTS
+
+* Przedmiot: obowiązkowy – O, do wyboru – W, obowiązkowy z wyborem – OzW
+** Obowiązkowe wychowanie fizyczne będzie realizowane od II do V semestr w wymiarze 60 g., rozliczenie zaliczenia w semestrze V. Na zasadach określonych w odrębnych przepisach zajęcia
+mogą być prowadzone z wykorzystaniem metod i technik kształcenia na odległość.
+
+OBJAŚNIENIA:
+Formy realizacji zajęć:                             Sposoby weryfikacji efektów uczenia się:
+W - wykład                                           Eu - egzamin ustny
+Ć – ćwiczenia                                         Ep - egzamin pisemny
+S – seminarium                                        T - test
+P – proseminarium                                              Es. - esej
+                                                             29
+L - zajęcia laboratoryjne                                           Proj. - projekt
+K – konwersatorium                                                Pr. – praca roczna
+W – warsztaty                                     Z - zaliczenie
+Pr - pracownie                                       Zo – zaliczenie z oceną
+L – lektorat                                                 Inne: np. UP – ustna prezentacja, R - raport
+Ćw. - ćwiczenia terenowe
+T – tutorial
+Inne: np. praktyki
+
+
+
+
+
+                                                             30

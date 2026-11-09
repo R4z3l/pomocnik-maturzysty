@@ -1,0 +1,1451 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<script>clientVersion = "UENew" </script>
+<script src="/Scripts/SylabusConfig.js"></script>
+<script src="/Scripts/ObjectHelper.js"></script>
+<script src="/Scripts/jquery-2.1.4.min.js"></script>
+<script src="/Scripts/jquery-ui.min.js"></script>
+<script src="/Scripts/knockout-3.3.0.js"></script>
+<script src="/Scripts/LanguagesViewModel.js"></script>
+<script src="/Scripts/ConnectionWrapper.js"></script>
+<script src="/Scripts/AlertHelper.js"></script>
+<script>        LanguageVM.GetLanguages()</script>
+<script>        LanguageVM.GetSelectedLanguage()</script>
+<title>KierunkiStudiow - SylabusKRK</title>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="/Content/css?v=" rel="stylesheet"/>
+<script src="/bundles/modernizr?v=rGcoDow97GYrNMSwHq7xCCjlcB3UIY4_OhPRc6BBSQA1"></script>
+<link href="/Content/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/jquery-ui.structure.min.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/jquery-ui.theme.min.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/main.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/expander.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/matrix-style.css" rel="stylesheet" type="text/css"/>
+<link href="/Content/fontawesome/css/all.css" rel="stylesheet"/> <!--load all styles -->
+<!--[if gte IE 5]>
+<link rel="stylesheet" type="text/css" href="/Content/ie-style.css"></link>
+<![endif]-->
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+        window.cookieconsent_options = { "message": "Ta strona używa plików Cookie i Local storage. Dowiedz się więcej o celu ich używania i możliwości zmiany ustawień Cookies w przeglądarce.", "dismiss": "Ok, rozumiem", "learnMore": "More info", "link": null, "theme": "dark-bottom" };
+    </script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript"></script>
+<!-- End Cookie Consent plugin -->
+<!--[if IE]>
+        <style type="text/css">
+            .myDiv { 
+              height:expression(this.scrollHeight < 200 ? "200px" : "auto");
+            }
+        </style>
+        <![endif]-->
+</head>
+<body>
+<div class="upper_bar_2" name="layout">
+<div class="upper_bar_logos" name="layout_navbar_logo">
+<img class="logo" src="/Images/sylabusKRKwhitelogo.png"/>
+</div>
+<div class="upper_bar_2" name="layout_navbar_elements">
+<ul class="upper_bar_li" name="layout_navbar_elements_list">
+<li class="multilang" data-bind="foreach: LanguageVM.LanguageList, visible: MainConfig().UseMultiLanguageVersion()" id="multilang">
+<button class="btn btn-primary" data-bind="click: LanguageVM.SwitchLanguage, text: shortName, attr: { name: shortName + '_btn_no_translate'}">
+</button></li>
+<li class="logout">
+<a class="logout" href="/Home/LogOut" name="layout_logout">
+                                Wyloguj
+                            </a>
+</li>
+<li id="upb2-moje">
+<a href="/Home/Moje" name="layout_my_syllabuses">
+                                    Moje
+                                </a>
+</li>
+<li id="upb2-autorzy">
+<a data-bind="text: MainConfig().UseCoordinatorsInsteadOfAuthors() ? 'Prowadzący' : 'Autorzy'" href="/Authors" name="layout_authors">
+</a>
+</li>
+<li id="upb2-efektykierunkowe">
+<a href="/Effects/EfektyKierunkowe" name="layout_course_effects">
+                                    Efekty kierunkowe
+                                </a>
+</li>
+<li id="upb2-efektyobszarowe">
+<a data-bind="text: MainConfig().UsePRK() ? 'PRK' : 'Efekty obszarowe'" href="/Effects/EfektyObszarowe" name="layout_area_effects">
+</a>
+</li>
+<li id="upb2-kompetencjeprzyszlosci">
+<a data-bind="visible: MainConfig().UseFutureCompetences()" href="/Competences/KompetencjePrzyszlosci" name="layout_future_competences">
+                                    KP
+                                </a>
+</li>
+<li id="upb2-modulydowyboru">
+<a data-bind="visible: MainConfig().ShowModulesToChooseFrom()" href="/Home/ModulyDoWyboru" name="layout_future_modulestochoosefrom">
+                                    MDW
+                                </a>
+</li>
+<li id="upb2-kieronkistudiow">
+<a data-bind="text: MainConfig().StudyPlanButtonContent()" href="/Home/KierunkiStudiow" name="layout_study_plan">
+</a>
+</li>
+<li id="upb2-pa">
+<a href="/AdminPanel" name="layout_admin_panel">
+                                    PA
+                                </a>
+</li>
+<li id="upb2-dlastudentow">
+<a href="/ForStudents" name="layout_for_students">
+                                    Dla studentów
+                                </a>
+</li>
+<li data-bind="visible: MainConfig().UseSeparateWeights()" id="upb2-reports">
+<a href="/Raporty/Raport" name="layout_reports">
+                                    Raporty
+                                </a>
+</li>
+<li data-bind="visible: MainConfig().SendingEmailsVisible()" id="upb2-emails">
+<a href="/Email/Email" name="layout_for_emails">
+                                    Wysyłanie e-maili
+                                </a>
+</li>
+<li data-bind="visible: MainConfig().SearchTabVisible()" id="upb2-search">
+<a href="/Search/Search" name="layout_search">
+                                    Wyszukiwanie kursów
+                                </a>
+</li>
+</ul>
+</div>
+</div> <div id="body" name="layout_body">
+<div id="loading-dialog" name="layout_loading-dialog">
+<div id="progressbar" name="layout_progressbar">
+</div>
+<p>
+                Trwa ładowanie danych. Proszę czekać...</p>
+</div>
+<div id="alert-dialog" name="layout_alert-dialog">
+</div>
+<section class="content-wrapper main-content clear-fix" name="layout_render_body">
+<script>
+    MainConfig(InitializeSylabusConfig({"AppVersion":1,"SylabusPrintVersion":16,"LoginWithCas":false,"CasLoginAddress":null,"CasVersion":null,"UseSylabusV2InsteadOneSylabus":false,"ConnectCoursesToFieldEffect":false,"ConnectCourseEffectsToAims":true,"ConnectOwnWorkToEffects":true,"RequireConnectCourseEffectsToAims":true,"ConnectSubjectsToAims":true,"ConnectSubjectsOwnWorkToAims":true,"AcceptAndUnacceptMechanism":false,"MailSender":"system@e-sylabus.pl","MailServer":"mail.e-sylabus.pl","MailLogin":"system@e-sylabus.pl","MailPassword":"E6p334IK","MailPort":25,"MailWithPasswordTitle":"Hasło do programu PSSOR","MailWithPasswordContent":"Szanowni Państwo\n\nW związku z koniecznością dopasowania planów studiów do wymagań KRK (Krajowych Ram Kwalifikacji), na naszej Uczelni podjęta została akcja rekonstrukcji planów studiów i modyfikacji sylabusów poszczególnych przedmiotów. Aby skoordynować i ułatwić przeprowadzenie tych prac na UE we Wrocławiu oraz umożliwić późniejszy dostęp do zebranych informacji wszystkim zainteresowanym opracowana została aplikacja nazwana PSSOR (Program Studiów, Sylabusy i Organizacja Roku).\nProgram dostępny jest pod adresem pssor.ue.wroc.pl \n\n W programie występuje Pan(i) w roli autora sylabusa (lub sylabusów), a aktualna praca polega na edycji sylabusów przedmiotów, do których zostali Państwo przypisami przez Opiekunów kierunków studiów. Pracę tę należy wykonać w terminie i według zasad ustalonych przez Opiekuna kierunku studiów.\n\nPaństwa login do tego systemu to nazwa konta e-mail na który przyszła ta wiadomość.\nNatomiast prywatne hasło dostępu do tego programu zawiera  niniejszy e-mail: \n\nHasło: {0}\n\nZwracamy uwagę, że do poprawnego działania programu wymagany jest dodatek Silverlight w wersji 5.0. W przypadku starszych wersji będzie pojawiał się komunikat o  niemożliwości wejścia do zakładki \u0027\\Home\u0027\nNa ekranie logowania aplikacji znajdują się linki do pobrania dodatku Silverlight 5.0 dla systemów 32 lub 64 bitowych.\n\nProsimy o zapisanie poniższego hasła w bezpiecznym miejscu. W przypadku jego zgubienia konieczny będzie kontakt z Opiekunem kierunku, który ma uprawnienia do ponownego wysłania tej wiadomości.\n\nW przypadku problemów technicznych z aplikacją prosimy o kontakt pod adresem, który podany jest na stronie logowania do programu.\n\nAplikacja PSSOR dostępna jest pod adresem http://pssor.ue.wroc.pl","MailWithPasswordToItSpecialistTitle":null,"MailWithPasswordToItSpecialistContent":null,"MailWithAcceptedVerificationTitle":"Akceptacja kursu w systemie PSSOR","MailWithAcceptedVerificationContent":"Sylabus dla kursu {0} został zatwierdzony przez opiekuna kierunku.\n\nWiadomość wygenerowana automatycznie z programu PSSOR (http://pssor.ue.wroc.pl).","MailWithNotAcceptedVerificationTitle":"Brak akceptacji kursu w systemie PSSOR","MailWithNotAcceptedVerificationContent":"Sylabus dla kursu {0} nie został zatwierdzony przez opiekuna kierunku. Zaloguj się do systemu, aby przejrzeć uwagi opiekuna. \n\nWiadomość wygenerowana automatycznie z programu PSSOR (http://pssor.ue.wroc.pl).","ThirdFormOfCourse":"Ćwiczenia komputerowe","ShowThirdFormOfCourse":true,"StudyPlanButtonContent":"Kierunki studiów","UseSubjectInsteadOfCourse":false,"UseSpecGuardiansAndCoordinators":true,"DontSendMailAboutPlanOfStudyCopy":true,"NeedToAcceptPlanAfterCopy":true,"SendScheduledReminders":true,"UseLockInAdminPanel":true,"UseExperience":false,"UseStudyWork":false,"UseProtocol":false,"StudyWorkName":"Wizyty studyjne","UseOther4AsElearningEffects":false,"UseSeparateWeights":false,"SubCoursesName":"Kursy poboczne","ThirdLevelStudiesName":"III stopień","IsThirdLevelOfStudiesEnabled":true,"IsPostgraduateStudiesEnabled":false,"ItSpecialistMail":null,"EnabeSendingPasswordToItSpecialist":false,"AddThirdCreditForm":true,"GeneralCourseDescriptionName":"Opis ogólny przedmiotu:","FormOfStudyName":"Forma studiów:","UseOwnCoursesTypes":true,"UseSpeciality":false,"UseSpecializations":true,"FacultyName":"Wydział:","ShowOrganizationalUnit":true,"EnableAddingSubCoursesToNotAcceptedCourses":false,"ShowOrganizationalUnitComboBox":true,"ShowCurseDescription":true,"GuardianOfInstituteCanApproveSylabus":true,"GeneralObjectivesTeachingCourseOnBasedSylabusInformation":false,"SpecjalizationOnCouseEffects":false,"NewGroupButtonOnStudyCourses":false,"ShowCourseStatusCombobox":true,"AvailableHalfECTSPoints":false,"AdministrationPanelIsVisible":true,"PostgraduateStudiesName":"","AlphabeticalOrderCourses":true,"AlphabeticalOrderSpecs":false,"PedagogiumSpecializationsOnMatrix":false,"AcademicYearName":"Rocznik:","AnotherMethod":"Projekt badawczy","ProjectMethod":"Projekt","CanAllowAllFieldsEffectsToCourse":false,"AllowAllSemestersOnFirstLevel":false,"AllowEffectNotes":false,"StudentSelfWorkTabName":"Projekty","ShowPassFormsInSylabusView":false,"SearchTabVisible":true,"SearchTabAvailableForAuthors":false,"TableWithECTSPointsIsVisibleInStudentLoadTab":true,"MinNumberOfHoursPerOneECTSPoint":25,"MaxNumberOfHoursPerOneECTSPoint":30,"UsersPersonalDataOnExternalServer":false,"ExternalServerConnectionAddress":"","SaveSylabusInIsolatedStorageBeforeSaveInDatabase":false,"CourseTeachingMethodAvailable":false,"ReadOnlyModeEnabled":true,"SplashScreenUrl":"http://ue.e-sylabus.pl/Images/splashscreen.jpg","StudyLevelString":"Poziom studiów","PrerequisitesString":"Wymagania wstępne (opis kompetencji posiadanych przez studenta przed realizacją przemiotu) :","PrerequisitesVisibility":false,"UseProjectsInsteadOfOwnWork":true,"UseConnectedResearch":true,"MoviesOnLiterature":false,"SubjectNumberFormat":"","SubjectNumberPositions":0,"UseSubjectGroups":false,"EntendedDescriptionOnSubjects":false,"UseActiveDirectoryLogin":false,"ActiveDirectoryGroup":"Domain Users","ActiveDirectoryDomain":"","SavePrintingPath":"","UseIsbnOnLiterature":false,"AuthorsPageOnlyForGlobalAdmin":true,"UseModulesInsteadOfCourse":false,"UserCSVEffectReader":false,"UseExternalSystemCourseId":false,"UseOther2CourseForm":false,"Other2CourseFormName":"","Other2CourseFormShortName":"","SeminaryCourseFormName":"Seminaria","SeminaryCourseFormShortName":"S","ShowStudyPlanImportTab":false,"ShowStudyPlanCopyTab":true,"ShowUserImportTab":false,"TextButtonsInsteadIcons":false,"ShowAddModuleButton":true,"NewCourseGroupButtonContent":"Nowa grupa kursów","ShowNoSpecializationOptionOnMatrix":true,"ModulesOnTheSameLineWithSpecialization":true,"ShowStudyPlanRemoveTab":true,"UseLoginThroughActiveDirectory":false,"ActiveDirectoryAppKey":null,"UseSylabusTextButtons":false,"UseECTSRange":true,"PwOnMatrix":true,"PwOnPlanOfStudy":false,"UseUsersInAuthorsList":true,"UseModuleFormOnList":false,"UseVerifyEffectsDescription":false,"ShowAllCoursesForInstituteGuard":true,"ChangeSylabusStateAfterSave":false,"ShowSylabusCopyTab":true,"ShowOnlyRealizeAimsOnControlMatrix":false,"ShowPrintCourseEffectButton":false,"GlobalAdminCanCompleteSylabusWithErrors":true,"SendMailAboutHoursChanged":true,"SiteAddress":"http://ue.e-sylabus.pl","UseMultiLanguageVersion":true,"UseEffectsNameInCsvFileInMatrix":true,"CanCopyConnectionEffectsBetweenLevelOfStudies":true,"CanCopyConnectionEffectsBetweenYears":true,"ShowAllCoursesOnStudentView":true,"OtherFormShortName":"L","OtherFormName":"Laboratoria","UseSpecjalizationFilter":true,"UseRecruitmentFilter":false,"UseExtendedMoje":true,"ShowSubCoursesTab":false,"UseExtendedExercises":false,"UseFormingAndSummaryNotesOnSubjects":false,"ChangeColorHomeEditMode":true,"UseNoteEffectsForAllCourse":false,"EnableStudentVersion":true,"ShowPrintCourseEffectsButton":true,"UseSpecialityInNames":true,"DefaultYear":null,"UseStudentActivityPracticalColumn":false,"UseEngineeringEffects":false,"NumberOfExtendedExercises":0,"Exercise1ShortName":null,"Exercise2ShortName":null,"Exercise3ShortName":null,"Exercise4ShortName":null,"Exercise1FullName":null,"Exercise2FullName":null,"Exercise3FullName":null,"Exercise4FullName":null,"UseLectureCycle":false,"UseProjects":false,"UseOther3Course":true,"UseOther4Course":false,"UseOther5Course":false,"Other3ShortName":"PZ","Other4ShortName":null,"Other5ShortName":null,"Other3FullName":"Praktyka zawodowa","Other4FullName":null,"Other5FullName":null,"UseOtherCourse":true,"AuthorCanEditSylabus":false,"UseAdvancedEffectVerification":false,"NumberOfVersionTeachingMethods":0,"UseAims":true,"ThirdFormOfCourseShortName":"CK","SemesterSelector":false,"SemesterCheck":false,"CanSelectStationaryAndUnstatioryMode":true,"HalfNotesOnNotesCriteria":true,"CourseCodeOnCourseEffectSymbolNames":false,"AimsIsteadOfDescription":false,"UseWSBHelpCommunications":false,"CheckTimersMode":false,"UsePermissions":true,"UseUserManual":true,"UseUserManual2":false,"UserManualPath":"http://ue.e-sylabus.pl/PodrecznikUE2023.pdf","UserManualPath2":null,"UseAreasInAreaEffect":false,"LastYearWithoutYearsOnAreaEffects":11,"UseNewEffectsImport":false,"UseNewPlanOfStudyImport":false,"AllCoursesOnEffectMatrix":false,"GlobalAdminCanChangeSylabusWithoutStatusChange":false,"HelpEmailAddress":"pomoc-ue@e-sylabus.pl","UseHoursVerifyOnSelfWork":false,"UseContactHoursOnSelfWork":false,"UseDecimalValuesOnECTSVerification":true,"SubjectsTabHeader":"Tematy zajęć","UseCustomComments":false,"UseTypeInCourseType":false,"UseHierarchicalPlanOfStudy":true,"UseKeywords":false,"UseSimpleCriteria":false,"UseRussianLanguageInCourseLang":false,"UseFrenchLanguageInCourseLang":false,"UseCustomLogo":false,"HalfNotesWithPlusOnNotesCriteria":true,"ShowLegendOnSubjects":false,"UseSynchronizationWithUsos":true,"OnlyOneFormCanBeRealizedOnOneSubject":false,"UseWSBAlgorithmToSetCourseCode":false,"CustomLogoPath":"http://ue.e-sylabus.pl/Images/uelogo.png","UseRemoveCourseTab":true,"ShowEffectVerificationInfo":true,"UseMidpointAwayOnECTSVerification":false,"PwShortName":"","PwFullName":"","EverySyllabusesPrintingAvailable":true,"IndicatorsPrintingAvailable":false,"ModularLearningEffectsPrintingAvailable":false,"CourseContentForFieldPrintingAvailable":false,"PracticalCoursesForFieldPrintingAvailable":false,"AuthorsPrintingAvailable":true,"EffectsPrintingAvailable":true,"SendingEmailsAboutNewSylabusesEnabled":true,"PrintOnlyVisibleCourses":false,"ShowCoursesPrintout":true,"UseCoordinatorsInsteadOfAuthors":true,"UsePrintSylabusV2":false,"PrintSylabusV2Name":"Syl. bez ef. obszarowych","CanUserRegister":false,"UseManySylabusPrint":false,"WVisible":true,"CVisible":false,"CTVisible":false,"LVisible":false,"LBVisible":false,"KVisible":false,"SVisible":true,"PVisible":false,"ZPVisible":false,"ELVisible":false,"WFVisible":false,"IVisible":false,"AuthorsName":null,"IsSurveyUsed":false,"UsePrintFieldOfStudyShortcut":false,"UsePrintFieldOfStudyWeb":false,"UsePrintSemestr":false,"UsePrintMatrix":false,"UseIndicatorsWSBWroc":false,"UsePrintFieldOfStudyShortcutExcel":false,"UsePrintFieldOfStudyAll":false,"GrayOutSpecialityFaculty":true,"UseUENewRoles":true,"CanEveryoneEditSpecs":true,"CanManagersEditSpecialityCourses":true,"SendingEmailsVisible":true,"AllowGuardianToPanelAdmin":false,"UsePrintBIP":false,"PermissionTypeForPanelAdmin":0,"UseLinkInLiterature":false,"LimitedEditForGuardian":false,"UsePRK":false,"EverySyllabusesPrintingForWSBWroc":false,"UseFutureCompetences":false,"UseInteractiveMatrix":false,"UseCDVNewEffectVerification":false,"UseLibraryEmailCDVNew":false,"SylabusEditViewProps":true,"SylabusCourseOfModuleDifferentDesign":false,"ShowModulesToChooseFrom":false,"StudentSelfButtonName":"Dodaj temat pracy własnej","StudentSelfTematColumnName":"Temat","StudentSelfWorkCDVNewView":false,"CourseOfModulePracticality":"","WsbWrocPracaWlasnaCounter":false,"CDVNewCourseFilter":false,"WSEISylabusMethodsSettings":false,"WSEISylabusProfileSettings":false,"UseWSEICriteria":false,"AddAimsInSyllabusAndNotConnect":false,"HideStudentSelfWorkTab":false,"CanCopySyllabusFromModelFieldOfStudy":false,"PracticalityTabVisible":false,"ShowAddSpecialityButton":false,"HideCoordinatorsAuthorsTab":false,"WydrukiCDVNew":false}));
+</script>
+<script src="/Scripts/ControlsDefinition.js"></script>
+<div id="block_general">
+<table class="tableGeneral" name="fs_fields_of_study_table">
+<thead>
+<tr>
+<th class="main_header" data-bind="text: MainConfig().UsePRK() ? 'Cykl, wydział i kierunek' : 'Rok rozpoczęcia studiów, wydział i kierunek' ">
+<!--Wydział i kierunek-->
+</th>
+<th>
+</th>
+<th class="main_header">
+                    Stopień studiów
+                </th>
+<th>
+</th>
+<th class="main_header">
+                    Forma studiów
+                </th>
+</tr>
+</thead>
+<tbody name="fs_fields_of_study_body">
+<th>
+<!-- Wydzial i kierunek -->
+<table name="fs_fields_of_study_table_header">
+<tr>
+<td name="fs_fields_of_study_year_name_title_no_translate">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.YearsList, optionsText: 'NazwaRocznika', value: FieldsOfStudySelectorVM.SelectedYear">
+</select>
+</td>
+</tr>
+<tr>
+<td name="fs_fields_of_study_department_list">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.DepartmentsList, optionsText: 'NazwaWydzialu', value: FieldsOfStudySelectorVM.SelectedDepartment, attr: {'disabled': MainConfig().GrayOutSpecialityFaculty() ? 'readonly' : undefined }, style: {'background-color': MainConfig().GrayOutSpecialityFaculty() ? '#d2d2d2' : '#ffffff'}">
+</select>
+</td>
+</tr>
+<tr>
+<td name="fs_fields_of_study_list_name_no_translate">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.FieldOfStudyList, optionsText: 'NazwaKierunku', value: FieldsOfStudySelectorVM.SelectedFieldOfStudy">
+</select>
+</td>
+</tr>
+<tr data-bind="visible: MainConfig().UseSpeciality()">
+<td name="fs_fields_of_study_speciality_list">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.SpecialityList, optionsText: 'NazwaSpecjalnosci', optionsCaption: 'Wszystkie specjalności', value: FieldsOfStudySelectorVM.SelectedSpeciality">
+</select>
+</td>
+</tr>
+<tr data-bind="visible: MainConfig().UseSpecjalizationFilter()">
+<td name="fs_fields_of_study_specialization_list">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.SpecjalizationList, optionsText: 'NazwaSpecjalizacji', optionsCaption: 'Wszystkie specjalności', value: FieldsOfStudySelectorVM.SelectedSpecjalization, attr: {'disabled': MainConfig().GrayOutSpecialityFaculty() ? 'readonly' : undefined }, style: {'background-color': MainConfig().GrayOutSpecialityFaculty() ? '#d2d2d2' : '#ffffff'}">
+</select>
+</td>
+</tr>
+</table>
+<th>
+<table name="fs_fields_of_study_show_organizational_table">
+<tr data-bind="visible: MainConfig().ShowOrganizationalUnitComboBox()">
+<td name="fs_fields_of_study_unit_list">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.UnitList, optionsCaption: 'Wszystkie jednostki', value: FieldsOfStudySelectorVM.SelectedUnitName">
+</select>
+</td>
+</tr>
+<tr data-bind="visible: !MainConfig().ShowOrganizationalUnitComboBox()">
+<td name="fs_fields_of_study_unit_name">
+<input class="select_header select_header_input" data-bind="value: FieldsOfStudySelectorVM.UnitName" placeholder="Jednostka" type="text"/>
+</td>
+</tr>
+<tr>
+<td name="fs_fields_of_study_users_list_no_translate">
+<select class="select_header" data-bind="options: FieldsOfStudySelectorVM.UsersList, optionsCaption: MainConfig().UseCoordinatorsInsteadOfAuthors() ? 'Wszyscy koordynatorzy' : 'Wszyscy autorzy', optionsText: 'Value', optionsValue: 'Key', value: FieldsOfStudySelectorVM.SelectedUser">
+</select>
+</td>
+</tr>
+<tr>
+<td class="tableGeneral" name="fs_fields_of_study_course_name_no_translate">
+<input class="select_header select_header_input" data-bind="value: FieldsOfStudySelectorVM.CourseName" placeholder="Kurs" type="text"/>
+</td>
+</tr>
+</table>
+</th>
+<th>
+<!-- Stopień studiow -->
+<table class="tableGeneral" name="fs_fields_of_study_study_level">
+<tr data-bind="enable: $root.FieldsOfStudySelectorVM.FirstLevelEnabled(), visible: !$root.FieldsOfStudySelectorVM.OneLevelOfStudy()">
+<td name="field_of_study_tab_first_level">
+<input data-bind="checked: $root.FieldsOfStudySelectorVM.SelectedLevelOfStudy, value: 1" type="radio"/><label>I stopień</label>
+</td>
+</tr>
+<tr data-bind="enable: $root.FieldsOfStudySelectorVM.SecondLevelEnabled(), visible: !$root.FieldsOfStudySelectorVM.OneLevelOfStudy() &amp;&amp; $root.FieldsOfStudySelectorVM.SelectedFieldOfStudy() &amp;&amp; $root.FieldsOfStudySelectorVM.SelectedFieldOfStudy().LiczbaSemestrow2Stopnia &gt; 0">
+<td name="field_of_study_tab_second_level">
+<input data-bind="checked: $root.FieldsOfStudySelectorVM.SelectedLevelOfStudy, value: 2" type="radio"/><label>II stopień</label>
+</td>
+</tr>
+<tr data-bind="visible: $root.FieldsOfStudySelectorVM.ThirdLevelEnabled() &amp;&amp; !$root.FieldsOfStudySelectorVM.OneLevelOfStudy()">
+<td name="field_of_study_tab_third_level">
+<input data-bind="checked: $root.FieldsOfStudySelectorVM.SelectedLevelOfStudy, value: 3" type="radio"/><label data-bind="text: MainConfig().ThirdLevelStudiesName()"></label>
+</td>
+</tr>
+<tr data-bind="visible: $root.FieldsOfStudySelectorVM.FourthLevelEnabled() &amp;&amp; !$root.FieldsOfStudySelectorVM.OneLevelOfStudy()">
+<td name="field_of_study_tab_FourthLevelEnabled">
+<input data-bind="checked: $root.FieldsOfStudySelectorVM.SelectedLevelOfStudy, value: 4" type="radio"/><label data-bind="text: MainConfig().PostgraduateStudiesName()"></label>
+</td>
+</tr>
+<tr data-bind="visible: $root.FieldsOfStudySelectorVM.OneLevelOfStudy()">
+<td>
+<span>jednolite magisterskie</span>
+</td>
+</tr>
+</table>
+</th>
+<th>
+<table name="fs_fields_of_study_get_course_table">
+<th>
+<tr>
+<td class="col-md-1" name="fs_fields_of_study_get_course">
+<p>
+<button class="mybutton" data-bind="click:ForStudentsVM.GetCourses" id="getCourseBtn" onclick="menu_button_active()" type="submit">
+<img src="/Images/zakoncz.png"/><br/>
+<label>Przejdź</label></button></p>
+</td>
+</tr>
+</th>
+</table>
+</th>
+<th>
+<!-- Forma studiow w FieldOfStudyViewModel nie ma odwolania do selectedstudyform -->
+<table id="effect-kier-header" name="fs_fields_of_study_selected_study_table">
+<tr>
+<td>
+<input data-bind="checked: $root.ForStudentsVM.SelectedStudyForm, value: 1" name="subjectRadio" type="radio"/>
+<label name="field_of_study_tab_selectedstudyform_stationary">
+                                    Stacjonarne</label>
+</td>
+</tr>
+<tr>
+<td>
+<input data-bind="checked: $root.ForStudentsVM.SelectedStudyForm, value: 2" name="subjectRadio" type="radio"/>
+<label name="field_of_study_tab_selectedstudyform_unstationary">
+                                    Niestacjonarne</label>
+</td>
+</tr>
+<tr>
+<td>
+<input data-bind="checked: $root.ForStudentsVM.SelectedStudyForm, value: 0, enable: MainConfig().CanSelectStationaryAndUnstatioryMode()" name="subjectRadio" type="radio"/>
+<label name="field_of_study_tab_selectedstudyform_all">
+                                    Wszystkie</label>
+</td>
+</tr>
+</table>
+</th>
+<th>
+<div data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable()" name="fs_fields_of_study_description">
+<textarea class="fieldOfStudyDescriptionText" data-bind="value: MainViewModel.ForStudentsVM.FieldOfStudyDescription" readonly=""></textarea>
+</div>
+</th>
+</th></tbody>
+</table>
+</div>
+<p class="nocourse_information" data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable() == false &amp;&amp; !$root.ForStudentsVM.AvailableCourseInfo() &amp;&amp; !MainConfig().UsePRK()" name="fs_fields_of_study_select_parameters_of_search_ok">
+    Wybierz parametry wyszukiwania(rocznik, wydział, kierunek, stopień) i kliknij "Przejdź".</p>
+<p class="nocourse_information" data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable() == false &amp;&amp; !$root.ForStudentsVM.AvailableCourseInfo() &amp;&amp; MainConfig().UsePRK()" name="fs_fields_of_study_select_parameters_of_search_ok">
+    Wybierz parametry wyszukiwania(cykl, wydział, kierunek, stopień) i kliknij "Przejdź".
+</p>
+<p class="nocourse_information" data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable() == false &amp;&amp; $root.ForStudentsVM.AvailableCourseInfo()" name="fs_fields_of_study_select_parameters_of_search_not_ok">
+    Sylabusy dla tego kierunku nie zostały jeszcze udostępnione.</p>
+<table class="courses_table" data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable" id="field_of_study_tab_parameters_table_n" name="fs_fields_of_study_course_table_n">
+<thead>
+<th class="courses_data_3">
+</th>
+<th class="courses_name">
+</th>
+<th class="courses_data_2">
+</th>
+<th class="courses_data_4">
+</th>
+<th class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+</th>
+<th class="courses_data_2">
+</th>
+<th class="courses_data_2 courses_data_5_stac" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+            Stacjonarne
+        </th>
+<th class="courses_data_2 courses_data_5_stac" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+            Niestacjonarne
+        </th>
+<th class="courses_author">
+</th>
+<th class="courses_rest">
+</th>
+</thead>
+</table>
+<table class="courses_table" data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable" name="fs_fields_of_study_course_table">
+<thead>
+<th class="courses_data_3">
+</th>
+<th class="courses_name">
+            Nazwa
+        </th>
+<th class="courses_data_2">
+            Kod
+        </th>
+<th class="courses_data_4">
+            Zal/Egz
+        </th>
+<th class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+            Prot
+        </th>
+<th class="courses_data_5">
+            Jedn
+        </th>
+<th class="courses_data_5 courses_data_5_sem" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+            Sem
+        </th>
+<th class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+            Godz
+        </th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible, text: FormsOfStudiesConfig.WShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible, text: FormsOfStudiesConfig.CShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible, text: FormsOfStudiesConfig.C1ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible, text: FormsOfStudiesConfig.C2ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible, text: FormsOfStudiesConfig.C3ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible, text: FormsOfStudiesConfig.C4ShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible, text: FormsOfStudiesConfig.LShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible, text: FormsOfStudiesConfig.SShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible, text: FormsOfStudiesConfig.OShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible, text: FormsOfStudiesConfig.IShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible, text: FormsOfStudiesConfig.PWShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible, text: FormsOfStudiesConfig.O3ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible, text: FormsOfStudiesConfig.ZPShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible, text: FormsOfStudiesConfig.O4ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible, text: FormsOfStudiesConfig.O5ShortName()"></th>
+<th class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible">
+            Opis
+        </th>
+<th class="courses_data_2 courses_data_5_ects" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+            ECTS
+        </th>
+<th class="courses_data_5 courses_data_5_sem" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+            Sem
+        </th>
+<th class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+            Godz
+        </th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible, text: FormsOfStudiesConfig.WShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible, text: FormsOfStudiesConfig.CShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible, text: FormsOfStudiesConfig.C1ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible, text: FormsOfStudiesConfig.C2ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible, text: FormsOfStudiesConfig.C3ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible, text: FormsOfStudiesConfig.C4ShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible, text: FormsOfStudiesConfig.LShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible, text: FormsOfStudiesConfig.SShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible, text: FormsOfStudiesConfig.OShortName()"></th>
+<th class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible, text: FormsOfStudiesConfig.IShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible, text: FormsOfStudiesConfig.PWShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible, text: FormsOfStudiesConfig.O3ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible, text: FormsOfStudiesConfig.ZPShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible, text: FormsOfStudiesConfig.O4ShortName()"></th>
+<th class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible, text: FormsOfStudiesConfig.O5ShortName()"></th>
+<th class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible">
+            Opis
+        </th>
+<th class="courses_data_2 courses_data_5_ects" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+            ECTS
+        </th>
+<th class="courses_author" data-bind="text: MainConfig().UseCoordinatorsInsteadOfAuthors() ? 'Koordynator' : 'Autor'">
+</th>
+<th class="courses_rest">
+</th>
+</thead>
+</table>
+<div class="courses scroll_contents" data-bind="visible: MainViewModel.ForStudentsVM.CheckCoursesAvailable" id="courses" name="fs_fields_of_study_course_group_list">
+<table class="courses_table" name="fs_fields_of_study_course_group_list_table">
+<tbody data-bind="foreach: ForStudentsVM.MandatoryCourseGroupList" name="fs_fields_of_study_course_group_list_body">
+<tr>
+<td colspan="100">
+<div>
+<div class="expander-header">
+<table>
+<tbody>
+<tr>
+<td>
+<img class="expander-arrow expander-open-arrow" data-bind="click: $root.ForStudentsVM.expandExpander">
+</img></td>
+<td class="expander-row-title">
+<span data-bind="text: TypKursu.NazwaTypu" name="mandatory-type-name_no_translate"></span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="expander-content expander-open-content" name="fs_fields_of_study_list_expander">
+<table class="courses_table" name="fs_fields_of_study_list_of_courses_table">
+<tbody data-bind="foreach: ListaKursow" name="fs_fields_of_study_list_of_courses">
+<tr class="table_info_row">
+<td class="courses_name">
+<a data-bind="click: $root.ForStudentsVM.OpenCourse, text: NazwaPrzedmiotu, visible: Ids.length &gt; 0" name="no_translate"></a>
+<span data-bind="text: NazwaPrzedmiotu, visible: Ids.length == 0" name="no_translate"></span>
+</td>
+<td class="courses_data_2">
+<input data-bind="value: KodPrzedmiotu" readonly="" type="text"/>
+</td>
+<td class="courses_data_4" name="pass-form">
+<input data-bind="value: FormaZalID" readonly="" type="text"/>
+</td>
+<td class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+<input data-bind="value: Protocol" readonly="" type="text"/>
+</td>
+<td class="courses_data_5">
+<input data-bind="value: JednostkaOdpowiedzialna" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: Semestr" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible">
+<input data-bind="value: WykladGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible">
+<input data-bind="value: CwiczeniaGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible">
+<input data-bind="value: Cwiczenia1GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible">
+<input data-bind="value: Cwiczenia2GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible">
+<input data-bind="value: Cwiczenia3GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible">
+<input data-bind="value: Cwiczenia4GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible">
+<input data-bind="value: LabGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible">
+<input data-bind="value: SeminariumGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible">
+<input data-bind="value: Inne2GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible">
+<input data-bind="value: InneGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible">
+<input data-bind="value: PWGodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible">
+<input data-bind="value: Inne3GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible">
+<input data-bind="value: ProjektGodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible">
+<input data-bind="value: Inne4GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible">
+<input data-bind="value: Inne5GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible">
+<input class="courses_desc_input" data-bind="value: Opis" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: ECTS" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: SemestrNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible">
+<input data-bind="value: WykladGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible">
+<input data-bind="value: CwiczeniaGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible">
+<input data-bind="value: Cwiczenia1GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible">
+<input data-bind="value: Cwiczenia2GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible">
+<input data-bind="value: Cwiczenia3GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible">
+<input data-bind="value: Cwiczenia4GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible">
+<input data-bind="value: LabGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible">
+<input data-bind="value: SemGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible">
+<input data-bind="value: Inne2GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible">
+<input data-bind="value: InneGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible">
+<input data-bind="value: PWGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible">
+<input data-bind="value: Inne3GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible">
+<input data-bind="value: ProjektGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible">
+<input data-bind="value: Inne4GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible">
+<input data-bind="value: Inne5GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible">
+<input class="courses_desc_input" data-bind="value: OpisNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: ECTSNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_author">
+<input data-bind="value: Autor" readonly="" type="text"/>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="courses_summary">
+<td class="courses_name">
+<label name="summary">Łącznie dla grupy:</label>
+</td>
+<td class="courses_data_2">
+</td>
+<td class="courses_data_4">
+</td>
+<td class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+</td>
+<td class="courses_data_2">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible">
+<input data-bind="value: StationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible">
+<input data-bind="value: StationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible">
+<input data-bind="value: StationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible">
+<input data-bind="value: StationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible">
+<input data-bind="value: StationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible">
+<input data-bind="value: StationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible">
+<input data-bind="value: StationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible">
+<input data-bind="value: StationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible">
+<input data-bind="value: StationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible">
+<input data-bind="value: StationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible">
+<input data-bind="value: StationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible">
+<input data-bind="value: StationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible">
+<input data-bind="value: StationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible">
+<input data-bind="value: StationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible">
+<input data-bind="value: StationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible">
+<input data-bind="value: UnstationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible">
+<input data-bind="value: UnstationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible">
+<input data-bind="value: UnstationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible">
+<input data-bind="value: UnstationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible">
+<input data-bind="value: UnstationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible">
+<input data-bind="value: UnstationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible">
+<input data-bind="value: UnstationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible">
+<input data-bind="value: UnstationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible">
+<input data-bind="value: UnstationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible">
+<input data-bind="value: UnstationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible">
+<input data-bind="value: UnstationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible">
+<input data-bind="value: UnstationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible">
+<input data-bind="value: UnstationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible">
+<input data-bind="value: UnstationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible">
+<input data-bind="value: UnstationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_author">
+</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tfoot>
+<tr class="courses_summary">
+<td class="courses_name courses_name_summary_name" name="fs_fields_of_study_overall_of_group">
+                        Suma wszystkich kursów:
+                    </td>
+<td class="courses_data_2" name="fs_fields_of_study_overall_of_group_field1">
+</td>
+<td class="courses_data_4" name="fs_fields_of_study_overall_of_group_field2">
+</td>
+<td class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+</td>
+<td class="courses_data_5" name="fs_fields_of_study_overall_of_group_field3">
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible" name="fs_fields_of_study_overall_of_group_field4">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible" name="fs_fields_of_study_overall_of_group_StationarySum">
+<input data-bind="value: ForStudentsVM.StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible" name="fs_fields_of_study_overall_of_group_StationaryWSum">
+<input data-bind="value: ForStudentsVM.StationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible" name="fs_fields_of_study_overall_of_group_StationaryCSum">
+<input data-bind="value: ForStudentsVM.StationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible" name="fs_fields_of_study_overall_of_group_StationaryC1Sum">
+<input data-bind="value: ForStudentsVM.StationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible" name="fs_fields_of_study_overall_of_group_StationaryC2Sum">
+<input data-bind="value: ForStudentsVM.StationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible" name="fs_fields_of_study_overall_of_group_StationaryC3Sum">
+<input data-bind="value: ForStudentsVM.StationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible" name="fs_fields_of_study_overall_of_group_StationaryC4Sum">
+<input data-bind="value: ForStudentsVM.StationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible" name="fs_fields_of_study_overall_of_group_StationaryLSum">
+<input data-bind="value: ForStudentsVM.StationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible" name="fs_fields_of_study_overall_of_group_StationarySSum">
+<input data-bind="value: ForStudentsVM.StationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible" name="fs_fields_of_study_overall_of_group_StationaryOSum">
+<input data-bind="value: ForStudentsVM.StationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible" name="fs_fields_of_study_overall_of_group_StationaryISum">
+<input data-bind="value: ForStudentsVM.StationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible" name="fs_fields_of_study_overall_of_group_StationaryPWSum">
+<input data-bind="value: ForStudentsVM.StationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible" name="fs_fields_of_study_overall_of_group_StationaryO3Sum">
+<input data-bind="value: ForStudentsVM.StationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible" name="fs_fields_of_study_overall_of_group_StationaryZPSum">
+<input data-bind="value: ForStudentsVM.StationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible" name="fs_fields_of_study_overall_of_group_StationaryO4Sum">
+<input data-bind="value: ForStudentsVM.StationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible" name="fs_fields_of_study_overall_of_group_StationaryO5Sum">
+<input data-bind="value: ForStudentsVM.StationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible" name="fs_fields_of_study_overall_of_group_td_statdesc_visible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible" name="fs_fields_of_study_overall_of_group_StationaryECTSSum">
+<input data-bind="value: ForStudentsVM.StationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible" name="fs_fields_of_study_overall_of_group_td_unstat_visible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible" name="fs_fields_of_study_overall_of_group_UnstationarySum">
+<input data-bind="value: ForStudentsVM.UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible" name="fs_fields_of_study_overall_of_group_UnstationaryWSum">
+<input data-bind="value: ForStudentsVM.UnstationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible" name="fs_fields_of_study_overall_of_group_UnstationaryCSum">
+<input data-bind="value: ForStudentsVM.UnstationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible" name="fs_fields_of_study_overall_of_group_UnstationaryC1Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible" name="fs_fields_of_study_overall_of_group_UnstationaryC2Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible" name="fs_fields_of_study_overall_of_group_UnstationaryC3Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible" name="fs_fields_of_study_overall_of_group_UnstationaryC4Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible" name="fs_fields_of_study_overall_of_group_UnstationaryLSum">
+<input data-bind="value: ForStudentsVM.UnstationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible" name="fs_fields_of_study_overall_of_group_UnstationarySSum">
+<input data-bind="value: ForStudentsVM.UnstationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible" name="fs_fields_of_study_overall_of_group_UnstationaryOSum">
+<input data-bind="value: ForStudentsVM.UnstationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible" name="fs_fields_of_study_overall_of_group_UnstationaryISum">
+<input data-bind="value: ForStudentsVM.UnstationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible" name="fs_fields_of_study_overall_of_group_UnstationaryPWSum">
+<input data-bind="value: ForStudentsVM.UnstationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible" name="fs_fields_of_study_overall_of_group_UnstationaryO3Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible" name="fs_fields_of_study_overall_of_group_StationaryZPSum">
+<input data-bind="value: ForStudentsVM.StationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible" name="fs_fields_of_study_overall_of_group_UnstationaryO4Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible" name="fs_fields_of_study_overall_of_group_UnstationaryO5Sum">
+<input data-bind="value: ForStudentsVM.UnstationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible" name="fs_fields_of_study_overall_of_group_unstat_desc_visible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible" name="fs_fields_of_study_overall_of_group_">
+<input data-bind="value: ForStudentsVM.UnstationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_author" name="fs_fields_of_study_overall_of_group_courses_author">
+</td>
+</tr>
+</tfoot>
+</tfoot>
+</table>
+<table class="courses_table" name="fs_fields_of_study_foot_specialization_list">
+<tbody data-bind="foreach: ForStudentsVM.SpecializationList" name="fs_fields_of_study_foot_">
+<tr>
+<td colspan="100">
+<div id="mainExpander">
+<div class="expander-header">
+<table>
+<tbody>
+<tr>
+<td>
+<img class="expander-arrow expander-open-arrow" data-bind="click: $root.ForStudentsVM.expandExpander">
+</img></td>
+<td>
+<span data-bind="text: MainConfig().UseSpeciality() ? NazwaSpecjalizacji + '    Specjalność: ' + NazwaSpecjalnosci : NazwaSpecjalizacji" name="spec-name_no_translate"></span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="expander-content expander-open-content">
+<table class="courses_table">
+<tbody data-bind="foreach: GrupyKursow" name="fs_fields_of_study_group_of_courses">
+<td colspan="100">
+<div>
+<div class="expander-header">
+<table>
+<tbody>
+<tr>
+<td>
+<img class="expander-arrow expander-open-arrow" data-bind="click: $root.ForStudentsVM.expandExpander"/>
+</td>
+<td class="expander-row-title">
+<span data-bind="text: TypKursu.NazwaTypu" name="spec-type-name_no_translate"></span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="expander-content expander-open-content">
+<table class="courses_table">
+<tbody data-bind="foreach: ListaKursow" name="fs_fields_of_study_list_of_courses">
+<tr class="table_info_row">
+<td class="courses_name">
+<a data-bind="click: $root.ForStudentsVM.OpenCourse, text: NazwaPrzedmiotu, visible: Ids.length &gt; 0" name="course-name_no_translate"></a>
+<span data-bind="text: NazwaPrzedmiotu, visible: Ids.length == 0" name="course-name_no_translate"></span>
+</td>
+<td class="courses_data_2">
+<input data-bind="value: KodPrzedmiotu" readonly="" type="text"/>
+</td>
+<td class="courses_data_4" name="pass-form">
+<input data-bind="value: FormaZalID" readonly="" type="text"/>
+</td>
+<td class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+<input data-bind="value: Protocol" readonly="" type="text"/>
+</td>
+<td class="courses_data_5">
+<input data-bind="value: JednostkaOdpowiedzialna" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: Semestr" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible">
+<input data-bind="value: WykladGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible">
+<input data-bind="value: CwiczeniaGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible">
+<input data-bind="value: Cwiczenia1GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible">
+<input data-bind="value: Cwiczenia2GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible">
+<input data-bind="value: Cwiczenia3GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible">
+<input data-bind="value: Cwiczenia4GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible">
+<input data-bind="value: LabGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible">
+<input data-bind="value: SeminariumGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible">
+<input data-bind="value: Inne2GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible">
+<input data-bind="value: InneGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible">
+<input data-bind="value: PWGodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible">
+<input data-bind="value: Inne3GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible">
+<input data-bind="value: ProjektGodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible">
+<input data-bind="value: Inne4GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible">
+<input data-bind="value: Inne5GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible">
+<input class="courses_desc_input" data-bind="value: Opis" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: ECTS" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: SemestrNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible">
+<input data-bind="value: WykladGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible">
+<input data-bind="value: CwiczeniaGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible">
+<input data-bind="value: Cwiczenia1GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible">
+<input data-bind="value: Cwiczenia2GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible">
+<input data-bind="value: Cwiczenia3GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible">
+<input data-bind="value: Cwiczenia4GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible">
+<input data-bind="value: LabGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible">
+<input data-bind="value: SemGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible">
+<input data-bind="value: Inne2GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible">
+<input data-bind="value: InneGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible">
+<input data-bind="value: PWGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible">
+<input data-bind="value: Inne3GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible">
+<input data-bind="value: ProjektGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible">
+<input data-bind="value: Inne4GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible">
+<input data-bind="value: Inne5GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible">
+<input class="courses_desc_input" data-bind="value: OpisNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: ECTSNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_author">
+<input data-bind="value: Autor" readonly="" type="text"/>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="courses_summary">
+<td class="courses_name" name="fs_fields_of_study_foot_overall_for_group">
+<label name="summary">Łącznie dla grupy:</label>
+</td>
+<td class="courses_data_2" name="fs_fields_of_study_foot_over1">
+</td>
+<td class="courses_data_4" name="fs_fields_of_study_foot_over2">
+</td>
+<td class="courses_data_11" data-bind="visible: MainConfig().UseProtocol()">
+</td>
+<td class="courses_data_2" name="fs_fields_of_study_foot_over3">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible" name="fs_fields_of_study_foot_over4">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible" name="fs_fields_of_study_foot_over5">
+<input data-bind="value: StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible" name="fs_fields_of_study_foot_StationaryWSum">
+<input data-bind="value: StationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible" name="fs_fields_of_study_foot_StationaryCSum">
+<input data-bind="value: StationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible" name="fs_fields_of_study_foot_StationaryC1Sum">
+<input data-bind="value: StationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible" name="fs_fields_of_study_foot_StationaryC2Sum">
+<input data-bind="value: StationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible" name="fs_fields_of_study_foot_StationaryC3Sum">
+<input data-bind="value: StationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible" name="fs_fields_of_study_foot_StationaryC4Sum">
+<input data-bind="value: StationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible" name="fs_fields_of_study_foot_StationaryLSum">
+<input data-bind="value: StationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible" name="fs_fields_of_study_foot_StationarySSum">
+<input data-bind="value: StationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible" name="fs_fields_of_study_foot_StationaryOSum">
+<input data-bind="value: StationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible" name="fs_fields_of_study_foot_StationaryISum">
+<input data-bind="value: StationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible" name="fs_fields_of_study_foot_StationaryPWSum">
+<input data-bind="value: StationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible" name="fs_fields_of_study_foot_StationaryO3Sum">
+<input data-bind="value: StationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible" name="fs_fields_of_study_foot_StationaryZPSum">
+<input data-bind="value: StationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible" name="fs_fields_of_study_foot_StationaryO4Sum">
+<input data-bind="value: StationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible" name="fs_fields_of_study_foot_StationaryO5Sum">
+<input data-bind="value: StationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible" name="fs_fields_of_study_foot_StationaryDescriptionVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible" name="fs_fields_of_study_foot_StationaryECTSSum">
+<input data-bind="value: StationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible" name="fs_fields_of_study_foot_UnstationaryVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible" name="fs_fields_of_study_foot_UnstationarySum">
+<input data-bind="value: UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible" name="fs_fields_of_study_foot_UnstationaryWSum">
+<input data-bind="value: UnstationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible" name="fs_fields_of_study_foot_UnstationaryCSum">
+<input data-bind="value: UnstationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible" name="fs_fields_of_study_foot_UnstationaryC1Sum">
+<input data-bind="value: UnstationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible" name="fs_fields_of_study_foot_UnstationaryC2Sum">
+<input data-bind="value: UnstationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible" name="fs_fields_of_study_foot_UnstationaryC3Sum">
+<input data-bind="value: UnstationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible" name="fs_fields_of_study_foot_UnstationaryC4Sum">
+<input data-bind="value: UnstationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible" name="fs_fields_of_study_foot_UnstationaryLSum">
+<input data-bind="value: UnstationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible" name="fs_fields_of_study_foot_UnstationarySSum">
+<input data-bind="value: UnstationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible" name="fs_fields_of_study_foot_UnstationaryOSum">
+<input data-bind="value: UnstationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible" name="fs_fields_of_study_foot_UnstationaryISum">
+<input data-bind="value: UnstationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible" name="fs_fields_of_study_foot_UnstationaryPWSum">
+<input data-bind="value: UnstationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible" name="fs_fields_of_study_foot_UnstationaryO3Sum">
+<input data-bind="value: UnstationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible" name="fs_fields_of_study_foot_UnstationaryZPSum">
+<input data-bind="value: UnstationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible" name="fs_fields_of_study_foot_UnstationaryO4Sum">
+<input data-bind="value: UnstationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible" name="fs_fields_of_study_foot_UnstationaryO5Sum">
+<input data-bind="value: UnstationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible" name="fs_fields_of_study_foot_UnstationaryDescriptionVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible" name="fs_fields_of_study_foot_UnstationaryECTSSum">
+<input data-bind="value: UnstationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_author" name="fs_fields_of_study_foot_courses_author">
+</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</div>
+</td>
+</tbody>
+</table>
+</div>
+</div></td></tr>
+</tbody>
+</table>
+<table class="courses_table" name="fs_fields_of_study_table_optional">
+<tbody data-bind="foreach: $root.ForStudentsVM.OptionalCourseGroupList" name="fs_fields_of_study_optional">
+<tr>
+<td colspan="100">
+<div>
+<div class="expander-header">
+<table>
+<tbody>
+<tr>
+<td>
+<img class="expander-arrow expander-open-arrow" data-bind="click: $root.ForStudentsVM.expandExpander"/>
+</td>
+<td class="expander-row-title">
+<span data-bind="text: TypKursu.NazwaTypu" name="optional-type-name_no_translate"></span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="expander-content expander-open-content">
+<table class="courses_table">
+<tbody data-bind="foreach: ListaKursow" name="fs_fields_of_study_optional_course_list">
+<tr>
+<td class="courses_name">
+<a data-bind="click: $root.ForStudentsVM.OpenCourse, text: NazwaPrzedmiotu, visible: Ids.length &gt; 0" name="course-name_no_translate"></a>
+<span data-bind="text: NazwaPrzedmiotu, visible: Ids.length == 0" name="course-name_no_translate"></span>
+</td>
+<td class="courses_data_2">
+<input data-bind="value: KodPrzedmiotu" readonly="" type="text"/>
+</td>
+<td class="courses_data_4" name="pass-form">
+<input data-bind="value: FormaZalID" readonly="" type="text"/>
+</td>
+<td class="courses_data_5">
+<input data-bind="value: JednostkaOdpowiedzialna" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: Semestr" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible">
+<input data-bind="value: WykladGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible">
+<input data-bind="value: CwiczeniaGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible">
+<input data-bind="value: Cwiczenia1GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible">
+<input data-bind="value: Cwiczenia2GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible">
+<input data-bind="value: Cwiczenia3GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible">
+<input data-bind="value: Cwiczenia4GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible">
+<input data-bind="value: LabGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible">
+<input data-bind="value: SeminariumGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible">
+<input data-bind="value: Inne2GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible">
+<input data-bind="value: InneGodziny" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible">
+<input data-bind="value: PWGodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible">
+<input data-bind="value: Inne3GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible">
+<input data-bind="value: ProjektGodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible">
+<input data-bind="value: Inne4GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible">
+<input data-bind="value: Inne5GodzinyStacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible">
+<input class="courses_desc_input" data-bind="value: Opis" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: ECTS" readonly="" type="text"/>
+</td>
+<td class="courses_data_5" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: SemestrNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible">
+<input data-bind="value: WykladGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible">
+<input data-bind="value: CwiczeniaGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible">
+<input data-bind="value: Cwiczenia1GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible">
+<input data-bind="value: Cwiczenia2GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible">
+<input data-bind="value: Cwiczenia3GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible">
+<input data-bind="value: Cwiczenia4GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible">
+<input data-bind="value: LabGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible">
+<input data-bind="value: SemGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible">
+<input data-bind="value: Inne2GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible">
+<input data-bind="value: InneGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible">
+<input data-bind="value: PWGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible">
+<input data-bind="value: Inne3GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible">
+<input data-bind="value: ProjektGodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible">
+<input data-bind="value: Inne4GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible">
+<input data-bind="value: Inne5GodzinyNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible">
+<input class="courses_desc_input" data-bind="value: OpisNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: ECTSNiestacjonarne" readonly="" type="text"/>
+</td>
+<td class="courses_author">
+<input data-bind="value: Autor" readonly="" type="text"/>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="courses_summary">
+<td class="courses_name" name="fs_fields_of_study_optional_footer">
+<label name="summary">Łącznie dla grupy:</label>
+</td>
+<td class="courses_data_2">
+</td>
+<td class="courses_data_4">
+</td>
+<td class="courses_data_2">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryWVisible">
+<input data-bind="value: StationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryCVisible">
+<input data-bind="value: StationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC1Visible">
+<input data-bind="value: StationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC2Visible">
+<input data-bind="value: StationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC3Visible">
+<input data-bind="value: StationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryC4Visible">
+<input data-bind="value: StationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryLVisible">
+<input data-bind="value: StationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationarySVisible">
+<input data-bind="value: StationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryOVisible">
+<input data-bind="value: StationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.StationaryIVisible">
+<input data-bind="value: StationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryPWVisible">
+<input data-bind="value: StationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO3Visible">
+<input data-bind="value: StationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryZPVisible">
+<input data-bind="value: StationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO4Visible">
+<input data-bind="value: StationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.StationaryO5Visible">
+<input data-bind="value: StationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.StationaryDescriptionVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.StationaryVisible">
+<input data-bind="value: StationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationarySum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryWVisible">
+<input data-bind="value: UnstationaryWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryCVisible">
+<input data-bind="value: UnstationaryCSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC1Visible">
+<input data-bind="value: UnstationaryC1Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC2Visible">
+<input data-bind="value: UnstationaryC2Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC3Visible">
+<input data-bind="value: UnstationaryC3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryC4Visible">
+<input data-bind="value: UnstationaryC4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryLVisible">
+<input data-bind="value: UnstationaryLSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationarySVisible">
+<input data-bind="value: UnstationarySSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryOVisible">
+<input data-bind="value: UnstationaryOSum" readonly="" type="text"/>
+</td>
+<td class="courses_data" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryIVisible">
+<input data-bind="value: UnstationaryISum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryPWVisible">
+<input data-bind="value: UnstationaryPWSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO3Visible">
+<input data-bind="value: UnstationaryO3Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryZPVisible">
+<input data-bind="value: UnstationaryZPSum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO4Visible">
+<input data-bind="value: UnstationaryO4Sum" readonly="" type="text"/>
+</td>
+<td class="courses_data courses_data_l" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryO5Visible">
+<input data-bind="value: UnstationaryO5Sum" readonly="" type="text"/>
+</td>
+<td class="courses_description" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryDescriptionVisible">
+</td>
+<td class="courses_data_2" data-bind="visible: $root.FormsOfStudiesConfig.UnstationaryVisible">
+<input data-bind="value: UnstationaryECTSSum" readonly="" type="text"/>
+</td>
+<td class="courses_author">
+</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<script src="/Scripts/expander.js"></script>
+<script src="/Scripts/LanguageDictionary.js"></script>
+<script src="/Scripts/TranslateViewModel.js"></script>
+<script src="/Scripts/FormsOfStudiesConfiguration.js"></script>
+<script src="/Scripts/FieldsOfStudySelectorViewModel.js"></script>
+<script src="/Scripts/TypKursu.js"></script>
+<script src="/Scripts/Course.js"></script>
+<script src="/Scripts/Kurs.js"></script>
+<script src="/Scripts/Specjalizacja.js"></script>
+<script src="/Scripts/CourseGroup.js"></script>
+<script src="/Scripts/ObjectHelper.js"></script>
+<script src="/Scripts/ForStudentsViewModel.js"></script>
+</section>
+</div>
+<footer name="layout_footer">
+<div class="content-wrapper" name="layout_footer_div">
+<div class="float-left" name="layout_foot_div">
+</div>
+</div>
+</footer>
+</body>
+</html>

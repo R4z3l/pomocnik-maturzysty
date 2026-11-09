@@ -1,0 +1,161 @@
+                                                                             UCHWAŁA NR 15/2026
+                                                  6                            SENATU UNIWERSYTETU WROCŁAWSKIEGO
+                                                                                                                          z dnia 25 lutego 2026 r.
+                                    GENETICS AND EXPERIMENTAL BIOLOGY
+                                        BACHELOR STUDIES
+                                               2026/27/28/29
+
+                                                      Way to
+                                                            ECTS       verify                                                             USOS
+              Name of the subject/course                                             Total   W       E       S       C        L     Other
+                                                                         credits    learning                                                                    code
+                                                                 outcomes
+                                                                              Semester: first
+
+Chemistry of organic and inorganic compounds                      7        E/Zo       70      30                              40            25-GBE-S1-E1-COIC-AN
+
+Functional anatomy of the plant                                  4       Zo/Zo      40      15         25                                   25-GBE-S1-E1-FAP-AN
+
+Diversity, biology and systematics of embryophytes                   3       Zo/Zo      30      15      15                                      25-GBE-S1-E1-DBSE-AN
+
+Fundamentals of systematic zoology                               5       Zo/Zo      50      20      30                                       25-GBE-S1-E1-FSZ-AN
+
+Animal histology                                               5        E/Zo       45      15      30                                     25-GBE-S1-E1-AH-AN
+
+Microbiology                                                 3       Zo/Zo      30      10                              20            25-GBE-S1-E1-M-AN
+
+Basis of entrepreneurship                                       2        Zo        15                              15                     25-GBE-S1-E1-BE-AN
+
+Health and safety                                                                             -         Z         4                                               4    00-BHP
+
+Polish language for foreigners                                    0        Zo        30                                              30   211678-LJPJO2…
+
+TOTAL of class hours/ECTS points                                                   284                                              4
+                                                            29        0                105     100      0      15      60
+(including Polish as a foreign language)                                              314                                             34
+                                                      Way to
+                                                            ECTS       verify                                                             USOS
+              Name of the subject/course                                             Total   W       E       S       C        L     Other
+                                                                         credits    learning                                                                    code
+                                                                 outcomes
+                                                                            Semester: second
+
+Biochemistry                                                  6        E/Zo       60      40                              20            25-GBE-S1-E2-B-AN
+
+Genetics                                                     4        E/Zo       45      30                              15            25-GBE-S1-E2-G-AN
+
+Plant cell biology                                              4        E/Zo       40      15      25                                      25-GBE-S1-E2-PCB-AN
+
+Animal cell biology                                             4        E/Zo       45      15                              30            25-GBE-S1-E2-ACB-AN
+
+Microscopic techniques                                         3        Zo        35                                      35            25-GBE-S1-E2-MT-AN
+
+Science behind mindfulness, mindfulness for science                  3       Zo/Zo      30      15      15                                    25-GBE-S1-E2-SBM-AN
+
+Calculations in experimental biology                               3        Zo        30              30                                      25-GBE-S1-E2-CEB-AN
+
+Physical education                                             0        Zo        30                                              30   8545-WF…
+
+Foreign language                                              4        Zo        60                                              60   60-S…
+
+Polish language for foreigners                                    5         E        30                                              30   211678-LJPJO2…
+
+TOTAL of class hours/ECTS points                                31                 375                                             90
+                                                                     0                115     70      0       0      100
+(including Polish as a foreign language)                           36                 405                                             30
+                                                      Way to
+                                                            ECTS       verify                                                             USOS
+              Name of the subject/course                                             Total   W       E       S       C        L     Other
+                                                                         credits    learning                                                                    code
+                                                                 outcomes
+                                                                             Semester: third
+
+Experimental approach to plant developmental biology                6       Zo/Zo      60      15      45                                      25-GBE-S1-E3-EAP-AN
+
+Genetic engineering techniques                                   4        Zo        40                                      40            25-GBE-S1-E3-GET-AN
+
+PCR techniques in use                                          5        E/Zo       50      15                              35            25-GBE-S1-E3-PCRT-AN
+
+Basics of evolutionary biology                                    2        Zo        20                              20                     25-GBE-S1-E3-BEB-AN
+
+Foreign Language                                              4        Zo        60                                              60   60-S…
+
+Physical education                                             0        Zo        30                                              30   8545-WF…
+
+TOTAL of class hours/ECTS points                                21        0        260     30      45      0      20      75      90
+
+Elective courses for ECTS points                                  9
+
+TOTAL of ECTS points in semester III                              30
+                                                      Way to
+                                                            ECTS       verify                                                             USOS
+              Name of the subject/course                                             Total   W       E       S       C        L     Other
+                                                                         credits    learning                                                                    code
+                                                                 outcomes
+                                                                             Semester: fourth
+
+Molecular genetics                                             8        E/Zo       75      30                              45            25-GBE-S1-E4-MG-AN
+
+Plant physiology                                               6        E/Zo       60      30                              30            25-GBE-S1-E4-PPH-AN
+
+Animal physiology                                             3         E        30      30                                              25-GBE-S1-E4-APH-AN
+
+Principals of immunology and virology                             5       Zo/Zo      50      30                              20            25-GBE-S1-E4-PIV-AN
+
+Isolation of plant subcellular fractions technique                     4        Zo        40                                      40             25-GBE-S1-E4-IPSF-AN
+
+Foreign language                                              4         E        60                                              60   60-S…
+
+TOTAL of class hours/ECTS points                                30        0        315     120      0       0       0      135     60
+
+                                                      Way to
+                                                            ECTS       verify                                                             USOS
+              Name of the subject/course                                             Total   W       E       S       C        L     Other
+                                                                         credits    learning                                                                    code
+                                                                 outcomes
+                                                                              Semester: fifth
+
+Animal developmental biology                                    5        E/Zo       45      15      30                                     25-GBE-S1-E5-ADV-AN
+
+Statistics in biology                                             5       Zo/Zo      45      15      30                                      25-GBE-S1-E5-SB-AN
+
+Preparation of B.Sc. thesis                                       10        Zo       100                                             100   25-GBE-S1-E5-PBST-AN
+
+TOTAL of class hours/ECTS points                                20        0        190     30      60      0       0       0      100
+
+Elective courses for ECTS points                                  9
+
+TOTAL of ECTS points in semester V                              29
+
+                                                      Way to
+                                                            ECTS       verify                                                             USOS
+              Name of the subject/course                                             Total   W       E       S       C        L     Other
+                                                                         credits    learning                                                                    code
+                                                                 outcomes
+                                                                             Semester: sixth
+
+Genetics and molecular biology of plants                           5        E/Zo       45      15                              30            25-GBE-S1-E6-GMBP-AN
+
+Molecular organization of the cell                                 4        E/Zo       30      15                      15                    25-GBE-S1-E6-MOC-AN
+
+Informatics in experimental biology                                3        Zo        30              30                                       25-GBE-S1-E6-IEB-AN
+
+Preparation of B.Sc. thesis                                       10        Zo       100                                             100   25-GBE-S1-E6-PBST-AN
+
+Copyright and labour law                                        3       Zo/Zo      30      15                      15                     25-GBE-S1-E6-CLL-AN
+
+TOTAL of class hours/ECTS points                                25        0        235      45      30      0      30      30      100
+
+Elective courses for ECTS points                                  6
+
+TOTAL of ECTS points in semester VI                              31
+
+
+EXPLANATIONS
+
+Forms of conducting classes:                                                                                  Ways of verification of learning outcomes:
+W - lecture                                                                                                                                            E- exam
+E - exercices                                                                                                                   Z - pass
+S - seminar                                                                                                              Zo – pass with grade
+L - laboratory classes
+C - conversion course

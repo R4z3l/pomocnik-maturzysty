@@ -1,0 +1,54 @@
+[
+  {
+    "page": 1,
+    "context": "Mikrobiologia studia I stopnia 2023/24/25/26/27 NAZWA PRZEDMIOTU pkt ECTS E/Z suma godz wykł. konw. sem. ćw. lab. ćw. ter. Kod USOS Przedmioty obowiązkowe Biologia mikroorganizmó",
+    "subjects": [
+      "Biologia mikroorganizmów Biology of microorganisms",
+      "Metody w mikrobiologii-hodowle drobnoustrojów Methods in microbiology-cultivation of microorganisms",
+      "Podstawy systematyki Eukaryota Basics of Eucaryota systematics",
+      "Biologia człowieka Human biology",
+      "Chemia dla mikrobiologów Chemistry for microbiologists",
+      "Obliczenia chemiczne w mikrobiologii Chemical calculations in microbiology",
+      "Postawy biologii komórki zwierzęcej Basics of animal cell biology",
+      "Podstawy komunikacji formalnej Fundamentals of formal communication",
+      "Prawo autorskie i prawo pracy Copyright and labor law",
+      "Szkolenie BHP i Ppoż. Safety and Fire Rule Course",
+      "Genetyka ogólna General genetics",
+      "Parazytologia ogólna General parasitology",
+      "Techniki laboratoryjne dla mikrobiologów Laboratory techniques for microbiologistsy",
+      "Podstawy biologii komórki roślinnej Basics of plant cell biology",
+      "Mikrobiologia środowiska Environmental microbiology",
+      "Biochemia dla mikrobiologów Biochemistry for microbiologists",
+      "Wychowanie fizyczne Sport activities",
+      "Genetyka molekularna Molecular genetics",
+      "Bakteriologia Bacteriology",
+      "Historia mikrobiologii i parazytologii History of microbiology and parasitology",
+      "Biofizyka komórki Cell biophysics",
+      "Programy stypendialne dla studentów nauk biologicznych Scholarship programs for students of biological sciences",
+      "Język angielski English",
+      "Wychowanie fizyczne Sport activities"
+    ]
+  },
+  {
+    "page": 2,
+    "context": "NAZWA PRZEDMIOTU pkt ECTS E/Z suma godz wykł. konw. sem. ćw. lab. ćw. ter. Kod USOS Przedmioty obowiązkowe Mikrobiologia przemysłowa Industrial microbiology 4 E 50 20 30 25-MB-S",
+    "subjects": [
+      "Mikrobiologia przemysłowa Industrial microbiology",
+      "Metody w mikrobiologii-preparatyka Methods in microbiology-preparation",
+      "Mykologia Mycology",
+      "Techniki biologii molekularnej Techniques of molecular biology",
+      "Język angielski English",
+      "Choroby pasożytnicze człowieka Human parasitosis",
+      "Wirusologia Virology",
+      "Immunologia ogólna General immunology",
+      "Mikroflora człowieka Human microbiota",
+      "Język angielski English",
+      "Przygotowanie pracy licencjackiej Preparation of bachelor thesis",
+      "Budowa i funkcje struktur komórkowych mikroorganizmów Structure and function of microbial cell units",
+      "Mechanizmy ewolucji Evolutionary mechanisms",
+      "Metody in silico i statystyka dla biologów Methods in silico and statistics for biologists",
+      "Techniki przygotowania pracy licencjackiej (konwersatorium)",
+      "Przygotowanie pracy licencjackiej Preparation of bachelor thesis"
+    ]
+  }
+]

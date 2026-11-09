@@ -1,0 +1,150 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Elektroniki, Fotoniki i Mikrosystemów
+Inteligentna elektronika
+Limit miejsc
+125
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Inteligentna elektronika
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+9 600 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+automatyka, elektronika, elektrotechnika i technologie kosmiczne
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Współczesna elektronika to responsywne urządzenia i systemy, które pozyskują, przetwarzają, analizują i przesyłają dane – to
+Inteligentna Elektronika (Smart Electronics)
+. Inteligentne urządzenia (
+smart devices
+), w tym urządzenia medyczne (
+smart medical devices
+) i elektronika noszona (
+wearable electronics
+) wraz z Internetem Rzeczy (
+IoT
+) to otoczenie dla cyfrowego społeczeństwa funkcjonującego w inteligentnej infrastrukturze (
+smart cities, smart homes
+). Dlatego w ramach nowego kierunku –
+Inteligentna Elektronika
+– oferujemy wyjątkowy program studiów inżynierskich, splatający: elektronikę analogową; technikę cyfrową i mikroprocesorową; sensorykę, metrologię, mikrosystemy; techniki przetwarzania, analizy i przesyłania danych; języki programowania. Całość programu studiów dopełnia bogata oferta przedmiotów wybieralnych: Mobilne systemy operacyjne (
+Android/iOS
+); Aplikacje mobilne; Zero-energetyczne układy zasilania; Technologie wirtualnej i rozszerzonej rzeczywistości; Zintegrowane technologie kosmiczne; Druk 3D.
+Absolwent potrafi
+posiada wiedzę i umiejętności niezbędne do projektowania, konstruowania, wdrażania i eksploatacji cyfrowych urządzeń i systemów elektronicznych pozyskujących, przetwarzających, analizujących i przesyłających dane dla potrzeb szeroko rozumianego cyfrowego społeczeństwa, systemów cyber-fizycznych, Internetu Rzeczy i Przemysłu 4.0
+jest przygotowany do pracy w przedsiębiorstwach projektujących i produkujących urządzenia oraz systemy elektroniczne, tworzących współczesne użytkowe lub specjalistyczne systemy elektroniki cyfrowej obejmującej również zagadnienia związane z technologiami informacyjnymi
+potrafi odnaleźć się we współczesnym społeczeństwie informacyjnym i doskonale rozumie w nim swoją rolę inżyniera
+zna język obcy na poziomie biegłości B2 Europejskiego Systemu Opisu Kształcenia Językowego Rady Europy oraz posiada umiejętność posługiwania się językiem specjalistycznym w dziedzinie elektroniki cyfrowej
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+inteligentna elektronika
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik elektronik
+Technik elektroniki i informatyki medycznej
+Technik elektromobilności
+Technik informatyk
+Technik mechatronik
+Technik programista
+Technik szerokopasmowej komunikacji elektronicznej
+Technik teleinformatyk
+Technik urządzeń i systemów energetyki odnawialnej
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Absolwent kierunku Inteligentna Elektronika jest przygotowany do pracy w przedsiębiorstwach projektujących i produkujących inteligentne urządzenia (smart devices) oraz systemy elektroniczne oraz w przedsiębiorstwach opracowujących współczesne użytkowe lub specjalistyczne systemy inteligentnej elektroniki cyfrowej, obejmujące również zagadnienia związane z technologiami informacyjnymi.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

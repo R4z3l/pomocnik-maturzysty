@@ -1,0 +1,131 @@
+[
+  {
+    "page": 1,
+    "context": "1 Wydział Biotechnologii Uniwersytetu Wrocławskiego Program studiów jednostopniowych magisterskich kierunku Medyczna Biotechnologia Molekularna obowiązuje studentów rozpoczyna",
+    "subjects": [
+      "Struktura i funkcja makrocząsteczek",
+      "Chemia dla biotechnologów",
+      "Podstawy ekonomii",
+      "Techniki MBM I: podstawowe techniki chemiczne i biochemiczne",
+      "Analiza danych biologicznych i prezentacja wyników",
+      "BHP w laboratorium",
+      "Szkolenie BHP"
+    ]
+  },
+  {
+    "page": 2,
+    "context": "2 Semestr: drugi Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmiot W Ć S K",
+    "subjects": [
+      "Metabolizm z elementami fizjologii człowieka",
+      "Techniki MBM II: podstawowe techniki preparatyki i analizy białek",
+      "Mikrobiologia ogólna",
+      "Hodowle komórek i tkanek zwierzęcych",
+      "Matematyka dla przyrodników",
+      "Seminarium - Breakthrough Discoveries in Life Sciences I",
+      "J. angielski"
+    ]
+  },
+  {
+    "page": 3,
+    "context": "3 Rok drugi: Semestr: trzeci Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmio",
+    "subjects": [
+      "Molekularna organizacja komórki I",
+      "Molekularna organizacja komórki II",
+      "Genetyka i inżynieria genetyczna",
+      "Techniki MBM III: biologia komórki i inżynieria genetyczna",
+      "Statystyka i planowanie eksperymentów",
+      "Wykład do wyboru 1*",
+      "Seminarium - Breakthrough Discoveries in Life Sciences II",
+      "J. angielski",
+      "w-f (łącznie 60 godzin w trakcie dwóch semestrów, pomiędzy semestrem 3. a 9.)"
+    ]
+  },
+  {
+    "page": 4,
+    "context": "4 Semestr: czwarty Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmiot W Ć S",
+    "subjects": [
+      "Projekt rotacyjny I",
+      "Molekularne podstawy chorób genetycznych",
+      "Manipulacje genetyczne",
+      "Wykorzystanie technik PCR w biologii medycznej",
+      "Genetyka molekularna",
+      "Bioinformatyka",
+      "Seminarium projektowe w j. ang. I",
+      "Wykład do wyboru z dziedziny nauk humanistycznych lub nauk społecznych",
+      "J. angielski**"
+    ]
+  },
+  {
+    "page": 5,
+    "context": "5 Rok trzeci: Semestr: piąty Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmi",
+    "subjects": [
+      "Projekt rotacyjny II",
+      "Metody biofizyczne w biologii medycznej",
+      "Inżynieria białka",
+      "Wstęp do programowania",
+      "Wykład do wyboru: Wirusologia /Neurobiologia",
+      "Seminarium projektowe w j. ang. II",
+      "Wykład do wyboru 2*"
+    ]
+  },
+  {
+    "page": 6,
+    "context": "6 Semestr: szósty Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmiot W Ć S",
+    "subjects": [
+      "Projekt rotacyjny III",
+      "Medyczna mikrobiologia molekularna",
+      "Immunologia",
+      "Biotechnologia medyczna",
+      "Analiza danych biologicznych w R",
+      "Seminarium projektowe w j. ang. III",
+      "Wykład do wyboru 3*",
+      "J. angielski**"
+    ]
+  },
+  {
+    "page": 7,
+    "context": "7 Rok czwarty: Semestr: siódmy Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przed",
+    "subjects": [
+      "Pracownia magisterska",
+      "Biologia systemowa",
+      "Moduł do wyboru: Biologia nowotworów/ Metagenomika/Genomika /Technol. liposomowe",
+      "Bioetyka",
+      "Seminarium magisterskie w j. ang I"
+    ]
+  },
+  {
+    "page": 8,
+    "context": "8 Semestr: ósmy Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmiot W Ć S K",
+    "subjects": [
+      "Pracownia magisterska",
+      "Zaawansowane techniki mikroskopowe",
+      "Seminarium ang. „New trends in medical biotechnology”",
+      "Moduł do wyboru: Struktura i funkcja błon/Analizy ekspresji genów/Organizacja materiału genetycznego",
+      "Seminarium magisterskie w j. ang. II",
+      "Wykład do wyboru 4*"
+    ]
+  },
+  {
+    "page": 9,
+    "context": "9 Rok piąty: Semestr: dziewiąty Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się prze",
+    "subjects": [
+      "Pracownia magisterska",
+      "Zaawansowane techniki badania oddziaływań międzycząsteczkowych",
+      "Biologia strukturalna",
+      "Ścieżki rozwoju zawodowego w biotechnologii medycznej",
+      "Seminarium ang. „New trends in medical biotechnology”",
+      "Seminarium magisterskie w j. ang. III"
+    ]
+  },
+  {
+    "page": 10,
+    "context": "10 Semestr: dziesiąty Nazwa przedmiotu / Moduły zajęć F/O forma zajęć liczba godzin zajęć sposób weryfikacji ECTS Dyscyplina(y), do której odnosi się przedmiot W Ć",
+    "subjects": [
+      "Pracownia magisterska",
+      "Moduł do wyboru: Terapie genowe / Nośniki leków",
+      "Poszukiwanie i wdrażanie nowych leków",
+      "Seminarium ang. „New trends in medical biotechnology”",
+      "Seminarium magisterskie w j. ang. IV"
+    ]
+  }
+]

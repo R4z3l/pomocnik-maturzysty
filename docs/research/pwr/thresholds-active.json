@@ -1,0 +1,4713 @@
+{
+  "url": "https://rekrutacja.pwr.edu.pl/rekrutacja/progi-punktowe/progi-studia-i-stopnia-stacjonarne/",
+  "checkedAt": "2026-11-02",
+  "tables": [
+    {
+      "year": "2026/2027",
+      "rows": [
+        [
+          {
+            "text": "Wydział",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Kierunek",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "I tura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "II tura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "III tura",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Architektury",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Architektura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "570,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "482,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Gospodarka przestrzenna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "186,90",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "158,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Budownictwa Lądowego i Wodnego",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Budownictwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "193 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "162,35 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "224,75 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemiczny",
+            "rowSpan": 5,
+            "colSpan": 1
+          },
+          {
+            "text": "Biotechnologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "240,10 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "220,2 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "232,5 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemia i analityka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "160,70 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "131 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "131,25 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemia i inżynieria materiałów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "150,85 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "131,8 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "151,4 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria chemiczna i procesowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "154,10 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "149,1 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "237,5 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Technologia chemiczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "152,45 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "123,7 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "130,55 (*120 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyki i telekomunikacji",
+            "rowSpan": 10,
+            "colSpan": 1
+          },
+          {
+            "text": "Cyberbezpieczeństwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "419,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "406,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyczne systemy automatyki",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "245,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka algorytmiczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "365,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "354,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "387,35",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka stosowana w j. angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "350,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "319,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "279,60",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria systemów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "296,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Sztuczna inteligencja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "476,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "523",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "458",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Teleinformatyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "259,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "408,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Telekomunikacja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "154,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektryczny",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "271,95 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "317,2 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "301,7 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektromobilność",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "162,90 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "198,45 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektrotechnika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "355,15 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "340 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoinżynierii, Górnictwa i Geologii",
+            "rowSpan": 7,
+            "colSpan": 1
+          },
+          {
+            "text": "Bezpieczeństwo i higiena pracy",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geodezja i kartografia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "276,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "251,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoenergetyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "106,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "174,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "163,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoinformatyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "201,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "245,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "244,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geologia stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Górnictwo i geologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "103,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "95,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "226,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria surowców mineralnych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynierii Środowiska",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "85,4 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "113,2 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "374,80 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria środowiska",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "111,25 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "320,2 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "327,30 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzania",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Inżynieria zarządzania",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "175,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "175,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "150,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "162,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie w języku angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "176,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "180,15",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "294,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechaniczno-Energetyczny",
+            "rowSpan": 4,
+            "colSpan": 1
+          },
+          {
+            "text": "Energetyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "156,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Lotnictwo i kosmonautyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "401,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn energetycznych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "71,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "135,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Odnawialne źródła energii",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "70,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "140,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechaniczny",
+            "rowSpan": 9,
+            "colSpan": 1
+          },
+          {
+            "text": "Biomechanika inżynierska",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "347,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "317,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria pojazdów i napędów niskoemisyjnych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "240,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "244,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Logistyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "331,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "251,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "378,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "315,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn w języku angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "434,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "259,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechatronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "392,90",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "361,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Robotyka i automatyzacja procesów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "302,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "321,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "305,90",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Transport",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "181,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "266,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie i inżynieria produkcji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "246,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "267",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Podstawowych Problemów Techniki",
+            "rowSpan": 5,
+            "colSpan": 1
+          },
+          {
+            "text": "Fizyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "301,95 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "255,8 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "262,80 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria biomedyczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "302,85 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "305,95 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "302,50 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria kwantowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "301,35 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "355 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "299,65 (*220 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Medical informatics",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "213,05 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "299,5 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "241,00 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Optyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "200,05 (*180 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "190,8 (*180 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "245,30 (*180 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektroniki, Fotoniki i Mikrosystemów",
+            "rowSpan": 6,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka i robotyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "478,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "465,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Electronic and Computer Engineering",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "370,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "345,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "365,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "221,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "268,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "409,60",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektronika i fotonika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "102,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "185,15",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "345,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inteligentna elektronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "84,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "208,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "340,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechatroniczne systemy automatyki",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "200,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "300,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "413,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyki",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Matematyka i algorytmy sztucznej inteligencji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "380,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyka i analiza danych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "432,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyka stosowana i sztuczna inteligencja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "380,65",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Medyczny",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Lekarski",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "600,55 (*500 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "605,15 (*500 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektroradiologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "281,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "282,15",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "380,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Legnicy",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Robotyka i automatyzacja procesów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "143,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "197,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "96,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "152",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "241,35",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Wałbrzychu",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Budownictwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "114,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "94,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "71,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Jeleniej Górze",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Zarządzanie infrastrukturą i środowiskiem",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "111,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "92,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "127,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "year": "2025/2026",
+      "rows": [
+        [
+          {
+            "text": "Wydział",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Kierunek",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "I tura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "II tura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "III tura",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Architektury",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Architektura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "624,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "563,35",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Gospodarka przestrzenna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "157,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "53,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Budownictwa Lądowego i Wodnego",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Budownictwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "100 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "151,50 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Budownictwo zrównoważone infrastruktury transportowej",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "62,75 (warunek)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemiczny",
+            "rowSpan": 5,
+            "colSpan": 1
+          },
+          {
+            "text": "Biotechnologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "216,25 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "200,55 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "167,00 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemia i analityka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "71,90 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "109,95 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "238,80 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemia i inżynieria materiałów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "109,20 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "87,80 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "118,70 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria chemiczna i procesowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "108,45 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "108,30 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "91,25 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Technologia chemiczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "82,60 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90,30 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "85,20 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyki i telekomunikacji",
+            "rowSpan": 10,
+            "colSpan": 1
+          },
+          {
+            "text": "Cyberbezpieczeństwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "407,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "389,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyczne systemy automatyki",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "256,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka algorytmiczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "389,65",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "372,90",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "426,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "368,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka stosowana w j. angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "388,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "343,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "300,90",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "280,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria systemów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "313,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Sztuczna inteligencja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "462,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "455,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Teleinformatyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "251,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Telekomunikacja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "149,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "320,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektryczny",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "130,45 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektromobilność",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "100,60 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "105,10 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "116,40 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektrotechnika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "136,30 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "135,90 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoinżynierii, Górnictwa i Geologii",
+            "rowSpan": 6,
+            "colSpan": 1
+          },
+          {
+            "text": "Geodezja i kartografia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "241,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "146,35",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "44,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoenergetyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "100,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "89,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "79,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoinformatyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "204,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "76,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "101,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geologia stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Górnictwo i geologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "111,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "71,60",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "183,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria surowców mineralnych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "136,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynierii Środowiska",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "101,75 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "130,00 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "100,15 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria środowiska",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "80,20 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "80,50 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "81,30 (*80 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzania",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Inżynieria zarządzania",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "165,75 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "235,40 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "141,70 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "200,95 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "330,90 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie w języku angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "162,30 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "114,75 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "140,00 (*100 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechaniczno-Energetyczny",
+            "rowSpan": 4,
+            "colSpan": 1
+          },
+          {
+            "text": "Energetyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Lotnictwo i kosmonautyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "375,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn energetycznych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "59,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "71,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "56,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Odnawialne źródła energii",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "66,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "63,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "58,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechaniczny",
+            "rowSpan": 9,
+            "colSpan": 1
+          },
+          {
+            "text": "Biomechanika inżynierska",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "209,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "201,10",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria pojazdów i napędów niskoemisyjnych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "97,10",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Logistyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "181,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "152,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "218,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "191,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn w języku angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "361,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "314,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechatronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "251,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "186,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Robotyka i automatyzacja procesów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "174,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "171,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Transport",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "68,35",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "83,60",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie i inżynieria produkcji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "110,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "62,00",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Podstawowych Problemów Techniki",
+            "rowSpan": 5,
+            "colSpan": 1
+          },
+          {
+            "text": "Fizyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "290,50 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "217,20 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "328,05 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria biomedyczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "316,65 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "241,10 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "213,7 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria kwantowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "343,15 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "324,40 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Medical informatics",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "205,80 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "204,00 (*200 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Optyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "181,00 (*150 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "199,00 (*150 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "168,55 (*150 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektroniki, Fotoniki i Mikrosystemów",
+            "rowSpan": 6,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka i robotyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "452,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "426,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Electronic and Computer Engineering",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "271,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "237,10",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "142,60 (*115 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "142,00 (*115 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "141,80 (*115 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektronika i fotonika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "65,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "55,65",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "66,10",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inteligentna elektronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "77,60 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "88,50 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "76,30 (*70 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria mikrosystemów mechatronicznych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "86,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "80,90",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "70,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyki",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Matematyka i algorytmy sztucznej inteligencji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "370,10",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "373,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyka i analiza danych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "407,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyka stosowana i sztuczna inteligencja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "367,50",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Medyczny",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Lekarski",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "639,15 (*500 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "552,30 (*500 pkt)",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektroradiologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "230,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "312,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "224,40",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Legnicy",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Robotyka i automatyzacja procesów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "60,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "148,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "84,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "60,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Wałbrzychu",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Zarządzanie i inżynieria produkcji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90,70",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "173,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "61,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "62,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "63,80",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Jeleniej Górze",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "–",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "61,30",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "204,20",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "year": "2024/2025",
+      "rows": [
+        [
+          {
+            "text": "Wydział",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Kierunek",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Tura 1",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Tura 2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Tura 3",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Architektury",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Architektura",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "560,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "509,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Gospodarka przestrzenna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "149,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Budownictwa Lądowego i Wodnego",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Budownictwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "117,65 (*70)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "73,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "94,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemiczny",
+            "rowSpan": 6,
+            "colSpan": 1
+          },
+          {
+            "text": "Biotechnologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "115,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "132,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "228,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemia i analityka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "72,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "75,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Chemia i inżynieria materiałów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "132,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "109,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "281",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria materiałowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria chemiczna i procesowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "152,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "111,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Technologia chemiczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "78,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "151,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "102,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyki i telekomunikacji",
+            "rowSpan": 9,
+            "colSpan": 1
+          },
+          {
+            "text": "Cyberbezpieczeństwo",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "372,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "355,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyczne systemy automatyki",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "272",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka algorytmiczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "428,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "384,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "447,8",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka stosowana w j. angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "410,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "275,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria systemów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "317,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Teleinformatyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "254,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "328,8",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Telekomunikacja",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "208,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektryczny",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "127,7 (*90)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "125,15 (*90)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektromobilność",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "93,1 (*90)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "94,6 (*90)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "133,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektrotechnika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "100,9 (*90)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "93,3 (*90)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoinżynierii, Górnictwa i Geologii",
+            "rowSpan": 6,
+            "colSpan": 1
+          },
+          {
+            "text": "Geodezja i kartografia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "278,35",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "129,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "137,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoenergetyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "106,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "136,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "75,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geoinformatyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "151,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "151",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "142,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Geologia stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "81,3 (*warunek)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "kierunek nieuruchomiony",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Górnictwo i geologia",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "59,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "71,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "52,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria surowców mineralnych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "68,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "40",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "82,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynierii Środowiska",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "108,85 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "112,9 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "183,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria środowiska",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "104,25 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "105 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "119,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzania",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Inżynieria zarządzania",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "175,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "193,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "138,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "126,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie w języku angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "135,4",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "115,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechaniczno-Energetyczny",
+            "rowSpan": 4,
+            "colSpan": 1
+          },
+          {
+            "text": "Energetyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "65,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "49,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Lotnictwo i kosmonautyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "344,8",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "210,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn energetycznych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "57,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "53,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "62,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Odnawialne źródła energii",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "49,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechaniczny",
+            "rowSpan": 9,
+            "colSpan": 1
+          },
+          {
+            "text": "Biomechanika inżynierska",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "108,15",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "103,6",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria pojazdów i napędów niskoemisyjnych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "57,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Logistyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "104,65",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "150,25 (*110)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "173,15 (*110)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn w języku angielskim",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "217,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechatronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "203,65",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "189,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Robotyka i automatyzacja procesów",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "166,05",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Transport",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "45,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "85,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie i inżynieria produkcji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "74,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "106,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Podstawowych Problemów Techniki",
+            "rowSpan": 5,
+            "colSpan": 1
+          },
+          {
+            "text": "Fizyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "186,3 (*180)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "255,3 (*110)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "195,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria biomedyczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "291,5 (*180)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "238,25 (*180)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "248,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria kwantowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "239,5 (*180)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "186,3 (*180)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "330,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Medical Informatics",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "231,75 (*150)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "201,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Optyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "107 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "104,5 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "245,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektroniki, Fotoniki i Mikrosystemów",
+            "rowSpan": 6,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka i robotyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "408,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "370,85",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Electronic and Computer Engineering",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "225,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "210",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "223,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "101,65 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "102,5 (*100)",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "127,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Elektronika i fotonika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "66",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "57,45",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "62,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inteligentna elektronika",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "58,2",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "68,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "82,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Inżynieria mikrosystemów mechatronicznych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "78,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "88,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "65,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyki",
+            "rowSpan": 3,
+            "colSpan": 1
+          },
+          {
+            "text": "Matematyka",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "293,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "301,75",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyka i analiza danych",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "422,55",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "414",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Matematyka stosowana",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "325,65",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Medyczny",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Lekarski",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "—",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "574,1",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Legnicy",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Automatyka przemysłowa",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "62,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "119,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "90",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Mechanika i budowa maszyn",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "53,7",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "75,5",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "49,8",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Jeleniej Górze",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "63",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "83,95",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "70,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Filia w Wałbrzychu",
+            "rowSpan": 2,
+            "colSpan": 1
+          },
+          {
+            "text": "Informatyka techniczna",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "65,25",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "70,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "137,0",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie i inżynieria produkcji",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "79,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "74,9",
+            "rowSpan": 1,
+            "colSpan": 1
+          },
+          {
+            "text": "119,3",
+            "rowSpan": 1,
+            "colSpan": 1
+          }
+        ]
+      ]
+    }
+  ]
+}

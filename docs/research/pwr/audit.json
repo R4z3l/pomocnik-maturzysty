@@ -1,0 +1,1479 @@
+{
+  "checkedAt": "2026-11-02",
+  "scope": "Wrocław, stacjonarne, I stopień/jednolite, PL/EN",
+  "listUrl": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/",
+  "listCount": 64,
+  "included": 62,
+  "rows": [
+    {
+      "name": "Architektura",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/architektura/",
+      "courseId": "54",
+      "included": true,
+      "programmeId": "pwr-architektura",
+      "metadata": {
+        "Forma studiów": "Stacjonarne",
+        "Czas trwania": "8 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "9 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "architektura i urbanistyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 138,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Automatyka i robotyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/automatyka-i-robotyka/",
+      "courseId": "70",
+      "included": true,
+      "programmeId": "pwr-automatyka-i-robotyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 800 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 85,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Automatyka przemysłowa",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/automatyka-przemyslowa/",
+      "courseId": "84",
+      "included": true,
+      "programmeId": "pwr-automatyka-przemyslowa",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 400 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 100,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Bezpieczeństwo i higiena pracy",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/bezpieczenstwo-i-higiena-pracy-2/",
+      "courseId": "16579",
+      "included": true,
+      "programmeId": "pwr-bezpieczenstwo-i-higiena-pracy",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne)",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "7 760 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 83,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Biomechanika inżynierska",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/biomechanika-inzynierska/",
+      "courseId": "115",
+      "included": true,
+      "programmeId": "pwr-biomechanika-inzynierska",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 100 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 101,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Biotechnologia",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/biotechnologia/",
+      "courseId": "60",
+      "included": true,
+      "programmeId": "pwr-biotechnologia",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "10 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki chemiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 188,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Budownictwo",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/budownictwo/",
+      "courseId": "58",
+      "included": true,
+      "programmeId": "pwr-budownictwo",
+      "metadata": {
+        "Forma studiów": "Zaoczne Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne) 8 semestrów (niestacjonarne)",
+        "Czesne": "brak (studia stacjonarne) 4300/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "6 800 PLN/ semestr (studia stacjonarne) 4 300 PLN/ semestr (studia niestacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław, Wałbrzych",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria lądowa, geodezja i transport"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 144,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Chemia i analityka przemysłowa",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/chemia-i-analityka-przemyslowa/",
+      "courseId": "62",
+      "included": true,
+      "programmeId": "pwr-chemia-i-analityka-przemyslowa",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "12 620 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki chemiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 205,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Chemia i inżynieria materiałów",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/chemia-i-inzynieria-materialow/",
+      "courseId": "64",
+      "included": true,
+      "programmeId": "pwr-chemia-i-inzynieria-materialow",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "10 400 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki chemiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 188,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Cyberbezpieczeństwo",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/cyberbezpieczenstwo/",
+      "courseId": "13769",
+      "included": true,
+      "programmeId": "pwr-cyberbezpieczenstwo",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 68,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Electronic and Computer Engineering",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/electronic-and-computer-enginnering/",
+      "courseId": "78",
+      "included": true,
+      "programmeId": "pwr-electronic-and-computer-engineering",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 800 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "angielski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 70,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Elektromobilność",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/elektromobilnosc/",
+      "courseId": "1568",
+      "included": true,
+      "programmeId": "pwr-elektromobilnosc",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 109,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Elektronika",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/elektronika/",
+      "courseId": "74",
+      "included": true,
+      "programmeId": "pwr-elektronika",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 110,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Elektronika i fotonika",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/elektronika-i-fotonika/",
+      "courseId": "137",
+      "included": true,
+      "programmeId": "pwr-elektronika-i-fotonika",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "10 700 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 124,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Elektroradiologia",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/elektroradiologia/",
+      "courseId": "14010",
+      "included": true,
+      "programmeId": "pwr-elektroradiologia",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "brak naboru/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria biomedyczna nauki medyczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 71,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Elektrotechnika",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/elektrotechnika/",
+      "courseId": "88",
+      "included": true,
+      "programmeId": "pwr-elektrotechnika",
+      "metadata": {
+        "Forma studiów": "Zaoczne Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne)8 semestrów (niestacjonarne)",
+        "Czesne": "brak (studia stacjonarne) 4000/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "6 400 PLN/ semestr (studia stacjonarne) 4 000 PLN/ semestr (studia niestacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 110,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Energetyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/energetyka/",
+      "courseId": "106",
+      "included": true,
+      "programmeId": "pwr-energetyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne)",
+        "Czesne": "brak (studia stacjonarne) 3500/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "6 360 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 107,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Fizyka techniczna",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/fizyka-techniczna/",
+      "courseId": "127",
+      "included": true,
+      "programmeId": "pwr-fizyka-techniczna",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 000 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki fizyczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 121,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Geodezja i kartografia",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/geodezja-i-kartografia/",
+      "courseId": "90",
+      "included": true,
+      "programmeId": "pwr-geodezja-i-kartografia",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 92,
+      "additionalSubjects": [
+        "fizyka",
+        "geografia",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Geoenergetyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/geoenergetyka/",
+      "courseId": "7097",
+      "included": true,
+      "programmeId": "pwr-geoenergetyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 68,
+      "additionalSubjects": [
+        "fizyka",
+        "geografia",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Geoinformatyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/geoinformatyka/",
+      "courseId": "1574",
+      "included": true,
+      "programmeId": "pwr-geoinformatyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 700 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 76,
+      "additionalSubjects": [
+        "fizyka",
+        "geografia",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Geologia stosowana",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/geologia-stosowana/",
+      "courseId": "9358",
+      "included": true,
+      "programmeId": "pwr-geologia-stosowana",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne)",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 600 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 77,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Górnictwo i geologia",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/gornictwo-i-geologia/",
+      "courseId": "92",
+      "included": true,
+      "programmeId": "pwr-gornictwo-i-geologia",
+      "metadata": {
+        "Forma studiów": "Zaoczne Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne) 8 semestrów (niestacjonarne)",
+        "Czesne": "brak (studia stacjonarne) 3300/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "8 200 PLN/ semestr (studia stacjonarne) 3 300 PLN/ semestr (studia niestacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 86,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka",
+        "geografia"
+      ]
+    },
+    {
+      "name": "Gospodarka o obiegu zamkniętym i ochrona klimatu",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/gospodarka-o-obiegu-zamknietym-i-ochrona-klimatu-2/",
+      "courseId": "96",
+      "included": true,
+      "programmeId": "pwr-gospodarka-o-obiegu-zamknietym-i-ochrona-klimatu",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "9 000 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 88,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Gospodarka przestrzenna",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/gospodarka-przestrzenna/",
+      "courseId": "56",
+      "included": true,
+      "programmeId": "pwr-gospodarka-przestrzenna",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "7 700 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "geografia społeczno-ekonomiczna i gospodarka przestrzenna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 164,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Informatyczne systemy automatyki",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyczne-systemy-automatyki/",
+      "courseId": "1580",
+      "included": true,
+      "programmeId": "pwr-informatyczne-systemy-automatyki",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 100 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 105,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Informatyka algorytmiczna",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-algorytmiczna/",
+      "courseId": "129",
+      "included": true,
+      "programmeId": "pwr-informatyka-algorytmiczna",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 148,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Informatyka stosowana",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowana/",
+      "courseId": "98",
+      "included": true,
+      "programmeId": "pwr-informatyka-stosowana",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 100 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 88,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Informatyka stosowana w j. angielskim",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowana-w-j-angielskim/",
+      "courseId": "3635",
+      "included": true,
+      "programmeId": "pwr-informatyka-stosowana-w-j-angielskim",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "angielski",
+        "Miasto": "Wrocław",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 86,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Informatyka techniczna",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-techniczna/",
+      "courseId": "76",
+      "included": true,
+      "programmeId": "pwr-informatyka-techniczna",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 107,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Inteligentna elektronika",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inteligentna-elektronika/",
+      "courseId": "1582",
+      "included": true,
+      "programmeId": "pwr-inteligentna-elektronika",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "9 600 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 105,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Inżynieria biomedyczna",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-biomedyczna/",
+      "courseId": "131",
+      "included": true,
+      "programmeId": "pwr-inzynieria-biomedyczna",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "9 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria biomedyczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 117,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Inżynieria chemiczna i procesowa",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-chemiczna-i-procesowa/",
+      "courseId": "66",
+      "included": true,
+      "programmeId": "pwr-inzynieria-chemiczna-i-procesowa",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "11 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria chemiczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 192,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Inżynieria kwantowa",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-kwantowa/",
+      "courseId": "133",
+      "included": true,
+      "programmeId": "pwr-inzynieria-kwantowa",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 200 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki fizyczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 148,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Inżynieria mikrosystemów mechatronicznych (bez naboru na rok akademicki 26/27)",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-mikrosystemow-mechatronicznych/",
+      "courseId": "139",
+      "included": false,
+      "reason": "Karta oznaczona bez naboru na 2026/27; brak potwierdzenia uruchomienia 2027/28."
+    },
+    {
+      "name": "Inżynieria pojazdów i napędów niskoemisyjnych",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-pojazdow-i-napedow-niskoemisyjnych/",
+      "courseId": "9413",
+      "included": true,
+      "programmeId": "pwr-inzynieria-pojazdow-i-napedow-niskoemisyjnych",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 114,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Inżynieria środowiska",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-srodowiska/",
+      "courseId": "94",
+      "included": true,
+      "programmeId": "pwr-inzynieria-srodowiska",
+      "metadata": {
+        "Forma studiów": "Zaoczne Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne) 3900/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "6 700 PLN/ semestr (studia stacjonarne) 3 900 PLN/ semestr (studia niestacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 108,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Inżynieria surowców mineralnych",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-surowcow-mineralnych/",
+      "courseId": "7106",
+      "included": true,
+      "programmeId": "pwr-inzynieria-surowcow-mineralnych",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "9 200 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 106,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka",
+        "geografia"
+      ]
+    },
+    {
+      "name": "Inżynieria systemów",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-systemow/",
+      "courseId": "100",
+      "included": true,
+      "programmeId": "pwr-inzynieria-systemow",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "7 200 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 85,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Inżynieria zarządzania",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/inzynieria-zarzadzania/",
+      "courseId": "102",
+      "included": true,
+      "programmeId": "pwr-inzynieria-zarzadzania",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki o zarządzaniu i jakości"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 111,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Lekarski",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/lekarski/",
+      "courseId": "10248",
+      "included": true,
+      "programmeId": "pwr-lekarski",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "12 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "brak naboru/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Przedmioty brane pod uwagę w rekrutacji:": "biologia, chemia, fizyka, matematyka, j. polski, j. obcy",
+        "Dyscyplina": "nauki medyczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 234,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Logistyka przemysłowa",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/logistyka-przemyslowa/",
+      "courseId": "11612",
+      "included": true,
+      "programmeId": "pwr-logistyka-przemyslowa",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 117,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Lotnictwo i kosmonautyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/lotnictwo-i-kosmonautyka/",
+      "courseId": "109",
+      "included": true,
+      "programmeId": "pwr-lotnictwo-i-kosmonautyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "5 980 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 110,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Matematyka i algorytmy sztucznej inteligencji",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/matematyka-2/",
+      "courseId": "141",
+      "included": true,
+      "programmeId": "pwr-matematyka-i-algorytmy-sztucznej-inteligencji",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "7 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "matematyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 143,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Matematyka i analiza danych",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/matematyka-i-analiza-danych/",
+      "courseId": "9226",
+      "included": true,
+      "programmeId": "pwr-matematyka-i-analiza-danych",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "matematyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 97,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Matematyka stosowana i sztuczna inteligencja",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/matematyka-stosowana/",
+      "courseId": "143",
+      "included": true,
+      "programmeId": "pwr-matematyka-stosowana-i-sztuczna-inteligencja",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 200 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "matematyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 101,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Mechanika i budowa maszyn",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/mechanika-i-budowa-maszyn/",
+      "courseId": "2967",
+      "included": true,
+      "programmeId": "pwr-mechanika-i-budowa-maszyn",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "5 800 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław, Legnica",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 127,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Mechanika i budowa maszyn energetycznych",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/mechanika-i-budowa-maszyn-energetycznych/",
+      "courseId": "111",
+      "included": true,
+      "programmeId": "pwr-mechanika-i-budowa-maszyn-energetycznych",
+      "metadata": {
+        "Forma studiów": "Zaoczne Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne) 8 semestrów (niestacjonarne)",
+        "Czesne": "brak (studia stacjonarne) 3800/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "6 210 PLN/ semestr (studia stacjonarne) 3 800 PLN/ semestr (studia niestacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 105,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Mechanika i budowa maszyn w j. angielskim",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/mechanika-i-budowa-maszyn-w-j-angielskim/",
+      "courseId": "2970",
+      "included": true,
+      "programmeId": "pwr-mechanika-i-budowa-maszyn-w-j-angielskim",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "9 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "angielski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 106,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Mechatroniczne systemy automatyki",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/mechatroniczne-systemy-automatyki/",
+      "courseId": "16832",
+      "included": true,
+      "programmeId": "pwr-mechatroniczne-systemy-automatyki",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "10 780 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "automatyka, elektronika, elektrotechnika i technologie kosmiczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 116,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Mechatronika",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/mechatronika/",
+      "courseId": "119",
+      "included": true,
+      "programmeId": "pwr-mechatronika",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "5 900 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 117,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Medical Informatics",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/medical-informatics/",
+      "courseId": "7528",
+      "included": true,
+      "programmeId": "pwr-medical-informatics",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "12 700 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "angielski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria biomedyczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 105,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Odnawialne źródła energii",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/odnawialne-zrodla-energii/",
+      "courseId": "113",
+      "included": true,
+      "programmeId": "pwr-odnawialne-zrodla-energii",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 840 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria środowiska, górnictwo i energetyka"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 107,
+      "additionalSubjects": [
+        "fizyka"
+      ]
+    },
+    {
+      "name": "Optyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/optyka/",
+      "courseId": "135",
+      "included": true,
+      "programmeId": "pwr-optyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "10 200 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki fizyczne"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 100,
+      "additionalSubjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Robotyka i automatyzacja procesów",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/robotyka-i-automatyzacja-procesow/",
+      "courseId": "121",
+      "included": true,
+      "programmeId": "pwr-robotyka-i-automatyzacja-procesow",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 400 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław, Legnica",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 129,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Sztuczna inteligencja",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna_inteligencja/",
+      "courseId": "72",
+      "included": true,
+      "programmeId": "pwr-sztuczna-inteligencja",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "brak naboru/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 121,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Technologia chemiczna",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/technologia-chemiczna/",
+      "courseId": "68",
+      "included": true,
+      "programmeId": "pwr-technologia-chemiczna",
+      "metadata": {
+        "Forma studiów": "Zaoczne Dzienne",
+        "Czas trwania": "7 semestrów (stacjonarne) 8 semestrów (niestacjonarne)",
+        "Czesne": "brak (studia stacjonarne) 4500/ semestr (studia niestacjonarne)",
+        "Czesne dla cudzoziemców": "11 100 PLN/ semestr (studia stacjonarne) 4500 PLN/ semestr (studia niestacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria chemiczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 191,
+      "additionalSubjects": [
+        "chemia",
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Teleinformatyka",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/teleinformatyka/",
+      "courseId": "80",
+      "included": true,
+      "programmeId": "pwr-teleinformatyka",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 200 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 78,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Telekomunikacja",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/telekomunikacja/",
+      "courseId": "82",
+      "included": true,
+      "programmeId": "pwr-telekomunikacja",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 300 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "informatyka techniczna i telekomunikacja"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 81,
+      "additionalSubjects": [
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Transport",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/transport/",
+      "courseId": "123",
+      "included": true,
+      "programmeId": "pwr-transport",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "6 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 126,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Zarządzanie",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/zarzadzanie/",
+      "courseId": "104",
+      "included": true,
+      "programmeId": "pwr-zarzadzanie",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "6 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "7 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki o zarządzaniu i jakości"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 118,
+      "additionalSubjects": [
+        "biznes i zarządzanie",
+        "fizyka",
+        "informatyka"
+      ]
+    },
+    {
+      "name": "Zarządzanie i inżynieria produkcji",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/zarzadzanie-i-inzynieria-produkcji/",
+      "courseId": "125",
+      "included": true,
+      "programmeId": "pwr-zarzadzanie-i-inzynieria-produkcji",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "7 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "5 500 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "polski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "inżynieria mechaniczna"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 94,
+      "additionalSubjects": [
+        "fizyka",
+        "matematyka"
+      ]
+    },
+    {
+      "name": "Zarządzanie infrastrukturą i środowiskiem",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/zarzadzanie-infrastruktura-i-srodowiskiem/",
+      "courseId": "16614",
+      "included": false,
+      "reason": "Filia w Jeleniej Górze — poza Wrocławiem."
+    },
+    {
+      "name": "Zarządzanie w j. angielskim",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/zarzadzanie-w-j-angielskim/",
+      "courseId": "3643",
+      "included": true,
+      "programmeId": "pwr-zarzadzanie-w-j-angielskim",
+      "metadata": {
+        "Forma studiów": "Dzienne",
+        "Czas trwania": "6 semestrów",
+        "Czesne": "brak (studia stacjonarne)",
+        "Czesne dla cudzoziemców": "8 600 PLN/ semestr (studia stacjonarne)",
+        "Język wykładowy": "angielski",
+        "Miasto": "Wrocław",
+        "Profil kierunku": "ogólnoakademicki",
+        "Dyscyplina": "nauki o zarządzaniu i jakości"
+      },
+      "programmeYear": "2026/2027",
+      "subjectCount": 88,
+      "additionalSubjects": [
+        "biznes i zarządzanie",
+        "fizyka",
+        "informatyka"
+      ]
+    }
+  ]
+}

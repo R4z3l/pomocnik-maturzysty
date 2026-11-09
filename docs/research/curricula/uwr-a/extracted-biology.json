@@ -1,0 +1,336 @@
+{
+  "uwr-biologia": [
+    {
+      "semester": "1",
+      "subjects": [
+        "Biologia człowieka",
+        "Biofizyka",
+        "Chemia dla biologów",
+        "Ekologia",
+        "Organizmy zarodnikowe",
+        "Postawy biologii komórki zwierzęcej",
+        "Podstawy bioetyki",
+        "Podstawy budowy roślin",
+        "Podstawy komunikacji formalnej",
+        "Szkolenie BHP i Ppoż",
+        "Wprowadzenie do metod obliczeniowych w naukach biologicznych",
+        "Zoologia bezkręgowców"
+      ]
+    },
+    {
+      "semester": "2",
+      "subjects": [
+        "Antropologia fizyczna",
+        "Biochemia dla biologów",
+        "Histologia zwierząt",
+        "Mikrobiologia",
+        "Ochrona środowiska",
+        "Podstawy biologii komórki roślinnej",
+        "Podstawy parazytologii",
+        "Rośliny nasienne",
+        "Wychowanie fizyczne",
+        "Zoologia kręgowców"
+      ]
+    },
+    {
+      "semester": "3",
+      "subjects": [
+        "Biogeografia",
+        "Etologia",
+        "Fizjologia roślin",
+        "Fizjologia zwierząt",
+        "Genetyka",
+        "Język angielski w biologii",
+        "Język angielski",
+        "Podstawy immunologii",
+        "Podstawy rozwoju zwierząt",
+        "Prawo autorskie i prawo pracy",
+        "Programy stypendialne dla studentów nauk biologicznych",
+        "Techniki przygotowania i prezentacji pracy naukowej",
+        "Wychowanie fizyczne"
+      ]
+    },
+    {
+      "semester": "4",
+      "subjects": [
+        "Ekologia roślin i zbiorowisk roślinnych (wakacyjne ćwiczenia terenowe w Karpaczu)",
+        "Ekosystemy świata",
+        "Ewolucjonizm",
+        "Język angielski",
+        "Metody in silico i statystyka dla biologów",
+        "Paleontologia",
+        "Paleontologia w praktyce (wakacyjne ćw. terenowe)",
+        "Psychologiczno-biologiczne uwarunkowania ludzkich zachowań",
+        "Różnorodność zwierząt (wakacyjne ćw. terenowe w Rudzie Milickiej)"
+      ]
+    },
+    {
+      "semester": "5",
+      "subjects": [
+        "Ekologia człowieka",
+        "Metody antropologiczne w kryminalistyce",
+        "Osteometria i kranioskopia",
+        "Podstawy statystyki w naukach o człowieku",
+        "Prymatologia",
+        "Język angielski",
+        "Przygotowanie pracy licencjackiej",
+        "Bioindykatory i bioindykacja",
+        "Biologia lasu - wprowadzenie",
+        "Ewolucja i biologia bezkręgowców",
+        "Ewolucja i biologia kręgowców",
+        "Genetyka populacyjna",
+        "Grzyby Polski",
+        "Kręgowce Polski",
+        "Kształtowanie się środowiska przyrodniczego Ziemi",
+        "Problematyka badawcza w biologii środowiskowej",
+        "Biologia molekularna w diagnostyce",
+        "Fizjologia wzrostu i rozwoju roślin",
+        "Metabolity wtórne roślin i ich praktyczne zastosowanie",
+        "Obliczenia w biochemii i biologii",
+        "Struktura i funkcja białka",
+        "Techniki badawcze w biologii roślin",
+        "Bakteriologia",
+        "Choroby inwazyjne",
+        "Mikroflora człowieka",
+        "Wirusologia"
+      ]
+    },
+    {
+      "semester": "6",
+      "subjects": [
+        "Antropometria i antroposkopia",
+        "Antropogeneza",
+        "Ergonomia",
+        "Etologia człowieka",
+        "Rozwój osobniczy i zdrowie człowieka",
+        "Wprowadzenie do ekologii behawioralnej człowieka",
+        "Zarys współczesnych metod badań w paleoantropologii",
+        "Przygotowanie pracy licencjackiej",
+        "Bezkręgowce Polski",
+        "Ekologia roślin",
+        "Ekologia zwierząt",
+        "Ewolucja roślin nasiennych",
+        "Inwazje biologiczne",
+        "Ochrona różnorodności gatunkowej w Polsce",
+        "Rośliny nasienne Polski",
+        "Biochemiczne podstawy odżywiania roślin",
+        "Biologia rozwoju organizmów modelowych",
+        "Biologia rozwoju roślin",
+        "Genetyka człowieka",
+        "Genetyka molekularna",
+        "Techniki histologiczne",
+        "Budowa i funkcje struktur komórkowych mikroorganizmów",
+        "Człowiek w układzie pasożyt-żywiciel",
+        "Mikrobiologia środowiska",
+        "Mykologia"
+      ]
+    }
+  ],
+  "uwr-biologia-czlowieka": [
+    {
+      "semester": "1",
+      "subjects": [
+        "Anatomia człowieka I",
+        "Archeologia",
+        "Chemia dla biologów",
+        "Ekologia człowieka",
+        "Podstawy biologii komórki zwierzęcej",
+        "Podstawy komunikacji formalnej",
+        "Radzenie sobie ze stresem",
+        "Szkolenie BHP i Ppoż"
+      ]
+    },
+    {
+      "semester": "2",
+      "subjects": [
+        "Anatomia człowieka II",
+        "Antropologia biologiczna",
+        "Mikrobiologia",
+        "Wczesne etapy ontogenezy człowieka"
+      ]
+    },
+    {
+      "semester": "3",
+      "subjects": [
+        "Czynniki rozwoju człowieka i ochrony zdrowia",
+        "Genetyka",
+        "Język angielski",
+        "Osteometria i kranioskopia",
+        "Podstawy statystyki w naukach o człowieku I",
+        "Wprowadzenie do immunologii człowieka",
+        "Wychowanie fizyczne",
+        "Wykorzystanie języka angielskiego w biologii człowieka",
+        "Antropometria i antroposkopia",
+        "Choroby infekcyjne człowieka",
+        "Etologia człowieka",
+        "Fizjologia zwierząt",
+        "Osteologia wieku rozwojowego",
+        "Współczesne metody badań w paleoantropologii",
+        "Podstawy bioetyki",
+        "Podstawy statystyki w naukach o człowieku II",
+        "Prawo autorskie i prawo pracy",
+        "Prymatologia",
+        "Techniki przygotowania pracy dyplomowej",
+        "Przygotowanie pracy licencjackiej"
+      ]
+    },
+    {
+      "semester": "6",
+      "subjects": [
+        "Antropogeneza",
+        "Ekologia behawioralna człowieka",
+        "Ergonomia",
+        "Ewolucjonizm",
+        "Komercjalizacja badań naukowych",
+        "Przygotowanie pracy licencjackiej"
+      ]
+    }
+  ],
+  "uwr-genetyka-i-biologia-eksperymentalna": [
+    {
+      "semester": "1",
+      "subjects": [
+        "Biofizyka",
+        "Chemia dla genetyków",
+        "Genetyka",
+        "Anatomia funkcjonalna roślin",
+        "Podstawy taksonomii roślin, glonów i grzybów",
+        "Podstawy zoologii systematycznej",
+        "Techniki mikroskopowe",
+        "Histologia zwierząt",
+        "Własność intelektualna i prawo pracy",
+        "Podstawy komunikacji formalnej",
+        "Szkolenie BHP i Ppoż"
+      ]
+    },
+    {
+      "semester": "2",
+      "subjects": [
+        "Biochemia",
+        "Mikrobiologia",
+        "Biologia komórki roślinnej",
+        "Biologia komórki zwierzęcej",
+        "Obliczenia w biologii eksperymentalnej",
+        "Radzenie sobie ze stresem",
+        "Wychowanie fizyczne",
+        "Język angielski"
+      ]
+    },
+    {
+      "semester": "3",
+      "subjects": [
+        "Techniki inżynierii genetycznej",
+        "Techniki analizy białek",
+        "Techniki w biologii eksperymentalnej roślin",
+        "Techniki PCR w praktyce",
+        "Struktura i funkcja białka",
+        "Podstawy ewolucjonizmu",
+        "Programy stypendialne dla studentów nauk biologicznych",
+        "Język angielski"
+      ]
+    },
+    {
+      "semester": null,
+      "subjects": [
+        "Wychowanie fizyczne"
+      ]
+    },
+    {
+      "semester": "4",
+      "subjects": [
+        "Techniki izolacji frakcji subkomórkowych",
+        "Fizjologia roślin",
+        "Fizjologia zwierząt",
+        "Biologia rozwoju roślin",
+        "Zarys wirusologii molekularnej",
+        "Genetyka molekularna",
+        "Język angielski"
+      ]
+    },
+    {
+      "semester": "5",
+      "subjects": [
+        "Biologia rozwoju zwierząt",
+        "Molekularna organizacja komórki",
+        "Statystyka w biologii",
+        "Przygotowanie pracy licencjackiej",
+        "Genetyka i biologia molekularna roślin",
+        "Genetyka człowieka",
+        "Wstęp do neurobiologii",
+        "Informatyka w biologii eksperymentalnej"
+      ]
+    }
+  ],
+  "uwr-genetics-and-experimental-biology": [
+    {
+      "semester": "1",
+      "subjects": [
+        "Chemistry of organic and inorganic compounds",
+        "Functional anatomy of the plant",
+        "Diversity, biology and systematics of embryophytes",
+        "Fundamentals of systematic zoology",
+        "Animal histology",
+        "Microbiology",
+        "Basis of entrepreneurship"
+      ]
+    },
+    {
+      "semester": null,
+      "subjects": [
+        "Health and safety",
+        "Physical education",
+        "Foreign language",
+        "Foreign Language"
+      ]
+    },
+    {
+      "semester": "2",
+      "subjects": [
+        "Biochemistry",
+        "Genetics",
+        "Plant cell biology",
+        "Animal cell biology",
+        "Microscopic techniques",
+        "Science behind mindfulness, mindfulness for science",
+        "Calculations in experimental biology"
+      ]
+    },
+    {
+      "semester": "3",
+      "subjects": [
+        "Experimental approach to plant developmental biology",
+        "Genetic engineering techniques",
+        "PCR techniques in use",
+        "Basics of evolutionary biology"
+      ]
+    },
+    {
+      "semester": "4",
+      "subjects": [
+        "Molecular genetics",
+        "Plant physiology",
+        "Animal physiology",
+        "Principals of immunology and virology",
+        "Isolation of plant subcellular fractions technique"
+      ]
+    },
+    {
+      "semester": "5",
+      "subjects": [
+        "Animal developmental biology",
+        "Statistics in biology",
+        "Preparation of B.Sc. thesis"
+      ]
+    },
+    {
+      "semester": "6",
+      "subjects": [
+        "Genetics and molecular biology of plants",
+        "Molecular organization of the cell",
+        "Informatics in experimental biology",
+        "Preparation of B.Sc. thesis",
+        "Copyright and labour law"
+      ]
+    }
+  ]
+}

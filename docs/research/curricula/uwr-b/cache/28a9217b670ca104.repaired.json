@@ -1,0 +1,52 @@
+[
+  {
+    "page": 18,
+    "context": "17 l.p. Nazwa przedmiotu Treści programowe 1. Algebra I Elementy geometrii analitycznej w R2 i R3. Liczby zespolone. Przestrzeń liniowa skończonego wymiaru nad dowolnym",
+    "subjects": [
+      "Algebra I",
+      "Algebra II Algebra 1",
+      "Algebra 2 R",
+      "Algebra liniowa 2",
+      "Algorytmy i struktury danych L Algorytmy i struktury danych M",
+      "Analiza funkcjonalna 1",
+      "Analiza matematyczna 2",
+      "Analiza matematyczna I",
+      "Analiza matematyczna II",
+      "Analiza matematyczna III",
+      "Analiza numeryczna L",
+      "Bazy danych",
+      "Funkcje analityczne R",
+      "Języki formalne i złożoność obliczeniowa"
+    ]
+  },
+  {
+    "page": 19,
+    "context": "18 nierozstrzygalnych. Zagadnienia złożoności obliczeniowej, klasy złożoności, redukcje. NPzupełność. 15. Logika dla informatyków Zasada indukcji. Składnia i semantyka rachun",
+    "subjects": [
+      "Logika dla informatyków",
+      "Matematyka dyskretna L Matematyka dyskretna M",
+      "Metody programowania",
+      "Miara i całka",
+      "Programowanie funkcyjne",
+      "Rachunek prawdopodobieństwa 1 R",
+      "Rachunek prawdopodobieństwa 2 R",
+      "Rachunek prawdopodobieństwa dla informatyków",
+      "Rozmaitości różniczkowalne",
+      "Równania różniczkowe 1 Równania różniczkowe 1 R",
+      "Równania różniczkowe 2 R"
+    ]
+  },
+  {
+    "page": 20,
+    "context": "19 25. Sieci komputerowe Model warstwowy. Warstwa sieciowa. Warstwa łącza danych i fizyczna. Warstwa transportowa. Warstwa zastosowań. Programowanie gniazd. Podstawy kodowania",
+    "subjects": [
+      "Sieci komputerowe",
+      "Statystyka",
+      "Systemy operacyjne",
+      "Sztuczna inteligencja",
+      "Topologia",
+      "Wstęp do matematyki R",
+      "Wybrane elementy praktyki oprogramowania"
+    ]
+  }
+]

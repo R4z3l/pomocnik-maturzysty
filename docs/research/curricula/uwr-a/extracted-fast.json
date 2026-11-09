@@ -1,0 +1,396 @@
+{
+  "uwr-fizyka": [
+    {
+      "semester": "I",
+      "subjects": [
+        "Algebra 1",
+        "Analiza matematyczna 1",
+        "Mechanika",
+        "Wstęp do algebry",
+        "Matematyka 1",
+        "Podstawy fizyki 1",
+        "Podstawy opracowania danych pomiarowych",
+        "Programy użytkowe",
+        "Szkolenie wstępne z BHP i ochrony p-poż."
+      ]
+    },
+    {
+      "semester": "II",
+      "subjects": [
+        "Algebra 2",
+        "Analiza matematyczna 2",
+        "Rachunek prawdopodobieństwa",
+        "Termodynamika",
+        "Matematyka 2",
+        "Elementy rachunku prawdopodobieństwa",
+        "Podstawy fizyki 2",
+        "I pracownia fizyczna 1",
+        "Praktyczny wstęp do programowania",
+        "Ochrona własności intelektualnej",
+        "OPCJONALNY MODUŁ KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU NAUCZYCIELA FIZYKI – do wyboru wersja 1 albo 2 9 wersja 1 Psychologia dla nauczycieli – wykład",
+        "Psychologia rozwoju człowieka",
+        "Pedagogika dla nauczycieli – wykład",
+        "Pedagogika dla nauczycieli – konwersato- rium"
+      ]
+    },
+    {
+      "semester": "III",
+      "subjects": [
+        "Analiza matematyczna 3",
+        "Elektryczność i magnetyzm",
+        "Matematyka 3",
+        "Podstawy fizyki 3",
+        "I pracownia fizyczna 2",
+        "do wyboru przedmiot w wersji A albo B A Mechanika teoretyczna",
+        "B Elementy mechaniki teoretycznej i STW",
+        "Wspomaganie rozwoju dziecka i dysharmo- nie rozwojowe",
+        "Pedagogika - uczeń ze specjalnymi potrze- bami edukacyjnymi",
+        "Elementy prawa oświatowego i bezpieczeń- stwo w szkole",
+        "wersja 2 Psychologia dla nauczycieli – wykład",
+        "Psychologia rozwoju człowieka",
+        "Pedagogika dla nauczycieli – wykład",
+        "Pedagogika dla nauczycieli – konwersato- rium"
+      ]
+    },
+    {
+      "semester": "IV",
+      "subjects": [
+        "Fale",
+        "Podstawy fizyki 4",
+        "do wyboru przedmioty w wersji A albo B A Mechanika kwantowa 1",
+        "B Fizyka kwantowa",
+        "A Statistical Physics (Fizyka statystyczna)",
+        "B Elementy fizyki statystycznej",
+        "do wyboru przedmiot w wersji A albo B A Praktyka zawodowa",
+        "B Praktyka badawcza",
+        "Podstawy przedsiębiorczości",
+        "PRZEDMIOTY UZUPEŁNIAJĄCE DO WYBORU 5,6 Metody matematyczne fizyki teoretycznej",
+        "General Chemistry with Elements of Physical Chemistry 7 (Chemia ogólna z elementami chemii fizycznej)",
+        "Programowanie w C++",
+        "Języki programowania i GIU",
+        "Systemy operacyjne",
+        "Sieci komputerowe",
+        "Psychologiczne podstawy pracy nauczyciela",
+        "Pedagogiczne podstawy pracy nauczyciela",
+        "Podstawy dydaktyki",
+        "Emisja głosu",
+        "Pedagogika – uczeń ze specjalnymi potrze- bami edukacyjnymi",
+        "Elementy prawa oświatowego i bezpieczeń- stwo w szkole"
+      ]
+    },
+    {
+      "semester": "V",
+      "subjects": [
+        "Fizyka atomu, jądra i cząstek elementar- nych",
+        "Mechanika kwantowa 2",
+        "do wyboru przedmiot w wersji A albo B A Classical Electrodynamics (Elektrodynamika klasyczna)",
+        "B Elementy elektrodynamiki klasycznej",
+        "Podstawy statystyki i analizy danych",
+        "Obliczenia numeryczne i symboliczne w fizyce",
+        "Język obcy (poziom B2) 3",
+        "Introduction to Condensed Matter Physics 7 (Wstęp do fizyki fazy skondensowanej)",
+        "Wstęp do elektroniki",
+        "Pracownia elektroniczna",
+        "II pracownia fizyczna",
+        "Zaawansowane programowanie w C++",
+        "Metody numeryczne",
+        "Języki skryptowe – Python 1",
+        "Procesy stochastyczne w ekonomii",
+        "Ekonofizyka 1",
+        "Praktyka psychologiczno-pedagogiczna w szkole",
+        "Emisja głosu"
+      ]
+    },
+    {
+      "semester": "VI",
+      "subjects": [
+        "Elementy astronomii i astrofizyki",
+        "Seminarium licencjackie",
+        "Praca licencjacka i egzamin licencjacki 4",
+        "Wstęp do geometrii różniczkowej",
+        "Optyka kwantowa",
+        "Elektronika cyfrowa",
+        "Pracownia elektroniki cyfrowej",
+        "Zastosowania środowiska LabVIEW w pomiarach",
+        "Selected Topics in Condensed Matter Physics 7,8 (Wybrane zagadnienia fizyki fazy skondensowa- nej)",
+        "Exploring Physics Problems with Numerical Tools (Numeryczne badanie problemów fizycznych)",
+        "Algorytmy i struktury danych",
+        "Bazy danych",
+        "Modelowanie komputerowe",
+        "Języki skryptowe – Python 2",
+        "Podstawy analizy danych – praktyczne warsztaty",
+        "Ekonofizyka 2",
+        "Teoria przejść fazowych i zjawisk krytycznych",
+        "Kompetencje psychologiczno-pedagogiczne nauczyciela",
+        "Dydaktyka fizyki",
+        "Warsztat pracy nauczyciela"
+      ]
+    },
+    {
+      "semester": "V,VI",
+      "subjects": [
+        "Wychowanie fizyczne 2"
+      ]
+    }
+  ],
+  "uwr-astronomia": [
+    {
+      "semester": "I",
+      "subjects": [
+        "PRZEDMIOTY OBOWIĄZKOWE Mechanika 1",
+        "Podstawy astronomii 1",
+        "Wstęp do algebry",
+        "Analiza matematyczna 1 1",
+        "Szkolenie wstępne z BHP i ochrony p-poż."
+      ]
+    },
+    {
+      "semester": "II",
+      "subjects": [
+        "Termodynamika 1",
+        "Podstawy astronomii 2",
+        "Pracownia astronomiczna",
+        "Ćwiczenia obserwacyjne 1 2",
+        "Analiza matematyczna 2 1",
+        "Algorytmy i programowanie",
+        "Wstęp do systemów operacyjnych",
+        "Ochrona własności intelektualnej",
+        "PRZEDMIOTY UZUPEŁNIAJĄCE DO WYBORU 6,7 Pracownia komputerowa metod matematycz- nych 1"
+      ]
+    },
+    {
+      "semester": "III",
+      "subjects": [
+        "Elektryczność i magnetyzm 1",
+        "Astrofizyka obserwacyjna 1",
+        "Wstęp do fizyki Słońca",
+        "Ćwiczenia obserwacyjne 2 2",
+        "Analiza matematyczna 3 1",
+        "Laboratorium programowania",
+        "Pracownia komputerowa metod matematycz- nych 2",
+        "Elementy mechaniki teoretycznej i STW"
+      ]
+    },
+    {
+      "semester": "IV",
+      "subjects": [
+        "Fale 1",
+        "Fizyka kwantowa",
+        "Astrofizyka obserwacyjna 2",
+        "Budowa i ewolucja gwiazd",
+        "Wakacyjna praktyka obserwacyjna 2",
+        "Statystyka matematyczna",
+        "Wprowadzenie do programowania w IDL",
+        "Wprowadzenie do programowania w Pythonie"
+      ]
+    },
+    {
+      "semester": "V",
+      "subjects": [
+        "Fizyka atomu, jądra i cząstek elementarnych 1",
+        "Astrofizyka układów planetarnych",
+        "Metody numeryczne",
+        "Seminarium licencjackie 1",
+        "Język obcy (poziom B2) 4",
+        "Bazy danych astronomicznych",
+        "Prezentacja wyników naukowych"
+      ]
+    },
+    {
+      "semester": "VI",
+      "subjects": [
+        "Teoria atmosfer gwiazdowych",
+        "Metody matematyczne w astronomii",
+        "Podstawy przedsiębiorczości",
+        "Seminarium licencjackie 2",
+        "Praca licencjacka i egzamin licencjacki 3",
+        "Tworzenie stron internetowych",
+        "Historia astronomii",
+        "Seminarium z astronomii",
+        "Praktyka heliofizyczna 2"
+      ]
+    },
+    {
+      "semester": "V,VI",
+      "subjects": [
+        "Wychowanie fizyczne 5"
+      ]
+    }
+  ],
+  "uwr-geoinformacja": [
+    {
+      "semester": null,
+      "subjects": [
+        "BHP i ppoż.",
+        "Ochrona własności intelektualnej",
+        "Analiza matematyczna",
+        "Technologie informacyjne",
+        "Wstęp do programowania",
+        "Podstawy kartografii",
+        "Geologia i geomorfologia",
+        "Geografia społeczno-ekonomiczna i gospodarka przestrzenna",
+        "Geoinformacja w biznesie",
+        "Algebra liniowa",
+        "Programowanie",
+        "Podstawy topografii i geodezji",
+        "Systemy informacji geograficznej 1",
+        "Atmosfera i hydrosfera",
+        "Modelowanie zjawisk demograficzno- osadniczych",
+        "Ćwiczenia terenowe - kartografia i topografia",
+        "Język obcy nowożytny 1",
+        "Rachunek prawdopodobieństwa i statystyka matematyczna",
+        "Bazy danych i geobazy",
+        "Podstawy wizualizacji kartograficznej",
+        "Teledetekcja",
+        "Systemy informacji geograficznej 2",
+        "Metody ilościowe w obsłudze ruchu turystycznego",
+        "Źródła informacji przestrzennej",
+        "Język obcy nowożytny 2",
+        "Przedmioty fakultatywne - geoinformatyczne",
+        "Przedmioty fakultatywne - nauki o Ziemi",
+        "Przedmioty fakultatywne - geografia człowieka",
+        "Automatyzacja geoprzetwarzania",
+        "Podstawy fotogrametrii",
+        "Ćwiczenia terenowe - pozyskiwanie danych środowiskowych",
+        "Ćwiczenia terenowe - drony",
+        "Praktyki zawodowe (3 tygodnie = 120 h)",
+        "Język obcy nowożytny 3",
+        "Techniki eksploracji danych",
+        "Mapy internetowe",
+        "Geografia fizyczna kompleksowa",
+        "Podstawy sztucznej inteligencji",
+        "Cyfryzacja w planowaniu przestrzennym",
+        "Planowanie zintegrowane w dobie zmian klimatu",
+        "Analizy krajobrazowe",
+        "Seminarium dyplomowe 1",
+        "WF*",
+        "Podstawy prawa i przedsiębiorczości",
+        "Historia geoinformacji (przedmiot humanistyczny)",
+        "Archeologia środowiskowa (przedmiot humanistyczny)",
+        "Seminarium dyplomowe 2",
+        "Praca dyplomowa i egzamin inżynierski"
+      ]
+    }
+  ],
+  "uwr-geografia": [
+    {
+      "semester": null,
+      "subjects": [
+        "BHP i ppoż.",
+        "Ochrona własności intelektualnej",
+        "Astronomiczne podstawy geografii",
+        "Geografia ekonomiczna",
+        "Geografia regionalna Polski",
+        "Historia gospodarcza z elementami odkryć geograficznych",
+        "Matematyka",
+        "Podstawy geografii fizycznej",
+        "Podstawy geologii",
+        "Podstawy kartografii",
+        "Technologie informacyjne",
+        "Geografia ludności",
+        "Geografia osadnictwa",
+        "Geografia regionalna świata",
+        "Hydrologia",
+        "Kartografia tematyczna",
+        "Meteorologia",
+        "Statystyka",
+        "Ćwiczenia terenowe - hydrologia (5 dni)",
+        "Ćwiczenia terenowe - kartografia i topografia (5 dni)",
+        "Ćwiczenia terenowe - meteorologia (5 dni)",
+        "Język obcy nowożytny 1 (poziom B2)",
+        "Dzieje cywilizacji a zmiany środowiska",
+        "Geografia przemysłu i usług",
+        "Geomorfologia",
+        "Gleboznawstwo",
+        "Gospodarka przestrzenna",
+        "Klimatologia",
+        "Ochrona środowiska",
+        "Systemy informacji geograficznej 1",
+        "Język obcy nowożytny 2 (poziom B2)",
+        "Geografia fizyczna - przedmioty fakultatywne",
+        "Geografia człowieka - przedmioty fakultatywne",
+        "Biogeografia",
+        "Geografia społeczna",
+        "Podstawy ekonomii",
+        "Podstawy nauki o krajobrazie",
+        "Systemy informacji geograficznej 2",
+        "Teledetekcja",
+        "Ćwiczenia terenowe - geografia społeczno- ekonomiczna (5 dni)",
+        "Ćwiczenia terenowe - geomorfologia i gleboznawstwo (6 dni)",
+        "Ćwiczenia terenowe - gospodarka przestrzenna (5 dni)",
+        "Praktyki zawodowe (3 tygodnie = 120 h)",
+        "Język obcy nowożytny 3 (poziom B2)",
+        "Geografia turystyki",
+        "Geozagrożenia",
+        "Globalne problemy gospodarcze",
+        "Projekt w systemach informacji geograficznej 1",
+        "Seminarium dyplomowe 1",
+        "Język obcy nowożytny poziom B2 (egzamin)",
+        "WF*",
+        "Geografia polityczna",
+        "Geografia Śląska",
+        "Projekt w systemach informacji geograficznej 2",
+        "Seminarium dyplomowe 2",
+        "Ćwiczenia terenowe - geografia regionalna (7 dni - \"objazdówka\")",
+        "Praca dyplomowa i egzamin licencjacki"
+      ]
+    }
+  ],
+  "uwr-filozofia": [
+    {
+      "semester": null,
+      "subjects": [
+        "Wstęp do filozofii",
+        "Estetyka",
+        "Logika",
+        "Propedeutyka filozofii najnowszej",
+        "Metodologia ogólna",
+        "Socjologia",
+        "Wstępne szkolenie w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożaro- wej",
+        "Filozofia starożytna",
+        "Język starożytny I (greka)",
+        "Język starożytny I (łacina)",
+        "Filozofia średniowieczna",
+        "Teoria argumentacji",
+        "Socjologia z elementami socjologii rynku",
+        "Technologia informacyjna z elementami prawa własności intelektualnej",
+        "Język obcy nowożytny B1",
+        "Moduł konwersatoria do wyboru: Filozofia praktyczna I",
+        "Moduł konwersatoria do wyboru: Filozofia systematyczna I",
+        "Moduł konwersatoria do wyboru: Filozofia i historia I",
+        "Język starożytny II (łacina)",
+        "Język starożytny II (greka)",
+        "Etyka",
+        "Filozofia XVII- XVIII w.",
+        "Język obcy nowożytny B2I",
+        "Moduł konwersatoria do wyboru: Filozofia praktyczna II",
+        "Moduł konwersatoria do wyboru: Filozofia systematyczna II",
+        "Moduł konwersatoria do wyboru: Filozofia i historia II",
+        "Translatorium z języka starożytnego (greka)",
+        "Translatorium z języka starożytnego (łacina)",
+        "Klasyczna filozofia niemiecka",
+        "Filozofia XIX w.",
+        "Wychowanie fizyczne",
+        "Seminarium licencjackie I",
+        "Moduł konwersatoria do wyboru: Filozofia praktyczna III",
+        "Moduł konwersatoria do wyboru: Filozofia systematyczna III",
+        "Moduł konwersatoria do wyboru: Filozofia i historia III",
+        "Język obcy nowożytny B2II",
+        "Filozofia współczesna",
+        "Ontologia",
+        "Epistemologia",
+        "Seminarium licencjackie II",
+        "Moduł konwersatoria do wyboru: Filozofia praktyczna IV",
+        "Moduł konwersatoria do wyboru: Filozofia systematyczna IV",
+        "Moduł konwersatoria do wyboru: Filozofia i historia IV",
+        "Filozofia społeczna",
+        "Filozofia polska",
+        "Translatorium z języka nowożytnego",
+        "Seminarium licencjackie III",
+        "Moduł konwersatoria do wyboru: Filozofia praktyczna V",
+        "Moduł konwersatoria do wyboru: Filozofia systematyczna V",
+        "Moduł konwersatoria do wyboru: Filozofia i historia V"
+      ]
+    }
+  ]
+}

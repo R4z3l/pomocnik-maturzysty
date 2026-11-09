@@ -1,0 +1,153 @@
+
+PAGE 1
+Total 
+hours L T CL S Total 
+hours L T CL S
+4 334 154 150 30 0 180 84 80 16 0 30
+1 375 165 180 30 0 188 88 84 16 0 30
+2 360 165 165 30 0 180 88 76 16 0 30
+3 379 180 165 34 0 176 96 60 20 0 30
+1 345 120 180 0 45 168 64 84 0 20 30
+0 195 75 75 0 45 105 40 40 0 25 30
+Total
+hours L T CL S Total
+hours L T CL S
+Microeconomics I I Exam 30 15 15 16 8 8 3
+Introduction to Macroeconomics II Grade 30 15 15 16 8 8 3
+Finance I Exam 30 15 15 16 8 8 3
+Accounting I Exam 30 15 15 16 8 8 3
+Management I Exam 60 30 30 32 16 16 6
+Mathematics II Exam 60 30 30 32 16 16 6
+Law II Grade 30 30 16 16 3
+Digital Technologies I Grade 30 30 16 16 3
+Introduction to Research Methods IV Grade 15 15 8 8 2
+315 165 120 30 0 168 88 64 16 0 32
+Organizational Behavior I Grade 30 15 15 16 8 8 3
+Marketing I Grade 60 30 30 32 16 16 4
+Project Management III Exam 45 15 15 15 24 8 8 8 4
+Human Resources Management III Grade 60 30 30 32 16 16 5
+Statistics III Exam 60 30 15 15 32 16 8 8 5
+Strategic Management IV Exam 45 15 15 15 24 8 8 8 5
+Entrepreneurship II Grade 45 15 30 24 8 16 3
+345 150 150 45 0 184 80 80 24 0 29
+2026/2027 - 2028/2029
+Total Exam
+Full-time studies Part-time studies
+E C T SBUSINESS MANAGEMENT
+FIRST CYCLE
+winter 2026/2027 - Semester 1
+summer 2026/2027 - Semester 2
+winter 2027/2028 - Semester 3
+summer 2027/2028 - Semester 4
+winter 2028/2029 - Semester 5
+summer 2028/2029 - Semester 6
+Course Sem. Credit form
+Full-time studies Part-time studies
+E C T S
+SECTION I. GENERAL COURSES - OBLIGATORY
+TOTAL SECTION I
+SECTION II. OBLIGATORY COURSES
+TOTAL SECTION II
+
+PAGE 2
+Total
+hours L T CL S Total
+hours L T CL S
+Marketing Research V Exam 30 15 15 16 8 8 3
+Consumer Behaviour II Grade 30 15 15 16 8 8 3
+Design Thinking I Grade 30 15 15 16 8 8 2
+Financial Accounting II Grade 30 15 15 16 8 8 2
+Logistics IV Exam 30 15 15 16 8 8 3
+Corporate Finance Management III Grade 30 15 15 16 8 8 4
+Operations Management III Grade 30 15 15 16 8 8 3
+Innovation Management IV Grade 30 15 15 16 8 8 3
+Services Marketing IV Grade 30 15 15 16 8 8 2
+Change Management IV Grade 30 15 15 16 8 8 3
+Team Building and the Psychology of Teamwork V Grade 30 15 15 16 8 8 2
+Communication and Conflict Management III Grade 30 15 15 16 8 8 2
+Decision Making V Grade 30 15 15 16 8 8 3
+Presentations and Public Speaking VI Grade 30 15 15 16 8 8 2
+Sustainable Business IV Grade 30 30 16 16 2
+Quality Management IV Exam 30 15 15 16 8 8 3
+Intelligent Management Information Systems V Grade 30 15 15 16 8 8 2
+Microeconomics II II Grade 30 15 15 16 8 8 2
+Excel in Business II Grade 30 30 16 16 2
+AI Literacy and Critical Thinking I Grade 30 15 15 16 8 8 3
+Lecture Developing Social and Professional Skills II Grade 30 30 16 16 2
+630 330 255 45 0 336 176 136 24 0 53
+Course Sem. Credit form
+Full-time studies Part-time studies
+E C T S
+SECTION III. OPTIONAL COURSES
+TOTAL SECTION III
+
+PAGE 3
+Total
+hours L T CL S Total
+hours L T CL S
+Module 1 V Grade 120 60 60 64 32 32 12
+Module 2 VI Grade 120 60 60 64 32 32 9
+240 120 120 0 0 128 64 64 0 0 21
+Humanistic Course I III Grade 45 45 24 24 3
+Humanistic Course II IV Grade 45 45 24 24 3
+90 90 0 0 0 48 48 0 0 0 6
+Electronic Sources of Scientific Information IV Credited 4 4 4 4 0
+Occupational Health and Safety I Credited 4 4 4 4 0
+Physical Training IV Credited 30 30 0 0
+Physical Training V Credited 30 30 0 0
+Foreign Language I - English - FT1 II Grade 30 30 0 2
+Foreign Language I - English - FT1 III Grade 30 30 0 2
+Foreign Language I - English - FT1 IV Grade 30 30 0 2
+Foreign Language I - English - PT1 II Grade 0 20 20 4
+Foreign Language I - English - PT1 III Grade 0 20 20 4
+Foreign Language I - English - PT1 IV Grade 0 20 20 4
+Foreign Language I - English - PT1 V Grade 0 20 20 2
+Foreign Language II - FT1 II Grade 30 30 0 2
+Foreign Language II - FT1 III Grade 30 30 0 2
+Foreign Language II - FT1 IV Grade 30 30 0 2
+Foreign Language II - FT1 V Grade 30 30 0 2
+Bachelor Seminar V Credited 45 45 20 20 6
+Bachelor Seminar VI Credited 45 45 25 25 12
+Bachelor Thesis VI Credited 0
+Work Placement (160 h) VI Credited 7
+368 4 270 4 90 133 4 80 4 45 39
+1988 859 915 124 90 997 460 424 68 45 180
+Course Sem. Credit form
+Full-time studies Part-time studies
+E C T S
+SECTION IV. MODULE COURSES
+TOTAL SECTION IV
+SECTION V. HUMANISTIC  COURSES
+TOTAL SECTION V
+SECTION VI. ACADEMIC COURSES - OBLIGATORY
+TOTAL SECTION VI
+TOTAL HOURS
+
+PAGE 4
+Total
+hours L T CL S Total
+hours L T CL S
+Business Process Modelling V Grade 30 15 15 16 8 8 3
+Lean Management V Grade 30 15 15 16 8 8 3
+Strategic Project Management V Grade 30 15 15 16 8 8 3
+Project Budgeting and Controlling V Grade 30 15 15 16 8 8 3
+Branding and Brand Strategy VI Grade 30 15 15 16 8 8 3
+Social Media Management VI Grade 30 15 15 16 8 8 2
+Strategic Narratives VI Grade 30 15 15 16 8 8 2
+Merchandising VI Grade 30 15 15 16 8 8 2
+Business Model Innovation VI Grade 30 15 15 16 8 8 2
+Selling and Sales Management VI Grade 30 15 15 16 8 8 2
+Market Intelligence VI Grade 30 15 15 16 8 8 3
+User Experience VI Grade 30 15 15 16 8 8 2
+AC/DC Simulation V Grade 30 15 15 16 8 8 3
+Learning & Development of High Potential V Grade 30 15 15 16 8 8 3
+Coaching and Mentoring V Grade 30 15 15 16 8 8 3
+Labour Law in Case Studies V Grade 30 15 15 16 8 8 3
+Course Sem. Credit form
+MARKETING COMMUNICATIONS SPECIALIST
+BUSINESS DEVELOPER
+TALENT MANAGER
+Full-time studies Part-time studies
+E C T S
+LIST OF MODULES
+PROJECT AND PROCESS MANAGER

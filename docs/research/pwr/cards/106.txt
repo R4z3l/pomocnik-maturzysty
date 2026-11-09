@@ -1,0 +1,201 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Mechaniczno-Energetyczny
+Energetyka
+Limit miejsc
+120
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Energetyka
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów (stacjonarne)
+Czesne
+brak
+(studia stacjonarne)
+3500/ semestr
+(studia niestacjonarne)
+Czesne dla cudzoziemców
+6 360 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria środowiska, górnictwo i energetyka
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Kształcenie ukierunkowane jest na zdobycie wiedzy i umiejętności praktycznych w zakresie projektowania, budowy i eksploatacji systemów energetycznych. Studenci poznają różne technologie wytwarzania, konwersji, dystrybucji i magazynowania energii w oparciu o technologie konwencjonalne, jądrowe oraz odnawialne źródła energii. Absolwenci uzyskują odpowiednie kwalifikacje w dziedzinie projektowania, eksploatacji i utrzymania instalacji oraz systemów energetycznych przy wykorzystaniu nowoczesnych technologii i narzędzi inżynierskich.
+Więcej informacji o kierunku znajduje się na
+stronie wydziału
+.
+PROGRAM STUDIÓW STACJONARNYCH
+PROGRAM STUDIÓW NIESTACJONARNYCH
+Energetyka rozproszona
+Specjalność „Energetyka rozproszona” na kierunku Energetyka na Wydziale Mechaniczno- Energetycznym Politechniki Wrocławskiej skupia się ona na projektowaniu, budowie i utrzymaniu ruchu rozproszonych układów wytwarzania, dystrybucji i magazynowania energii. Studenci na tej specjalności zdobywają wiedzę z dziedzin takich jak mechanika płynów, termodynamika, gazownictwo, audyt energetyczny czy systemy konwersji energii. Poznają różne technologie wytwarzania energii, w tym mikroelektrownie wiatrowe, farmy fotowoltaiczne, jednostki kogeneracyjne czy biogazownie. Absolwenci tej specjalności są przygotowani do pracy na różnych stanowiskach związanych z projektowaniem, wdrażaniem i utrzymaniem ruchu rozproszonych systemów energetycznych, w tym jako projektanci, instalatorzy, inżynierowie procesu, technologowie czy specjaliści ds. zarządzaniem systemami energetycznymi. Kształcenie na tej specjalności pozwala na zdobycie wiedzy i umiejętności potrzebnych do pracy w sektorze energetycznym, m.in. w obszarze zrównoważonej transformacji energetycznej, dekarbonizacji czy poligeneracji.
+Energetyka zawodowa
+Specjalność „Energetyka zawodowa” na kierunku Energetyka na Wydziale Mechaniczno- Energetycznym Politechniki Wrocławskiej skupia się na zdobywaniu wiedzy i umiejętności w dziedzinie projektowania, eksploatacji i utrzymania instalacji oraz systemów energetycznych. Studenci na tej specjalności zdobywają wiedzę z dziedzin takich jak termodynamika, elektrotechnika, ochrona środowiska czy gospodarka i utylizacja odpadów. Poznają konwencjonalne, jądrowe oraz odnawialne technologie wytwarzania energii elektrycznej i cieplnej. Absolwenci tej specjalności są przygotowani do pracy na różnych stanowiskach związanych z energetyką, w tym na stanowiskach projektantów, specjalistów ds. utrzymania ruchu, kierowników produkcji, inspektorów technicznych czy specjalistów ds. jakości i ochrony środowiska. Kształcenie na tej specjalności pozwala na zdobycie wiedzy i umiejętności potrzebnych do pracy w sektorze energetycznym i paliwowym, m.in. w obszarze energetyki jądrowej, energetyki wodorowej, gospodarki obiegu zamkniętego czy ciepłownictwie.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+energetyka
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik chłodnictwa i klimatyzacji
+Technik elektronik
+Technik elektryk
+Technik energetyk
+Technik gazownictwa
+Technik inżynierii sanitarnej
+Technik mechatronik
+Technik ochrony środowiska
+Technik pojazdów samochodowych
+Technik robotyk
+Technik urządzeń i systemów energetyki odnawialnej
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+biura projektowe w obszarze wytwarzania i dystrybucji energii elektrycznej i cieplnej
+przedsiębiorstwa związane z wytwarzaniem i dystrybucją energii cieplnej i elektrycznej  – stanowiska projektantów, specjalistów ds. utrzymania ruchu, kierowników produkcji, inspektorów technicznych czy specjalistów ds. jakości i ochrony środowiska
+stanowiska inżynieryjne związane z projektowaniem, wdrażaniem i utrzymaniem ruchu systemów energetycznych, w tym jako projektanci, instalatorzy, inżynierowie procesu, technologowie czy specjaliści ds. zarządzaniem systemami energetycznymi
+przedsiębiorstwa zajmujące się projektowaniem i realizacją inwestycji oraz eksploatacją systemów energetycznych
+instytuty i jednostki badawczo-rozwojowe oraz jednostki administracji państwowej
+Praktyki i staże
+PPUH ISOTEX
+KGHM CUPRUM
+Fabryka Kotłów SEFAKO
+Dolnośląska Agencja Energii i Środowiska
+Zespół Elektrociepłowni Wrocławskich KOGENERACJA
+ENVILAB-EKO
+Intelplast
+Energa Invest
+ATUM
+PGE Energia Ciepła
+LNS Sp. z o.o. Chłodnictwo przemysłowe i komercyjne
+INERGIS
+Ostrowski Zakład Ciepłowniczy
+JAMP
+Kriosystem
+Zakłady Urządzeń Kotłowych „Stąporków”
+Elektrownia „Zielona Góra”
+PORT LOTNICZY WROCŁAW
+SolTech Service – Telecom
+Amper B
+Mitsubishi Electric Europe B.V
+Miejsca pracy absolwentów
+Alten
+ControlTec
+Amazon
+Radiotechnika Marketing
+WTB Telecom
+W&K Industriemontage
+Unipetrol Centre for Research and Education
+Technopomiar
+TECH-MET
+RAFAKO
+Radiotechnika Marketing
+Profit Energy Giant
+PRE ELKOM
+PKP Energetyka
+PGNiG TERMIKA
+Pertel
+ORLEN Serwis
+Oleofarm
+MWP-Projekt
+MIKRONIKA
+M.A.S., INSTOM
+GKN Driveline Polska
+Energia Polska
+ENCO
+ELECTROMAR
+E&S Industry
+ControlTec
+Budimex
+AtmotermSA
+Atalian Poland
+Antal
+Akzo Nobel
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

@@ -1,0 +1,97 @@
+{
+  "checkedAt": "2026-10-25",
+  "scope": "Uniwersytet Wrocławski and Uniwersytet Ekonomiczny we Wrocławiu; full-time first-cycle and uniform master's programmes in Wrocław; Polish and English",
+  "sources": [
+    {
+      "id": "uczelnie-pl-ekonomia",
+      "title": "Ekonomia – progi punktowe",
+      "url": "https://www.uczelnie.pl/progi-punktowe/ekonomia",
+      "publisher": "Uczelnie.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Odczyt strony z tabelą Uczelnia/Miasto/Próg (ostatni znany)/Rok/Tryb/Status. Wrocław: Uniwersytet Ekonomiczny we Wrocławiu 180/350 pkt, 2025/26, stacjonarne; Uniwersytet Wrocławski 87,5/300 pkt, 2025/26, stacjonarne. Portal objaśnia procent jako relację do skali uczelni."
+    },
+    {
+      "id": "uczelnie-pl-matematyka",
+      "title": "Matematyka – progi punktowe",
+      "url": "https://www.uczelnie.pl/progi-punktowe/matematyka",
+      "publisher": "Uczelnie.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Uniwersytet Wrocławski: 101,2/300 pkt, 2025/26, stacjonarne. Strona nie ujawnia w odczycie roczników 2022/23–2024/25."
+    },
+    {
+      "id": "uczelnie-pl-turystyka",
+      "title": "Turystyka – progi punktowe",
+      "url": "https://www.uczelnie.pl/progi-punktowe/turystyka",
+      "publisher": "Uczelnie.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Uniwersytet Wrocławski: 84/300 pkt, 2025/26, stacjonarne. Strona nie ujawnia w odczycie roczników 2022/23–2024/25."
+    },
+    {
+      "id": "uczelnie-pl-stosunki-miedzynarodowe",
+      "title": "Stosunki Międzynarodowe – progi punktowe",
+      "url": "https://www.uczelnie.pl/progi-punktowe/stosunki-miedzynarodowe",
+      "publisher": "Uczelnie.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Uniwersytet Wrocławski: 95,5/300 pkt, 2025/26, stacjonarne. Wiersz UEW 170/350 pkt nie jest mapowany na Międzynarodowe stosunki gospodarcze. Strona nie ujawnia w odczycie roczników 2022/23–2024/25."
+    }
+  ],
+  "thresholdCandidates": [
+    {
+      "programmeId": "uwr-ekonomia",
+      "year": "2025/2026",
+      "round": null,
+      "value": 87.5,
+      "status": "reported",
+      "sourceId": "uczelnie-pl-ekonomia",
+      "basis": "unspecified",
+      "note": "Stacjonarne; wartość zgodna z istniejącym rekordem. Portal podaje tylko ostatni znany próg, bez rundy. Nie jest to nowy rocznik do importu.",
+      "scaleNote": "portal reports 87.5/300 points; denominator is the portal's displayed scale, not established here as the official admission formula"
+    },
+    {
+      "programmeId": "uwr-matematyka",
+      "year": "2025/2026",
+      "round": null,
+      "value": 101.2,
+      "status": "reported",
+      "sourceId": "uczelnie-pl-matematyka",
+      "basis": "unspecified",
+      "note": "Stacjonarne; wartość zgodna z istniejącym rekordem. Portal podaje tylko ostatni znany próg, bez rundy. Nie jest to nowy rocznik do importu.",
+      "scaleNote": "portal reports 101.2/300 points; denominator is the portal's displayed scale, not established here as the official admission formula"
+    },
+    {
+      "programmeId": "uwr-turystyka",
+      "year": "2025/2026",
+      "round": null,
+      "value": 84,
+      "status": "reported",
+      "sourceId": "uczelnie-pl-turystyka",
+      "basis": "unspecified",
+      "note": "Stacjonarne; wartość zgodna z istniejącym rekordem. Portal podaje tylko ostatni znany próg, bez rundy. Nie jest to nowy rocznik do importu.",
+      "scaleNote": "portal reports 84/300 points; denominator is the portal's displayed scale, not established here as the official admission formula"
+    },
+    {
+      "programmeId": "uwr-stosunki-miedzynarodowe",
+      "year": "2025/2026",
+      "round": null,
+      "value": 95.5,
+      "status": "reported",
+      "sourceId": "uczelnie-pl-stosunki-miedzynarodowe",
+      "basis": "unspecified",
+      "note": "Stacjonarne; wartość zgodna z istniejącym rekordem. Portal podaje tylko ostatni znany próg, bez rundy. Nie jest to nowy rocznik do importu.",
+      "scaleNote": "portal reports 95.5/300 points; denominator is the portal's displayed scale, not established here as the official admission formula"
+    }
+  ],
+  "programmeCandidates": [],
+  "excludedPages": [],
+  "notes": [
+    "Uczelnie.pl says its displayed percentages are the ratio of the reported threshold to the scale used for that institution. Do not interpret percentages as matura-result percentages or compare scales across universities.",
+    "UEW Economics is listed as 180/350 for 2025/26, while the official UEW source represented in src/data/uew.json reports 170 for the same programme and year. Exclude the portal value pending clarification of the scale and underlying measure.",
+    "Do not map the UEW portal row named Stosunki Międzynarodowe to UEW's distinct programme Międzynarodowe stosunki gospodarcze.",
+    "The inspected pages expose only each programme's latest known entry, not a readable 2022/23–2024/25 history. Search snippets and page titles are not evidence for those years.",
+    "No programme offer, duration, language, or 2027/28 admission rule is established by these threshold listing pages. UEW duration remains unknown/null."
+  ]
+}

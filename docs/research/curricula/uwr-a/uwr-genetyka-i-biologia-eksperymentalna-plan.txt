@@ -1,0 +1,217 @@
+    Genetyka i biologia eksperymentalna                                        UCHWAŁA NR 85/2024
+                studia I stopnia                                               SENATU UNIWERSYTETU WROCŁAWSKIEGO
+              2024/25/26/27                                                                              z dnia 22 maja 2024 r.
+                                                                                                                    Kod
+          NAZWA PRZEDMIOTU                pkt ECTS    E/Z   suma godz   wykł.   konw.    sem.       ćw.        lab.    ćw. ter.
+                                                                                                              USOS
+                                                                    SEMESTR 1
+               Przedmioty obowiązkowe
+Biofizyka
+Biophysics                                           3        E         30        20                          10                           25-GBE-S1-E1-Biofiz
+Chemia dla genetyków
+Chemistry for geneticists                              6        E         70        30                                    40              25-GBE-S1-E1-CdG
+Genetyka
+                                                     6        E         75        30                                    45              25-GBE-S1-E1-Gen
+Genetics
+Anatomia funkcjonalna roślin
+                                                     4         Z         45        15                          30                         25-GBE-S1-E1-AnatFuR
+Functional anatomy of the plant
+Podstawy taksonomii roślin, glonów i grzybów
+                                                     1         Z         15        15                                                     25-GBE-S1-E1-PTRGG
+Introduction to plant, algae and fungi taxonomy
+Podstawy zoologii systematycznej
+                                                     1         Z         15        15                                                        25-GBE-S1-E1-PZS
+Principles of systematic zoology
+Techniki mikroskopowe
+                                                     2         Z         35                                              35             25-GBE-S1-E1-TM
+Microscopic techniques
+Histologia zwierząt
+                                                     4        E         45        15                          30                         25-GBE-S1-E1-Histozw
+Animal histology
+Własność intelektualna i prawo pracy
+                                                     2         Z         30        15       15                                              25-GBE-S1-E1-WlasIPP
+Copyright and labour law
+Podstawy komunikacji formalnej
+                                                     1         Z         12                 12                                             25-GBE-S1-E1-PodKF
+Principles of formal communication
+Szkolenie BHP i Ppoż
+                                                                                        -         Z         4                                     4                        00-BHP
+Health and safety
+                                          Razem:    30                 376       155      27       0         74        120       0
+Liczba egzaminów w semestrze 1:                                   4
+                                                                                                                    Kod
+          NAZWA PRZEDMIOTU                pkt ECTS    E/Z   suma godz   wykł.   konw.    sem.       ćw.        lab.    ćw. ter.
+                                                                                                              USOS
+                                                                    SEMESTR 2
+               Przedmioty obowiązkowe
+Biochemia
+                                                     6        E         75        30                                    45              25-GBE-S1-E2-Bioche
+Biochemistry
+Mikrobiologia
+                                                     5         Z         60        30                                    30              25-GBE-S1-E2-Mikrob
+Microbiology
+Biologia komórki roślinnej
+                                                     3        E         45        15                          30                         25-GBE-S1-E2-BKR
+Plant cell biology
+Biologia komórki zwierzęcej
+                                                     3        E         45        15                          30                         25-GBE-S1-E2-BKZ
+Animal cell biology
+Obliczenia w biologii eksperymentalnej
+                                                     2         Z         20                                    20                        25-GBE-S1-E2-OwBE
+Calculations in experimental biology
+Radzenie sobie ze stresem
+                                                     1         Z         15                 15                                               25-GBE-S1-E2-RSzS
+Stress coping
+Wychowanie fizyczne
+                                                     0         Z         30                                    30                      8545-WF-…
+Physical education
+Język angielski
+                                                     4         Z         60                                    60                          60-S-JA-…
+English
+
+                                          Razem:    24                 350        90       15       0        170        75       0
+Przedmioty do wyboru za pkt ECTS*:                       6
+Liczba egzaminów w semestrze 2:                                   3
+Liczba egzaminów na I roku:                                       7
+                                                                                                                    Kod
+          NAZWA PRZEDMIOTU                pkt ECTS    E/Z   suma godz   wykł.   konw.    sem.       ćw.        lab.    ćw. ter.
+                                                                                                              USOS
+                                                                    SEMESTR 3
+               Przedmioty obowiązkowe
+Techniki inżynierii genetycznej
+                                                     2         Z         35                                              35              25-GBE-S1-E3-TIG
+Genetic engineering techniques
+Techniki analizy białek
+                                                     2         Z         35                                              35              25-GBE-S1-E3-TAB
+Protein analysis techniques
+Techniki w biologii eksperymentalnej roślin
+                                                     2         Z         35                                              35             25-GBE-S1-E3-TwBER
+Techniques in experimental plant biology
+Techniki PCR w praktyce
+                                                     4        E         50        15                                    35              25-GBE-S1-E3-TechPCR
+PCR techniques in use
+Struktura i funkcja białka
+                                                     3        E         45        15                30                                     25-GBE-S1-E3-StruFB
+Protein structure and function
+Podstawy ewolucjonizmu
+                                                     1         Z         15                 15                                            25-GBE-S1-E3-PodEw
+Basics of evolutionary biology
+Programy stypendialne dla studentów nauk biologicznych
+                                                     1         Z         10                          10                                   25-GBE-S1-E3-PSdsNB
+Biological science scholarship for students
+Język angielski
+                                                     4         Z         60                                    60                          60-S-JA-…
+English
+Wychowanie fizyczne
+                                                     0         Z         30                                    30                      8545-WF-…
+Physical education
+                                          Razem:    19                 315        30       15       40        90        140       0
+Przedmioty do wyboru za pkt ECTS*:                       11
+Liczba egzaminów w semestrze 3:                                   2
+                                                                                                                    Kod
+          NAZWA PRZEDMIOTU                pkt ECTS    E/Z   suma godz   wykł.   konw.    sem.       ćw.        lab.    ćw. ter.
+                                                                                                              USOS
+                                                                    SEMESTR 4
+               Przedmioty obowiązkowe
+Techniki izolacji frakcji subkomórkowych
+                                                     2         Z         35                                              35               25-GBE-S1-E4-TIFS
+Isolation of subcellular fractions technique
+Fizjologia roślin
+                                                     5        E         75        30                                    45              25-GBE-S1-E4-FizRo
+Plant physiology
+Fizjologia zwierząt
+                                                     5        E         75        30                                    45              25-GBE-S1-E4-FizZw
+Animal physiology
+Biologia rozwoju roślin
+                                                     3        E         45        15                          30                         25-GBE-S1-E4-BioRR
+Plant developmental biology
+Zarys wirusologii molekularnej
+                                                     1         Z         15        15                                                   25-GBE-S1-E4-ZWM
+Principles of molecular virology
+Genetyka molekularna
+                                                     6        E         75        30                                    45             25-GBE-S1-E4-GenMo
+Molecular genetics
+Język angielski
+                                                     4         Z         60                                    60                          60-S-JA-…
+English
+
+                                          Razem:    26                 380       120       0        0         90        170       0
+Przedmioty do wyboru za pkt ECTS*:                       4
+Wybór spośród przedmiotów:
+Liczba egzaminów w semestrze 4:                                   4
+Liczba egzaminów na II roku:                                       6
+                                                                                                                    Kod
+          NAZWA PRZEDMIOTU                pkt ECTS    E/Z   suma godz   wykł.   konw.    sem.       ćw.        lab.    ćw. ter.
+                                                                                                              USOS
+                                                                    SEMESTR 5
+               Przedmioty obowiązkowe
+Biologia rozwoju zwierząt
+                                                     3        E         45        15                          30                         25-GBE-S1-E5-BioRZ
+Animal developmental biology
+Molekularna organizacja komórki
+                                                     6        E         60        30       30                                           25-GBE-S1-E5-MOK
+Molecular organization of the cell
+Statystyka w biologii
+                                                     3         Z         45        15                          30                          25-GBE-S1-E5-StatwBi
+Statistics in biology
+Przygotowanie pracy licencjackiej
+                                                     10        Z      B/W                                                                    25-GBE-S1-E5-PrzyPL
+Preparation of B.Sc. Thesis
+
+                                          Razem:    22                 150        60       30       0         60         0        0
+
+Przedmioty do wyboru za pkt ECTS:                        8
+Liczba egzaminów w semestrze 5:                                   2
+Czynniki rozwoju człowieka
+                                                                                                                    Kod
+          NAZWA PRZEDMIOTU                pkt ECTS    E/Z   suma godz   wykł.   konw.    sem.       ćw.        lab.    ćw. ter.
+                                                                                                              USOS
+                                                                    SEMESTR 6
+               Przedmioty obowiązkowe
+Genetyka i biologia molekularna roślin
+                                                     5        E         60        15                                    45             25-GBE-S1-E6-GenBMR
+Genetics and molecular biology of plants
+Genetyka człowieka
+                                                     3        E         30        15       15                                             25-GBE-S1-E6-GenCz
+Human genetics
+Wstęp do neurobiologii
+                                                     3        E         30        20                          10                        25-GBE-S1-E6-WstDNeu
+Introduction to neuroscience
+Informatyka w biologii eksperymentalnej
+                                                     2         Z         30                                    30                         25-GBE-S1-E6-IwBE
+Informatics in experimental biology
+Przygotowanie pracy licencjackiej
+                                                     10        Z      B/W                                                                    25-GBE-S1-E6-PrzyPL
+Preparation of B.Sc. Thesis
+                                          Razem:    23                 150        50       15       0         40        45       0
+
+Przedmioty do wyboru za pkt ECTS:                        7
+Liczba egzaminów w semestrze 6:                                   3
+Liczba egzaminów na roku III:                                      5
+
+Liczba godzin z przedmiotów obowiązkowych w ciągu 6
+                                                                       1721
+semestrów:
+Liczba godzin z przedmiotów do wyboru:                                      335
+
+                                                    Łącznie:
+                                                                       2056
+Semestry 5 i 6 na wszystkich specjalnościach studiów mogą być realizowane w sposób alternatywny poprzez realizację projektu badawczego w ramach IPPS, opcja ta przeznaczona jest wyłącznie
+dla studentów ze średnią minimum 4.5. Student w semestrze 5. i 6. będzie zobowiązany do dokończenia kształcenia językowego, do realizacji pracy dyplomowej oraz do ułożenia indywidualnego
+programu studiów tak, aby każdy z semestrów ukończyć na poziomie min. 30 ECTS. Projekt badawczy nie może stanowić części pracy dyplomowej.
+Projekt badawczy, semestr 5
+                                                     10        Z       bw                                                              25-GBE-S1-W-PB5
+Research project
+Projekt badawczy, semestr 6
+                                                     10        Z       bw                                                              25-GBE-S1-W-PB5
+Research project
+
+*wybór przedmiotów za mniejszą/większą niż wymagana w
+danym semestrze sumę ECTS student kompensuje w
+następnym semestrze
+** 2 tyg. praktyk równe jest 80 godz. praktyki mogą być
+realizowane tylko jednokrotnie, albo w semestrze zimowym,
+albo letnim także w trybie nieciągłym
+*** kurs realizowany w formie e-blended
+**** kurs realizowany w sposób hybrydowy, e-blended i
+tradycyjny

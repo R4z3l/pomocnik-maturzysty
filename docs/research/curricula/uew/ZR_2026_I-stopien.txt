@@ -1,0 +1,177 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+4 304 169 135 0 0 164 92 72 0 0 30
+2 360 150 180 30 0 180 80 84 16 0 30
+2 345 135 165 45 0 172 72 76 24 0 30
+2 424 165 195 64 0 200 88 76 36 0 30
+0 390 165 165 15 45 192 88 76 8 20 30
+0 165 60 60 0 45 89 32 32 0 25 30
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Wprowadzenie do mikroekonomii II E 30 15 15 16 8 8 3
+Wprowadzenie do makroekonomii II Z 30 15 15 16 8 8 3
+Finanse I E 30 15 15 16 8 8 3
+Rachunkowość I E 30 15 15 16 8 8 3
+Zarządzanie I E 60 30 30 32 16 16 6
+Matematyka II E 60 30 30 32 16 16 6
+Prawo I Z 30 30 16 16 3
+Technologie cyfrowe II Z 30 30 16 16 3
+Metodyka badań naukowych IV Z 15 15 8 8 2
+315 165 120 30 0 168 88 64 16 0 32
+E
+C
+T
+S
+Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+lato 2028/2029 - Semestr 6
+ZARZĄDZANIE PROJEKTAMI
+I STOPIEŃ
+2026/2027 - 2028/2029
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+lato 2027/2028 - Semestr 4
+zima 2028/2029 - Semestr 5
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne
+RAZEM SEKCJA I
+Studia niestacjonarne E
+C
+T
+S
+I ST - ZP
+
+PAGE 2
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Podstawy zarządzania projektami I E 60 30 30 32 16 16 6
+Zarządzanie zasobami ludzkimi II Z 30 15 15 16 8 8 2
+Planowanie projektów III Z 45 15 15 15 24 8 8 8 4
+Kierowanie zespołem projektowym II Z 30 15 15 16 8 8 2
+Zarządzanie jakością w projektach III E 30 15 15 16 8 8 3
+Budżetowanie i controlling projektów III Z 30 15 15 16 8 8 3
+Statystyka IV E 45 15 15 15 24 8 8 8 3
+Psychologia w biznesie IV Z 30 15 15 16 8 8 2
+Metodyki Agile IV Z 45 15 15 15 24 8 8 8 4
+Metodyka PRINCE2 IV Z 30 15 15 16 8 8 2
+Zarządzanie strategiczne IV E 45 15 15 15 24 8 8 8 4
+420 180 165 75 0 224 96 88 40 0 35
+Zachowania organizacyjne I Z 30 15 15 16 8 8 3
+Społeczna odpowiedzialność biznesu I Z 30 15 15 16 8 8 3
+Smart-city I Z 30 15 15 16 8 8 3
+Podstawy marketingu II Z 60 30 30 32 16 16 5
+Projekty w badaniach marketingowych III E 30 15 15 16 8 8 3
+Zarządzanie innowacjami i Design Thinking III Z 45 15 30 24 8 16 4
+Zarządzanie procesami III Z 30 15 15 16 8 8 3
+Zarządzanie zmianami IV Z 30 15 15 16 8 8 2
+Finansowanie przedsięwzięć projektowych IV Z 45 15 15 15 24 8 8 8 4
+Intercultural competencies V Z 15 15 8 8 1
+Informatyczne narzędzia zarządzania procesami V Z 30 15 15 16 8 8 3
+Projektowanie i doskonalenie procesów V Z 30 15 15 16 8 8 2
+Public Relations V Z 30 15 15 16 8 8 2
+Komunikacja marketingowa w internecie V Z 30 15 15 16 8 8 2
+AI i nowoczesne technologie w zarządzaniu   
+projektami V Z 30 30 16 16 2
+Zarządzanie projektami IT III Z 30 15 15 16 8 8 3
+Wykład rozwijający kompetencje społeczne i 
+zawodowe II Z 30 30 16 16 2
+555 285 225 45 0 296 152 120 24 0 47
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+RAZEM SEKCJA II
+RAZEM SEKCJA III
+I ST - ZP
+
+PAGE 3
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Moduł I V Z 120 60 60 64 32 32 10
+Moduł II VI Z 120 60 60 64 32 32 11
+240 120 120 0 0 128 64 64 0 0 21
+Przedmiot humanistyczny I III Z 45 45 24 24 3
+Przedmiot humanistyczny II IV Z 45 45 24 24 3
+90 90 0 0 0 48 48 0 0 0 6
+Elektroniczne źródła informacji naukowej IV z 4 4 4 4 0
+Bezpieczeństwo i higiena pracy I z 4 4 4 4 0
+Wychowanie fizyczne IV z 30 30 0 0
+Wychowanie fizyczne V z 30 30 0 0
+Język obcy I - język angielski - S1 II Z 30 30 0 2
+Język obcy I - język angielski - S1 III Z 30 30 0 2
+Język obcy I - język angielski - S1 IV Z 30 30 0 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 30 30 0 2
+Język obcy II - S1 III Z 30 30 0 2
+Język obcy II - S1 IV Z 30 30 0 2
+Język obcy II - S1 V Z 30 30 0 2
+Seminarium dyplomowe V z 45 45 20 20 6
+Seminarium dyplomowe VI z 45 45 25 25 12
+Praca dyplomowa VI z 0
+Praktyka zawodowa (160 h) VI z 7
+368 4 270 4 90 133 4 80 4 45 39
+1988 844 900 154 90 997 452 416 84 45 180
+SEKCJA IV. PRZEDMIOTY SPECJALNOŚCIOWE
+RAZEM LICZBA GODZIN NA KIERUNKU
+RAZEM SEKCJA IV
+RAZEM SEKCJA V
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+RAZEM SEKCJA VI
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+I ST - ZP
+
+PAGE 4
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Komunikacja interpersonalna w biznesie V Z 30 15 15 16 8 8 2
+Budowanie zespołu i trening kierowniczy V Z 30 15 15 16 8 8 2
+Symulacja AC/DC V Z 30 15 15 16 8 8 3
+Wywieranie wpływu na ludzi V Z 30 15 15 16 8 8 3
+Zrównoważone zarządzanie projektami V Z 30 15 15 16 8 8 3
+ESG - raportowanie pozafinansowe V Z 30 15 15 16 8 8 2
+Eko start-upy V Z 30 15 15 16 8 8 2
+Zrównoważony rozwój i zielona gospodarka V Z 30 15 15 16 8 8 3
+Modele biznesowe start-upów VI Z 30 30 16 16 2
+Strategie marki VI Z 30 15 15 16 8 8 3
+Dokumentacja organizacyjna i kadrowa VI Z 30 15 15 16 8 8 3
+Akademia start-up VI Z 30 15 15 16 8 8 3
+Podstawy e-commerce VI Z 30 15 15 16 8 8 3
+Projekty e-commerce - case study VI Z 30 15 15 16 8 8 3
+Zarządzanie relacjami z klientem VI Z 30 15 15 16 8 8 2
+E-branding VI Z 30 15 15 16 8 8 3
+Biznes i start-upy
+SZCZEGÓŁOWY WYKAZ MODUŁÓW
+Lider zespołu
+Green Project Management
+Zarządzanie projektami e-commerce
+I ST - ZP

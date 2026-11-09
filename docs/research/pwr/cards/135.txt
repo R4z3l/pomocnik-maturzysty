@@ -1,0 +1,132 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Podstawowych Problemów Techniki
+Optyka
+Limit miejsc
+70
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Optyka
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+10 200 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+nauki fizyczne
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Lasery, światłowody, ludzkie oko – studiując optykę dowiesz się, jak są zbudowane i jak działają. Poznasz podstawy współczesnej fizyki oraz nauk technicznych, a następnie zagłębisz się w zagadnienia ściśle związane z optyką i jej praktycznymi zastosowaniami. Nauczysz się projektować i wdrażać nowoczesne układy oraz urządzenia optyczne i światłowodowe, w tym czujniki fotoniczne i systemy oświetleniowe, a także poznasz podstawy komputerowego sterowania układami optycznymi.
+Możesz również wybrać ścieżkę związaną z optyką okularową, w ramach której poznasz budowę i funkcjonowanie ludzkiego oka, nauczysz się podstawowych pomiarów optometrycznych oraz obsługi urządzeń oftalmicznych. To solidna podstawa do dalszego kształcenia i pracy w zawodzie optometrysty.
+PROGRAM STUDIÓW
+Inżynieria optyczna i fotoniczna
+Inżynieria optyczna i fotoniczna to specjalność dla tych, którzy chcą pracować z technologiami przyszłości. Nauczysz się projektować i uruchamiać nowoczesne układy optyczne, od systemów światłowodowych i fotoniki, po inteligentne oświetlenie i aparaturę pomiarową.
+Podczas studiów zdobędziesz praktyczne umiejętności z zakresu budowy urządzeń optycznych, technik laserowych, projektowania systemów oświetleniowych oraz pracy z urządzeniami wykorzystywanymi w przemyśle i telekomunikacji. Zobaczysz, jak optyka wykorzystywana jest w praktyce.
+Absolwenci tej specjalności projektują zaawansowane układy optyczne, od teleskopów do zastosowań kosmicznych po aparaturę dla diagnostyki medycznej. Pracują też nad nowoczesnymi systemami pomiarowymi i czujnikami, również opartymi na technologiach światłowodowych oraz zajmują się projektowaniem inteligentnego oświetlenia.
+Optyka okularowa
+Absolwent posiada wiedzę i umiejętności niezbędne do wdrażania i eksploatacji układów i urządzeń optycznych, urządzeń oftalmicznych, prowadzenia podstawowych pomiarów optometrycznych, projektowania i wdrażania układów oświetleniowych. Jest przygotowany do pracy w zakładach optycznych, przedsiębiorstwach produkujących sprzęt optyczny i oświetleniowy, w przemyśle i instytucjach wykorzystujących metody optyczne do nadzoru produkcji, kontroli jakości. Może pracować w  przychodniach i szpitalach, gdzie wykorzystuje się optyczne metody diagnostyczne lub aparaturę optyczną.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, biologia. chemia, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+Optyka
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik optyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+optometrysta czyli specjalista dobierający odpowiednią korekcję optyczną (zarówno okulary, jak i soczewki kontaktowe) w salonach optycznych
+przedstawicielstwa firm produkujących pomoce wzrokowe, sprzęt okulistyczny, optyczny lub oświetleniowy
+stanowiska inżynierskie w przemyśle optycznym (np. Simens, LG, Alcatel)
+firmy telekomunikacyjne wykorzystujące światłowody
+przemysł, instytucje i ośrodki badawcze wykorzystujące lub rozwijające metody optyczne do nadzoru produkcji, kontroli jakości, weryfikacji tożsamości i zabezpieczeń
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

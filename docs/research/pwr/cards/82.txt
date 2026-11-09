@@ -1,0 +1,153 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Telekomunikacja
+Limit miejsc
+120
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Telekomunikacja
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 300 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Studia na kierunku gwarantują wykształcenie w obszarze telekomunikacji oraz podstaw informatyki.
+Kształcimy w obszarach:
+projektowanie, budowa i eksploatacja systemów i sieci radiokomunikacyjnych – w tym sieci komórkowe, systemy łączności dyspozytorskiej, bezprzewodowe sieci krótkozasięgowe (Wi-Fi, Bluetooth, Lo-Ra, sieci sensoryczne i IoT), radiofonia i telewizja oraz systemy satelitarne,
+sieci przewodowe – światłowodowe i „miedziane”,
+przetwarzanie sygnałów (w tym obrazu i dźwięku) i dostosowania ich transmisji – kompresja, kodowanie, modulacje,
+projektowanie, budowa i eksploatacja radiowych układów nadawczo-odbiorczych, technika antenowa,
+technika światłowodowa,
+kompatybilność i bezpieczeństwo elektromagnetyczne,
+technika mikroprocesorowa – praktyczne zastosowania mikrokontrolerów,
+programowanie, sieci komputerowe i teleinformatyczne,
+eksploatacja, diagnostyka, optymalizacja i bezpieczeństwo sieci telekomunikacyjnych,
+podstawy ekonomii i zarządzania ukierunkowane na systemy telekomunikacyjne.
+Program studiów na kierunku telekomunikacja obejmuje proces od pozyskania informacji, jej przygotowania poprzez przetwarzanie sygnału, kompresję i kodowanie, dopasowanie do kanału transmisyjnego dzięki modulacji, przesłanie sygnału kanałem transmisyjnym, odbiór i odtworzenie u odbiorcy informacji pierwotnej.
+Studenci poznają zarówno podstawy teoretyczne niezbędne do zrozumienia zjawisk fizycznych towarzyszących transmisji sygnałów, jak też budowę urządzeń, w tym systemów mikroprocesorowych oraz elementy warstwy fizycznej systemów: nadajniki, odbiorniki, anteny, światłowody itp.
+Do prawidłowego działania systemów telekomunikacyjnych konieczne jest zachowanie zasad kompatybilności elektromagnetycznej oraz umiejętność planowania sieci radiowych czy też kablowych. W przypadku analizy poprawności działania systemów niezbędna jest wiedza o narzędziach pomiarowych pozwalających na pomiary sygnałów na poziomie sygnałów elektrycznych, optycznych oraz fal elektromagnetycznych, ale też na poziomie całego systemu – przepustowości sieci, stopy błędów i ogólnie jakości usług (QoS).
+Współczesna technika to również podstawy programowania i sieci komputerowych – studenci realizują między innymi kursy Akademii Sieci Komputerowych Cisco, kończące się międzynarodowym certyfikatem.
+Dopełnieniem programu studiów są zagadnienia związane z ekonomią, eksploatacją, zarządzaniem i bezpieczeństwem systemów telekomunikacyjnych.
+Zachęcamy do zapoznania się z programem studiów na kierunku telekomunikacja.
+PROGRAM STUDIÓW
+Sieci teleinformatyczne
+Kształcenie obejmuje zagadnienia przesyłania danych, dźwięku i obrazu w przewodowych (miedzianych i światłowodowych) i bezprzewodowych sieciach teleinformatycznych. Program kształcenia obejmuje budowę stacjonarnych, wielousługowych sieci telekomunikacyjnych, w tym budowę i eksploatację węzłów telekomunikacyjnych oraz systemów teletransmisyjnych. Studenci zdobywają wiedzę na temat protokołów komunikacyjnych (zarówno transportowych, jak i sygnalizacyjnych) wykorzystywanych w tychże sieciach oraz zasad współpracy pomiędzy ich elementami. Studenci poznają również, oprócz problematyki transmisji danych w tym światłowodowej, radiowej i satelitarnej, zagadnienia dotyczące budowy i zasad funkcjonowania elektronicznych cyfrowych węzłów komutacyjnych. Omawiane są sieci z komutacją kanałów i z komutacją pakietów oraz szerokopasmowe sieci cyfrowe z integracją usług. Istotną pozycję zajmują tutaj również takie zagadnienia, jak urządzenia i systemy multimedialne, inżynieria ruchu telekomunikacyjnego, projektowanie sieci teleinformatycznych oraz eksploatacja, zarządzanie i bezpieczeństwo sieci.
+Telekomunikacja mobilna
+Kształcenie obejmuje całokształt tematyki związanej z systemami komunikowania się ludzi, urządzeń czy komputerów – w sieciach stacjonarnych i mobilnych. Obszarem zainteresowań są systemy komórkowe (GSM, EDGE, GPRS, UMTS, LTE, 5G), profesjonalna radiokomunikacja mobilna lądowa, morska i lotnicza, sieci bezprzewodowe miejskie WMAN, krótkozasięgowe WLAN oraz sieci sensorowe, które stanowią bezprzewodowe rozszerzenia stacjonarnych sieci telekomunikacyjnych oraz są odpowiedzią na najnowsze trendy w świecie telekomunikacji, takie jak IoT, systemy nasobne (wearables) czy cyberfizyczne. Studenci są zapoznawani ze strukturą, zasadami projektowania i eksploatacji sieci radiowych, telewizyjnych i systemów komórkowych oraz innych rozwiązań bezprzewodowych (ZigBee, WiFi, Bluetooth, LoRa, NB-IoT) w tym metodami pomiaru ich parametrów oraz oceną parametrów jakości usług QoS i metodami zapewnienia bezpieczeństwa w tych sieciach. Nabywają umiejętności programowania, tworzenia aplikacji mobilnych, poznają zasady bezpiecznego świadczenia usług, zarządzania siecią i jej eksploatacji oraz oceny ekonomicznej przedsięwzięć z obszaru telekomunikacji. Program obejmuje realizację dwóch poziomów kursów Akademii Sieci Komputerowych Cisco, kończących się międzynarodowym certyfikatem.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+telekomunikacja
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technika elektronik
+Technik informatyk
+Technika programista
+Technik szerokopasmowej komunikacji elektronicznej
+Technik teleinformatyk
+Technik telekomunikacji
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+działy IT różnych sektorów gospodarki, finansów, administracji (np. stanowisko administratora sieci teleinformatycznych)
+u operatorów sieci telekomunikacyjnych (np.: telefonii komórkowej, dostawców internetu i usług teleinformatycznych)
+u producentów i dystrybutorów sprzętu informatycznego oraz telekomunikacyjnego
+biura projektowe i rozwojowe przedsiębiorstw
+ośrodki i instytucje badawcze
+Miejsca pracy absolwentów
+W szerokim zakresie firm i przedsiębiorstw z zakresu telekomunikacji i teleinformatyki, np. Nokia, Volvo, Gigaset, Comarch, ATDI, Urząd Komunikacji Elektronicznej, operatorzy telekomunikacyjni itp.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

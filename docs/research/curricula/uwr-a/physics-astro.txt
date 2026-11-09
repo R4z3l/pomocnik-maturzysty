@@ -1,0 +1,494 @@
+Astronomia
+Astronomia
+Studia pierwszego stopnia
+Dokumentacja programu studiów
+PROGRAM STUDIÓW OBOWIĄZUJĄCY OD ROKU AKADEMICKIEGO 2023/2024
+2023 ASTRONOMIA-1: Efekty uczenia się
+pdf
+99 KB
+2023 ASTRONOMIA-1: Pokrycie charakterystyk PRK
+pdf
+84 KB
+2023 ASTRONOMIA-1: Plan studiów
+pdf
+340 KB
+2023 ASTRONOMIA-1: Matryca pokrycia efektów kierunkowych
+pdf
+286 KB
+2023 ASTRONOMIA-1: Treści programowe zajęć
+pdf
+178 KB
+Uchwała Nr 160/2023 Senatu UWr ws. programu studiów Astronomii
+pdf
+1 MB
+PROGRAM STUDIÓW OBOWIĄZUJĄCY OD ROKU AKADEMICKIEGO 2019/2020
+2019 ASTRONOMIA-1: Efekty uczenia się
+pdf
+123 KB
+2019 ASTRONOMIA-1: Pokrycie charakterystyk PRK
+pdf
+98 KB
+2019 ASTRONOMIA-1: Plan studiów
+pdf
+531 KB
+2019 ASTRONOMIA-1: Matryca pokrycia efektów kierunkowych
+pdf
+391 KB
+2019 ASTRONOMIA-1: Treści programowe zajęć
+pdf
+179 KB
+Uchwała 133/2019 Senatu UWr ws. programów studiów w UWr
+pdf
+126 KB
+Załącznik Nr 8 do Uchwały Nr 133/2019
+pdf
+510 KB
+Plany studiów
+dla kolejnych cykli kształcenia
+CYKL KSZTAŁCENIA 2025-2028
+ASTRONOMIA-1, TOK A: 2025-2028
+pdf
+228 KB
+ASTRONOMIA-1, TOK B: 2025-2028
+pdf
+222 KB
+CYKL KSZTAŁCENIA 2024-2027
+ASTRONOMIA-1, TOK A: 2024-2027
+pdf
+205 KB
+ASTRONOMIA-1, TOK B: 2024-2027
+pdf
+203 KB
+CYKL KSZTAŁCENIA 2023-2026
+ASTRONOMIA-1, TOK A: 2024-2027
+pdf
+205 KB
+ASTRONOMIA-1, TOK B: 2024-2027
+pdf
+203 KB
+CYKL KSZTAŁCENIA 2022-2025
+ASTRONOMIA-1, TOK A: 2022-2025
+pdf
+314 KB
+ASTRONOMIA-1, TOK B: 2022-2025
+pdf
+309 KB
+CYKL KSZTAŁCENIA 2021-2024
+ASTRONOMIA-1, TOK A: 2021-2024
+pdf
+314 KB
+ASTRONOMIA-1, TOK B: 2021-2024
+pdf
+310 KB
+CYKL KSZTAŁCENIA 2020-2023
+ASTRONOMIA-1, TOK A: 2020-2023
+pdf
+314 KB
+ASTRONOMIA-1, TOK B: 2020-2023
+pdf
+310 KB
+CYKL KSZTAŁCENIA 2019-2022
+ASTRONOMIA-1, TOK A: 2019-2022
+pdf
+314 KB
+ASTRONOMIA-1, TOK B: 2019-2022
+pdf
+310 KB
+Wakacyjna praktyka obserwacyjna
+Wakacyjne praktyki studenckie w Obserwatorium Instytutu Astronomicznego Uniwersytetu Wrocławskiego w Białkowie (Rok akademicki 2025/2026)
+Miejsce: Obserwatorium Astronomiczne Uniwersytetu Wrocławskiego w Białkowie k. Wińska, gmina Wińsko, powiat wołowski (ok. 70 km od Wrocławia). Adres: Białków 9, 56-160 Wińsko.
+Wymiar praktyk: 120 godz. lekcyjnych (lecture hour, lh)
+Praktyki wakacyjne podzielone są na dwa turnusy, każdy po 15 dni (15*8 lh = 120 lh). Student zobowiązany jest do zaliczenia tylko jednego z nich.
+Uwaga!
+Uruchomienie danego turnusa zależy od zarejestrowania się nań minimalnej liczby studentów (4). W przypadku niewystarczającej liczby studentów plan praktyk może ulec reorganizacji (likwidacja jednego z turnusów, automatyczne przeniesienie studentów). Z powodu ograniczeń noclegowych jesteśmy w stanie przyjąć jednorazowo nie więcej niż 8 osób.
+TURNUS I  : 29 VI — 13 VII 2026,
+TURNUS II : 14 VII — 28 VII 2026.
+Uwaga!
+Student zobowiązany jest przyjechać do Białkowa pierwszego dnia swojego turnusu przed godziną 12-tą (tj. 29 VI lub 14 VII) i opuścić
+obserwatorium nazajutrz po ostatnim dniu zajęć do godz. 12. (tj. 14 lub 28 VII).
+Uwaga!
+Zajęcia odbywają się w sposób ciągły, tzn. również w soboty i niedziele.
+Program praktyk
+Studenci biorący udział w praktykach  w ramach danego turnusu zostaną podzieleni na dwie grupy i będą realizować dwa bloki programowe, każdy po 60 lh, astrofizyczny i heliofizyczny. Przejście z części helio- na  astrofizyczną i odwrotnie nastąpi po 7 dniach.
+Blok astrofizyczny (60 lh):
+Wrocławscy astrofizycy zajmują się głównie gwiazdami zmiennymi, które badają metodami tzw.
+asterosejsmologii
+. Ta rozwijająca się coraz burzliwiej technika pozwalająca „zajrzeć” do wnętrz gwiazdowych może wkrótce pomóc poznać dużo lepiej fizykę ewolucji niektórych gwiazd, zwłaszcza masywnych. Specjaliści w tej dziedzinie poprowadzą wybrane zajęcia z poniższej listy.
+Planowanie i prowadzenie obserwacji astrofizycznych.
+Programy badawcze realizowane w IA UWr.
+Obserwacje kamerą CCD, w szczególności gromad otwartych i kulistych.
+Kalibracja obrazów CCD (kamera CCD, bias, prąd ciemny, rozkład czułości).
+Wprowadzenie do fotometrii gwiazdowej.
+Redukcja fotometryczna obrazów CCD (fotometria bezpośrednia i pośrednia, aperturowa i profilowa): pakiet DAOPhot.
+Transformacja jasności do systemu standardowego.
+Sporządzanie i interpretacja wykresów barwa-jasność oraz dwuwskaźnikowego gromad gwiazd.
+Poszukiwanie gwiazd zmiennych: analiza fourierowska krzywych blasku.
+Fotometria satelitarna.
+Obserwacje zdalne teleskopami w Chile/Arizonie/na Wyspach Kanaryjskich.
+Wiekowe zmiany okresów gwiazd typu RR Lyrae i cefeid II populacji.
+Wprowadzenie do IRAF-a.
+Kalibracja i redukcja spektroskopowych obserwacji archiwalnych wybranych gwiazd.
+Wyznaczanie prędkości radialnych analizowanych gwiazd metodą korelacji krzyżowej.
+Wykłady i ćwiczenia dotyczące budowy i ewolucji gwiazd.
+Wstęp do modelowania ewolucji gwiazdowej za pomocą programu MESA.
+Wstęp do astroseismologii.
+Udział Polski w projekcie SALT (wykład) i przygotowanie aplikacji o czas obserwacyjny (warsztat).
+Astrofotografia (terenowe zajęcia praktyczne) i wyznaczanie refrakcji atmosferycznej (warsztat).
+Blok heliofizyczny (60 lh):
+Instytut Astronomiczny Uniwersytetu Wrocławskiego jest największym ośrodkiem w Polsce specjalizującym się w fizyce Słońca. Specjaliści w tej dziedzinie poprowadzą  wybrane zajęcia z poniższej listy.
+Podstawowe instrumenty obserwacyjne – budowa, zasada działania, obsługa i bezpieczeństwo obserwatorów.
+Wstęp do fizyki Słońca — najbliższa gwiazda i zjawiska aktywne na Słońcu.
+Proste patrolowe obserwacje heliofizyczne przy użyciu teleskopu horyzontalnego, filtrogramy protuberancji i rozbłysków.
+Obserwacje filtrogramowe protuberancji i obszarów aktywnych prowadzone Dużym Koronografem.
+Obserwacje zjawisk aktywnych (erupcje protuberancji, rozbłyski) spektrografem obrazującym MSDP.
+Udział w bieżących programach obserwacyjnych.
+Metody opracowania obserwacji heliofizycznych – redukcja samodzielnie wykonanych obserwacji.
+Wyznaczanie podstawowych parametrów plazmy koronalnej z obserwacji rentgenowskich – praca na danych satelitarnych.
+Wykład o satelitarnych obserwacjach źródeł promieniowania rentgenowskiego przy użyciu apertur kodowanych.
+Ćwiczenia dotyczące rekonstrukcji obrazów rentgenowskich Mgławicy Krab i rozbłysków słonecznych, fotometrii i analizy zmian położeń źródeł w funkcji czasu oraz energii.
+Analiza widm promieniowania rentgenowskiego przy użyciu pakietu OSPEX – bez i z rozdzielczością przestrzenną na przykładzie obserwacji RHESSI i FERMI.
+Wykład na temat obserwacji Słońca w zakresie EUV i SXR.
+Wykład interdyscyplinarny na temat wpływu ewolucji Słońca na Ziemię.
+Pracownia: analiza danych z instrumentu AIA na satelicie SDO – wyznaczenie parametrów geometrycznych i kinematycznych zjawisk aktywnych obserwowanych w zakresie EUV.
+Dojazd
+Obserwatorium znajduje się w małej wsi Białków, blisko drogi łączącej Żmigród z Wińskiem.
+Położenie: 51
+o
+28′ 34.6″ N, 16
+o
+39′ 22.2″ E .
+Dojazd komunikacją zbiorową (tylko autobusem) jest utrudniony. Nie znamy rozkładów jazdy, być może obecnie nie ma bezpośredniego połączenia z Wrocławia do Wińska i konieczna jest podróż okrężna, np. do Lubina, skąd kursuje autobus do Wińska. Po dotarciu do Wińska należy przejść ok. 4 km do Białkowa. Autobusy do Wińska proszę sprawdzać parę dni przed wyjazdem, np. na
+e-podroznik.pl
+Najlepsza metoda dojazdu to własny samochód.
+Na miejscu jest parking.
+W razie kłopotów z dojazdem lub z pytaniami bytowo-socjalnymi należy kierować się bezpośrednio do:
+e-mail: grzegorz.kopacki@uwr.edu.pl (turnus I)
+e-mail: krzysztof.radziszewski@uwr.edu.pl (turnus II)
+Nowa droga – S5
+Przy podróży samochodem należy dojechać do Żmigrodu, który znajduje się na trasie Wrocław–Poznań (S5). Na zjeździe do miasta jechać drogą 339 w kierunku Żmigrodu. Po kilkuset metrach pojawi się znak skrętu w lewo do Wińska. Trzeba przejechać około 18 km. Sugerujemy ostrożną jazdę na tym odcinku. W kilku miejscach znajdują się dość zaskakujące zakręty. We wsi Stryjno trzeba wypatrywać znaku skrętu w prawo: Białków 2 (proszę się nie sugerować oznaczeniem tej drogi, np. w Google Maps; jest ona nowa i w całości wyasfaltowana; najlepiej spojrzeć na opentopomap.org).
+Droga przez Żmigród od strony Wrocławia.
+Droga przez Stryjno.
+Przy dojeździe środkami komunikacji masowej należy dojechać do Wińska, a potem przejść ok. 4 km do Białkowa.
+Droga z Wińska do Białkowa
+Warunki lokalowe
+Nocleg zapewniamy bezpłatnie w Obserwatorium. Warunki na miejscu są bardzo dobre. Willa, w której znajdują się pokoje gościnne, kuchnia i węzeł sanitarny, jest po gruntownym remoncie. Do dyspozycji studentów są dwa pokoje; w każdym znajdują się dwa piętrowe łóżka, czyli w jednym pokoju będą zakwaterowane 4 osoby. Udostępniamy kołdry, poduszki i koce.
+Należy koniecznie ze sobą zabrać własną pościel lub śpiwór
+. Na miejscu znajduje się dobrze wyposażona kuchnia z lodówką, mikrofalówką, płytą ceramiczną i piekarnikiem, jednak nie ma żadnego cateringu, więc wszystkie posiłki trzeba przygotować we własnym zakresie. Nie ma też pralki. Dobrze zaopatrzone sklepy znajdują się w Wińsku, nieco bliżej jest mały wiejski sklep w Stryjnie.
+W budynkach Obserwatorium istnieje dostęp do bezprzewodowego internetu, drukarki i komputera. Można przywieźć ze sobą laptopy. Szybkość łącza internetowego nie jest jednak wysoka, więc funkcjonalność połączenia jest ograniczona.
+W razie problemów z dojazdem proszę dzwonić do Obserwatorium, 71 389-80-24, ewentualnie do godz. 15:00 do sekretariatu Instytutu Astronomicznego we Wrocławiu, 71 337-80-60
+Sylabusy
+przedmiotów
+A-1: Algorytmy i programowanie
+pdf
+121 KB
+A-1: Analiza matematyczna 1
+pdf
+136 KB
+A-1: Analiza matematyczna 2
+pdf
+117 KB
+A-1: Analiza matematyczna 3
+pdf
+173 KB
+A-1: Astrofizyka obserwacyjna 1
+pdf
+115 KB
+A-1: Astrofizyka obserwacyjna 2
+pdf
+87 KB
+A-1: Astrofizyka układów planetarnych
+pdf
+131 KB
+A-1: Bazy danych astronomicznych
+pdf
+88 KB
+A-1: Budowa i ewolucja gwiazd
+pdf
+112 KB
+A-1: Ćwiczenia obserwacyjne 1
+pdf
+96 KB
+A-1: Ćwiczenia obserwacyjne 2
+pdf
+100 KB
+A-1: Elektryczność i magnetyzm
+pdf
+137 KB
+A-1: Elementy mechaniki teoretycznej i STW
+pdf
+116 KB
+A-1: Fale
+pdf
+117 KB
+A-1: Fizyka atomu, jądra i cząstek elementarnych
+pdf
+97 KB
+A-1: Fizyka kwantowa
+pdf
+147 KB
+A-1: Historia astronomii
+pdf
+140 KB
+A-1: Laboratorium programowania
+pdf
+125 KB
+A-1: Lektorat (B2)
+pdf
+355 KB
+A-1: Matematyka 1
+pdf
+96 KB
+A-1: Matematyka 2
+pdf
+168 KB
+A-1: Matematyka 3
+pdf
+111 KB
+A-1: Mechanika
+pdf
+150 KB
+A-1: Metody matematyczne w astronomii
+pdf
+99 KB
+A-1: Metody numeryczne
+pdf
+80 KB
+A-1: Ochrona własności intelektualnej
+pdf
+169 KB
+A-1: Podstawy przedsiębiorczości
+pdf
+101 KB
+A-1: podstawy astronomii 1
+pdf
+131 KB
+A-1: Podstawy astronomii 2
+pdf
+103 KB
+A-1: Podstawy fizyki 1
+pdf
+109 KB
+A-1: Podstawy fizyki 2
+pdf
+113 KB
+A-1: Podstawy fizyki 3
+pdf
+115 KB
+A-1: Podstawy fizyki 4
+pdf
+129 KB
+A-1: Pracownia astronomiczna
+pdf
+110 KB
+A-1: Pracownia komputerowa metod matematycznych 1
+pdf
+127 KB
+A-1: Pracownia komputerowa metod matematycznych 2
+pdf
+127 KB
+A-1: Praktyka heliofizyczna
+pdf
+90 KB
+A-1: Prezentacja wyników naukowych
+pdf
+134 KB
+A-1: Seminarium licencjackie 1
+pdf
+108 KB
+A-1: Seminarium licencjackie 2
+pdf
+109 KB
+A-1: Seminarium z astronomii
+pdf
+100 KB
+A-1: Statystyka matematyczna
+pdf
+136 KB
+A-1: Teoria atmosfer gwiazdowych
+pdf
+153 KB
+A-1: Termodynamika
+pdf
+102 KB
+A-1: Tworzenie stron internetowych
+pdf
+101 KB
+A-1: Wakacyjna praktyka obserwacyjna
+pdf
+153 KB
+A-1: Wprowadzenie do programowania w IDL
+pdf
+115 KB
+A-1: Wprowadzenie do programowania w Pythonie
+pdf
+131 KB
+A-1: Wstęp do systemów operacyjnych
+pdf
+133 KB
+A-1: Wstęp do algebry
+pdf
+136 KB
+A-1: Wstęp do fizyki Słońca
+pdf
+102 KB
+Studia drugiego stopnia
+Dokumentacja programu studiów
+PROGRAM STUDIÓW OBOWIĄZUJĄCY OD ROKU AKADEMICKIEGO 2023/2024
+2023 ASTRONOMIA-2: Efekty uczenia się
+pdf
+88 KB
+2023 ASTRONOMIA-2: Pokrycie charakterystyk PRK
+pdf
+85 KB
+2023 ASTRONOMIA-2: Plan studiów
+pdf
+180 KB
+2023 ASTRONOMIA-2: Matryca pokrycia efektów kierunkowych
+pdf
+179 KB
+2023 ASTRONOMIA-2: Treści programowe zajęć
+pdf
+204 KB
+Uchwała Nr 160/2023 Senatu UWr ws. programu studiów Astronomii
+pdf
+1 MB
+PROGRAM STUDIÓW OBOWIĄZUJĄCY OD ROKU AKADEMICKIEGO 2019/2020
+2019 ASTRONOMIA-2: Efekty uczenia się
+pdf
+204 KB
+2019 ASTRONOMIA-2: Pokrycie charakterystyk PRK
+pdf
+85 KB
+2019 ASTRONOMIA-2: Plan studiów
+pdf
+193 KB
+2019 ASTRONOMIA-2: Matryca pokrycia efektów kierunkowych
+pdf
+214 KB
+2019 ASTRONOMIA-2: Treści programowe zajęć
+pdf
+130 KB
+Uchwała 133/2019 Senatu UWr ws. programów studiów w UWr
+pdf
+126 KB
+Załącznik Nr 9 do Uchwały Nr 133/2019
+pdf
+308 KB
+Plany studiów dla kolejnych cykli kształcenia
+CYKL KSZTAŁCENIA 2025-2027
+ASTRONOMIA-2: 2025-2027
+pdf
+196 KB
+CYKL KSZTAŁCENIA 2024-2026
+ASTRONOMIA-2: 2024-2026
+pdf
+176 KB
+CYKL KSZTAŁCENIA 2023-2025
+ASTRONOMIA-2: 2023-2025
+pdf
+176 KB
+CYKL KSZTAŁCENIA 2022-2024
+ASTRONOMIA-2: 2022-2024
+pdf
+196 KB
+CYKL KSZTAŁCENIA 2021-2023
+ASTRONOMIA-2: 2021-2023
+pdf
+197 KB
+CYKL KSZTAŁCENIA 2020-2022
+ASTRONOMIA-2: 2020-2022
+pdf
+196 KB
+CYKL KSZTAŁCENIA 2019-2021
+ASTRONOMIA-2: 2019-2021
+pdf
+197 KB
+Sylabusy
+przedmiotów
+A-2: Astrobiologia (WS)
+pdf
+111 KB
+A-2: Astrofizyka wysokich energii
+pdf
+107 KB
+A-2: Astronomia galaktyczna
+pdf
+135 KB
+A-2: Astronomia pozagalaktyczna
+pdf
+95 KB
+A-2: Atmosfery gwiazdowe
+pdf
+144 KB
+A-2: Budowa i ewolucja gwiazd 2
+pdf
+140 KB
+A-2: Elektrodynamika klasyczna
+pdf
+149 KB
+A-2: Fizyka rozbłysków słonecznych (WS)
+pdf
+111 KB
+A-2: Fizyka Słońca
+pdf
+148 KB
+A-2: Fizyka statystyczna
+pdf
+125 KB
+A-2: Gromady kuliste (WS)
+pdf
+118 KB
+A-2: Gwiazdowe reakcje jądrowe (WS)
+pdf
+139 KB
+A-2: Highlights of Modern Physics and Astrophysics
+pdf
+126 KB
+A-2: Korona słoneczna
+pdf
+112 KB
+A-2: Kosmologia
+pdf
+95 KB
+A-2: Lektorat (B2+)
+pdf
+334 KB
+A-2: Mechanika nieba
+pdf
+100 KB
+A-2: Metody redukcji i analizy danych
+pdf
+124 KB
+A-2: Obserwacje i modelowanie atmosfery słonecznej (WS)
+pdf
+145 KB
+A-2: Pogoda kosmiczna (WS)
+pdf
+104 KB
+A-2: Pracownia fotometrii CCD
+pdf
+107 KB
+A-2: Pracownia IDL
+pdf
+117 KB
+A-2: Pracownia spektroskopii
+pdf
+103 KB
+A-2: Praktyczna mechanika kwantowa
+pdf
+165 KB
+A-2: Pulsacje gwiazdowe
+pdf
+95 KB
+A-2: Seminarium magisterskie 1
+pdf
+91 KB
+A-2: Seminarium magisterskie 2
+pdf
+91 KB
+A-2: Seminarium z astronomii
+pdf
+94 KB
+A-2: Słońce w zakresie twardego promieniowania rtg (WS)
+pdf
+125 KB

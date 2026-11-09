@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-28",
+  "hierarchy": [
+    {
+      "rank": 1,
+      "label": "Oficjalne strony uczelni, wydziałów, instytutów i Biuletyn Informacji Publicznej",
+      "kind": "official"
+    },
+    {
+      "rank": 2,
+      "label": "otouczelnie.pl",
+      "hosts": [
+        "otouczelnie.pl"
+      ]
+    },
+    {
+      "rank": 3,
+      "label": "Pozostałe portale edukacyjne, w tym uczelnie.pl i opinieouczelniach.pl",
+      "kind": "portal"
+    },
+    {
+      "rank": 4,
+      "label": "Prasa i publikacje redakcyjne",
+      "kind": "press"
+    },
+    {
+      "rank": 5,
+      "label": "Źródła społecznościowe i indywidualne opinie",
+      "kind": "community"
+    }
+  ],
+  "rules": [
+    "Każda informacja wymaga rocznika, zakresu i źródła; priorytet nie zastępuje oceny treści.",
+    "Historia obejmuje wyłącznie nabory2024/25,2025/26,2026/27. Nie zużywamy zasobów na starsze dane; poprawnie oznaczone progi z tych trzech lat zachowują charakter historyczny.",
+    "Nagłówek z aktualnym rokiem i stopka nie dowodzą aktualności treści.",
+    "Sprawdź rejestr wykluczeń przed pobieraniem strony; nie wracaj do wykluczonych adresów bez wyraźnej zmiany decyzji użytkownika.",
+    "Nie zastępuj oficjalnej wartości publikacją niższego priorytetu; konflikt zachowaj osobno.",
+    "Komentarze użytkowników mają priorytet5 także wtedy, gdy znajdują się na portalu o priorytecie3."
+  ],
+  "excludedPages": [
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/",
+      "match": "host",
+      "scope": "all",
+      "checkedAt": "2026-10-25",
+      "reason": "Audyt: karty dotyczące bieżącego zakresu mają treść2020–2021, brak przydatnych progów2022+ i aktualnych reguł. Nie wracać do tej witryny w kolejnych aktualizacjach."
+    },
+    {
+      "url": "https://study.uni.wroc.pl/vademecum/",
+      "match": "page",
+      "scope": "current",
+      "checkedAt": "2026-10-25",
+      "reason": "Archiwalne vademecum z datami2018. Nie używać do obecnych zasad ani ogólnego twierdzenia o niepublikowaniu progów; istnieją nowsze publikacje instytutowe."
+    },
+    {
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/kalendarz-akademicki/",
+      "match": "page",
+      "scope": "all",
+      "checkedAt": "2026-10-25",
+      "reason": "Nagłówek2026/27, lecz terminy zajęć i sesji dotyczą2025/26. Niespójny rocznik; nie pobierać ponownie."
+    },
+    {
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-wroclawski/progi-punktowe/",
+      "match": "page",
+      "scope": "all",
+      "checkedAt": "2026-10-25",
+      "reason": "Brak konkretnych progów. Uogólnienie o niepublikowaniu historii z wyjątkiem dwóch wydziałów pomija nowsze oficjalne zestawienia Instytutu Filologii Romańskiej. Nie używać jako bieżącego opisu dostępności progów i nie wracać przy kolejnych aktualizacjach."
+    },
+    {
+      "url": "https://wfa.uwr.edu.pl/wp-content/uploads/sites/216/2023/08/ISSP_Plan_studiow_dla_cyklu_ksztalcenia_2022-2026.pdf",
+      "match": "page",
+      "scope": "current",
+      "checkedAt": "2026-10-28",
+      "reason": "Dokument jawnie dotyczy zakończonego cyklu kształcenia2022–2026. Nie potwierdza bieżącego planu dla nowych kandydatów; pominięty w aktywnym spisie przedmiotów. Nie pobierać ponownie przy aktualizacji bieżących programów."
+    }
+  ],
+  "rejectedClaims": [
+    {
+      "url": "https://www.uczelnie.pl/progi-punktowe/ekonomia",
+      "programmeId": "uew-ekonomia",
+      "year": "2025/2026",
+      "checkedAt": "2026-10-25",
+      "reason": "Portal180/350 pkt; oficjalna tabela uczelni170 pkt dla ekonomii2025/26. Odrzucono tę informację, nie pozostałe prawidłowo opisane wiersze strony."
+    }
+  ],
+  "history": {
+    "admissionYears": [
+      2026,
+      2025,
+      2024
+    ],
+    "note": "Zakres wybrany dla maturzystów2027: nabory2024/25,2025/26,2026/27. Nie wyszukiwać, nie odświeżać i nie importować starszych progów. Zebrane wcześniej starsze dane pozostają wyłącznie w archiwum poza aplikacją."
+  }
+}

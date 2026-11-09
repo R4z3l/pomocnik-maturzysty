@@ -1,0 +1,804 @@
+                                                                                                                    Załącznik do uchwały Nr 87/2024 Senatu
+                                                                                                              Uniwersytetu Wrocławskiego z 22 maja 2024 r.
+
+
+Kierunek chemia medyczna: plan studiów, treści programowe i efekty uczenia się
+
+  ROK STUDIÓW: I
+
+  SEMESTR: PIERWSZY
+                                                         Forma zajęć             Sposób
+                                                                  Liczba godzin zajęć           weryfikacji   Punkty   Dyscyplina(y) do której Jednostka organizacyjna
+      Nazwa przedmiotu/moduły zajęć     O/W/OzW                                       efektów     ECTS     odnosi się przedmiot     realizująca zajęcia
+                                W    Ć     L   Inne  Suma    uczenia się
+   Podstawy chemii                    O        60   30   60         150      E/Zo/Zo      12        nauki chemiczne         Wydział Chemii
+   Bezpieczeństwo w laboratorium                                 O        15         15          30       Zo/Zo       2         nauki chemiczne         Wydział Chemii   chemicznym
+                                                                                                                                                  Wydział Nauk   Biologia ogólna                     O        23   22               45        E/Zo        3         nauki chemiczne                                                                                                                                                              Biologicznych
+                                                                                                                                                Wydział Matematyki i   Matematyka                       O        60   30               90        E/Zo        7         nauki chemiczne                                                                                                                                                    Informatyki
+                                                                                                                                                 Wydział Fizyki i   Fizyka z elementami biofizyki            O        30   15   15          60      Zo/Zo/Zo      4         nauki chemiczne                                                                                                                                                  Astronomii
+                                                                                                                                                       Dział Bezpieczeństwa i
+                                                                                                                                            Higieny Pracy oraz   Kurs BHP                         O                              4         Z         0                                                                                                                                    Ochrony
+                                                                                                                                          Przeciwpożarowej
+   Przedmioty do wyboru*             W                              30        Zo        2
+  SUMA godzin zajęć/punktów                                             188  97   90        409       3E       30  ECTS
+   Człowiek a środowisko (PDW-1)                          W        30                              Zo        2         nauki chemiczne         Wydział Chemii
+   Ekologia (PDW-1)                          W        30                              Zo        2         nauki chemiczne         Wydział Chemii
+    * Do wyboru jeden przedmiot fakultatywny w ramach PDW-1
+
+
+
+
+                                                              1
+ SEMESTR: DRUGI
+                                                        Forma zajęć             Sposób
+                                                                 Liczba godzin zajęć           weryfikacji    Punkty      Dyscyplina(y) do   Jednostka organizacyjna    Nazwa przedmiotu/moduły zajęć      O/W/OzW                                                                                         efektów     ECTS       której odnosi się      realizująca zajęcia
+                               W    Ć     L    Inne Suma    uczenia się                   przedmiot
+ Chemia analityczna z elementami                                O       30    30   45         105      E/Zo/Zo      7         nauki chemiczne        Wydział Chemii bioanalizy
+ Chemia nieorganiczna                 O       60    30   75         165      E/Zo/Zo      13        nauki chemiczne        Wydział Chemii
+
+ Chemia kwantowa                   O       30    30               60       E/Zo/Zo      4         nauki chemiczne        Wydział Chemii
+
+ Metody komputerowe w chemii           O       15         30         45       Zo/Zo       3         nauki chemiczne        Wydział Chemii
+
+ Przedmioty do wyboru*             W                              45        Zo         4
+ SUMA godzin zajęć/punktów                                           135   90  150       420       3E       31 ECTS
+                                                                                                                                                 Wydział Nauk Podstawy fizjologii człowieka (PDW-2)     W        30         15         45       Zo/Zo       4         nauki medyczne                                                                                                                                                    Biologicznych
+ Wybrane specjalne techniki w analizie                         W        15         30         45       Zo/Zo       4         nauki chemiczne        Wydział Chemii chemicznej (PDW-2)
+  * Do wyboru jeden przedmiot fakultatywny w ramach PDW-2
+
+Łączna liczba punktów ECTS w semestrze 1: 30
+Łączna liczba punktów ECTS w semestrze 2: 31
+Łączna liczba godzin zajęć w semestrze 1: 409
+Łączna liczba godzin zajęć w semestrze 2: 420
+
+
+
+
+
+                                                             2
+ ROK STUDIÓW: II
+
+ SEMESTR: TRZECI
+                                                       Forma zajęć              Sposób                                                                                                                     Dyscyplina(y) do                                                                 Liczba godzin zajęć            weryfikacji    Punkty                        Jednostka organizacyjna    Nazwa przedmiotu/moduły zajęć      O/W/OzW                                                                      której odnosi się                                                                                         efektów     ECTS                               realizująca zajęcia                                                                                                                    przedmiot                               W    Ć    L   Inne  Suma    uczenia się
+
+ Chemia organiczna                   O        45    30   105         180      E/Zo/Zo      14        nauki chemiczne         Wydział Chemii
+
+ Chemia bioorganiczna                 O        15         30          45        E/Zo        4        nauki chemiczne         Wydział Chemii
+
+                                                                                                                          Studium Praktycznej Lektorat (PDW-3)**                  OzW            60               60        Zo         0                                                                                                                                 Nauki Języków Obcych
+                                                                                                                                                Uniwersyteckie Centrum
+ W-F                            O                       30    30        Zo         0                        Wychowania Fizycznego i
+                                                                                                                                         Sportu
+ Przedmioty do wyboru*             W                              75        Zo         8
+ SUMA godzin zajęć/punktów                                            60   90  135  30   390       2E       26 ECTS
+ Chemia żywności (PDW-4)           W        15    15   15          45      Zo/Zo/Zo      4        nauki chemiczne         Wydział Chemii
+
+ Chemia kosmetyczna (PDW-4)         W        15    15   15          45      Zo/Zo/Zo      4        nauki chemiczne         Wydział Chemii
+
+ English in life sciences (PDW-5)        W        15    15               30       Zo/Zo       4        nauki chemiczne         Wydział Chemii
+ English for science and technology                         W        15    15               30       Zo/Zo       4        nauki chemiczne         Wydział Chemii (PDW-5)
+* Do wyboru jeden przedmiot fakultatywny z każdego PDW:4 i 5
+** Lektorat w wymiarze 180 godz. z języka nowożytnego (12 ECTS), rozliczany jest do końca 5 semestru, wymagania określone na poziomie B2 Europejskiego Systemu Kształcenia Językowego
+
+
+
+
+
+                                                             3
+ SEMESTR: CZWARTY
+                                                        Forma zajęć             Sposób
+                                                                 Liczba godzin zajęć            weryfikacji    Punkty  Dyscyplina(y) do której Jednostka organizacyjna    Nazwa przedmiotu/moduły zajęć      O/W/OzW
+                                                                                         efektów     ECTS    odnosi się przedmiot     realizująca zajęcia
+                               W    Ć    L   Inne  Suma    uczenia się
+ Chemia medyczna                   O        30    15               45        E/Zo        4         nauki chemiczne         Wydział Chemii
+
+ Lek - od pomysłu do wdrożenia           O        15                    15        Zo         1         nauki chemiczne         Wydział Chemii
+
+ Chemia fizyczna I                   O        30    15   30          75       E/Zo/Zo      5         nauki chemiczne         Wydział Chemii
+ Wprowadzenie do metod badawczych w                                O        15         45          60        E/Zo        4         nauki chemiczne         Wydział Chemii chemii medycznej
+                                                                                                                                                 Wydział Prawa, Prawo własności intelektualnej           O        15                    15         E         1          nauki prawne                                                                                                                                                            Administracji i Ekonomii
+                                                                                                                           Studium Praktycznej Lektorat (PDW-3)**                  OzW            60               60        Zo         0                                                                                                                                  Nauki Języków Obcych
+                                                                                                                                                Uniwersyteckie Centrum
+ W-F                            O                       30    30        Zo         0                         Wychowania Fizycznego
+                                                                                                                                                                                                                                                                                         i Sportu
+ Praktyka zawodowa/Praktyka                                OzW                      60    60        Zo         3 badawcza***
+ Przedmioty do wyboru*            W                              75        Zo         7
+ SUMA godzin zajęć/punktów                                            105  90   75   90   435       4E       25 ECTS
+                                                                                                                                                  Wydział Nauk Mikrobiologia (PDW-6)             W        30         15          45       Zo/Zo       4         nauki chemiczne                                                                                                                                                     Biologicznych
+                                                                                                                                                  Wydział Nauk Immunologia (PDW-6)             W        30         15          45       Zo/Zo       4         nauki chemiczne                                                                                                                                                     Biologicznych
+ Chemia biokoordynacyjna (PDW-7)       W        15    15               30       Zo/Zo       3         nauki chemiczne         Wydział Chemii
+ Metody katalityczne w syntezie                         W        30                    30        Zo         3         nauki chemiczne         Wydział Chemii farmaceutyków (PDW-7)
+* Do wyboru jeden przedmiot fakultatywny z każdego PDW: 6 i 7
+**  Lektorat w wymiarze 180 godz. z języka nowożytnego do wyboru (12 ECTS), rozliczany jest do końca 5 semestru, wymagania określone na poziomie B2 Europejskiego Systemu Kształcenia
+   Językowego.
+*** Do wyboru praktyka zawodowa (przemysłowe) lub badawcza w instytucjach naukowych
+Łączna liczba punktów ECTS w semestrze 3: 26
+Łączna liczba punktów ECTS w semestrze 4: 25
+Łączna liczba godzin zajęć w semestrze 3: 390
+Łączna liczba godzin zajęć w semestrze 4: 435
+                                                             4
+ ROK STUDIÓW: III
+
+ SEMESTR: PIĄTY
+                                                       Forma zajęć             Sposób
+                                                                 Liczba godzin zajęć           weryfikacji    Punkty     Dyscyplina(y) do    Jednostka organizacyjna    Nazwa przedmiotu/moduły zajęć      O/W/OzW                                                                                         efektów      ECTS       której odnosi się       realizująca zajęcia
+                               W    Ć    L   Inna  Suma    uczenia się                   przedmiot
+ Chemia fizyczna II                   O        15    15   30          60      E/Zo/Zo       4         nauki chemiczne         Wydział Chemii
+
+ Chemia komórki I                   O        30    15   30          75      Zo/Zo/Zo      5         nauki chemiczne         Wydział Chemii
+ Technologia chemiczna z elementami                               O        30         30          60        E/Zo        5         nauki chemiczne         Wydział Chemii biotechnologii
+ Leki nieorganiczne                   O        30                    30        E          2         nauki chemiczne         Wydział Chemii
+
+ Biologiczna chemia nieorganiczna         O        30    15   15          60      E/Zo/Zo       4         nauki chemiczne         Wydział Chemii
+                                                                                                                           Studium Praktycznej Lektorat (PDW-3)**                  OzW            60               60        E          12**                                                                                                                                  Nauki Języków Obcych
+ Przedmioty do wyboru*             W                              90        Zo         6
+
+ SUMA godzin zajęć/punktów ECTS               135  105  105        435       5E        38
+ Metody biologii molekularnej i inżynierii                         W        30                    30        Zo         2         nauki chemiczne         Wydział Chemii genetycznej (PDW-8)
+ Biomagnetyzm (PDW-8)            W        15         15          30       Zo/Zo        2         nauki chemiczne         Wydział Chemii
+ Błony biologiczne i agregaty lipidowe                         W        15                    15        Zo         1         nauki chemiczne         Wydział Chemii (PDW-9)
+ Chemia kwasów nukleinowych (PDW-9)    W        15                    15        Zo         1         nauki chemiczne         Wydział Chemii
+
+ Informacja naukowa w chemii (PDW-9)    W        15                    15        Zo         1         nauki chemiczne         Wydział Chemii
+
+ Symetria w chemii (PDW-9)          W        15    30               45       Zo/Zo        3         nauki chemiczne         Wydział Chemii
+
+ Chemia białek (PDW-9)            W        30                    30        Zo         3         nauki chemiczne         Wydział Chemii
+
+* Do wyboru jeden przedmiot fakultatywny z PDW- 8 i dwa przedmioty za 4 ECTS z PDW-9
+** Lektorat w wymiarze 180 godz. z języka nowożytnego do wyboru (12 ECTS), rozliczany jest do końca 5 semestru, wymagania określone na poziomie B2 Europejskiego Systemu Kształcenia
+ Językowego
+
+
+                                                             5
+SEMESTR: SZÓSTY
+                                                       Forma zajęć             Sposób                                                                                                                     Dyscyplina(y) do                                                                Liczba godzin zajęć           weryfikacji    Punkty                        Jednostka organizacyjna   Nazwa przedmiotu/moduły zajęć      O/W/OzW                                                                      której odnosi się                                                                                        efektów     ECTS                               realizująca zajęcia                              W    S     L  K     Suma                                przedmiot                                                                                         uczenia się
+
+Chemia komórki II                   O        15              15    30       Zo/Zo        2         nauki chemiczne         Wydział Chemii
+
+Leki organiczne                     O        30                    30        E          2         nauki chemiczne         Wydział Chemii
+
+Nowoczesne metody syntezy leków         O                  30          30        Zo         2         nauki chemiczne         Wydział Chemii
+
+Toksykologia                       O        30         15          45       Zo/Zo        3         nauki chemiczne         Wydział Chemii
+
+Antybiotyki i lekooporność              O        15                    15        Zo         1         nauki chemiczne         Wydział Chemii
+Przygotowanie pracy dyplomowej -
+projekt indywidualny/ Seminarium                                OzW            30               30        Zo         5         nauki chemiczne         Wydział Chemiilicencjackie – projekt grupowy****
+(PDW-10)
+Przygotowanie do egzaminu                               O                                        E          5         nauki chemiczne         Wydział Chemiidyplomowego
+Przedmioty do wyboru*             W                             135       E/Zo        10
+SUMA godzin zajęć/punktów                                           90   30   45   15   315       3E        30ECTS
+Biomateriały (PDW-11)             W        15         15   15    45      Zo/Zo/Zo       3         nauki chemiczne         Wydział Chemii
+Chemia produktów naturalnych                         W        15         30          45       Zo/Zo        3         nauki chemiczne         Wydział Chemiiaktywnych farmakologicznie (PDW-11)
+Krystalochemia makrocząsteczek                         W        15         15   15    45      Zo/Zo/Zo       3         nauki chemiczne         Wydział Chemii(PDW-11)
+Chemia jądrowa i radiacyjna (PDW-11)     W        15         30          45       Zo/Zo        3         nauki chemiczne         Wydział Chemii
+
+Chemia nowotworów (PDW-12)         W        15                    15        Zo         1         nauki chemiczne         Wydział Chemii
+
+Kontrola jakości w analityce (PDW-12)     W        15                    15        Zo         1         nauki chemiczne         Wydział Chemii
+Ekstrakty roślinne w emulsjach
+kosmetycznych i ich aktywność         W        15         15          30       Zo/Zo        2         nauki chemiczne         Wydział Chemii
+przeciwutleniająca (PDW-13)
+Chemia węglowodanów w medycynie                         W        15         15          30       Zo/Zo        2         nauki chemiczne         Wydział Chemii(PDW-13)
+                                                            6
+                                                                                                                                               Wydział Prawa, Formy zatrudnienia na rynku pracy                         W        30    15               45        E/Zo        4          nauki prawne           Administracji i (PDW-14)                                                                                                                                        Ekonomii
+                                                                                                                                               Wydział Prawa,                                                                                                                        nauki o zarządzaniu i Zarządzanie marketingowe (PDW-14)     W        30    15               45        E/Zo        4                                  Administracji i                                                                                                                                       jakości                                                                                                                                        Ekonomii
+*  Do wyboru jeden przedmiot fakultatywny z każdego PDW: 10, 11, 12, 13 i 14
+****Student oprócz egzaminu dyplomowego ma do wyboru formę ukończenia studiów: przygotowanie pracy dyplomowej (projekt indywidualny) w ramach pracowni licencjackiej
+   (bezwymiarowa) albo realizację projektu grupowego na seminarium licencjackim, który kończy się przygotowaną prezentacją
+
+Łączna liczba punktów ECTS w semestrze 5: 38
+Łączna liczba punktów ECTS w semestrze 6: 30
+Łączna liczba godzin zajęć w semestrze 5: 435
+Łączna liczba godzin zajęć w semestrze 6: 315
+Łączna liczba godzin w ciągu studiów: 2404
+Liczba punktów ECTS 180, z tego 57 ECTS z przedmiotów do wyboru (31,7 %)
+
+* Przedmiot: obowiązkowy – O, do wyboru – W, obowiązkowy z wyborem – OzW
+
+OBJAŚNIENIA:
+Formy realizacji zajęć:                              Sposoby weryfikacji efektów uczenia się:
+W - wykład                                           Eu - egzamin ustny
+Ć – ćwiczenia                                         Ep - egzamin pisemny
+S – seminarium                                        T - test
+P – proseminarium                                              Es. - esej
+L - zajęcia laboratoryjne                                           Proj. - projekt
+K – konwersatorium                                                Pr. – praca roczna
+W – warsztaty                                     Z - zaliczenie
+Pr - pracownie                                       Zo – zaliczenie z oceną
+L – lektorat                                                 Inne: np. UP – ustna prezentacja, R - raport
+Ćw. - ćwiczenia terenowe
+T – tutorial
+Inne: np. praktyki
+
+
+
+
+
+                                                             7
+Treści programowe
+                                                                                                                    Przypisane do przedmiotu
+  l.p.   Nazwa przedmiotu          Treści programowe                                                            kierunkowe efekty uczenia
+                                                                                                                                           się
+                              Podstawowe  prawa  chemiczne;   pierwiastki  chemiczne,  związki  chemiczne,
+                                  mieszaniny; definicje pojęć: mol, masa molowa, liczba atomowa, liczba masowa;
+                                    rodzaje stężeń, przeliczenie stężeń; reakcje chemiczne – typy, stechiometria; budowa
+                               atomu, orbitale, zasady zapełniania, reguła Hunda, zakaz Pauliego; układ okresowy,                                                                                               K_W01, K_W04, K_W08,                              prawo okresowości; wiązania chemiczne, elektroujemność; hybrydyzacja, symetria  1.    Podstawy chemii                                                                             K_W10, K_U01, K_U04,                                   cząsteczek,  teoria VSEPR;  oddziaływania międzycząsteczkowe,  stany  skupienia                                                                                              K_U08 K_K01                                      materii, przemiany fazowe; roztwory związków chemicznych, rozpuszczalność; woda,
+                                    dysocjacja, kwasy   i zasady, pH; równowaga chemiczna; efekty cieplne  reakcji
+                                 chemicznych,  kryteria  samorzutności  reakcji;  szybkość  reakcji  chemicznych;
+                               podstawy elektrochemii; reakcje jądrowe – podstawy.
+                              Podstawowe  regulacje prawne  dotyczące stosowania  substancji chemicznych   i
+                                  zarządzania chemikaliami; systemy kontroli chemikaliów; klasyfikacja i oznakowanie
+                                     substancji      chemicznych,      piktogramy,      rodzaje     znaków/kodów
+                                 ostrzegawczych/środków   ostrożności,   etykiety   sygnalizacyjne;   analiza   kart
+                                    charakterystyki   substancji;  projektowanie   etykiet  produktów  chemicznych;
+                                      identyfikacja  i kwalifikacja zagrożeń powodowanych czynnikami chemicznymi ze
+                                szczególnym uwzględnieniem substancji o specyficznym oddziaływaniu na zdrowie  i
+                                  środowisko; systemy  redukcji  zagrożeń,  rodzaje środków  ochrony,  procedury
+        Bezpieczeństwo w         postępowania podczas  zagrożeń,  monitoring stanowiska pracy w  laboratorium  K_W10  2.        laboratorium chemicznym  chemicznym;  zasady  oceny  narażenia na  substancje  toksyczne;  klasyfikacja,  K_U01
+                                postępowanie  z substancjami toksycznymi   i o specyficznym oddziaływaniu na
+                                   zdrowie, odległe następstwa narażenia; postępowanie z odpadami chemicznymi
+                                 (przechowywanie,  segregacja,  neutralizacja,  utylizacja);  podstawowe  zasady
+                                 bezpiecznego stosowania aparatury/szkła laboratoryjnego, podstawowych technik
+                                    laboratoryjnych;  planowanie eksperymentu  chemicznego;  organizacja  pracy w
+                                   laboratorium; analiza  i ocena zagrożeń chemicznych w procesie produkcji leków;
+                                     analiza wybranych wypadków w laboratoriach, systemy prewencji wypadkowej,
+                                 algorytm oceny ryzyka.
+                                  Charakterystyka budowy komórek roślinnych  i zwierzęcych (organelle komórkowe,
+  3.     Biologia ogólna              ich struktura i funkcje, cykl komórkowy), plan budowy roślin, typy tkanek roślinnych  K_W03
+                                                                    i zwierzęcych. Budowa i funkcje wybranych narządów i układów narządów u zwierząt.   K_U02
+
+
+
+
+
+                                                             8
+                                 Liczby rzeczywiste   i zespolone; podstawowe funkcje elementarne: wielomiany,
+                                 funkcje  trygonometryczne    i  logarytmy;  pochodna;  zastosowania  rachunku
+                               różniczkowego funkcji jednej zmiennej; koncepcja całki Riemanna, metody obliczania
+4.   Matematyka                całek  i ich zastosowania w fizyce  i chemii; szeregi liczbowe  i szeregi funkcyjne  K_W07
+                             (potęgowe  i Fouriera); układy równań liniowych, macierze  i wyznaczniki; podstawy
+                              rachunku  różniczkowego  funkcji  wielu zmiennych;  najważniejsze  typy równań
+                               różniczkowych; elementy teorii grup; grupy symetrii.
+                              Pomiary  fizyczne: wartość  średnia; niepewność pomiarowa  wielkości mierzonej
+                                bezpośrednio;  niepewność  pomiarowa  wielkości  wyznaczanej  pośrednio;  zapis
+                            wyników pomiarowych; cyfry znaczące; współzależność cech; korelacja  i regresja
+                                   liniowa; zmienna losowa i jej rozkłady; kryteria oceny metod analitycznych; zjawiska
+                                 transportu: liczba Avogadro, stała Boltzmanna, stała gazowa, stała Faradaya; dyfuzja
+                           – równanie dyfuzji; osmoza; zjawiska elektryczne na błonie półprzepuszczalnej, pH-      Fizyka z elementami                                                                    K_W065.                             metr;  zależność  ruchliwości od masy;  elektroforeza;  transport  dyfuzyjny pod       biofizyki                                                                                  K_U04                          wpływem pola elektrycznego; zastosowania elektroforezy; termodynamika: równanie
+                             gazu doskonałego, przemiany; funkcje termodynamiczne; praca, temperatura, ciepło;
+                              zasada  zachowania  energii –  pierwsza  zasada  termodynamiki;  druga  zasada
+                              termodynamiki; potencjał chemiczny; termodynamika reakcji chemicznych; optyka;
+                           metody pomiarowe podstawy; spektrofotometria; polarymetria; spektroskopie : EPR,
+                           NMR.
+                                Rola analizy chemicznej w poznaniu procesów biologicznych. Kryteria wyboru reakcji
+                              chemicznych do celów analitycznych (kinetyczne  i termodynamiczne). Pobieranie  i
+                               przygotowanie  próbek do  analizy  ze  szczególnym  uwzględnieniem  materiałów
+                                 biologicznych i farmaceutycznych. Równowagi chemiczne w układach homogennych:
+                              kwas-zasada, utleniacz-reduktor, jon metalu-ligand oraz w układach heterogennych:
+                                osad-roztwór. Czynniki wpływające na przesunięcie stanu równowagi chemicznej  i
+                                jego konsekwencje analityczne. Reakcje w roztworach niewodnych. Główne techniki
+                                  analityczne uwzględniające identyfikację, maskowanie, rozdział oraz oparte na w/w
+                            równowagach  klasyczne metody  ilościowego  oznaczania  pierwiastków (metody                                                                                             K_W01, K_W04, K_W08     Chemia analityczna z      objętościowe  i wagowe). Analiza elementarna. Wybrane techniki instrumentalne w6.                                                                                             K_W10, K_U01, K_U08     elementami bioanalizy      chemii analitycznej. Przykłady oznaczeń produktów naturalnych. Ocena wiarygodności                                                                                              K_K01                           metod analitycznych  i oszacowanie błędów. Rola  i zadania chemii analitycznej w
+                                diagnostyce laboratoryjnej. Gospodarka mineralna – metody oznaczania wapnia
+                                całkowitego   i zjonizowanego, magnezu   i fosforanów. Przyczyny   i konsekwencje
+                              zaburzeń gospodarki mineralnej. Oznaczanie stężenia litu – optymalizacja i kontrola
+                                  leczenia chorych z depresją lub manią; Parametry laboratoryjne oceny zaburzeń
+                             równowagi wodnej i elektrolitowej. Metody oznaczania osmolalności oraz elektrolitów
+                     w surowicy krwi   i w moczu (sód, potas,  chlorki, wodorowęglany). Pojęcie  luki
+                                anionowej. Równowaga kwasowo-zasadowa ustroju, przykładowe reakcje redoks w
+                                 organizmie.
+                                                           9
+                                 Teorie opisujące wiązania chemiczne, budowa  sieci związków jonowych  i metali,
+                           budowa związków nieorganicznych  i kompleksowych; struktury cząsteczek dwu-  i
+                              wieloatomowych; klasyfikacja reakcji chemicznych, reakcje wymiany elektronów  i
+                               protonów, kwasy  i zasady; właściwości pierwiastków grup głównych  i ich związków;
+                                                                                              K_W01, K_W02, K_W04,                              nomenklatura związków nieorganicznych  i metaloorganicznych; budowa związków
+7.   Chemia nieorganiczna                                                                        K_W08, K_W10, K_U01,                            kompleksowych według  teorii pola krystalicznego   i  teorii  orbitali molekularnych;
+                                                                                                      K_U08, K_K01                                 właściwości magnetyczne  i spektroskopowe związków pierwiastków przejściowych;
+                                 reakcje wymiany ligandów  i przeniesienia elektronu w związkach kompleksowych;
+                                 trwałość kinetyczna  i termodynamiczna związków kompleksowych, kinetyka reakcji;
+                                  związki metaloorganiczne i ich zastosowanie w katalizie.
+                                  Postulaty mechaniki kwantowej. Rozwiązanie równania Schrödingera dla: cząstki
+                              swobodnej, nieskończenie  głębokiej  studni  potencjału,  bariery  potencjału  (efekt
+                                tunelowania, przykłady z chemii)  i oscylatora harmonicznego. Moment pędu, rotator
+                               sztywny. Atom  jednoelektronowy  - sposób  rozwiązania równania  Schrödingera,  K_W01, K_W02, K_W04,
+8.   Chemia kwantowa         dyskusja rozwiązań, własności orbitali. Metody przybliżonego rozwiązania równania  K_W05, K_W08, K_U04,
+                               Schrödingera - metoda wariacyjna (twierdzenie wariacyjne, metoda Ritza), rachunek  K_U08
+                               zaburzeń dla stanów niezdegenerowanych. Spin elektronowy. Sprzężenie spinowo-
+                                    orbitalne.  Układy  wieloelektronowe,  przybliżenie  jednoelektronowe.  Przybliżenie
+                              Borna-Oppenheimera, całkowita energia cząsteczki.
+                            Wprowadzenie do środowisk obliczeniowych Matlab   i Excel; numeryczna analiza
+     Metody komputerowe w    danych; statystyczna analiza danych; graficzna prezentacja wyników; wyszukiwanie9.                                                                                            K_W07, K_W08 K_U06      chemii                      informacji naukowej w zasobach internetu oraz specjalistycznych bazach danych
+                               (Chemical Abstracts); rysowanie struktur związków chemicznych.
+                          Wpływ  budowy  chemicznej  na  właściwości  chemiczne    i  fizyczne  związków
+                                organicznych.  Nazewnictwo  związków  organicznych.  Izomeria,  stereochemia,
+                                  cząsteczki   chiralne.  Alkany     i   cykloalkany,   analiza  konformacyjna,  reakcje
+                               wolnorodnikowe.  Alkeny    i  alkiny,  reakcje  addycji,  karbeny,  przegrupowania
+                               karbokationów, efekt mezomeryczny, polimeryzacje alkenów, reakcje cykloaddycji do
+                               sprzężonych  dienów.  Związki  aromatyczne    i  wielopierścieniowe,  podstawienie
+                                   elektrofilowe w związkach aromatycznych. Chlorowcowe związki organiczne, reakcje  K_W01, K_W04, K_W08,
+10.   Chemia organiczna         podstawienia nukleofilowego  i eliminacji. Związki metaloorganiczne i ich znaczenie w  K_W10, K_U01 ,K_U06
+                                  syntezie  organicznej.  Alkohole   i  etery,  reakcje  utlenienia   i  redukcji  związków  K_U08 K_K01
+                                organicznych. Fenole   i halogenopochodne związków aromatycznych. Aldehydy   i
+                                ketony,  nukleofilowe  addycje  do  grupy  karbonylowej,  reaktywność  anionów
+                              enolanowych,  kondensacja  aldolowa.  Kwasy  karboksylowe    i   ich  pochodne,
+                                podstawienie  nukleofilowe  przy  węglu  acylowym.  Związki  azoto-  siarko-    i
+                                  fosforoorganiczne. Znaczenie biologiczne jednofunkcyjnych związków organicznych.
+                                 Proste związki heterocykliczne.
+
+
+
+                                                            10
+                            Chemia organiczna związków wielofunkcyjnych. Budowa, nazewnictwo,   otrzymywanie, K_W03,
+                              reaktywność  i rola związków chemicznych pełniących istotne funkcje w organizmach K_W0511.  Chemia bioorganiczna                             żywych (w tym: sacharydów, lipidów, alkaloidów, kwasów nukleinowych, aminokwasów, K_U02,
+                            peptydów i białek).                                                    K_U08
+                                    Historia chemii leków. Podstawowe pojęcia z obszaru chemii leków. Docelowe obiekty
+                                   działania leków  (lipidy, węglowodany,  białka  transportujące,  białka  strukturalne,
+                            enzymy,  receptory,  kwasy  nukleinowe).  Przeciwciała  w  chemii  medycznej.
+                              Zastosowanie inhibitorów enzymów w medycynie. Typy receptorów. Neuroprzekaźniki i
+                            hormony. Projektowanie agonistów  i antagonistów. Struktura receptora  i transdukcja  K_W02, K_W05, K_W1412.  Chemia medyczna                             sygnałów (receptory kontrolujące kanały jonowe, receptory sprzężone z białkiem G,  K_U02, K_U08, K_K01
+                              receptorowe kinazy proteinowe, receptory wewnątrzkomórkowe). Leki działające na
+                        DNA   i RNA. Farmakodynamika   i  farmakokinetyka  (uwalnianie  leku,  absorpcja,
+                                 dystrybucja, metabolizm, wydalanie leków). Klasyfikacja leków. System ACT. Wpływ
+                              czynników fizyko-chemicznych na trwałość i dystrybucję leków.
+                            Omówienie krok po kroku drogi jaką przechodzi lek od pomysłu po wdrożenie, a więc m.
+     Lek – od pomysłu do         in.: określenie ugrupowania farmakoforowego, struktury wiodącej, badania SAR,13.                                                                                           K_W01, K_W12     wdrożenia                badania toksyczności, metabolizmu); omówienie metod projektowania leków
+                            Podstawowe pojęcia i definicje termodynamiki fenomenologicznej; przemiany fizyczne
+                     w  fazie  gazowej  (gaz  doskonały);  funkcje  termodynamiczne;  I    i  II  zasada
+                              termodynamiki;  relacje pomiędzy funkcjami termodynamicznymi; prawo Hessa   i
+                                  Kirchhoffa; molowe wielkości cząstkowe; potencjał chemiczny; równowagi chemiczne
+                     w fazie gazowej; równowagi w układach jednoskładnikowych; równowagi w układach  K_W01, K_W04, K_W08,
+14.  Chemia fizyczna I i II      dwuskładnikowych;  właściwości  koligatywne  roztworów;  równowagi w  układach  K_W10, K_U01, K_U08
+                                 trójskładnikowych;  podstawowe   definicje    i  zależności  elektrochemii;  reakcje  K_K01
+                               elektrodowe;  równanie  Nernsta;  wyznaczanie   funkcji  termodynamicznych  w
+                                 elektrochemii; przewodnictwo elektrochemiczne; kinetyka chemiczna – podstawowe
+                                  pojęcia  i kinetyczne równania różniczkowe; kinetyka reakcji złożonych; mechanizmy
+                                     reakcji. Przybliżenie stanu stacjonarnego.
+
+
+
+
+
+                                                            11
+                               Charakterystyka  fali elektromagnetycznej; formy oddziaływania promieniowania z
+                              ośrodkiem materialnym: dyfrakcja, odbicie, rozproszenie, polaryzacja, absorpcja,
+                                emisja; metody optyczne refraktometria, polarymetria, nefelometria i turbidymetria i
+                                    ich zastosowanie do badania układów optycznie czynnych  i układów koloidalnych;
+                             poziomy energetyczne w atomach  i cząsteczkach; podstawowe rodzaje optycznej
+                                  spektroskopii atomowej   i molekularnej oraz  ich charakterystyka; absorpcyjna   i
+                              emisyjna spektroskopia atomowa do badania  śladowych  ilości  metali oraz  ich
+                               zastosowanie w chemii środowiska  i badaniach medycznych; techniki spektroskopii
+     Wprowadzenie do metod                                  oscylacyjnej: widma absorpcyjne w podczerwieni i rozproszenia Ramana; koncepcja  K_W02, K_W05, K_W0915.  badawczych w chemii                                   częstości  charakterystycznych    i  jej  znaczenie w  analizie  strukturalnej  oraz  K_U02, K_U07, K_U08     medycznej                                     identyfikacji  związków  chemicznych,  przykłady widm  IR   i  R;  rodzaje  przejść
+                               elektronowych w cząsteczkach organicznych  i związkach kompleksowych; prawo
+                              Lamberta-Beera  i jego zastosowania analityczne w spektroskopii IR, Ramana oraz
+                                  spektroskopii z zakresu UV-Vis; krótka charakterystyka metod elektrochemicznych:
+                                potencjometria   i  elektrody  jonoselektywne,  woltamperometria,  konduktometria,
+                              miareczkowanie  konduktometryczne  oraz  kulometria;  przykłady  zastosowań
+                                molekularnej spektroskopii optycznej oraz metod elektrochemicznych w chemii,
+                                  farmacji i naukach medycznych.
+                               Student powinien zapoznać się z warunkami BHP na stanowisku pracy, strukturą
+                                organizacyjną zakładu, zakresem obowiązków na danym stanowisku pracy, obecnym
+                     w  zakładzie  parkiem  maszynowym,  zagadnieniami  dotyczącymi  gospodarki
+                                materiałowej oraz zasadami przestrzegania ochrony środowiska. W czasie praktyki
+      Praktyka                zawodowej studenci ustalają z przedstawicielem zakładu szczegółowy plan praktyki,  K_W12, K_U03, K_U06,
+16.   zawodowa/Praktyka       dokonują obserwacji wybranych stanowisk pracy, podejmują działania powierzone im  K_U07, K_U11, K_K01,
+     badawcza                 przez  przedstawiciela  zakładu,  prowadzą  dokumentację  (dziennik  praktyk)  z  K_K02, K_K03
+                                obserwacji poznawanych procesów   i wykonywanych  zadań.Praktyki mogą  być
+                           odbywane w jednostkach gospodarczych  i naukowo-badawczych, pozwalających na
+                                    realizację celów praktyki. Praktyki badawcze zapoznają z formami realizacji projektów
+                             badawczych i sposobami publikowania wyników badań.
+                                  Pojęcie  i zakres prawa własności intelektualnej – prawo autorskie  i prawo własności
+                               przemysłowej. Utwór w rozumieniu prawa autorskiego – pojęcie, rodzaje i klasyfikacja
+                              utworów. Podmioty praw  autorskich  (twórca, pracodawca,  instytucja naukowa,
+     Prawo własności          wydawca,  producent).  Zakres  praw  autorskich  –  prawa  osobiste    i  prawa17.                                                                                           K_W11, K_W12      intelektualnej             majątkowe. Ochrona praw autorskich. Wynalazek oraz inne projekty wynalazcze.
+                            Prawo do patentu i innych praw ochronnych na projekty wynalazcze. Podmioty praw
+                            do  projektu wynalazczego  (twórca, pracodawca, zamawiający) oraz zakres ich
+                               uprawnień. Ochrona praw do projektów wynalazczych.
+
+
+
+                                                            12
+                                 Struktura    i  funkcja  białek;  poznawanie  białek  -  techniki    i  metody  służące
+                               charakteryzowaniu białek; DNA i RNA - cząsteczki dziedziczności; przepływ informacji
+                                genetycznej; poznawanie genów; metabolizm - podstawowe pojęcia  i organizacja;  K_W04, K_W0918.  Chemia komórki I                             węglowodany; glikoliza; cykl kwasu cytrynowego; fosforylacja oksydacyjna; szlak  K_U08
+                               pentozofosforanowy  i glukoneogeneza; metabolizm glikogenu; metabolizm kwasów
+                                tłuszczowych; rozkład aminokwasów i cykl mocznikowy; fotosynteza.
+                            Podstawowe  pojęcia    i  terminologia  stosowane w  technologii  chemicznej    i
+                                   biotechnologii, zasady technologiczne, operacje i procesy jednostkowe w technologii
+                               chemicznej  i biotechnologii, schematy technologiczne; fizykochemiczne podstawy
+                             procesów  technologicznych;  biotechnologia  przemysłowa,  podstawy  procesów
+                                 biotechnologicznych; projektowanie procesu technologicznego/biotechnologicznego;
+                             surowce przemysłu chemicznego, wykorzystanie surowców odnawialnych; biokataliza      Technologia chemiczna z                                                                      K_W01, K_W02, K_W08,                                                               i jej zastosowanie; metody wydzielania  i oczyszczania  i utrwalania bioproduktów;19.   elementami                                                                                 K_W10, K_U01, K_U05,                             przemysłowe zastosowanie biotransformacji mikrobiologicznej; podstawy technologii      biotechnologii                                                                             K_U08 K_K01, K_K02                             wybranych   bioproduktów;   wybrane   zagadnienia    technologii/biotechnologii
+                               środowiska;  proekologiczne  odnawialne  źródła  energii;  przegląd  ważniejszych
+                                   technologii  chemicznych  przemysłu  nieorganicznego    i  syntez  organicznych;
+                                 technologie bezodpadowe, koncepcja zrównoważonego rozwoju;  kryteria oceny
+                                    jakości surowców i produktów przemysłu chemicznego; regulacje prawne w przemyśle
+                             chemicznym, farmaceutycznym.
+                                    Historia chemii leków nieorganicznych; nieorganiczne leki przeciwdrobnoustrojowe;
+                              wiedza na temat budowy chemicznej  i sposobu działania najbardziej popularnych
+                              leków opartych na związkach nieorganicznych; znajomość środków kontrastujących i                                                                                             K_W02, K_W03, K_W0920.   Leki nieorganiczne         obszaru ich zastosowań w wizualizacji zmian chorobowych; sposoby dystrybucji leków                                                                                                   K_U02, K_U09, K_K01                                nieorganicznych w  organizmie,  ich  potencjalna  toksyczność;  wiedza na temat
+                             metabolizmu związków metali w organizmie; podstawowe fizjologiczne ligandy dla
+                             jonów metali, sposób ich usuwania.
+                               Metale w procesach biologicznych. Metale podstawowe  i toksyczne; relacje między
+                                właściwościami chemicznymi jonu metalu, strukturą jego kompleksów a funkcją
+                                  biologiczną; metaloproteiny; metaloenzymy; metale w biologii kwasów nukleinowych;
+                                  transport   i magazynowanie (homeostaza)  metali;  rola jonów sodu   i potasu w
+      Biologiczna chemia        utrzymaniu potencjału błonowego   i  transmisji synaptycznej; magnez   i wapń w  K_W02, K_W03, K_W1021.      nieorganiczna             układach biologicznych, cynk – kwas Lewisa i regulator kwasowości; żelazo – element  K_U02, K_U08, K_K01
+                              niezbędny do życia; miedź – oddziaływania z ditlenem; nikiel  i kobalt – ewolucyjne
+                                      relikty; mangan – generowanie tlenu  i detoksykacja; molibden, wolfram, wanad  i
+                           chrom – chemia i biochemia; wybrane metody analizy metaloenzymów i kompleksów
+                             jonów metali z cząsteczkami o znaczeniu biologicznym.
+
+
+
+                                                            13
+                                   Klasyfikacja antybiotyków; omówienie podstawowych klas antybiotyków (antybiotyki
+                              β-laktamowe, peptydowe  i pochodne aminokwasów, chloramfenikole, tetracykliny,
+                                makrolidy, linkozamidy, streptograminy, aminoglikozydy  itd.); chemioterapeutyki
+                                syntetyczne (chinolony, leki przeciwgruźlicze, sulfonamidy); mechanizmy działania
+                               antybiotyków (antymetabolity, antybiotyki hamujące syntezę DNA, RNA, białek  i
+                             mureiny oraz oddziałujące na błony komórkowe); selektywność działania leków  K_W02, K_W03, K_W1022.   Antybiotyki i lekooporność                                przeciwbakteryjnych; działania niepożądane antybiotykoterapii; środki dezynfekujące  K_U02, K_U08, K_K01
+                                                               i odkażające (m.in. związki nieorganiczne, związki o właściwościach utleniających,
+                                  alkohole, aldehydy, fenole, związki amoniowe, tenzydy kationowo czynne); geneza
+                                oporności na antybiotyki; przyczyny narastania oporności; typy oporności (oporność
+                            chromosomalna     i  pozachromosomalna);  perspektywy   walki   z   bakteriami
+                               chorobotwórczymi.
+                          Budowa     i   funkcje  enzymów,   strategie   katalityczne,   allosteria:   inhibitory
+                             enzymatyczne; kinetyczne aspekty regulacji reakcji enzymatycznych; dynamika błon                                                                                             K_W04, K_W0923.  Chemia komórki II          biologicznych; molekularne motory; fałdowanie się i projektowanie białek; podstawy                                                                                             K_U09                                  strukturalne   kwasów   nukleinowych,  biosynteza   nukleotydów;   biosynteza
+                            aminokwasów; biosynteza lipidów; integracja metabolizmu.
+                               Oddziaływanie leków organicznych z białkami docelowymi, grupy funkcyjne jako
+                              grupy wiążące. Synteza organiczna w badaniach zależności między strukturą a
+                               aktywnością leków (SAR). Chemia kombinatoryczna: biblioteki, przestrzeń chemiczna,
+                              badania przesiewowe  (HTS). Synteza chemiczna  leku  organicznego, procedury
+                                półsyntetyczne i biosyntetyczne, optymalizacja warunków reakcji. Stereochemia leku,  K_W02, K_W0324.   Leki organiczne                                 czystość optyczna, synteza asymetryczna, biologicznie aktywna konformacja. Metody  K_U02, K_U09
+                              podwyższania walorów farmakologicznych substancji aktywnej. Proleki  i systemy  K_K01
+                                  transportujące. Specyfikacja i kontrola jakości organicznych związków bioaktywnych.
+                                 Przykłady różnych grup leków organicznych z uwzględnieniem: metod syntezy, metod
+                                 analitycznych stosowanych do identyfikacji i oznaczania ilościowego.
+                              Wieloetapowa synteza organiczna wybranego  leku. Zastosowanie  strategii grup
+                                blokujących w syntezie organicznej. Synteza w roztworze oraz na fazie stacjonarnej  K_W02, K_W03, K_W09,     Nowoczesne metody25.                               Przeprowadzenie    analizy    jakościowej   otrzymanej    substancji   metodami  K_W10, K_U02, K_U05,      syntezy leków
+                              spektroskopowymi. Badanie czystości otrzymanego preparatu  i próby identyfikacji  K_U08 K_K01
+                                zanieczyszczeń z zastosowaniem metod spektroskopowych (NMR i MS).
+                                  Pojęcia  i definicje spotykane w toksykologii jako nauce; metabolizm ksenobiotyków;
+                              kancerogeneza;  czynniki  warunkujące  toksyczność  ksenobiotyków;  toksykologia K_W03, K_W0526.   Toksykologia                            zawodowa;   skażenie  radioaktywne;   nanotoksykologia;  oznaczanie   zawartości K_U03, K_U05
+                             konserwantów w produktach naturalnych.
+
+
+
+
+                                                            14
+                               Zakres i zadania nauki o środowisku; pierwiastki biogenne i cykle biogeochemiczne;
+                                    klasyfikacja i składowanie odpadów; źródła energii oraz odnawialne źródła surowców
+                                                                i energii; litosfera – gleby (degradacja, denudacja, zmęczenie); sposoby zwiększania
+                                  produkcji żywności; środki ochrony roślin – szkodliwość, zabezpieczenia; podstawowe
+                                 zanieczyszczenia  i skażenia żywności; chemiczne zanieczyszczenia  i skażenia gleb;
+      Człowiek a środowisko      rekultywacja; pestycydy; atmosfera – skład   i  struktura;  źródła zanieczyszczeń  K_W03, K_W0527.     (PDWIo – 1)               atmosfery i mechanizmy samoregulacji; hydrosfera – charakterystyka w środowisku i  K_U03, K_U06
+                                    klasyfikacja;   chemiczne   zanieczyszczenia   wód;    eutrofizacja,   wskaźniki
+                                 zanieczyszczenia  wód,  charakterystyka  procesów  samooczyszczania  się  wód;
+                                detergenty  i środki czyszczące – oddziaływanie na środowisko, utylizacja odpadów;
+                               ropa naftowa  i zanieczyszczenia olejowe; koncepcja zrównoważonego rozwoju –
+                             chemia przyjazna człowiekowi i otoczeniu.
+                                 Ekologia jako dziedzina nauk przyrodniczych  i jej powiązania z innymi naukami.                                                                                             K_W03, K_W0528.   Ekologia (PDWo – 1)       Poziomy organizacji systemów ekologicznych. Czynniki środowiskowe. Organizmy a                                                                                                    K_U03, K_U06                                środowisko. Tolerancja ekologiczna. Bioindykacja i bioindykatory.
+                                  Biegłość językowa w posługiwaniu się wybranym językiem obcym nowożytnym. Treści i
+      Lektorat (język            słownictwo niezbędne do egzaminu, wymagania  określone na  poziomie B2    K_U09
+29.   nowożytny) (PDW - 3)      Europejskiego Systemu Kształcenia Językowego.
+                            Mechanizmy pobudliwości komórkowej i transmisja synaptyczna. Receptory związane
+                                 z białkami G   i ich  szlaki sygnalizacyjne. Nerwowe ośrodki regulatorowe. Układ
+                              endokrynny.  Fizjologa  skurczu  mięśniowego.  Mechanoreceptory  (dotyk,  słuch,     Podstawy fizjologii30.                          równowaga). Termoreceptory i nocyceptory. Mechanizmy widzenia. Chemorecepcja:  K_W03      człowieka (PDWo – 2)                           węch  i smak. Energetyka organizmu: glukostaza  i termostaza. Rytmy biologiczne,
+                                 sen. Mechanizmy uzależnień i działania środków odurzających. Fizjologia oddychania
+                                                                i krążenia.
+                                   Kryteria wyboru metody do celów analitycznych (kinetyczne  i termodynamiczne).
+     Wybrane specjalne         Pobieranie   i przygotowanie próbek do  analizy ze szczególnym uwzględnieniem                                                                                             K_W02, K_W0931.   techniki w analizie         materiałów naturalnych   i farmaceutycznych. Wybrane techniki instrumentalne w                                                                                             K_U03      chemicznej (PDWo – 2)     chemii analitycznej – fizyczne podstawy, budowa aparatury, przykłady oznaczeń
+                               próbek naturalnych. Ocena wiarygodności metod analitycznych i oszacowanie błędów.
+                             Podstawy racjonalnego żywienia. BMI. Piramida żywieniowa. Trawienie - enzymy
+                                 trawienne, mikroflora bakteryjna, strawność. Mechanizmy wchłaniania. Składniki
+                             odżywcze żywności. Węglowodany. Tłuszcze. Białka. Składniki mineralne - ich funkcje
+     Chemia żywności       w organizmie i rola w żywieniu człowieka. Woda jako składnik żywności. Równowaga  K_W02, K_W0532.     (PDWo – 4)              kwasowo-zasadowa. Witaminy. Wartość odżywcza   i jakość zdrowotna żywności.  K_U05
+                                Dodatki  do  żywności.  Suplementacja  żywności  dodatkami  prozdrowotnymi.
+                             Mutagenne, rakotwórcze  i ochronne składniki żywności. Substancje antyodżywcze.
+                               Skażenia żywności.
+
+
+                                                            15
+                                Najważniejsze substancje chemiczne w skórze  i naskórku, substancje regulujące pH
+                                  skóry, składniki łoju, składniki płaszcza wodnolipidowego. Substancje modyfikujące
+                                skuteczność bariery naskórkowej. Substancje umożliwiające przenikanie do głębszych
+                             warstw  skóry.  Pojęcie  TEWL.  Główne  składniki  NMF.  Czynniki  nawilżające
+                               błonotwórcze  hydrofobowe,  błonotwórcze    i  hydrofilowe.  Regulatory  cementu
+                            międzykomórkowego. Substancje natłuszczające. Środki powierzchniowo czynne:
+                                kationowe,  anionowe,  amfolityczne    i  niejonogenne.  Rodzaje    i  właściwości     Chemia kosmetyczna                                                                        K_W02, K_W0533.                             fizykochemiczne form kosmetycznych: roztwory, emulsje (emulsje O/W   i W/O,     (PDWo – 4)                                                                                K_U05                               emulsje złożone, mikroemulsje) żele, formy bezwodne. Pojęcie HLB. Emulgatory
+                               pochodzenia naturalnego i syntetyczne. Środki przeciwdrobnoustrojowe. Konserwanty
+                                                                i  środki  przeciwłupieżowe.  Przeciwutleniacze.  Melaniny    i  preparaty  hamujące
+                                biosyntezę melanin. Środki do farbowania włosów i środki barwiące skórę. Pigmenty i
+                                  barwniki. Polimery  i kopolimery stosowane w kosmetyce, plastyfikatory. Substancje
+                              stosowane w  higienie jamy  ustnej.  Metody  oceny  jakości    i  bezpieczeństwa
+                             kosmetyków. Metody oceny surowców kosmetycznych.
+                                    Literatura naukowa w języku angielskim dotycząca chemii medycznej: podręczniki,
+                               czasopisma, patenty, źródła internetowe. Czytanie naukowego tekstu angielskiego ze
+                               zrozumieniem. Skróty. Pułapki słownikowe. Autotranslatory. Związki chemiczne -      English in life sciences34.                         nazwy  i właściwości fizykochemiczne oraz biologiczne. Nazwy zwyczajowe. Barwy,  K_U07     (PDWo – 5)                               zapachy, smaki. Aparatura pomiarowa. Procedury analityczne w chemii medycznej.
+                               Szybkie  wyszukiwanie  informacji w  tekście  angielskim. Podstawy  skutecznego
+                                 korzystania z literatury fachowej. Żywe źródła: webinary i e-konferencje.
+                                Język angielski w nauce   i technice. Chemiczny język angielski. Środki przekazu
+                                    informacji.  Angielszczyzna  uniwersalna    i  specjalistyczna.  Pozatekstowe  środki
+                               przekazu informacji w języku angielskim. Prawa  i definicje w języku angielskim.
+      English for science and                               Laboratorium  chemiczne   i  sprzęt  laboratoryjny. Gramatyka naukowego  języka35.   technology (PDWo – 5)                                                                       K_U07                                  angielskiego.  Metody  prezentacji  wyników  w  języku  angielskim.  Specyfika
+                               przygotowania prac pisemnych w języku angielskim (abstrakt, artykuł, komunikat).
+                              Ustna prezentacja wyników w języku angielskim.
+                               Ziemia  jako  planeta mikroorganizmów.  Właściwości  struktur mikroorganizmów.
+                                  Architektura  ściany komórkowej  bakterii  Gram-dodatnich   i Gram  –ujemnych.
+                                 Struktura genomu  i sposób przekazywania informacji genetycznej. Różnorodność
+                                metaboliczna, anabolizm, katabolizm oraz amfibol izm. Jak bakterie zdobywają                                                                                             K_W03, K_W1036.  Mikrobiologia (PDWIo – 6)   energię? Szlaki wykorzystania cukrów. Krążenie pierwiastków w przyrodzie. Warunki                                                                                             K_U02                                                                i czynniki wpływające na wzrost  i podział mikroorganizmów. Zjawisko oporności
+                                drobnoustrojów.  Zastosowanie  mikroorganizmów w  biotechnologii    i  produkcji.
+                                    Inżynieria genetyczna mikroorganizmów. Drobnoustroje jako producenci metabolitów
+                               wtórnych. Drobnoustroje i człowiek. Metody posiewu i hodowli drobnoustrojów.
+
+
+                                                            16
+                                 Struktura   i  składniki układu odpornościowego. Odporność nieswoista   i  swoista.
+                             Odporność komórkowa   i humoralna. Przeciwciała   i ich znaczenie w odporności.
+                                  Tolerancja:  układ  zgodności  tkankowej,  mechanizmy  rozróżniania  antygenów
+                              własnych od obcych. Immunologia ciąży: mechanizmy rozpoznania ciąży przez układ
+                                odporności   i rozwój  tolerancji na płód, immunologiczne przyczyny niepłodności.
+                                Przeszczepy    i  immunosupresja.  Autoagresja:  czynniki  wpływające  na  rozwój
+                                   autoagresji, przykłady chorób. Niedobory odporności pierwotne i nabyte, diagnostyka                                                                                             K_W03, K_W1037.  Immunologia (PDWIo – 6)       i przykłady terapii. Szczepionki: mechanizmy immunizacji, rodzaje szczepionek  i                                                                                             K_U02                                   kierunki  rozwoju   szczepień.  Immunologia  nowotworów:   naturalna  obrona
+                              przeciwnowotworowa,  antygeny  towarzyszące  nowotworom,  immunoterapia    i
+                                  szczepionki przeciwnowotworowe. Stan zapalny: komórki  i mediatory biorące udział
+                     w  reakcjach  zapalnych,  przebieg  zapalenia    i   leki  przeciwzapalne.  Techniki
+                              immunologiczne  w  badaniach  laboratoryjnych.  Zastosowania  przeciwciał  w
+                                diagnostyce     i   terapii:  modyfikacje   przeciwciał,   przeciwciała  monoklonalne,
+                                  przeciwciała humanizowane, sprzęganie przeciwciał z lekami.
+                            Podstawowe  koncepcje  chemii  koordynacyjnej  w  odniesieniu  do  układów
+                                  biologicznych; elektronowa teoria wiązania chemicznego; równowagi kompleksowania
+                     w roztworach wodnych; ligandy: mono-, bi- oraz polidentne; efekt chelatowy oraz
+                            wpływ dalszych sfer koordynacyjnych; wpływ jonów metali na właściwości kwasowo-
+                            zasadowe  ligandów;  teoria  twardych    i  miękkich kwasów    i  zasad;  struktura     Chemia biokoordynacyjna                                                                     K_W01, K_W0538.                            elektronowa  i geometryczna metali w układach biologicznych; teoria pola ligandów;     (PDWIo – 7)                                                                               K_U08                               aspekty kinetyczne; potencjał redoks  i reakcje przeniesienia elektronów. Ligandy
+                                  biologiczne dla jonów metali; jony metali  i białka: wiązanie, trwałość, struktura;
+                             kompleksy metali z węglowodanami i ich pochodnymi; oddziaływanie jonów metali z
+                              zasadami nukleinowymi, nukleotydami, nukleozydami;  kofaktory  i klastery metali.
+                              Koordynacyjne układy modelowe.
+                             Zasada ekonomii atomów   i zasady  zielonej  chemii. Zjawisko  katalizy, rodzaje
+                              procesów  katalitycznych.  Selektywność  reakcji  chemicznej.  Kryteria  doboru
+                                rozpuszczalników do procesów chemicznych stosowanych w syntezie farmaceutyków,     Metody katalityczne w                                  ciecze jonowe – otrzymywanie,  właściwości   i  zastosowania. Podstawy syntezy  K_W01, K_W1039.   syntezie farmaceutyków                                asymetrycznej. Wykorzystanie surowców odnawialnych  i metod biotechnologicznych  K_U08     (PDWIo – 7)                     w syntezie chemicznej. Mikrofale  i ultradźwięki jako źródło energii w procesach
+                               chemicznych.  Charakterystyka   i  zastosowanie  płynów  nadkrytycznych.  Metody
+                                   rozdziału katalizatora od produktów organicznych.
+
+
+
+
+
+                                                            17
+                           Motywy strukturalne DNA  i RNA. Charakterystyka enzymów używanych w inżynierii
+                              genetycznej.Enzymy  restrykcyjne.  Klonowanie:  schemat,  podstawowe  wektory     Metody biologii                                 ekspresyjne, budowa  i regulacja ekspresji genu. Analiza sklonowanych genów  i ich40.   molekularnej i inżynierii                                                                      K_W03, K_W10                              produktów; hybrydyzacja kwasów nukleinowych, elektroforeza żelowa, spektrometria      genetycznej (PDWIo – 8)                            mas.   Nokautowanie genu. Mikromacierze DNA.  Interferencja RNA. Organizmy
+                                  transgeniczne.
+                                  Początki     i   historia  wykorzystywania  magnesu,   pole  magnetyczne  Ziemi,
+                            geomagnetyzm.  Podstawy     i  pochodzenie  magnetyzmu,   materia  w   polu
+                            magnetycznym, podział substancji magnetycznych i charakterystyka ich właściwości,
+                                   „inteligentne magnetyki” - magnesy. Magnetyzm związków chemicznych, kompleksy
+     Biomagnetyzm           wysoko- i niskospinowe. Statyczne i rezonansowe metody badawcze wykorzystujące  K_W06, K_W0741.     (PDWIo – 8)               pole magnetyczne. Oddziaływania magnetyczne   i uporządkowanie magnetyczne:  K_U06, K_U11
+                                      ferro-,  ferri- antyferromagnetyzm. Istota zjawisk magnetycznych w organizmach
+                              żywych, jony magnetyczne w molekułach biologicznych i ich stany spinowe. Człowiek
+                                jako istota magnetyczna, wykorzystanie pól magnetycznych w diagnozie medycznej i
+                                       terapii. Nanomateriały magnetyczne w medycynie.
+                             Chemiczne właściwości aminokwasów  i peptydów. Metody syntezy, oczyszczania  i
+                                   analizy peptydów. Budowa i funkcje wybranych peptydów i białek. Struktury białkowe                                                                                             K_W02, K_W03                                                                i metody  ich  badania. Metody  izolowania   i  oczyszczania  białek. Chemiczne   i42.   Chemia białek (PDWIo – 9)                                                                         K_U02, K_U08                             enzymatyczne modyfikacje białek. Wprowadzania znaczników do cząsteczek białek  i                                                                                              K_K01                                    ich wykorzystanie. Synteza   i zastosowanie koniugatów białkowych. Rozpoznanie
+                                molekularne, strukturalne podstawy immunochemii i enzymologii.
+                            Budowa, rodzaje i funkcje biologiczne naturalnych błon biologicznych oraz agregatów
+                                  lipidowych.  Przejścia  fazowe  błon  lipidowych,  krytyczne  stężenie  micelizacji,
+                           domenowość  błon.  Oddziaływania  molekularne  a  budowa  lipidowych  błon
+                                  biologicznych i agregatów lipidowych. Wpływ czynników zewnętrznych na strukturę i      Błony biologiczne i                                 właściwości fizykochemiczne błon  biologicznych, liposomów   i innych agregatów  K_W02, K_W03, K_W0943.   agregaty lipidowe                                  lipidowych. Liposomy  - modele błon  biologicznych, zastosowanie w przemyśle,  K_U02, K_U89, K_K01     (PDWIo – 9)                             medycynie    i  badaniach  podstawowych.  Techniki  preparacji  liposomów    i  ich
+                                modyfikacje prowadzące do uzyskania nowych, bardziej efektywnych lipidowych
+                              nośników  leków.  Metody  badania  struktur  agregatów  lipidowych:  metody
+                              eksperymentalne i obliczeniowe.
+                            Chemia nukleotydów, typy parowania zasad, struktura pierwszo-  i drugorzędowa
+                           DNA, typy helis, motywy strukturalne. Struktury wyższych rzędów RNA; rybozymy
+     Chemia kwasów           (szczegółowe omówienie struktury, funkcji  i mechanizmu działania wszystkich klas).                                                                                             K_W02, K_W03, K_W0944.   nukleinowych              Analogi kwasów nukleinowych, ligandy kwasów nukleinowych: interkalatory, jony                                                                                                   K_U02, K_U08, K_K01     (PDWIo – 9)                metali i specyficzne ligandy wiążące się do RNA. Wiązanie specyficzne i niespecyficzne,
+                             termodynamika  oddziaływań.  Białkowe  motywy  strukturalne  wiążące  kwasy
+                                nukleinowe. Nukleoproteiny. Kwasy nukleinowe a ewolucja.
+
+
+                                                            18
+                               Zagadnienia praw autorskich, rzetelności naukowej   i plagiatu. Źródła informacji
+                             naukowej - ich wiarygodność  i wykorzystanie. Wyszukiwanie informacji w źródłach
+                             drukowanych  i elektronicznych. Wyszukiwanie wg. słów kluczowych  i elementów
+                                  strukturalnych.  Zasoby  informacji  o  związkach  chemicznych.  Wyszukiwarki
+                                internetowe – ogólne  i naukowe. Katalogi firm chemicznych jako źródło informacji.
+                             Chemiczne i biologiczne bazy danych. Bazy informacji patentowych. Bazy danych BHP,
+                          MSDS, toksykologiczne. Źródła informacji o lekach, metabolitach i innych związkach      Informacja naukowa w                                                                  K_W0845.                                biologicznie  czynnych.  Poszukiwanie  metod  syntezy    i  zastosowań  związków      chemii (PDWo – 9)                                                                          K_U10                                    biologicznie aktywnych.  Źródła  informacji o odczynnikach   i  reakcjach,  reakcje
+                                imienne.  Porządkowanie  informacji,  ustalanie  zakresu  poszukiwań,  prawidłowe
+                               cytowanie źródeł oraz tworzenie własnych baz danych  bibliograficznych, np. z
+                              wykorzystaniem programu Zotero. Metody i formy prezentowania informacji: raporty,
+                               sprawozdania, prezentacje multimedialne oraz tabele, wykresy  i schematy. Grafika
+                             naukowa. Programy do rysowania wzorów i analizy struktury związków organicznych.
+                             Zasady przygotowania prac dyplomowych i publikacji naukowych.
+                                 Określenia   i  twierdzenia  teorii grup:  symetria,  obiekt symetryczny, znajomość
+                                   symetrii. Symetria cząsteczek. Elementy symetrii. Operacje symetrii. Iloczyn operacji
+                                   symetrii. Tabela mnożenia grupowego. Przekształcenie podobieństwa. Klasy. Grupy
+                                   symetrii. Grupy cykliczne  i podgrupy. Notacja Schoenfliesa  i Hermanna-Mauguina.
+                                  Bryły  platońskie.  Klasyfikacja  cząsteczek  do  grup  punktowych.  Określenia    i
+                                 twierdzenia teorii reprezentacji. Reprezentacje grup. Baza reprezentacji. Charakter
+                                   reprezentacji.  Reprezentacja  pełnosymetryczna.  Reprezentacja  jedynkowa     i      Symetria w chemii                                                                          K_W01, K_W07, K_W0846.                            macierzowa. Reprezentacje redukowalne   i nieredukowalne. Tabele charakterów.     (PDW – 9)                                                                                       K_U02, K_K01                            Symbole Mullikena. “Wielkie twierdzenie o ortogonalności”. Teoria grup a chemia
+                             kwantowa. Funkcje falowe jako funkcje bazy reprezentacji nieprzywiednych. Iloczyn
+                                   prosty. Symetria stanu elektronowego. Orbitale symetrii (adaptowanej). Operatory
+                                rzutowe.  Zastosowania  symetrii w  teorii  orbitali  molekularnych.  Wolne  pary
+                               elektronowe w wodzie a symetria. Diagram poziomów energetycznych. Diagram
+                                  korelacyjny. Zastosowania w spektroskopii przejść elektronowych  i podczerwonych.
+                                  Polaryzacja przejść elektronowych. Symetria stanów wibracyjnych.
+                               Zagadnienia z chemii zatwierdzone jako tematy prac licencjackich; projekt badawczy  K_W01, K_W02, K_W03,
+      Przygotowanie pracy       indywidualny, realizacja eksperymentu z tematyki badawczej promotora, synteza,  K_W05, K_W06, K_U01,
+47.   dyplomowej -projekt       badania fizykochemiczne otrzymanego produktu i wnioski z przeprowadzonych badań.  K_U02, K_U07, K_U08,
+      indywidualny (PDW-10)    Indywidualne opracowanie teoretyczne zagadnienia, które wiąże się z tematyką  K_U10 K_K01, K_K02,
+                            badawczą zespołu.                                                    K_K03
+
+
+
+
+
+                                                            19
+                                  Projekt grupowy, zasady pracy w grupie – osiem kroków realizacji projektu. Rola   K_W01, K_W02, K_W03,
+     Seminarium licencjackie    lidera grupy. Grupowe opracowanie literaturowe na wybrany temat: z tematyki   K_W05, K_W06, K_U01,
+48.   – projekt grupowy         związanej z zagadnieniami wybranego zespołu badawczego lub kierunku studiów.   K_U02, K_U07, K_U08,
+     (PDW-10)                Przygotowanie grupowe prezentacji projektu, ocena projektu  i ocena prezentacji,   K_U11, K_K01, K_K02,
+                             samoocena.                                                           K_K03
+                                  Pojęcia  i definicje z podstaw chemii biomateriałów. Klasyfikacja biomateriałów  i
+                               biopolimerów w medycynie. Kryteria wyboru biomateriałów do celów medycznych;
+                                 materiały inertne, bioaktywne, bioresorbowalne, biomimetyki. Rodzaje biomateriałów
+                              stosowanych w medycynie: metale i stopy metali, tlenki metali, bioszkła, bioceramiki,
+                                organiczno-nieorganiczne  hybrydy,  silseskwioksany,  polimery  biodegradowalne.  K_W01, K_W03, K_W08,
+49.   Biomateriały (PDWo – 11)  Metody   syntezy   biomateriałów.   Metody   analizy   biomateriałów   (metody  K_W10, K_U01, K_U08,
+                               spektroskopowe, mikroskopowe, spektrometria mas, porozymetria gazowa, termo  K_K01
+                                 grawimetria,  skaningowa  kalorymetria  różnicowa,  mapowanie  fluorescencyjne.
+                             Metody wytwarzania rusztowań tkanek, od metod chemicznych do drukowania 3D.
+                              Zastosowania biomateriałów w medycynie. Metody analizy degradacji biomateriałów
+                     w organizmie. Przygotowanie biomateriałów do badań in vitro i in vivo, sterylizacja.
+                                  Pojęcie    i  definicja  produktów  naturalnych.  Metabolizm  pierwotny    i  wtórny.
+                            Mechanizmy  najważniejszych   reakcji  metabolicznych.  Metody  badania  dróg
+                                biosyntezy  produktów  naturalnych.  Produkty  naturalne  powstające w  wyniku     Chemia produktów                              metabolizmu: „aktywnego octanu”, kwasu szikimowego, kwasu mewalonowego,  K_W01, K_W03, K_W08,      naturalnych aktywnych50.                          aminokwasów. Dlaczego produkty naturalne są „aktywne biologicznie”? Przegląd  K_W10, K_U01, K_U08      farmakologicznie                           mechanizmów  działania  farmakologicznego  produktów  naturalnych.  Produkty  K_K01     (PDWo – 11)                                 naturalne w poszukiwaniu  i projektowaniu leków. Wyodrębnianie, oczyszczanie oraz
+                                  określanie struktury produktów naturalnych. Metabolomika – próba całościowego
+                                   ujęcia procesów chemicznych w komórce.
+                                Postać  krystaliczna  jako  jeden  z  wielu stanów występowania  materii,  typy   i
+                                charakterystyka kryształów. Wstępne informacje o kryształach makrocząsteczek  i
+                            metodach badań  ich  struktury. Sposoby pozyskiwania   i przygotowania próbek      Krystalochemia                                                                             K_W01, K_W04, K_W08,                              makrocząsteczek do badań ich struktury krystalicznej. Relacja pomiędzy strukturą  i51.   makrocząsteczek                                                                             K_W10, K_U01, K_U07,                                 funkcją makrocząsteczek. Metody obrazowania struktur makrocząsteczek: opisowe,     (PDWo – 11)                                                                              K_U08 K_K01                                  graficzne  i liczbowe. Analiza geometryczna makrocząsteczek oraz jej interpretacja.
+                             Bazy danych makrocząsteczek jako źródło wiedzy chemicznej. Wnioski wynikające z
+                            badań kryształów makrocząsteczek.
+                                  Składniki jądra atomowego. Energia jąder, siły jądrowe i cząstki elementarne. Modele
+                                  struktury jądra atomowego. Kinetyka rozpadu promieniotwórczego. Samorzutne
+                              przemiany  jądrowe.  Reakcje  jądrowe    i  termojądrowe  –  reaktory  atomowe.
+     Chemia jądrowa i          Zastosowanie izotopów promieniotwórczych. Źródła promieniowania jonizującego w  K_W04, K_W1052.      radiacyjna (PDWo – 11)    środowisku naturalnym.  Działanie promieniowania jądrowego na materię żywą.  K_U01, K_U07, K_U08
+                                  Działanie promieniowania jonizującego na organizm człowieka – hipoteza LNT oraz
+                            hormeza radiacyjna. Radioliza wody  i roztworów wodnych. Technika radiacyjna w
+                              medycynie, przemyśle, rolnictwie i ochronie środowiska.
+                                                            20
+                                 Czynniki mutagenne. Bakterie  i wirusy onkogenne. Rodzaje nowotworów. Etapy
+                               kancerogenezy. Zmiany w strukturze oraz w funkcji biomolekuł i błon komórkowych
+     Chemia nowotworów      pod wpływem procesów nowotworzenia. Mechanizmy powstawania nowotworów. Cele  K_W03, K_W1153.     (PDWo – 12)              leków  cytostatycznych.   Indukcja  apoptozy.  Oporność  na   działanie  leków  K_U08
+                              przeciwnowotworowych. Związki o działaniu chroniącym komórki. Perspektywy w
+                                   leczeniu, zapobieganiu i diagnostyce nowotworów.
+                            Podstawowe  strategie  statystycznego  sterowania  jakością.  Karty  kontrolne w
+                              monitorowaniu stabilności procesu. Zintegrowane systemy zarządzania jakością w
+                                  laboratoriach chemicznych. Normalizacja   i formy oceny zgodności (akredytacja,
+                                     certyfikacja). Spójność pomiarowa w procedurach analitycznych. Podstawowe pojęcia
+                                   metrologii. Szacowanie niepewności wyniku analizy. Charakterystyka  i zastosowanie
+      Kontrola jakości w        podstawowych typów materiałów odniesienia. Badania międzylaboratoryjne w kontroli  K_W0954.      analityce (PDWo – 12)       jakości badań  analitycznych. Walidacja procedur  analitycznych w  laboratoriach  K_U06
+                              akredytowanych. Etapy walidacji, charakterystyka i wyznaczanie parametrów metody
+                                    analitycznej. Przykłady walidacji dla wybranych metod analitycznych. Standardy
+                                zarządzania  środowiskowego.  Wdrażanie  systemu  zarządzania   jakością  w
+                                laboratorium chemicznym,  certyfikacja, integracja. Wybrane metody   i narzędzia
+                                doskonalenia systemów jakości.
+                             Wstęp:   węglowodany,    ich   występowanie,   struktura   cukrów   prostych,
+                                 konfiguracja/konformacja, biosynteza. Receptory GLUT. Glikozydazy, mechanizmy
+                                   działania  inhibitorów  glikozydaz  pełniących  funkcję  terapeutyków.  Flozyny  –
+                                   inteligentne leki na cukrzycę. Jak działają Inhibitory SGLT2? Analogi GLP-1 u chorych
+                            na cukrzycę typu 2. Czy analogi GLP-1 mogą być stosowane w leczeniu otyłości?
+                                   Victoza, Ozempic, Saxenda  i Trulicity na odchudzanie – czy rzeczywiście działają?
+                            Ozempic    („lek    celebrytów”)   na   odchudzanie?   Problem    diabetyków.     Chemia węglowodanów w                                                                     K_W01, K_W0355.                              Glikokortykosteroidy a zaburzenia metabolizmu glukozy - ryzyko rozwoju cukrzycy w     medycynie (PDWo – 13)                                                                           K_U01, K_U08                                przebiegu  steroidoterapii.  Suplementy  diety  zawierające  chrom  –  wpływ  na
+                              metabolizm cukrów? Czy  cukier  żywi  raka?  Cukier a  choroba nowotworowa.
+                              Oznaczanie glukozy metodą Somogyi-Nelsona. Oznaczenie poziomu  glukozy w
+                              próbach (sok, piwo, mleko, miód) metodą enzymatyczną z wykorzystaniem oksydazy
+                               glukozowej  i peroksydazy. Oznaczanie aktywności glukozo-6-fosfatazy. Wykazanie
+                                  specyficzności substratowej inwertazy, oznaczanie aktywności inwertazy. Oznaczanie
+                                 zawartości chromu w suplementach diety.
+
+
+
+
+
+                                                            21
+                                 Ekstrakty roślinne jako naturalne składniki kosmetyczne: kierunki rozwoju rynku
+                            kosmetyków opartych na substancjach pochodzenia roślinnego, rodzaje ekstraktów
+                                  roślinnych dostępne na rynku kosmetycznym, substancje biologicznie czynne zawarte
+                     w ekstraktach roślinnych, aktywność kosmetyczna ekstraktów roślinnych, jakość
+                               ekstraktów roślinnych oraz fitokosmetyków dostępnych na rynku kosmetycznym.
+                                 Tłuszcze roślinne jako podstawowe  i aktywne składniki produktów kosmetycznych:
+                               ogólna charakterystyka tłuszczów roślinnych, zastosowanie tłuszczów roślinnych w
+                             kosmetyce  pielęgnacyjnej,  tłuszcze  jako  składniki  bazy  tłuszczowej  emulsji      Ekstrakty roślinne w                              kosmetycznych, tłuszcze jako składniki aktywne w emulsjach kosmetycznych. Procesy      emulsjach kosmetyków i                              wolnorodnikowe i ich znaczenie w kosmetologii: reaktywne formy tlenu (RFT) i stres  K_W01, K_W0256.   ich aktywność                                oksydacyjny, wpływ stresu oksydacyjnego na fizjologię skóry, procesy oksydacji  K_U01, K_U08      przeciwutleniająca                                tłuszczów obecnych w produktach kosmetycznych. Przeciwutleniacze w kosmetyce:     (PDWo – 13)                                 charakterystyka, mechanizm działania i skuteczność przeciwutleniaczy w produktach
+                              kosmetycznych,  rodzaje  przeciwutleniaczy stosowane na rynku kosmetycznym,
+                                    polifenole – naturalne przeciwutleniacze obecne w ekstraktach roślinnych. Ocena
+                               aktywności przeciwutleniającej związków polifenolowych przy użyciu metody opartej
+                            na zmiataniu rodników •DPPH (spektroskopia UV-Vis), Oznaczenie liczby kwasowej,
+                               jodowej  i nadtlenkowej w olejach roślinnych. Oznaczanie witaminy A i witaminy E w
+                               produktach  kosmetycznych  z  zastosowaniem  wysokosprawnej  chromatografii
+                                 cieczowej (HPLC).
+                                  Pojęcie prawa pracy, stosunku pracy, pracodawcy  i pracownika. Stosunek pracy a
+                                 stosunki cywilnoprawne (umowa o dzieło, umowa zlecenia). Podstawy nawiązania
+                               stosunku pracy. Zawarcie i rodzaje umowy o pracę. Rozwiązanie i wygaśnięcie umowy     Formy zatrudnienia na                                                                  K_W1257.                          o pracę. Roszczenia stron w  razie rozwiązania umowy o pracę z naruszeniem      rynku pracy (PDWo – 14)                                                                      K_U11                               przepisów  prawa.  Obowiązki  pracownika    i  jego  odpowiedzialność.  Obowiązki
+                             pracodawcy  i jego odpowiedzialność. Wynagradzanie za pracę. Czas pracy  i urlopy.
+                               Bezpieczeństwo i higiena pracy oraz uprawnie rodzicielskie pracownika.
+                               Marketing   -   istota     i  geneza.  Otoczenie  przedsiębiorstwa  zorientowanego
+                              marketingowo. Procedura formułowania strategii marketingowej. Analiza możliwości
+                              rynkowych: SIM  i badania marketingowe, analiza zachowań nabywcy. Segmentacja
+      Zarządzanie               rynku:  identyfikacja  segmentów    i  wybór  rynków  docelowych.  Projektowanie                                                                                       K_W1258.   marketingowe            marketingu - mix dla wybranego segmentu a/ zarządzanie produktem, b/ zarządzanie                                                                                             K_U11     (PDWo – 14)                dystrybucją,  c/  zarządzanie  ceną,  d/  zarządzanie  promocją. Rodzaje  strategii
+                             marketingowych  i ich zastosowanie. Ocena  i kontrola działalności marketingowej.
+                              Obszary zastosowań marketingu: marketing w usługach, marketing w organizacjach
+                            non – profit. Organizacja marketingu w firmie perswazyjnej.
+
+
+
+
+                                                            22
+ Opis efektów uczenia się zdefiniowanych dla programów studiów w odniesieniu do charakterystyk drugiego stopnia Polskiej Ramy
+ Kwalifikacji dla kwalifikacji na poziomach 6-7 uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji
+ pełnej na poziomie 4.
+
+KIERUNEK: chemia medyczna
+
+DYSCYPLINY NAUKOWE (udział procentowy): nauki chemiczne 100%
+
+POZIOM KSZTAŁCENIA: studia pierwszego stopnia
+
+PROFIL KSZTAŁCENIA: ogólnoakademicki
+
+EFEKTY UCZENIA SIĘ DLA KIERUNKU
+
+                                                                                                                             Odniesienie do Symbol efektu uczenia                      Po ukończeniu studiów pierwszego stopnia na kierunku Chemia medyczna absolwent uzyska efekty      charakterystyk    się dla programu                                                           uczenia się w zakresie:                                     drugiego stopnia PRK        studiów                                                                                                                              (kody)
+
+                                               WIEDZA
+
+                       posiada zaawansowaną wiedzę w zakresie głównych działów chemii oraz chemii medycznej,K_W01                                                                                     P6S_WG                        posługuje się właściwą terminologią i nomenklaturą
+                      zna podstawowe metody otrzymywania  i analizy związków chemicznych, w tym biologicznieK_W02                                                                                     P6S_WG                      czynnych
+                       posiada wiedzę z zakresu biologii pozwalającą na zrozumienie oddziaływania związków chemicznychK_W03                                                                                     P6S_WG                     na organizmy żywe
+
+K_W04                zna podstawy budowy materii                                                   P6S_WG
+
+                      rozumie relacje pomiędzy strukturą  i reaktywnością związków chemicznych, w tym związkówK_W05                                                                                     P6S_WG                          biologicznie czynnych
+                      dysponuje wiedzą z fizyki umożliwiającą rozumienie zjawisk  i procesów fizycznych w układachK_W06                                                                                     P6S_WG                         biologicznych
+                      zna podstawy matematyki w stopniu pozwalającym na opis zjawisk oraz procesów chemicznych iK_W07                                                                                     P6S_WG                         biologicznych
+
+
+                                                             23
+                      zna metody obliczeniowe oraz narzędzia informatyczne umożliwiające rozwiązywanie typowychK_W08                                                                                     P6S_WG                     problemów z zakresu chemii i chemii medycznej
+                      zna podstawy budowy, funkcjonowania oraz zastosowania aparatury stosowanej w analityceK_W09                                                                                     P6S_WG                       chemicznej i medycznej
+                      zna  i rozumie fundamentalne dylematy współczesnej cywilizacji, związane z pracą ze związkamiK_W10                                                                                       P6S_WK                      chemicznymi i z substancjami toksycznymi
+                      zna aspekty prawne  i etyczne związane z działalnością zawodową, prawo autorskie  i prawoK_W11                                                                                       P6S_WK                        własności przemysłowej
+
+K_W12                zna współczesny rynek pracy oraz zasady tworzenia i rozwoju różnych form przedsiębiorczości      P6S_WK
+
+                                                UMIEJĘTNOŚCI
+
+K_U01                    identyfikuje, analizuje i rozwiązuje problemy chemiczne w oparciu o zdobytą wiedzę             P6S_UW
+
+K_U02                    potrafi analizować relacje pomiędzy strukturą związków chemicznych a ich biologiczną aktywnością   P6S_UW
+
+                       posiada umiejętność posługiwania się podstawowymi technikami badawczymi stosowanymi wK_U03                                                                                      P6S_UW                       chemii i chemii medycznej
+                       posiada umiejętność stosowania formalizmu matematycznego do opisu zjawisk fizycznych   iK_U04                                                                                      P6S_UW                      chemicznych
+                           potrafi planować  i wykonywać badania eksperymentalne, przeprowadzać analizy jakościowe  iK_U05                                                                                      P6S_UW                          ilościowe oraz interpretować uzyskane wyniki
+                        posługuje  się metodami oraz narzędziami informatycznymi do analizy   i prezentacji danychK_U06                                                                                      P6S_UW                      eksperymentalnych z badań fizykochemicznych
+                       wybiera niezbędne informacje z literatury specjalistycznej w języku polskim  i angielskim orazK_U07                                                                                      P6S_UW                        rozwiązuje zadania problemowe z chemii medycznej
+                         opisuje  i dyskutuje aktualne zagadnienia związane z chemią  i chemią medyczną posługując sięK_U08                                                                                             P6S_UK                        terminologią właściwą dla języka specjalistycznego
+                        posługuje się językiem obcym na poziomie B2 określonym dla Europejskiego Systemu OpisuK_U09                                                                                             P6S_UK                         Kształcenia Językowego
+                       posiada umiejętność organizowania  pracy zespołowej  oraz  realizacji  powierzonych zadańK_U10                                                                                          P6S_UO                       indywidualnych i grupowych
+                           potrafi realizować własne uczenie się oraz planować formę indywidualnego rozwoju zawodowegoK_U11                                                                                            P6S_UU                w branży chemicznej i medycznej
+
+                                                             24
+                                          KOMPETENCJE SPOŁECZNE
+
+                         krytycznie ocenia zdobytą wiedzę, rozumie potrzebę ciągłego podnoszenia kompetencji zawodowych,K_K01                                                                                              P6S_KK                           potrafi wykorzystać zdobytą wiedzę do wykonywania zawodu
+                           potrafi osiągać cel określonego zadania, działa w sposób przedsiębiorczy z zachowaniem zasadK_K02                                                                                           P6S_KO                       bezpieczeństwa chemicznego i higieny pracy, w ochronie własnej i na rzecz interesu publicznego
+                       rozpoznaje  i rozwiązuje problemy związane z pracą zawodową, jest gotów do odpowiedzialnegoK_K03                                                                                              P6S_KR                         pełnienia ról zawodowych i przestrzegania zasad etyki zawodowej
+
+
+
+
+
+                                                             25

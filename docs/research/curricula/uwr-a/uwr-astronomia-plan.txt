@@ -1,0 +1,134 @@
+               ASTRONOMIA, STUDIA I STOPNIA, TOK A – PLAN STUDIÓW DLA CYKLU KSZTAŁCENIA 2025-2028
+
+
+
+TOK A 1
+
+                                                                                     ROZKŁAD OBCIĄŻEŃ (GODZINY/ECTS) W KOLEJNYCH SEMESTRACH
+                                                              łączny     forma realizacji zajęć                                             sposób                                                         I ROK                   II ROK                  III ROK                                                    wymiar
+NAZWA PRZEDMIOTU                             weryfikacji                                                                               ECTS  SEMESTR   SEMESTR   SEMESTR   SEMESTR   SEMESTR   SEMESTR                                                              godzi-
+                                              (semestr)
+                                                 nowy                                                                                                               LAB      SEM                I           II          III        IV        V         VI                                                                                             WYK        K/ĆW                                                                                             godz  ECTS  godz  ECTS  godz  ECTS  godz  ECTS  godz  ECTS  godz  ECTS
+
+PRZEDMIOTY OBOWIĄZKOWE
+
+Mechanika 1                                  E/Z (I)      135    60    75               10    135   10
+
+Podstawy astronomii 1                         E/Z (I)      60     30    30                5     60    5
+
+Wstęp do algebry                             E/Z (I)      90     45    45                6     90    6
+
+Analiza matematyczna 1 1                      E/Z (I)      105    45    60                8    105    8
+
+Termodynamika 1                             E/Z (II)      60     30    30                4                60    4
+
+Podstawy astronomii 2                         E/Z (II)      60     30    30                4                60    4
+
+Pracownia astronomiczna                    Z (II)      30                30          3                30    3
+
+Ćwiczenia obserwacyjne 1 2                  Z (II)      15                            2                15    2
+
+Analiza matematyczna 2 1                      E/Z (II)     120    60    60                8               120    8
+
+Algorytmy i programowanie                    E/Z (II)      60     30    30                4                60    4
+
+Wstęp do systemów operacyjnych              Z (II)      30                30          2                30    2
+
+Ochrona własności intelektualnej              Z (II)      15     15                     1                15    1
+
+Elektryczność i magnetyzm 1                   E/Z (III)     120    60    60                8                          120    8
+
+Astrofizyka obserwacyjna 1                    E/Z (III)     60     30    30                4                           60    4
+Wstęp do fizyki Słońca                        E/Z (III)     60     30    30                5                           60    5
+
+Ćwiczenia obserwacyjne 2 2                  Z (III)      15                            2                           15    2
+
+Analiza matematyczna 3 1                      E/Z (III)     90     45    45                6                           90    6
+
+Laboratorium programowania                 Z (III)      60                60          4                           60    4
+
+Fale 1                                       E/Z (IV)     75     45    30                5                                      75    5
+
+Fizyka kwantowa                             E/Z (IV)     60     30    30                5                                      60    5
+
+Astrofizyka obserwacyjna 2                    E/Z (IV)     60     30    30                4                                      60    4
+
+Budowa i ewolucja gwiazd                     E/Z (IV)     60     30    30                5                                      60    5
+
+Wakacyjna praktyka obserwacyjna 2            Z (IV)      120                            4                                      120    4
+
+Statystyka matematyczna                   Z (IV)      90     45    45                5                                      90    5
+
+Fizyka atomu, jądra i cząstek elementarnych 1     E/Z (V)      60     30    30                5                                                 60    5
+
+Astrofizyka układów planetarnych               E/Z (V)      60     36    24                5                                                 60    5
+
+Metody numeryczne                           E/Z (V)      75     30    45                5                                                 75    5
+
+Seminarium licencjackie 1                   Z (V)       15                     15     2                                                 15    2
+
+Teoria atmosfer gwiazdowych                  E/Z (VI)     60     30    30                5                                                            60    5
+
+
+
+
+Metody matematyczne w astronomii            Z (VI)      45                45          3                                                            45    3
+
+Podstawy przedsiębiorczości                  Z (VI)      60     30    30                4                                                            60    4
+
+Seminarium licencjackie 2                   Z (VI)      15                     15     2                                                            15    2
+
+Praca licencjacka i egzamin licencjacki 3          E (VI)                                    10                                                                 10
+
+Szkolenie wstępne z BHP i ochrony p-poż.        Z (I)       4          E-LEARNING         0     4     0
+
+Język obcy (poziom B2) 4                      E (V)      180          180               12                          60         60         60    12
+Wychowanie fizyczne 5                     Z (V,VI)     60          60                0                                                 30    0    30    0
+
+PRZEDMIOTY UZUPEŁNIAJĄCE DO WYBORU 6,7
+
+Pracownia komputerowa metod matematycz-                                      Z (II)      30                30          2                30    2
+nych 1
+Pracownia komputerowa metod matematycz-                                      Z (III)      30                30          2                           30    2
+nych 2
+
+Elementy mechaniki teoretycznej i STW          E/Z (III)     60     30    30                5                           60    5
+
+Wprowadzenie do programowania w IDL         Z (IV)      30                30          2                                      30    2
+
+Wprowadzenie do programowania w Pythonie     Z (IV)      30                30          2                                      30    2
+
+Bazy danych astronomicznych                 Z (V)       30                30          2                                                 30    2
+
+Prezentacja wyników naukowych               Z (V)       30                30          2                                                 30    2
+
+Tworzenie stron internetowych                Z (VI)      30                30          2                                                            30    2
+
+Historia astronomii                        Z (VI)      45     30    15                3                                                            45    3
+
+Seminarium z astronomii                    Z (VI)      30                     30     2                                                            30    2
+
+Praktyka heliofizyczna 2                     Z (VI)      24                            1                                                            24    1
+
+                     ŁĄCZNIE (tok A)            2476 8                       180
+
+przedmioty obowiązkowe                               2284                          167   394   29   390   28   465   29   525   28   300   29   210   24
+
+przedmioty uzupełniające do wyboru 7                     369 7                          25 7    0     0    30    2    90    7    60    4    60    4    129    8
+
+
+Formy realizacji zajęć:                   Wyjaśnienia:
+WYK – wykład                                    1 Student wybiera do realizacji i zalicza przedmioty matematyczno-fizyczne z toku A albo B.
+K/ĆW – konwersatorium/ćwiczenia          2 Ćwiczenia obserwacyjne 1/2, Wakacyjna praktyka obserwacyjna oraz Praktyka heliofizyczna to terenowe zajęcia nieregularne.
+LAB – laboratorium/pracownia                3 Do egzaminu licencjackiego może przystąpić student, który złożył pracę licencjacką i została ona pozytywnie oceniona, zaliczył wszystkie przed-
+SEM – seminarium                       mioty obowiązkowe, stosownie do wybranego toku A albo B, i uzyskał łącznie co najmniej 170 punktów ECTS. Po zdaniu egzaminu dyplomowego
+                                        otrzymuje się 10 punktów ECTS przewidzianych za pracę licencjacką i egzamin licencjacki.
+Sposoby weryfikacji:                            4 Cudzoziemcy zobowiązani są dodatkowo do realizacji lektoratu języka polskiego w semestrach 1-4 w łącznym wymiarze 120 godzin, zgodnie z
+E – egzamin                           odrębnymi przepisami. 8 punktów ECTS uzyskanych za zaliczenie tego lektoratu nie wlicza się do puli 180 punktów ECTS wymaganej do ukończe-
+Z – zaliczenie na ocenę                     nia studiów.
+                                                      5 Student realizuje dwa semestry zajęć z wychowania fizycznego w łącznym wymiarze 60 godzin i zalicza je do końca semestru 6.
+                                                      6 Przedmioty uzupełniające do wyboru mogą być realizowane odpowiednio w innym semestrze parzystym/nieparzystym, z zastrzeżeniem spełnienia
+                                 wymagań wstępnych.
+                                                      7 Student zalicza przedmioty uzupełniające do wyboru za co najmniej 13 punktów ECTS. Wiąże się to przeciętnie z realizacją 192 godzin zajęć uzu-
+                                            pełniających.
+8 Uwzględnia wymiar zajęć obowiązkowych w toku A oraz przeciętny wymiar realizowanych przedmiotów uzupełniających do wyboru.

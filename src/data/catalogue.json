@@ -1,0 +1,843 @@
+{
+  "version": "2026-10-24.1",
+  "checkedAt": "2026-10-24",
+  "scopeNote": "Pierwsza partia audytu, nie pełny katalog. Obejmuje przedstawicielski program z każdej z 10 uczelni wskazanych w zakresie oraz dodatkowe przykłady. Rejestracja uczelni nie oznacza kompletności jej oferty. Rocznik pozostaje nieustalony, gdy konkretna karta go nie podaje; nie ma założeń o naborze 2027/2028. Zasady i progi obowiązują wyłącznie dla jawnie wskazanego rocznika i wariantu.",
+  "universities": [
+    {
+      "id": "pwr",
+      "name": "Politechnika Wrocławska",
+      "shortName": "PWr",
+      "sourceIds": [
+        "oto-public",
+        "pwr-en",
+        "pwr-it"
+      ],
+      "coverage": "Odczytano dwie karty kierunków. Pełne tabele progów 2022/23–2026/27 zapisano osobno; karty tych dwóch ofert pokazują powiązane wartości. Pozostała oferta wymaga importu."
+    },
+    {
+      "id": "uwr",
+      "name": "Uniwersytet Wrocławski",
+      "shortName": "UWr",
+      "sourceIds": [
+        "oto-public",
+        "uwr-psych"
+      ],
+      "coverage": "Zweryfikowano kartę Psychologii: jednolite magisterskie, stacjonarne, polski, 5 lat; limit w przygotowaniu. Brak pełnego przeglądu oferty."
+    },
+    {
+      "id": "uew",
+      "name": "Uniwersytet Ekonomiczny we Wrocławiu",
+      "shortName": "UEW",
+      "sourceIds": [
+        "oto-public",
+        "uew-economy"
+      ],
+      "coverage": "Odczytano oficjalną kartę Ekonomii. Pełna oferta, czas studiów i kryteria rocznika wymagają dalszego importu."
+    },
+    {
+      "id": "upwr",
+      "name": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "shortName": "UPWr",
+      "sourceIds": [
+        "oto-public",
+        "upwr-vet"
+      ],
+      "coverage": "Odczytano oficjalny sylabus Weterynarii 2026/27 potwierdzający jednolite magisterskie stacjonarne. Rekrutacja i kompletność ofert niezweryfikowane."
+    },
+    {
+      "id": "umw",
+      "name": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "shortName": "UMW",
+      "sourceIds": [
+        "oto-public",
+        "umw-md",
+        "umw-pharm"
+      ],
+      "coverage": "Odczytano oficjalne karty kierunku lekarskiego i farmacji; potwierdzają formę, poziom/czas, opis, kryteria matury i historyczne wartości progowe w wybranych latach. Brak audytu pozostałych kierunków."
+    },
+    {
+      "id": "awf",
+      "name": "Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu",
+      "shortName": "AWF Wrocław",
+      "sourceIds": [
+        "awf-comm",
+        "awf-tir",
+        "oto-public"
+      ],
+      "coverage": "Odczytano kartę Turystyki i rekreacji z zasadami punktacji oraz komunikat rekrutacyjny. Dane potwierdzają zakres oferty dla naboru 2026/27; pełna oferta niezaimportowana."
+    },
+    {
+      "id": "awl",
+      "name": "Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki",
+      "shortName": "AWL",
+      "sourceIds": [
+        "awl-civil-it",
+        "awl-military-command",
+        "oto-public"
+      ],
+      "coverage": "Odczytano oficjalne karty IRK Informatyki cywilnej i wojskowego Dowodzenia 2026/27. Szczegółowe warunki wojskowe oraz pozostałe oferty wymagają opracowania."
+    },
+    {
+      "id": "asp",
+      "name": "Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu",
+      "shortName": "ASP",
+      "sourceIds": [
+        "asp-grafika",
+        "oto-public"
+      ],
+      "coverage": "Odczytano dedykowaną kartę Grafiki i listę studiów jednolitych. Cztery dalsze wpisy mają potwierdzenie na liście; szczegółowe programy i zasady wymagają opracowania."
+    },
+    {
+      "id": "amuz",
+      "name": "Akademia Muzyczna im. Karola Lipińskiego we Wrocławiu",
+      "shortName": "AMuz",
+      "sourceIds": [
+        "amuz-instrumental",
+        "oto-public"
+      ],
+      "coverage": "Odczytano oficjalny informator 2026/27 i program Instrumentalistyki. Wymagania dla poszczególnych instrumentów oraz pozostałe kierunki wymagają dalszego importu."
+    },
+    {
+      "id": "ast",
+      "name": "Akademia Sztuk Teatralnych im. Stanisława Wyspiańskiego w Krakowie – Filia we Wrocławiu",
+      "shortName": "AST Wrocław",
+      "sourceIds": [
+        "ast-actor",
+        "ast-recruit-2026",
+        "oto-public"
+      ],
+      "coverage": "Odczytano oficjalne strony wrocławskiego Wydziału Aktorskiego i rekrutacji 2026/27. Zaimportowano Aktorstwo dramatyczne; pełne kryteria egzaminu i pozostałe ścieżki są do opracowania."
+    }
+  ],
+  "sources": [
+    {
+      "id": "pwr-it",
+      "title": "Informatyka techniczna – karta kierunku",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-techniczna/",
+      "publisher": "Politechnika Wrocławska – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta wskazuje I stopień, tryb dzienny, Wrocław i 7 semestrów; opis obejmuje sprzętowe i programowe aspekty informatyki."
+    },
+    {
+      "id": "pwr-en",
+      "title": "Informatyka stosowana w języku angielskim – karta kierunku",
+      "url": "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowana-w-j-angielskim/",
+      "publisher": "Politechnika Wrocławska – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta potwierdza I stopień, 7 semestrów, Wrocław, język angielski i dzienną formę; opis obejmuje programowanie, algorytmy, sieci i bazy danych."
+    },
+    {
+      "id": "uwr-psych",
+      "title": "Psychologia – rekrutacja",
+      "url": "https://rekrutacja.uwr.edu.pl/kierunek/168?rok=2&tab=harmonogram",
+      "publisher": "Uniwersytet Wrocławski – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta potwierdza jednolite magisterskie, stacjonarne, polski i pięcioletni czas trwania; limit i część opłat widnieją jako w przygotowaniu."
+    },
+    {
+      "id": "oto-public",
+      "title": "Uczelnie publiczne we Wrocławiu",
+      "url": "https://www.otouczelnie.pl/miasto/uczelnie-wroclaw/publiczne",
+      "publisher": "Otouczelnie.pl",
+      "checkedAt": "2026-10-24",
+      "kind": "portal",
+      "note": "Odczytany wykaz wymienia 10 publicznych instytucji w zakresie, w tym AST jako filię. Źródło wtórne służy tu do kontroli listy; nie jest dowodem zasad rekrutacji."
+    },
+    {
+      "id": "upwr-vet",
+      "title": "Weterynaria – sylabus 2026/27",
+      "url": "https://sylabus.upwr.edu.pl/pl/9/1/7/4/53",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu – Sylabus",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Strona oznacza ofertę 2026/27 jako jednolite studia magisterskie, stacjonarne; lista zajęć obejmuje m.in. anatomię zwierząt, biochemię i genetykę weterynaryjną."
+    },
+    {
+      "id": "umw-md",
+      "title": "Oferta: kierunek lekarski",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski/",
+      "publisher": "Uniwersytet Medyczny we Wrocławiu – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta podaje 6-letnie jednolite studia, formę stacjonarną, wymagane przedmioty maturalne i opis etapów klinicznych; podaje też historyczne progi dla wybranych lat."
+    },
+    {
+      "id": "umw-pharm",
+      "title": "Oferta: farmacja",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-farmacja/",
+      "publisher": "Uniwersytet Medyczny we Wrocławiu – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta podaje 5-letnie jednolite studia stacjonarne, kryteria przedmiotowe, opis treści i historyczne progi jawnie przypisane do kolejnych naborów."
+    },
+    {
+      "id": "awf-tir",
+      "title": "Turystyka i rekreacja – rekrutacja",
+      "url": "https://rekrutacja.awf.wroc.pl/kierunek/turystyka-i-rekreacja/",
+      "publisher": "AWF Wrocław – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Strona potwierdza I stopień, stacjonarny, polski i opisuje treści oraz przykładowe role; podaje zestaw przedmiotów i przeliczniki rekrutacyjne."
+    },
+    {
+      "id": "awf-comm",
+      "title": "Komunikat rekrutacyjny 23.09.2026",
+      "url": "https://rekrutacja.awf.wroc.pl/komunikat-23-09-2026/",
+      "publisher": "AWF Wrocław – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Komunikat wymienia aktualne kierunki i formy dla 2026/27, m.in. fizjoterapię jednolitą stacjonarną oraz Turystykę i rekreację I stopnia stacjonarną."
+    },
+    {
+      "id": "asp-grafika",
+      "title": "Grafika – studia stacjonarne jednolite magisterskie",
+      "url": "https://www.asp.wroc.pl/pl/kandydat/studia-jednolite-magisterskie/grafika-studia-stacjonarne-5-letnie",
+      "publisher": "ASP im. Eugeniusza Gepperta we Wrocławiu",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta opisuje pięcioletnie stacjonarne studia jednolite; program łączy grafikę artystyczną i projektową. Opis wskazuje przykładowe specjalizacje i ścieżki zawodowe, wymagające osobnego sprawdzenia warunków wykonywania."
+    },
+    {
+      "id": "asp-list",
+      "title": "Studia jednolite magisterskie – lista kierunków",
+      "url": "https://www.asp.wroc.pl/pl/kandydat/studia-jednolite-magisterskie",
+      "publisher": "ASP im. Eugeniusza Gepperta we Wrocławiu",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Lista wymienia pięć kierunków stacjonarnych z poziomem i czasem: Architektura Wnętrz, Grafika, Konserwacja ceramiki i szkła, Malarstwo, Rysunek. Nie podaje rocznika oferty."
+    },
+    {
+      "id": "uew-economy",
+      "title": "Ekonomia – rekrutacja",
+      "url": "https://rekrutacja.uew.pl/kierunki-studiow/ekonomia/",
+      "publisher": "Uniwersytet Ekonomiczny we Wrocławiu – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Odczytana karta opisuje treści kierunku, specjalności, perspektywy oraz linki do harmonogramu i zasad dla stacjonarnych studiów I stopnia. Nie potwierdza wprost czasu trwania ani rocznika karty."
+    },
+    {
+      "id": "awl-civil-it",
+      "title": "Informatyka – rekrutacja cywilna I stopnia",
+      "url": "https://irk.awl.edu.pl/pl/offer/CYWILNE-I-2026/programme/INFS-SC-I/",
+      "publisher": "Akademia Wojsk Lądowych – IRK",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta IRK 2026/27 potwierdza cywilne stacjonarne I stopnia, polski, 7 semestrów; opis programu oraz specjalności sieciowe i cyberbezpieczeństwa. Nabór wojskowy jest osobną ofertą."
+    },
+    {
+      "id": "awl-military-command",
+      "title": "Dowodzenie – jednolite studia wojskowe",
+      "url": "https://irk.awl.edu.pl/pl/offer/WOJSKOWE2026/programme/SW-DOW/",
+      "publisher": "Akademia Wojsk Lądowych – IRK",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Karta wojskowej rekrutacji 2026/27 potwierdza stacjonarne jednolite magisterskie, polski i 10 semestrów. Warunki służby i kwalifikacji wojskowej należy importować osobno; ta karta ich nie opisuje."
+    },
+    {
+      "id": "amuz-instrumental",
+      "title": "Informator dla kandydatów 2026/2027",
+      "url": "https://amuz.wroc.pl/d/DFHM9KQxXG2xzR3NTWk4TBAA6LkIzKCMqa3F7Xlg0KBkGNXJMVx8bJh4dIkdXUwBPXG5tEiQFPGxzaQwAFSouZENzPFRfEUk6Ywk/informator_2026_2027_amkl.pdf",
+      "publisher": "Akademia Muzyczna im. Karola Lipińskiego we Wrocławiu",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Odczytany informator podaje w 2026/27 Instrumentalistykę jako kierunek stacjonarny I stopnia (3 lata), wymienia zakresy instrumentalne i English Division. Szczegółowe egzaminy zależą od instrumentu."
+    },
+    {
+      "id": "ast-actor",
+      "title": "Wydział Aktorski we Wrocławiu – kierunek i poziom",
+      "url": "https://www.ast.wroc.pl/studenci/wydzial-aktorski/",
+      "publisher": "AST im. Stanisława Wyspiańskiego w Krakowie – Filia we Wrocławiu",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Oficjalna karta wydziału potwierdza Aktorstwo, jednolite magisterskie i 9 semestrów. Osobna strona kandydacka opisuje egzaminy dla 2026/27. Kształcenie wymaga praktycznego egzaminu wstępnego."
+    },
+    {
+      "id": "ast-recruit-2026",
+      "title": "Zasady rekrutacji 2026/2027 – Wydział Aktorski",
+      "url": "https://www.ast.wroc.pl/kandydaci/wydzial-aktorsk/",
+      "publisher": "AST im. Stanisława Wyspiańskiego w Krakowie – Filia we Wrocławiu",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Strona dla kandydatów podaje wymogi repertuarowe i wieloetapowe egzaminy praktyczne w rekrutacji 2026/27; nie jest to standardowa rekrutacja oparta wyłącznie na maturze."
+    },
+    {
+      "id": "umw-pharm-duration",
+      "title": "Katalog kierunków UMW 2026",
+      "url": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/03/KATALOG-KIERUNKOW-2026_ELEKTRONICZNY.pdf",
+      "publisher": "Uniwersytet Medyczny we Wrocławiu – Rekrutacja",
+      "checkedAt": "2026-10-24",
+      "kind": "official",
+      "note": "Katalog rozdziela 5 lat studiów farmaceutycznych od 6-miesięcznej praktyki zawodowej w aptece i uzyskania prawa wykonywania zawodu."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "pwr-informatyka-techniczna",
+      "universityId": "pwr",
+      "name": "Informatyka techniczna",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "7 semestrów",
+      "referenceYear": "Rocznik nieustalony",
+      "description": "Program obejmuje podstawy sprzętowe i programowe, projektowanie oprogramowania, systemy i bazy danych oraz sieci komputerowe.",
+      "fields": [
+        "informatyka",
+        "systemy komputerowe",
+        "sieci",
+        "oprogramowanie"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Karta kierunku potwierdza ofertę I stopnia i formę dzienną; szczegółowe zasady oraz przedmioty należy sprawdzić dla właściwego rocznika rekrutacji.",
+      "sourceIds": [
+        "pwr-it"
+      ],
+      "thresholds": [],
+      "careers": [
+        "programista",
+        "administrator systemów",
+        "inżynier sieci"
+      ],
+      "careerNote": "To przykładowe ścieżki wynikające z obszaru studiów; konkretne stanowiska mogą wymagać praktyki, portfolio lub dalszych kwalifikacji."
+    },
+    {
+      "id": "pwr-informatyka-stosowana-en",
+      "universityId": "pwr",
+      "name": "Informatyka stosowana w języku angielskim",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "7 semestrów",
+      "referenceYear": "Rocznik nieustalony",
+      "description": "Kierunek łączy zagadnienia informatyki z matematyką i fizyką oraz zastosowaniami biznesowymi; obejmuje m.in. programowanie, algorytmy, sieci, bazy danych i systemy webowe.",
+      "fields": [
+        "computer science",
+        "programming",
+        "networks",
+        "databases"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Oficjalna karta przedstawia wzór kwalifikacyjny, ale lista składników wymaga dokładnej obsługi matur i wariantów; tutaj nie aktywujemy kalkulatora.",
+      "sourceIds": [
+        "pwr-en"
+      ],
+      "thresholds": [],
+      "careers": [
+        "software developer",
+        "data analyst",
+        "systems engineer"
+      ],
+      "careerNote": "Przykładowe zawody; wejście do pracy zależy od umiejętności, doświadczenia i wymagań konkretnego pracodawcy."
+    },
+    {
+      "id": "uwr-psychologia",
+      "universityId": "uwr",
+      "name": "Psychologia",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat",
+      "referenceYear": "Rocznik nieustalony",
+      "description": "Studia dotyczą mechanizmów psychicznych, zachowania, emocji i rozwoju człowieka oraz sposobów rozumienia problemów społecznych.",
+      "fields": [
+        "psychologia",
+        "zachowanie",
+        "rozwój człowieka"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Na karcie poziom, tryb, język i czas są potwierdzone; przedmioty rekrutacyjne i szczegółowe zasady trzeba sprawdzić w odpowiednim roczniku.",
+      "sourceIds": [
+        "uwr-psych"
+      ],
+      "thresholds": [],
+      "careers": [
+        "psycholog",
+        "badacz zachowania",
+        "specjalista HR"
+      ],
+      "careerNote": "Część zawodów psychologicznych wymaga odrębnych kwalifikacji, doświadczenia lub dalszego kształcenia; zakres uprawnień zależy od roli."
+    },
+    {
+      "id": "upwr-weterynaria",
+      "universityId": "upwr",
+      "name": "Weterynaria",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "2026/2027",
+      "description": "Program obejmuje nauki biologiczne i medyczne dotyczące zwierząt, w tym anatomię, biochemię, genetykę oraz ochronę zdrowia.",
+      "fields": [
+        "weterynaria",
+        "nauki o zwierzętach",
+        "biologia"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Sylabus potwierdza formę i poziom dla 2026/27; zasady kwalifikacji i czas trwania należy uzupełnić z oficjalnej karty rekrutacyjnej.",
+      "sourceIds": [
+        "upwr-vet"
+      ],
+      "thresholds": [],
+      "careers": [
+        "lekarz weterynarii",
+        "diagnosta laboratoryjny",
+        "inspektor weterynaryjny"
+      ],
+      "careerNote": "Wykonywanie zawodu lekarza weterynarii wymaga spełnienia ustawowych wymagań i uzyskania prawa wykonywania zawodu."
+    },
+    {
+      "id": "umw-lekarski",
+      "universityId": "umw",
+      "name": "Kierunek lekarski",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "6 lat",
+      "referenceYear": "2026/2027",
+      "description": "Kształcenie zaczyna się od podstaw nauk medycznych, a następnie obejmuje zajęcia kliniczne i kontakt z pacjentami.",
+      "fields": [
+        "medycyna",
+        "nauki kliniczne",
+        "opieka nad pacjentem"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Dla karty źródłowej obowiązkowa jest biologia rozszerzona oraz jeden z wymienionych przedmiotów rozszerzonych. Warunki należy ponownie sprawdzić dla naboru docelowego.",
+      "sourceIds": [
+        "umw-md"
+      ],
+      "thresholds": [
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 165,
+          "status": "official",
+          "sourceId": "umw-md",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Od 2024/25 punktowano 2 przedmioty, wcześniej 3: wartości między tymi okresami nie są bezpośrednio porównywalne."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 161,
+          "status": "official",
+          "sourceId": "umw-md",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Od 2024/25 punktowano 2 przedmioty, wcześniej 3: wartości między tymi okresami nie są bezpośrednio porównywalne."
+        },
+        {
+          "year": "2023/2024",
+          "round": null,
+          "value": 242,
+          "status": "official",
+          "sourceId": "umw-md",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Od 2024/25 punktowano 2 przedmioty, wcześniej 3: wartości między tymi okresami nie są bezpośrednio porównywalne."
+        },
+        {
+          "year": "2022/2023",
+          "round": null,
+          "value": 259,
+          "status": "official",
+          "sourceId": "umw-md",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Od 2024/25 punktowano 2 przedmioty, wcześniej 3: wartości między tymi okresami nie są bezpośrednio porównywalne."
+        }
+      ],
+      "careers": [
+        "lekarz"
+      ],
+      "careerNote": "Samodzielne wykonywanie zawodu wymaga ukończenia studiów, stażu i wymaganych egzaminów oraz uzyskania prawa wykonywania zawodu; dalsza specjalizacja jest odrębną ścieżką."
+    },
+    {
+      "id": "umw-farmacja",
+      "universityId": "umw",
+      "name": "Farmacja",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat studiów + 6 miesięcy praktyki zawodowej",
+      "referenceYear": "2026/2027",
+      "description": "Studia dotyczą działania i badania leków, ich opracowywania, wytwarzania, kontroli oraz usług farmaceutycznych.",
+      "fields": [
+        "farmacja",
+        "chemia",
+        "leki",
+        "opieka farmaceutyczna"
+      ],
+      "subjects": [
+        "chemia",
+        "biologia",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Chemia rozszerzona jest obowiązkowa; drugi przedmiot do wyboru to biologia lub matematyka, z różnymi przelicznikami dla poziomu. Sprawdź aktualne zasady rocznika.",
+      "sourceIds": [
+        "umw-pharm",
+        "umw-pharm-duration"
+      ],
+      "thresholds": [
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 79,
+          "status": "official",
+          "sourceId": "umw-pharm",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Nie zweryfikowano historycznej reguły: profil nie jest przeliczany względem tego progu."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 70,
+          "status": "official",
+          "sourceId": "umw-pharm",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Nie zweryfikowano historycznej reguły: profil nie jest przeliczany względem tego progu."
+        },
+        {
+          "year": "2023/2024",
+          "round": null,
+          "value": 67,
+          "status": "official",
+          "sourceId": "umw-pharm",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Nie zweryfikowano historycznej reguły: profil nie jest przeliczany względem tego progu."
+        },
+        {
+          "year": "2022/2023",
+          "round": null,
+          "value": 71,
+          "status": "official",
+          "sourceId": "umw-pharm",
+          "note": "Studia stacjonarne, język polski, Wrocław. Tury nie podano. Nie zweryfikowano historycznej reguły: profil nie jest przeliczany względem tego progu."
+        }
+      ],
+      "careers": [
+        "farmaceuta",
+        "specjalista przemysłu farmaceutycznego",
+        "analityk laboratoryjny"
+      ],
+      "careerNote": "Zakres zadań farmaceuty i wymagane uprawnienia zależą od miejsca pracy oraz regulacji zawodu."
+    },
+    {
+      "id": "awf-turystyka-rekreacja",
+      "universityId": "awf",
+      "name": "Turystyka i rekreacja",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "Rocznik nieustalony",
+      "description": "Studia łączą zagadnienia organizacji usług turystycznych i rekreacyjnych, analizy rynku oraz aktywności i pracy z grupami.",
+      "fields": [
+        "turystyka",
+        "rekreacja",
+        "organizacja usług"
+      ],
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "matematyka",
+        "fizyka",
+        "biologia",
+        "chemia",
+        "geografia",
+        "historia"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Karta dopuszcza wybór trzech przedmiotów z wymienionej listy; przelicznik zależy od poziomu matury. Wymaga ponownej weryfikacji dla docelowego naboru.",
+      "sourceIds": [
+        "awf-tir"
+      ],
+      "thresholds": [],
+      "careers": [
+        "organizator turystyki",
+        "pilot wycieczek",
+        "animator rekreacji"
+      ],
+      "careerNote": "Przykładowe role; wykonywanie niektórych zadań może wymagać dodatkowych uprawnień lub spełnienia wymogów pracodawcy."
+    },
+    {
+      "id": "asp-grafika",
+      "universityId": "asp",
+      "name": "Grafika",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat",
+      "referenceYear": "Rocznik nieustalony",
+      "description": "Studia łączą grafikę artystyczną z projektowaniem graficznym, fotografią i grafiką intermedialną; obejmują techniki druku, obrazowania i projektowania wizualnego.",
+      "fields": [
+        "grafika artystyczna",
+        "projektowanie graficzne",
+        "fotografia",
+        "sztuka"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Karta rekrutacyjna wskazuje portfolio i egzamin wstępny; matura nie zastępuje tych elementów. Szczegóły zależą od postępowania w danym roku.",
+      "sourceIds": [
+        "asp-grafika"
+      ],
+      "thresholds": [],
+      "careers": [
+        "projektant graficzny",
+        "ilustrator",
+        "artysta grafik"
+      ],
+      "careerNote": "Przykładowe role; wejście zależy m.in. od portfolio, doświadczenia i wymagań konkretnych zleceń lub pracodawców."
+    },
+    {
+      "city": "Wrocław",
+      "admissionNote": "Lista ASP potwierdza nazwę, tryb i czas. Niezweryfikowano szczegółowych warunków rekrutacji.",
+      "universityId": "asp",
+      "careers": [
+        "projektant wnętrz"
+      ],
+      "id": "asp-architektura-wnetrz",
+      "level": "long-cycle",
+      "description": "Kierunek w ofercie stacjonarnych jednolitych studiów magisterskich ASP; szczegółowy program i opis należy uzupełnić po audycie dedykowanej karty.",
+      "subjectsVerified": false,
+      "sourceIds": [
+        "asp-list"
+      ],
+      "name": "Architektura Wnętrz",
+      "referenceYear": "Rocznik nieustalony",
+      "duration": "4,5 roku",
+      "subjects": [],
+      "careerNote": "Ścieżka przykładowa; wymagania portfolio, doświadczenia i pracodawcy należy sprawdzić osobno.",
+      "fields": [
+        "projektowanie wnętrz",
+        "sztuki projektowe"
+      ],
+      "language": "pl",
+      "thresholds": []
+    },
+    {
+      "city": "Wrocław",
+      "admissionNote": "Lista ASP potwierdza nazwę, tryb i czas. Niezweryfikowano szczegółowych warunków rekrutacji.",
+      "universityId": "asp",
+      "careers": [
+        "malarz",
+        "artysta wizualny"
+      ],
+      "id": "asp-malarstwo",
+      "level": "long-cycle",
+      "description": "Kierunek znajduje się w ofercie stacjonarnych jednolitych studiów magisterskich ASP. Szczegóły programu nie zostały jeszcze opracowane.",
+      "subjectsVerified": false,
+      "sourceIds": [
+        "asp-list"
+      ],
+      "name": "Malarstwo",
+      "referenceYear": "Rocznik nieustalony",
+      "duration": "5 lat",
+      "subjects": [],
+      "careerNote": "Przykładowe role; wykonywanie pracy artystycznej zależy od portfolio i indywidualnej praktyki.",
+      "fields": [
+        "malarstwo",
+        "sztuki plastyczne"
+      ],
+      "language": "pl",
+      "thresholds": []
+    },
+    {
+      "city": "Wrocław",
+      "admissionNote": "Lista ASP potwierdza nazwę, tryb i czas. Niezweryfikowano szczegółowych warunków rekrutacji.",
+      "universityId": "asp",
+      "careers": [
+        "rysownik",
+        "ilustrator"
+      ],
+      "id": "asp-rysunek",
+      "level": "long-cycle",
+      "description": "Kierunek znajduje się w ofercie stacjonarnych jednolitych studiów magisterskich ASP. Szczegóły programu nie zostały jeszcze opracowane.",
+      "subjectsVerified": false,
+      "sourceIds": [
+        "asp-list"
+      ],
+      "name": "Rysunek",
+      "referenceYear": "Rocznik nieustalony",
+      "duration": "5 lat",
+      "subjects": [],
+      "careerNote": "Przykładowe role; zatrudnienie zależy od portfolio, doświadczenia i rodzaju działalności.",
+      "fields": [
+        "rysunek",
+        "sztuki plastyczne"
+      ],
+      "language": "pl",
+      "thresholds": []
+    },
+    {
+      "city": "Wrocław",
+      "admissionNote": "Lista ASP potwierdza nazwę, tryb i czas. Niezweryfikowano szczegółowych warunków rekrutacji.",
+      "universityId": "asp",
+      "careers": [
+        "konserwator dzieł sztuki"
+      ],
+      "id": "asp-konserwacja-ceramika-szklo",
+      "level": "long-cycle",
+      "description": "Kierunek w ofercie stacjonarnych jednolitych studiów magisterskich ASP, obejmujący konserwację i restaurację ceramiki oraz szkła.",
+      "subjectsVerified": false,
+      "sourceIds": [
+        "asp-list"
+      ],
+      "name": "Konserwacja i restauracja dzieł sztuki – konserwacja i restauracja ceramiki i szkła",
+      "referenceYear": "Rocznik nieustalony",
+      "duration": "6 lat",
+      "subjects": [],
+      "careerNote": "Rola przykładowa; zakres samodzielnej pracy zależy od kwalifikacji, doświadczenia oraz charakteru obiektu i prac.",
+      "fields": [
+        "konserwacja dzieł sztuki",
+        "ceramika",
+        "szkło"
+      ],
+      "language": "pl",
+      "thresholds": []
+    },
+    {
+      "id": "uew-ekonomia",
+      "universityId": "uew",
+      "name": "Ekonomia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": null,
+      "referenceYear": "Rocznik nieustalony",
+      "description": "Program obejmuje podstawy ekonomii oraz analizę współczesnej gospodarki, rynków i decyzji przedsiębiorstw oraz instytucji publicznych; karta prezentuje specjalności analityka rynków i ekonomia menedżerska.",
+      "fields": [
+        "ekonomia",
+        "analiza rynków",
+        "gospodarka"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Oficjalna karta prowadzi do zasad stacjonarnych studiów I stopnia; przedmioty wymagają odczytu aktualnego załącznika kwalifikacyjnego.",
+      "sourceIds": [
+        "uew-economy"
+      ],
+      "thresholds": [],
+      "careers": [
+        "analityk rynków",
+        "specjalista ds. rozwoju biznesu",
+        "analityk w instytucji publicznej"
+      ],
+      "careerNote": "To przykłady wymienione przez uczelnię; konkretna rola zależy od umiejętności i wymagań pracodawcy."
+    },
+    {
+      "id": "awl-informatyka-cywilna",
+      "universityId": "awl",
+      "name": "Informatyka – studia cywilne",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "7 semestrów",
+      "referenceYear": "2026/2027",
+      "description": "Praktyczny program obejmuje systemy i sieci informatyczne lub bezpieczeństwo w cyberprzestrzeni; przykładowe zajęcia dotyczą algorytmów, sieci, systemów operacyjnych, programowania i cyberbezpieczeństwa.",
+      "fields": [
+        "informatyka",
+        "sieci",
+        "cyberbezpieczeństwo"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "To cywilny nabór na I stopień. Nie należy łączyć go z ofertą wojskową; karta potwierdza wymagany dokument maturalny, a lista przedmiotów wymaga osobnej weryfikacji.",
+      "sourceIds": [
+        "awl-civil-it"
+      ],
+      "thresholds": [],
+      "careers": [
+        "administrator sieci i systemów",
+        "specjalista cyberbezpieczeństwa"
+      ],
+      "careerNote": "Karta uczelni wskazuje przykładowe obszary pracy. Praktyki zawodowe trwają co najmniej trzy miesiące; wymagania stanowisk zależą od pracodawcy."
+    },
+    {
+      "id": "awl-dowodzenie-wojskowe",
+      "universityId": "awl",
+      "name": "Dowodzenie – studia wojskowe",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "10 semestrów",
+      "referenceYear": "2026/2027",
+      "description": "Karta rekrutacji wojskowej potwierdza stacjonarne jednolite studia magisterskie na kierunku Dowodzenie. Szczegółowy program i służbowe następstwa wymagają osobnej weryfikacji w dokumentach wojskowych.",
+      "fields": [
+        "dowodzenie",
+        "obronność"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Oddzielna ścieżka wojskowa; wymogi kwalifikacyjne i służbowe mogą wykraczać poza standardowe warunki cywilne i muszą być sprawdzone w zasadach wojskowych.",
+      "sourceIds": [
+        "awl-military-command"
+      ],
+      "thresholds": [],
+      "careers": [
+        "oficer Wojska Polskiego"
+      ],
+      "careerNote": "Potencjalna ścieżka wojskowa; nie należy jej utożsamiać z cywilnym kierunkiem. Warunki służby i mianowania wymagają odrębnego potwierdzenia."
+    },
+    {
+      "id": "amuz-instrumentalistyka",
+      "universityId": "amuz",
+      "name": "Instrumentalistyka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lata",
+      "referenceYear": "2026/2027",
+      "description": "Studia rozwijają warsztat instrumentalny w wybranym zakresie, m.in. fortepianie, instrumentach smyczkowych, dętych, perkusyjnych, dawnych, gitarze lub harfie.",
+      "fields": [
+        "wykonawstwo instrumentalne",
+        "muzyka"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Informator potwierdza studia stacjonarne I stopnia. Szczegółowe egzaminy i wymagania repertuarowe zależą od instrumentu; nie są tu uogólniane.",
+      "sourceIds": [
+        "amuz-instrumental"
+      ],
+      "thresholds": [],
+      "careers": [
+        "muzyk wykonawca",
+        "instrumentalista zespołu"
+      ],
+      "careerNote": "Przykładowe ścieżki; zatrudnienie zwykle wymaga poziomu wykonawczego, przesłuchań i portfolio repertuarowego."
+    },
+    {
+      "id": "ast-aktorstwo",
+      "universityId": "ast",
+      "name": "Aktorstwo – aktorstwo dramatyczne",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "9 semestrów",
+      "referenceYear": "2026/2027",
+      "description": "Kształcenie rozwija warsztat sceniczny, interpretację tekstu, głos, ruch i proces budowania roli poprzez pracę praktyczną.",
+      "fields": [
+        "aktorstwo",
+        "teatr",
+        "głos i ruch"
+      ],
+      "subjects": [],
+      "subjectsVerified": false,
+      "admissionNote": "Rekrutacja obejmuje wieloetapowy egzamin praktyczny i repertuar; matura nie stanowi jedynego kryterium. Należy sprawdzić szczegółowe zasady edycji 2026/27.",
+      "sourceIds": [
+        "ast-actor",
+        "ast-recruit-2026"
+      ],
+      "thresholds": [],
+      "careers": [
+        "aktor teatralny",
+        "aktor filmowy"
+      ],
+      "careerNote": "Przykładowe role; praca zależy od umiejętności, przesłuchań, portfolio i dostępnych angaży."
+    }
+  ]
+}

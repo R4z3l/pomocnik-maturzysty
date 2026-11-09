@@ -1,0 +1,1905 @@
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ 995
+(module, __unused_webpack_exports, __webpack_require__) {
+
+var map = {
+	"./accordion.js": 978,
+	"./ajax-news.js": 374,
+	"./compare-courses.js": 372,
+	"./content-tabs.js": 678,
+	"./default-slider.js": 695,
+	"./fontSize.js": 842,
+	"./gradient.js": 694,
+	"./line-chart.js": 717,
+	"./lozad.js": 604,
+	"./main-menu.js": 615,
+	"./quiz.js": 107,
+	"./recruitment-calculator.js": 411,
+	"./science-club-slider.js": 613,
+	"./similar-courses-slider.js": 942,
+	"./steps-popup.js": 800,
+	"./study-search-ui.js": 845,
+	"./study-search.js": 342,
+	"./styleVersions.js": 888,
+	"./table.js": 228,
+	"./testimonials-slider.js": 202
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 995;
+
+/***/ },
+
+/***/ 978
+() {
+
+var accordion = (function () {
+
+   function init() {
+
+    $('.accordion-tab__head').click( function(){
+      $(this).toggleClass('accordion-tab__head--open').next().slideToggle()
+      $(this).find('button').toggleClass('button-plus--active')
+    })
+    $('.js-accordion-tab-btn').click( function(){
+      event.stopPropagation()
+      $(this).parent().toggleClass('accordion-tab__head--open').next().slideToggle()
+      $(this).toggleClass('button-plus--active')
+    })
+
+  }
+
+  return {
+    init: init
+  };
+})();
+
+$(document).ready(function () {
+  if ( $('.accordion-tab').length ) {
+    accordion.init();
+  }
+})
+
+
+/***/ },
+
+/***/ 374
+() {
+
+jQuery(function ($) {
+	var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
+	'use strict';
+		$(function() {
+
+			function getPostByCategory(page) {
+				var destination = $('#category-items-wrapper');
+				if(page == 1){
+					var element_page = page;
+				} else {
+					var element_page = $('.js-pagination-ajax ul li a.current').data('page');
+				}
+				var element_slug = $('.category-filter__list li button.active')
+					.data('slug');
+				var data = {
+					'action': 'pwr_news_ajax_request',
+					'page': element_page,
+					'slug': element_slug,
+					'lang': wpmlLang
+				};
+
+				$.ajax({
+					url: homeUrl + "/wp-admin/admin-ajax.php",
+					data: data,
+					dataType: "json",
+					type: 'POST',
+					beforeSend: function () {
+							$('.js-category-preloader').show()
+							destination.animate({opacity: 0}, 10);
+					},
+					success: function (data) {
+						$('.js-category-preloader').hide()
+						if (data.posts) {
+							destination.html(data.posts);
+							$([document.documentElement, document.body]).animate({
+									scrollTop: $(".category-filter__list").offset().top - 100
+							}, 500);
+							if (isIE11) {
+								$('.lozad').each(function() {
+										var currentElementImage = $(this).data('background-image')
+										var currentElementImageSrc = $(this).data('src')
+										var currentElementClass = $(this).data('toggle-class')
+
+										if ( !(currentElementImageSrc == undefined) ) {
+											$(this).attr('src', currentElementImageSrc );
+										}
+										if ( !(currentElementImage == undefined) ) {
+											$(this).css( 'background-image', 'url(' + currentElementImage + ')' )
+										}
+										if ( !(currentElementClass == undefined) ) {
+											$(this).addClass( currentElementClass )
+										}
+								});
+							} else {
+								const observer = lozad();
+								observer.observe();
+							}
+						} else {
+							var noPostInfo = destination.data('no-posts-info')
+							destination.html('<h3 class="text--no-results text text--w-medium text--uppercase text--centered" style="margin-top:56px;">'+ noPostInfo +'</h3>');
+						}
+					}
+				}).done(function(){
+					destination.animate({opacity: 1}, 500);
+				});
+			}
+
+			$('.js-category-filter-btn').on('click', function(event){
+				$('.js-category-filter-btn').removeClass('active');
+				$(this).addClass('active');
+				getPostByCategory(1);
+			});
+
+			$('body').on('click', '.js-pagination-ajax li a:not(.current)', function(event){
+				event.preventDefault();
+				$('.js-pagination-ajax li a').removeClass('current');
+				$(this).addClass('current');
+				// $(this).parent().addClass('active');
+				getPostByCategory();
+				// var page = $('.spa__items').find('.js-pagination-ajax ul li.active a').data('page');
+				// history.pushState({ 'page': page }, null, document.location.href );
+				// sessionStorage.setItem('latest_page', page);
+			});
+
+			$('body').on('click', '.js-pagination-ajax li .prev', function(event){
+				event.preventDefault();
+				var page = $('.js-pagination-ajax li a.current').data('page')
+				$('.js-pagination-ajax li a').removeClass('current');
+				$('.js-pagination-ajax li a[data-page="'+(page-1)+'"]').addClass('current')
+				getPostByCategory();
+			});
+
+			$('body').on('click', '.js-pagination-ajax li .next', function(event){
+				var page = $('.js-pagination-ajax li a.current').data('page')
+				$('.js-pagination-ajax li a').removeClass('current');
+				$('.js-pagination-ajax li a[data-page="'+(page+1)+'"]').addClass('current')
+				getPostByCategory();
+			});
+		});
+});
+
+
+/***/ },
+
+/***/ 372
+() {
+
+ var compareCourses = (function () {
+
+   function init() {
+     $( ".study-search__row" ).on( "click", ".study-card", function(e) {
+       if (e.target != this && e.target.nodeName != 'H2' ) {
+         e.preventDefault()
+       }
+     })
+
+     $('.js-compare-courses-close-btn').click( function(){
+       $('.compare-courses').toggleClass('compare-courses--active')
+
+
+     })
+
+     $('.js-compare-courses-clear-btn').click( function(){
+       $('.compare-courses').toggleClass('compare-courses--active')
+       $('.compare-courses__btn').addClass('compare-courses__btn--hidden')
+       $('.compare-courses__btn').find('span > span').text('0')
+       $('.js-compare-study-btn.active').removeClass('active')
+       $('.compare-courses__btn').unbind( "click" )
+       compareContainer.html('')
+     })
+
+
+     $( ".study-search__row" ).on( "click", ".js-compare-study-btn", function() {
+
+       if ( $('.compare-courses__btn').hasClass('compare-courses__btn--hidden') ) {
+         $('.compare-courses__btn').removeClass('compare-courses__btn--hidden')
+       }
+
+       var comparedCoursesNumber = parseInt( $('.compare-courses__btn').find('span > span').text() )
+
+       if ( !$(this).hasClass('active') && ( $('.js-compare-study-btn.active').length < 4 ) ) {
+
+         $('.compare-courses__btn').unbind( "click" )
+
+         $(this).addClass('active')
+
+         var courseId = $(this).parents('.study-card').data('course-id')
+         var data = new FormData()
+         compareContainer = $('#compare-courses-body')
+         data.append('action', 'addCourseToCompare');
+         data.append('course_id', courseId);
+
+        $('.compare-courses__btn > span').addClass('animated animated--infinite animated--fast bounce' )
+
+         $.ajax({
+           type: "post",
+           url: homeUrl + "/wp-admin/admin-ajax.php",
+           data: data,
+           contentType : false,
+           processData : false,
+           success: function (res) {
+             var data = JSON.parse(res);
+             if (data.status ==  'success') {
+               compareContainer.append( data.html )
+               // window.history.pushState("object or string", "Title", "/courses/?" + formContainer.serialize());
+             } else {
+               // console.log('Coś poszło nie tak :<');
+               // listContainer.html( '<h3 class="no-results"><?php _e("No results match your search criteria","pwr");?></h3>' );
+             }
+           }
+         }).done(function() {
+           // console.log('DONE');
+           $('.compare-courses__btn').click(function(){
+             $('.compare-courses').toggleClass('compare-courses--active')
+
+             setTimeout(function(){
+
+               setMaxHeight( $('.compared-course__title') )
+               setMaxHeight( $('.compared-course__data--tuition') )
+               setMaxHeight( $('.compared-course__data--cities') )
+
+             }, 10);
+           })
+           $('.compare-courses__btn').find('span > span').html( $('.js-compare-study-btn.active').length )
+           $('.compare-courses__btn > span').removeClass('animated animated--infinite animated--fast bounce' )
+
+
+
+           // preloaderContainer.fadeOut(100)
+           // filtersContainerWrapper.fadeIn()
+           // listContainer.css('opacity','1')
+         })
+
+       } else {
+         $('.compare-courses__btn').addClass('compare-courses__btn--error').animate({ opacity: 1 }, 200, function(){
+           $('.compare-courses__btn').removeClass('compare-courses__btn--error')
+         } )
+       }
+
+      });
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.study-search__row').length ) {
+     compareCourses.init();
+   }
+ })
+
+ function setMaxHeight( element ){
+    var heights = element.map(function () {
+      return $(this).height();
+    }).get();
+
+    maxHeight = Math.max.apply(null, heights);
+    element.height(maxHeight)
+
+ }
+
+
+/***/ },
+
+/***/ 678
+() {
+
+ var contentTabs = (function () {
+
+   function init() {
+
+    var keys = {
+      end: 35,
+      home: 36,
+      left: 37,
+      up: 38,
+      right: 39,
+      down: 40,
+      delete: 46,
+      enter: 13,
+      space: 32
+    };
+
+    var tabsCallback = function(e) {
+      var that = $(e.target)
+      window.history.pushState("", "", '#'+that.attr('id') );
+      if( !that.hasClass('active') ) {
+
+        var tabId = that.data('tab-id')
+        that.siblings().removeClass('active').attr('aria-selected','false')
+        that.addClass('active').attr('aria-selected','true')
+        that.closest('.col-12').next().find('.content-tabs__content-wrapper').removeClass('content-tabs__content-wrapper--open').attr('hidden','')
+        $('.content-tabs__content-wrapper[data-tab-id="'+ tabId +'"]').addClass('content-tabs__content-wrapper--open').removeAttr('hidden')
+      }
+    }
+
+    $('.js-content-tab-btn').keypress(function(e) {
+        if (e.which == keys.enter || e.which == keys.space) tabsCallback(e);
+    });
+
+    $('.js-content-tab-btn').click(tabsCallback);
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.content-tabs').length ) {
+     contentTabs.init();
+
+     if ( window.location.hash ) {
+       $( window.location.hash ).click()
+      }
+
+   }
+ })
+
+
+/***/ },
+
+/***/ 695
+() {
+
+ var defaultSlider = (function () {
+
+   function init() {
+
+     var dSlider = tns({
+        container: '.d-slide__body',
+        items: 1,
+        mode: 'gallery',
+        navPosition: 'bottom',
+        speed: 1000,
+        controls: false
+      });
+
+      var changePhotoInDefoultSlider = function () {
+        var info = dSlider.getInfo(),
+        indexCurrent = info.index;
+
+        var imageUrl = $('.d-slide__text-wrapper').eq(indexCurrent).data('bg-url')
+        $("#d-slide-img").stop().fadeOut(0).css('background-image','url('+ imageUrl +')').fadeIn(500)
+      }
+
+      // bind function to event
+      dSlider.events.on('indexChanged', changePhotoInDefoultSlider);
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.js-default-slider-tns').length ) {
+     defaultSlider.init();
+   }
+ })
+
+
+/***/ },
+
+/***/ 842
+() {
+
+$(document).ready(function () {
+
+  function changeFont(fontSize) {
+      return function() {
+         $('body').css('font-size', fontSize + 'px')
+         $('.mceContentBody').css('font-size', fontSize + 'px')
+         sessionStorage.setItem('fSize', fontSize)
+      }
+    }
+
+    var normalFont = changeFont(20),
+        mediumFont = changeFont(23),
+        largeFont  = changeFont(25)
+
+    $('.js-font-size-normal').on('click', function(e){
+      normalFont()
+      $('.js-font-size').removeClass('active')
+      $(this).addClass('active')
+      e.preventDefault()
+    })
+
+    $('.js-font-size-medium').on('click', function(e){
+      mediumFont()
+      $('.js-font-size').removeClass('active')
+      $(this).addClass('active')
+      e.preventDefault()
+    })
+
+    $('.js-font-size-big').on('click', function(e){
+      largeFont()
+      $('.js-font-size').removeClass('active')
+      $(this).addClass('active')
+      e.preventDefault()
+    })
+
+    if ( 'fSize' in sessionStorage ) {
+      var storageFontSize = sessionStorage.getItem('fSize')
+      $('body').css('font-size', storageFontSize + 'px')
+      $('.mceContentBody').css('font-size', storageFontSize + 'px')
+      if ( storageFontSize == 20 ) {
+        $('.js-font-size').removeClass('active')
+      } else if ( storageFontSize == 23 ) {
+        $('.js-font-size').removeClass('active')
+        $('.js-font-size-medium').addClass('active')
+      } else {
+        $('.js-font-size').removeClass('active')
+        $('.js-font-size-big').addClass('active')
+      }
+    }
+})
+
+
+/***/ },
+
+/***/ 694
+() {
+
+$(document).ready(function () {
+	var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
+	if ( ( $(window).width() > 991 && (sessionStorage.getItem('cVersion') != 'true' ) && !isIE11 ) ) {
+		$('#gradient-script').attr('src', $('#gradient-script').data('src') ).promise().done(function(){
+			// $('#gradient-header-canvas').animate({	opacity: "1" }, 0 )
+			$('#gradient-canvas-wrapper div').animate({	opacity: "0" }, 1500 )
+		})
+	}
+
+	if ( !support_format_webp() ) {
+		$('.webp').each(function(){
+			var webpImageUrl = $(this).css('background-image')
+			var pngImageUrl = webpImageUrl.replace(".webp", ".png");
+			$(this).css('background-image', pngImageUrl)
+		})
+		$('.webp-img').each(function(){
+			var webpImageUrl = $(this).attr('src')
+			var pngImageUrl = webpImageUrl.replace(".webp", ".png");
+			$(this).attr('src', pngImageUrl)
+		})
+	}
+
+
+})
+
+function support_format_webp()
+{
+ var elem = document.createElement('canvas');
+
+ if (!!(elem.getContext && elem.getContext('2d')))
+ {
+  // was able or not to get WebP representation
+  return elem.toDataURL('image/webp').indexOf('data:image/webp') == 0;
+ }
+ else
+ {
+  // very old browser like IE 8, canvas not supported
+  return false;
+ }
+}
+
+
+/***/ },
+
+/***/ 717
+() {
+
+var lineChart = (function () {
+	function init() {
+
+		$('.data-set').each(function(){
+			if ( $(this).children().length ) {
+
+				var points = []
+				for (var i = 5; i > 0 ; i--) {
+					if ( $(this).children('.data-in-circle[data-column="'+ i +'"]' ).length ) {
+						points.push( $(this).children('.data-in-circle[data-column="'+ i +'"]' ) )
+					}
+				}
+				if ( points.length ) {
+					for (var j = 0; j < ( points.length - 1 ); j++) {
+						drawLine( points[j], points[j + 1], points[j].next().first() )
+					}
+				}
+
+			}
+
+		})
+
+	}
+
+	return {
+		init: init
+	};
+})();
+
+$(document).ready(function () {
+	var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
+	
+	if ( $('.data-set').length && !isIE11 ) {
+			lineChart.init();
+	} else if ( $('.data-set').length && isIE11 ) {
+    lineChart.init();
+    lineChart.init();
+	}
+})
+
+function lineDistance(x, y, x0, y0){
+  return Math.sqrt((x -= x0) * x + (y -= y0) * y);
+};
+
+function drawLine(a, b, line) {
+  var pointA = a.offset();
+  var pointB = b.offset();
+	if( line.hasClass('chart-line--yellow') || line.hasClass('chart-line--orange') ) {
+		var pointAcenterX = a.width() / 2;
+		var pointAcenterY = 36;
+		var pointBcenterX = b.width() / 2;
+		var pointBcenterY = 36;
+	} else {
+		var pointAcenterX = a.width() / 2;
+		var pointAcenterY = a.height() / 2;
+		var pointBcenterX = b.width() / 2;
+		var pointBcenterY = b.height() / 2;
+	}
+  var angle = Math.atan2(pointB.top - pointA.top, pointB.left - pointA.left) * 180 / Math.PI;
+  var distance = lineDistance(pointA.left, pointA.top, pointB.left, pointB.top);
+
+  // Set Angle
+  line.css('transform', 'rotate(' + angle + 'deg)');
+
+  // Set Width
+  line.css('width', distance + 'px');
+
+  // Set Position
+  // line.css('position', 'absolute');
+  if(pointB.left < pointA.left) {
+		line.offset({ left: pointB.left + pointBcenterX});
+  } else {
+		line.offset({ left: pointA.left + pointAcenterX});
+  }
+  if(pointB.top < pointA.top) {
+		line.offset({top: pointB.top + pointBcenterY});
+  } else {
+		line.offset({top: pointA.top + pointAcenterY});
+  }
+}
+
+$(window).resize(function() {
+    clearTimeout(window.resizedFinished);
+    window.resizedFinished = setTimeout(function(){
+        lineChart.init();
+    }, 250);
+});
+
+
+/***/ },
+
+/***/ 604
+() {
+
+$(document).ready(function () {
+
+	if (!('IntersectionObserver' in window)) {
+
+		$('.lozad').each(function() {
+				var currentElementImage = $(this).data('background-image')
+				var currentElementImageSrc = $(this).data('src')
+				var currentElementClass = $(this).data('toggle-class')
+
+				if ( !(currentElementImageSrc == undefined) ) {
+					$(this).attr('src', currentElementImageSrc );
+				}
+				if ( !(currentElementImage == undefined) ) {
+					$(this).css( 'background-image', 'url(' + currentElementImage + ')' )
+				}
+				if ( !(currentElementClass == undefined) ) {
+					$(this).addClass( currentElementClass )
+				}
+		});
+	} else {
+		if ( $('.lozad').length > 0)  {
+
+			const observer = lozad('.lozad', {
+		    rootMargin: '10px 0px', // syntax similar to that of CSS Margin
+		    threshold: 0.1 // ratio of element convergence
+			});
+			observer.observe();
+
+			// lozad.init();
+		}
+	}
+})
+
+
+/***/ },
+
+/***/ 615
+() {
+
+var mainMenu = (function () {
+
+	function init() {
+
+		var keys = {
+      end: 35,
+      home: 36,
+      left: 37,
+      up: 38,
+      right: 39,
+      down: 40,
+      delete: 46,
+      enter: 13,
+      space: 32,
+			tab: 9
+    };
+
+		dropdownContainer = $('#main-menu-dropdown-container')
+
+		$('.js-main-menu-element').mouseenter(function(event){
+			var self = $(this);
+			$('.js-main-menu-element').removeClass('active')
+			self.addClass('active')
+			var dropdownId = self.data('menu-id')
+			dropdownContainer.addClass('visible').animate({
+				opacity: "1"
+			}, 100);
+
+			$('.main-menu-dropdown__menu-wrapper').css("display", "none")
+			// $('.main-menu-dropdown__menu-wrapper[data-menu-id="'+ dropdownId +'"]').css("display", "flex").hide().fadeIn()
+			$('.main-menu-dropdown__menu-wrapper[data-menu-id="'+ dropdownId +'"]').css("display", "flex").hide(0).fadeIn(100)
+			$('.main-menu-dropdown__menu-wrapper[data-menu-id="'+ dropdownId +'"] .main-menu-dropdown__menu > li:first-child').addClass('hover')
+
+		}).mouseleave(function(){
+			setTimeout(function(){
+				//if not hovering over a nav item or a dropdown -> hide dropdown
+				if ( $('#main-menu-dropdown-container:hover').length == 0 && $('.js-main-menu-element:hover').length == 0 ) {
+					dropdownContainer.animate({	opacity: "0" }, 50, function(){
+						dropdownContainer.removeClass('visible')
+					})
+					$('.js-main-menu-element').removeClass('active')
+				}
+			}, 50);
+		});
+
+		dropdownContainer.mouseleave(function(){
+			setTimeout(function(){
+				//if not hovering over a nav item or a dropdown -> hide dropdown
+				if ( $('#main-menu-dropdown-container:hover').length == 0 && $('.js-main-menu-element:hover').length == 0 ) {
+					dropdownContainer.animate({	opacity: "0" }, 50, function(){
+						dropdownContainer.removeClass('visible')
+					})
+					$('.js-main-menu-element').removeClass('active')
+				}
+			}, 50);
+		});
+
+		$('.main-menu-dropdown__menu-wrapper .main-menu-dropdown__menu > li').hover( function(){
+			$('.main-menu-dropdown__menu-wrapper .main-menu-dropdown__menu > li').removeClass('hover')
+		}, function(){
+			$('.main-menu-dropdown__menu-wrapper .main-menu-dropdown__menu > li:first-child').addClass('hover')
+		})
+
+		var accessSubmenuCallback = function(e) {
+      var that = $(e.target)
+			var dropdownId = that.parent().data('menu-id')
+			dropdownContainer.addClass('visible').animate({
+				opacity: "1"
+			}, 100);
+			$('.main-menu-dropdown__menu-wrapper').css("display", "none")
+			$('.main-menu-dropdown__menu-wrapper[data-menu-id="'+ dropdownId +'"]').css("display", "flex")
+			$('.main-menu-dropdown__menu-wrapper[data-menu-id="'+ dropdownId +'"] .main-menu-dropdown__menu > li:first-child').addClass('hover').find('a').first().focus()
+    }
+
+		var returnFronSubmenuCallback = function(e) {
+      var that = $(e.target)
+			var menuId = that.parents('.main-menu-dropdown__menu-wrapper').data('menu-id')
+			$('.main-menu .js-main-menu-element[data-menu-id="'+ (menuId + 1)+'"]').find('a').first().focus()
+			dropdownContainer.css("opacity", "0").removeClass('visible')
+    }
+
+
+
+		$('.js-back-to-menu-link').keypress(function(e) {
+        if (e.which == keys.enter || e.which == keys.space) returnFronSubmenuCallback(e);
+    });
+
+		$('#main-menu-dropdown-container .main-menu-dropdown__menu > li > a ').on( 'keydown', function( e ) {
+        if ( e.key == 'ArrowDown') {
+					$('#main-menu-dropdown-container .main-menu-dropdown__menu > li').removeClass('hover')
+					$(this).parent().next().addClass('hover').find('a').first().focus()
+				} else if ( e.key == 'ArrowUp' ) {
+					$('#main-menu-dropdown-container .main-menu-dropdown__menu > li').removeClass('hover')
+					$(this).parent().prev().addClass('hover').find('a').first().focus()
+				}
+
+    });
+
+		$('#main-menu-dropdown-container .main-menu-dropdown__menu').focusin( function(){
+			$(this).find('a:focus').parent().addClass('hover').siblings().removeClass('hover')
+		})
+
+
+		$('.js-access-submenu-link').keypress(function(e) {
+        if (e.which == keys.enter || e.which == keys.space) accessSubmenuCallback(e);
+    });
+
+	}
+
+	return {
+		init: init
+	};
+})();
+
+$(document).ready(function () {
+	if ( $('.main-menu').length ) {
+		mainMenu.init();
+	}
+})
+
+
+var mobileMenu = (function () {
+
+  function init() {
+
+		$('.js-mobile-menu-hamburger').on( 'keydown', function( e ) {
+			 if ( e.which == 13 || e.key == 'Spacebar' || e.key == ' ') {
+				 e.preventDefault();
+				 $( '.mobile-menu' ).css('transform','scale(1)')
+	       $( '.mobile-menu' ).animate({
+	             top: "0",
+	             right: "0",
+	 						opacity: "toggle"
+	         }, 200, function(){
+						 $( '.mobile-menu' ).find('button').first().focus()
+					 });
+	       $('html').toggleClass('no-scroll-y')
+			 }
+		 })
+		$('.js-mobile-menu-hamburger').on('click', function (e) {
+			$( '.mobile-menu' ).css('transform','scale(1)')
+      $( '.mobile-menu' ).animate({
+            top: "0",
+            right: "0",
+            // width: "-=50px",
+            // height: "-=50px",
+						opacity: "toggle"
+        }, 200);
+      // $( '.js-main-menu-mobile-list' ).toggleClass('main-menu-mobile__list--open').parent().toggleClass('main-menu-mobile--open')
+      // $( '.js-main-menu-mobile' ).toggleClass('main-menu-mobile--open')
+      $('html').toggleClass('no-scroll-y')
+      // e.preventDefault()
+    })
+
+    $('.js-mobile-menu-close-btn').on('click', function (e) {
+			$( '.mobile-menu' ).css('transform','scale(0.95)')
+      $( '.mobile-menu' ).animate({
+            top: "0",
+            right: "0",
+            // width: "-=50px",
+            // height: "-=50px",
+						opacity: "toggle"
+        }, 200);
+      // $( '.js-main-menu-mobile-list' ).toggleClass('main-menu-mobile__list--open').parent().toggleClass('main-menu-mobile--open')
+      // $( '.js-main-menu-mobile' ).toggleClass('main-menu-mobile--open')
+      $('html').toggleClass('no-scroll-y')
+      // e.preventDefault()
+    })
+
+  }
+
+  return {
+      init: init
+    }
+  })()
+
+  $(document).ready(function () {
+    if ($('.mobile-menu').length > 0) {
+      mobileMenu.init()
+    }
+  })
+
+
+/***/ },
+
+/***/ 107
+() {
+
+var quiz = (function () {
+
+  function init() {
+
+    var slider = tns({
+      container: '.quiz-module__body',
+      mode: 'gallery',
+      gutter: '0',
+      edgePadding: '0',
+      controlsText:  [
+        '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="13px" viewBox="0 0 15 13" style="enable-background:new 0 0 15 13;" xml:space="preserve"><path d="M0,6.5c0,0.1,0,0.3,0.1,0.4s0.1,0.2,0.2,0.3l5.5,5.5c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4L3.4,7.5H14c0.6,0,1-0.4,1-1	s-0.4-1-1-1H3.4l3.8-3.8c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0L0.3,5.8C0.2,5.9,0.1,6,0.1,6.1C0,6.2,0,6.4,0,6.5L0,6.5L0,6.5z"	/></svg>',
+        '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="13px" viewBox="0 0 15 13" style="enable-background:new 0 0 15 13;" xml:space="preserve"><path style="fill:#000;" d="M15,6.5c0-0.1,0-0.3-0.1-0.4c-0.1-0.1-0.1-0.2-0.2-0.3L9.2,0.3c-0.4-0.4-1-0.4-1.4,0 c-0.4,0.4-0.4,1,0,1.4l3.8,3.8H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h10.6l-3.8,3.8c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0l5.5-5.5 c0.1-0.1,0.2-0.2,0.2-0.3C15,6.8,15,6.6,15,6.5C15,6.5,15,6.5,15,6.5C15,6.5,15,6.5,15,6.5z"/></svg>'
+      ],
+      controls: true,
+      touch: false,
+      nav: false,
+      loop: false,
+      speed: 0,
+      items: 1,
+      mouseDrag: false,
+      slideBy: 'page',
+      autoplay: false
+    });
+
+    $('.js-quiz-btn').click(function(){
+
+      var i = 0;
+      var preloaderContainer = $('.preloader-plasma')
+      var quizValidation = true
+      var quizContainer = $('.quiz-module__wrapper')
+      var data = new FormData();
+      data.append('action', 'getQuizResult');
+      data.append('postID', $('.quiz-module').data('post-id') );
+      data.append('questionsNumber', $('.question__header').data('q-number') );
+      $('.question').each( function(){
+        i++
+        var questionValue = $(this).find('input[name="q'+ i +'"]:checked').val()
+        if ( questionValue === undefined ) {
+          quizValidation = false
+          $('.quiz-module__error').fadeIn()
+          return false
+        } else {
+          data.append('q' + i, [ questionValue, $(this).data('field') ] );
+        }
+      })
+      if (quizValidation) {
+        preloaderContainer.fadeIn(0)
+        quizContainer.css('opacity', 0)
+        $.ajax({
+          type: "post",
+          url: homeUrl + "/wp-admin/admin-ajax.php",
+          data: data,
+          contentType : false,
+          processData : false,
+          success: function (res) {
+            var data = JSON.parse(res);
+            if ( data.status === 1 ) {
+              quizContainer.html( data.html );
+            } else {
+              quizContainer.html( '<p class="team__error team__error--left">Przepraszamy wystąpił błąd.</p>' );
+            }
+          }
+        }).done(function(){
+          quizContainer.css('opacity', 1)
+          preloaderContainer.fadeOut(100)
+        })
+      }
+
+
+
+    })
+  }
+
+  return {
+    init: init
+  };
+})();
+
+$(document).ready(function () {
+  if ( $('.quiz-module').length > 0 ) {
+    quiz.init();
+  }
+})
+
+
+/***/ },
+
+/***/ 411
+() {
+
+var recruitmentCalculatorV = (function () {
+
+	function init() {
+	 var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
+
+	 var studiesData = []
+
+	 $.get('/wp-json/custom/v1/kierunki', function (data) {
+
+		 if (data && Array.isArray(data)) {
+
+			 studiesData = data
+
+		 } else {
+			 console.error('No data returned from API or data format is invalid.');
+		 }
+	 }).fail(function (jqXHR, textStatus, errorThrown) {
+		 console.error('Failed to fetch data from the API:', textStatus, errorThrown);
+	 });
+
+	 $('#clear-subject-result-department-filter-btn').click(function(e){
+		 e.preventDefault()
+		 $(this).siblings('select').eq(0).val('all').change()
+		 $(this).hide()
+	 })
+
+	 $('#clear-subject-result-study-filter-btn').click(function(e){
+		 e.preventDefault()
+		 $(this).siblings('select').eq(0).val('all').change()
+		 $(this).hide()
+	 })
+
+	 $('.data-calculator[name="techT"]').change(function(){
+		 $('#clear-techT-btn').show()
+	 })
+	 $('#clear-techT-btn').click(function(e){
+		 e.preventDefault()
+		 $(this).siblings('select').eq(0).prop("selectedIndex", 0).change()
+		 $(this).hide()
+	 })
+
+	 $('#subject-result-department-filter').change( function(){
+		 var selectedDepartment = $(this).val()
+
+		 $('#subject-result-study-filter option').show()
+		 $('#subject-result-study-filter').val('all').change()
+
+		 if (selectedDepartment == 'all') {
+			 $('.department-box').show()
+			 $('#clear-subject-result-department-filter-btn').hide()
+		 } else {
+			 $('#clear-subject-result-department-filter-btn').show()
+			 $('#subject-result-study-filter option:not([value="all"])').each(function(){
+				 if ( $(this).data('department').includes(selectedDepartment) ) {
+					 $(this).show()
+				 } else {
+					 $(this).hide()
+				 }
+			 })
+			 $('.department-box').each(function(){
+				 if ( $(this).find('.department-box__header h3').eq(0).text() != selectedDepartment ) {
+					 $(this).hide()
+				 } else {
+					 $(this).show()
+
+				 }
+			 })
+		 }
+
+	 })
+
+	 $('#subject-result-study-filter').change( function(){
+		 var selectedStudy = $(this).val()
+
+		 if (selectedStudy == 'all') {
+			 $('#clear-subject-result-study-filter-btn').hide()
+			 $('.calculator-result-v, .calculator-result-v-med').show()
+			 if ($('#subject-result-department-filter').val() == 'all' ) {
+				 $('.department-box').show()
+			 }
+		 } else {
+			 $('#clear-subject-result-study-filter-btn').show()
+			 $('.department-box').hide()
+			 $('.department-box').each(function(){
+
+				 $(this).find('.calculator-result-v, .calculator-result-v-med').each(function(){
+
+					 if ( $(this).find('p').eq(0).text() != selectedStudy ) {
+						 $(this).hide()
+					 } else {
+						 $(this).show()
+						 $(this).parents('.department-box').show()
+					 }
+				 })
+
+			 })
+		 }
+	 })
+
+	 $('.js-data-calculator').change( function(){
+
+		 if ( Number( $(this).val() ) > Number( $(this).attr('max') ) ) {
+			 $(this).val( $(this).attr('max') )
+		 }
+		 if ( Number( $(this).val() ) < Number( $(this).attr('min') ) ) {
+			 $(this).val( $(this).attr('min') )
+		 }
+
+		 if (studiesData && Array.isArray(studiesData)) {
+			 // Loop through each .calculator-result-v element
+			 $('.calculator-result-v').each(function () {
+				 var $this = $(this);
+				 var studyId = parseInt($this.data('study-id')); // Get the study ID from the data attribute
+
+				 // Find the matching data object by ID
+				 var matchingData = null;
+				 for (var i = 0; i < studiesData.length; i++) {
+					 if (studiesData[i].id === studyId) {
+						 matchingData = studiesData[i];
+						 break;
+					 }
+				 }
+				 if (matchingData) {
+					 var additionalSubjectsMatrix = matchingData.study_values;
+					 var technicianTitles = matchingData.technician_titles;
+
+					 if ( isIE11 ) {
+						 $(this).find('.result-box > span').text( Math.round( ( generateRecruitmentScoreV( additionalSubjectsMatrix, technicianTitles ) + 0.001 ) * 100) / 100 )
+					 } else {
+						 $(this).find('.result-box > span').text( Math.round( ( generateRecruitmentScoreV( additionalSubjectsMatrix, technicianTitles ) + Number.EPSILON ) * 100) / 100 )
+					 }
+
+				 }
+
+
+			 });
+			 $('.calculator-result-v-med').each(function () {
+
+				 if ( isIE11 ) {
+					 $(this).find('.result-box > span').text( Math.round( ( generateMedRecruitmentScoreV() + 0.001 ) * 100) / 100 )
+				 } else {
+					 $(this).find('.result-box > span').text( Math.round( ( generateMedRecruitmentScoreV() + Number.EPSILON ) * 100) / 100 )
+				 }
+
+			 });
+		 } else {
+			 console.error('No data returned from API or data format is invalid.');
+		 }
+
+
+	 })
+
+   }
+
+   return {
+	 init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.subjects-form').length ) {
+	 recruitmentCalculatorV.init();
+   }
+ })
+
+ function generateMedRecruitmentScoreV() {
+
+	// Studium Talent
+
+	var stM =  Number( $('.data-calculator[name="stM"]').val() )
+	if ( stM < 3 ) {
+	  stMPoints = 0
+	} else if ( stM < 4 ) {
+	  stMPoints = 30
+	} else if ( stM < 5 ) {
+	  stMPoints = 40
+	} else {
+	  stMPoints = 50
+	}
+
+	var stP =  Number( $('.data-calculator[name="stP"]').val() )
+	if ( stP < 3 ) {
+	  stPPoints = 0
+	} else if ( stP < 4 ) {
+	  stPPoints = 30
+	} else if ( stP < 5 ) {
+	  stPPoints = 40
+	} else {
+	  stPPoints = 50
+	}
+
+	var stC =  Number( $('.data-calculator[name="stC"]').val() )
+   if ( stC < 3 ) {
+	 stCPoints = 0
+   } else if ( stC < 4 ) {
+	 stCPoints = 30
+   } else if ( stC < 5 ) {
+	 stCPoints = 40
+   } else {
+	 stCPoints = 50
+   }
+
+   // Matematyka
+   var mathP = Number( $('.data-calculator[name="math-p"]').val() )
+   var mathR = Number( $('.data-calculator[name="math-r"]').val() )
+
+   var mathPointsWSt = Math.min( Math.max( mathP + stMPoints, mathP + 1.5*mathR + stMPoints, 2.5*mathR + stMPoints ), 250 )
+   var mathPointsNoSt = Math.max( mathP, mathP + 1.5*mathR, 2.5*mathR )
+
+   var mathPoints = Math.max(mathPointsWSt, mathPointsNoSt)
+
+   // Biologia
+   var bioR = Number( $('.data-calculator[name="bio-r"]').val() )
+
+   var bioPoints = 2.5*bioR
+
+   // Język polski
+
+   var polP = Number( $('.data-calculator[name="pol-p"]').val() )
+   var polR = Number( $('.data-calculator[name="pol-r"]').val() )
+
+   var polPoints = Math.max( polP, polR )
+
+   // Język obcy
+
+   var forP = Number( $('.data-calculator[name="for-p"]').val() )
+   var forR = Number( $('.data-calculator[name="for-r"]').val() )
+
+   var forPoints = Math.max( forP, forP + 1.5*forR, 2.5*forR )
+
+   // Przedmiot dodatkowy
+
+   var physP = Number( $('.data-calculator[name="phys-p"]').val() )
+   var physR = Number( $('.data-calculator[name="phys-r"]').val() )
+
+   var chemP = Number( $('.data-calculator[name="chem-p"]').val() )
+   var chemR = Number( $('.data-calculator[name="chem-r"]').val() )
+
+   var additionalSubjectsChemPoints = Math.min( Math.max( chemP + stPPoints, chemP + 1.5*chemR + stPPoints, 2.5*chemR + stPPoints, chemP + stCPoints, chemP + 1.5*chemR + stCPoints, 2.5*chemR + stCPoints), 250 )
+   var additionalSubjectsPhysPoints = Math.min( Math.max( physP + stPPoints, physP + 1.5*physR + stPPoints, 2.5*physR + stPPoints), 250 )
+
+   var additionalSubjectsChemPointsNoSt = Math.max( chemP, chemP + 1.5*chemR, 2.5*chemR)
+   var additionalSubjectsPhysPointsNoSt = Math.max( physP, physP + 1.5*physR, 2.5*physR)
+
+   var additionalSubjectsPoints = Math.max( additionalSubjectsChemPoints, additionalSubjectsPhysPoints )
+   var additionalSubjectsPointsNoSt = Math.max( additionalSubjectsChemPointsNoSt, additionalSubjectsPhysPointsNoSt )
+
+
+   if ( ( mathP === 0 && mathR === 0 ) || bioR === 0 ) { // ??
+	 return 0
+   } else {
+	 return Number(  bioPoints + Math.max(mathPointsNoSt + additionalSubjectsPoints, mathPointsWSt + additionalSubjectsPointsNoSt) + 0.1*polPoints + 0.1*forPoints )
+   }
+
+ }
+
+ function generateRecruitmentScoreV( additionalSubjectsMatrix, technicianTitles ) {
+
+	 // Studium Talent
+
+	 var stM =  Number( $('.data-calculator[name="stM"]').val() )
+	 if ( stM < 3 ) {
+		 stMPoints = 0
+	 } else if ( stM < 4 ) {
+		 stMPoints = 30
+	 } else if ( stM < 5 ) {
+		 stMPoints = 40
+	 } else {
+		 stMPoints = 50
+	 }
+
+	 var stP =  Number( $('.data-calculator[name="stP"]').val() )
+	 if ( stP < 3 ) {
+		 stPPoints = 0
+	 } else if ( stP < 4 ) {
+		 stPPoints = 30
+	 } else if ( stP < 5 ) {
+		 stPPoints = 40
+	 } else {
+		 stPPoints = 50
+	 }
+
+	 var stC =  Number( $('.data-calculator[name="stC"]').val() )
+	 if ( stC < 3 ) {
+		 stCPoints = 0
+	 } else if ( stC < 4 ) {
+		 stCPoints = 30
+	 } else if ( stC < 5 ) {
+		 stCPoints = 40
+	 } else {
+		 stCPoints = 50
+	 }
+
+	 // Matematyka
+	 var mathP = Number( $('.data-calculator[name="math-p"]').val() )
+	 var mathR = Number( $('.data-calculator[name="math-r"]').val() )
+
+	 var mathPoints = Math.min( Math.max( mathP + stMPoints, mathP + 1.5*mathR + stMPoints, 2.5*mathR + stMPoints ), 250 )
+	 var mathPointsNoSt = Math.max( mathP, mathP + 1.5*mathR, 2.5*mathR )
+
+	 // Język polski
+
+	 var polP = Number( $('.data-calculator[name="pol-p"]').val() )
+	 var polR = Number( $('.data-calculator[name="pol-r"]').val() )
+
+	 var polPoints = Math.max( polP, polR )
+
+	 // Język obcy
+
+	 var forP = Number( $('.data-calculator[name="for-p"]').val() )
+	 var forR = Number( $('.data-calculator[name="for-r"]').val() )
+
+	 var forPoints = Math.max( forP, forP + 1.5*forR, 2.5*forR )
+
+	 // Punkty za dyplom zawodowy
+
+	 var selectedValue = $('.data-calculator[name="techT"]').val();
+	 if (technicianTitles.includes(selectedValue)) {
+		 // Get the value from the input field
+		 var inputField = $('input[name="techE"]');
+		 var inputValue = parseFloat(inputField.val()) || 0; // Get the number value, default to 0 if invalid
+
+		 var tEPoints = inputValue;
+
+		 // console.log('TEPoints Result:', tEPoints);
+
+	 } else {
+		 var tEPoints = 0;
+		 // console.log('Selected value is not in technicianTitles.');
+	 }
+
+	 // Przedmiot dodatkowy
+
+	 var additionalSubjectsPoints = getAdditionalSubjectsV( additionalSubjectsMatrix, stPPoints, stCPoints, tEPoints )
+
+	 if ( mathP === 0 && mathR === 0 && additionalSubjectsPoints[1] === 0 ) { // Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+		 return 0
+	 } else {
+		 return Number( Math.max( mathPoints + additionalSubjectsPoints[1], mathPointsNoSt + additionalSubjectsPoints[0] ) + 0.1*polPoints + 0.1*forPoints + additionalSubjectsPoints[2] )
+	 }
+
+ }
+
+ function getAdditionalSubjectsV( matrix, stP, stC, tE ) {
+
+   var physP = Number( $('.data-calculator[name="phys-p"]').val() )
+   var physR = Number( $('.data-calculator[name="phys-r"]').val() )
+   var physPoints = Math.max( physP, physP + 1.5*physR, 2.5*physR )
+
+   var infP = Number( $('.data-calculator[name="inf-p"]').val() )
+   var infR = Number( $('.data-calculator[name="inf-r"]').val() )
+   var infPoints = Math.max( infP, infP + 1.5*infR, 2.5*infR )
+
+   var chemP = Number( $('.data-calculator[name="chem-p"]').val() )
+   var chemR = Number( $('.data-calculator[name="chem-r"]').val() )
+   var chemPoints = Math.max( chemP, chemP + 1.5*chemR, 2.5*chemR )
+
+   var bioP = Number( $('.data-calculator[name="bio-p"]').val() )
+   var bioR = Number( $('.data-calculator[name="bio-r"]').val() )
+   var bioPoints = Math.max( bioP, bioP + 1.5*bioR, 2.5*bioR )
+
+   var geoP = Number( $('.data-calculator[name="geo-p"]').val() )
+   var geoR = Number( $('.data-calculator[name="geo-r"]').val() )
+   var geoPoints = Math.max( geoP, geoP + 1.5*geoR, 2.5*geoR )
+
+   var mathP = Number( $('.data-calculator[name="math-p"]').val() )
+   var mathR = Number( $('.data-calculator[name="math-r"]').val() )
+   var mathPoints = Math.max( mathP, mathP + 1.5*mathR, 2.5*mathR )
+
+   var drawE = Number( $('.data-calculator[name="drawE"]').val() )
+   if ( drawE < 240 ) {
+	 drawE = 0
+   }
+
+   subjectsPoints = Number( Math.min( Math.max( physPoints + stP, matrix[0]*(infPoints + stP), matrix[1]*(chemPoints + stP), matrix[1]*(chemPoints + stC), matrix[2]*(bioPoints + stP), matrix[3]*(geoPoints + stP), matrix[4]*mathPoints,  tE + stP ), 250 ) )
+   subjectsPointsNoSt = Number( Math.max( physPoints, matrix[0]*infPoints, matrix[1]*chemPoints, matrix[2]*bioPoints, matrix[3]*geoPoints, matrix[4]*mathPoints, tE ) )
+   drawEPoints = Number( matrix[5]*Number(drawE) )
+
+   return [ subjectsPoints, subjectsPointsNoSt, drawEPoints ];
+ }
+
+
+/***/ },
+
+/***/ 613
+() {
+
+ var scienceClubSlider = (function () {
+
+   function init() {
+
+     var sliderScienceClub = tns({
+        container: '.science-club-slider__body',
+        items: 1,
+        mode: 'gallery',
+        navPosition: 'bottom',
+        speed: 1000,
+        controlsText:  [
+          '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="13px" viewBox="0 0 15 13" style="enable-background:new 0 0 15 13;" xml:space="preserve"><path d="M0,6.5c0,0.1,0,0.3,0.1,0.4s0.1,0.2,0.2,0.3l5.5,5.5c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4L3.4,7.5H14c0.6,0,1-0.4,1-1	s-0.4-1-1-1H3.4l3.8-3.8c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0L0.3,5.8C0.2,5.9,0.1,6,0.1,6.1C0,6.2,0,6.4,0,6.5L0,6.5L0,6.5z"	/></svg>',
+          '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="13px" viewBox="0 0 15 13" style="enable-background:new 0 0 15 13;" xml:space="preserve"><path style="fill:#000;" d="M15,6.5c0-0.1,0-0.3-0.1-0.4c-0.1-0.1-0.1-0.2-0.2-0.3L9.2,0.3c-0.4-0.4-1-0.4-1.4,0 c-0.4,0.4-0.4,1,0,1.4l3.8,3.8H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h10.6l-3.8,3.8c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0l5.5-5.5 c0.1-0.1,0.2-0.2,0.2-0.3C15,6.8,15,6.6,15,6.5C15,6.5,15,6.5,15,6.5C15,6.5,15,6.5,15,6.5z"/></svg>'
+        ]
+      });
+
+      var changePhotoInScienceClubSlider = function () {
+        var info = sliderScienceClub.getInfo(),
+        indexCurrent = info.index;
+
+        var imageUrl = $('.science-club-slider__text').eq(indexCurrent).data('bg-url')
+        $("#science-club-slider-img").stop().fadeOut(0).css('background-image','url('+ imageUrl +')').fadeIn(500)
+      }
+
+      // bind function to event
+      sliderScienceClub.events.on('indexChanged', changePhotoInScienceClubSlider);
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.science-club-slider--tns').length ) {
+     scienceClubSlider.init();
+   }
+ })
+
+
+/***/ },
+
+/***/ 942
+() {
+
+ var similarCoursesSlider = (function () {
+
+   function init() {
+
+     var similarCourses = tns({
+        container: '.similar-courses-slider__wrapper',
+        loop: false,
+        controls: false,
+        responsive: {
+        0: {
+          edgePadding: 1,
+          gutter: 0,
+          items: 1
+        },
+        768: {
+          items: 2,
+          gutter: 24
+        },
+        992: {
+          items: 3
+        },
+        1200: {
+          items: 4
+        }
+      }
+      });
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.similar-courses-slider--tns').length ) {
+     similarCoursesSlider.init();
+   }
+ })
+
+
+/***/ },
+
+/***/ 800
+() {
+
+var stepsPopup = (function () {
+	function togglePopup(action, button) {
+		var stepsSection = button.closest('.icon-steps');
+		var popupContainer = stepsSection.find('.icon-steps__popup-wrapper').eq(0);
+		var popupId = button.data('step-popup-id');
+
+		if (action === 'open') {
+			popupContainer.show();
+			popupContainer.find('.icon-steps-popup__content').each(function () {
+				var content = $(this);
+				content.toggle(content.data('step-popup-id') === popupId);
+			});
+		} else if (action === 'close') {
+			popupContainer.hide();
+		}
+	}
+
+	function init() {
+		$(document).on('click', '.js-open-step-popup', function () {
+			togglePopup('open', $(this));
+		});
+
+		$(document).on('click', '.js-close-step-popup', function () {
+			togglePopup('close', $(this));
+		});
+	}
+
+	return {
+		init: init
+	};
+})();
+
+$(document).ready(function () {
+	if ($('.icon-steps').length) {
+		stepsPopup.init();
+	}
+});
+
+/***/ },
+
+/***/ 845
+() {
+
+ var studySearchUI = (function () {
+
+   function init() {
+
+
+     $('.switch-tripple__input-wrapper > label').on( 'keydown', function( e ) {
+        if ( e.which == 13 || e.key == 'Spacebar' || e.key == ' ') {
+          e.preventDefault();
+          this.click()
+        }
+        if ( e.which == 37 ) {
+          $('.switch-tripple__input-wrapper > label').first().focus()
+        }
+        if ( e.which == 39 ) {
+          $('.switch-tripple__input-wrapper > label').last().focus()
+        }
+      })
+     $('input[name="switch-tripple-home"]').on('click', function() {
+
+       $('.find-study-search__form > p').css('display','none')
+       $('.form-study-search').css('display','none')
+
+       $('.form-study-search__more-btn').css({opacity: 1, display: 'flex'})
+       $('.form-study-search__advanced-search-wrapper').css( 'display', 'none' )
+
+       if ( $(this).data('study-type') === 's1' ) {
+         $('.form-study-search[data-study-type="s1"]').fadeIn(500)
+       } else if ( $(this).data('study-type') === 's2' ) {
+         $('.form-study-search[data-study-type="s2"]').fadeIn(500)
+       }
+
+     })
+
+     $('.select-with-checkbox').on('click', function(e) {
+       var selectList = $('#select-with-checkbox-list')
+
+       if( selectList.hasClass('open') && !document.getElementById('select-with-checkbox-list').contains(e.target) ) {
+         selectList.removeClass('open')
+       } else {
+         selectList.addClass('open')
+       }
+     })
+
+     $('#select-with-checkbox-list input').change(function(){
+       var exams = ''
+       $('#select-with-checkbox-list input').each(function(){
+         if ($(this).is(':checked')) {
+           exams = exams + $(this).val() + ', '
+          }
+       })
+       if (exams.length > 21) {
+         $('#select-with-checkbox-text').text(exams.slice(0, -2).substring(0, 18) + '...' )
+       } else if (exams.length === 0) {
+         $('#select-with-checkbox-text').text( $('#select-with-checkbox-text').data('empty') )
+       } else {
+         $('#select-with-checkbox-text').text(exams.slice(0, -2) )
+       }
+     })
+
+     $('.form-study-search__more-btn button').on('click', function(e) {
+      e.preventDefault()
+      $(this).parent().next().slideDown(500)
+      $(this).parent().animate({ opacity: 0 }, 500).delay(150).slideUp(500)
+      // $(this).parent().animate({ opacity: 0 }, 500)
+     })
+
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.find-study-search__form').length ) {
+     studySearchUI.init();
+   }
+ })
+
+ $(document).ready(function () {
+   if ( $('#select-with-checkbox-list').length ) {
+
+     window.addEventListener('click', function(e){
+       if (!document.getElementById('select-with-checkbox-list').contains(e.target) && !document.getElementById('select-with-checkbox').contains(e.target) ){
+         $('#select-with-checkbox-list').removeClass('open')
+       }
+     });
+   }
+ })
+
+
+/***/ },
+
+/***/ 342
+() {
+
+var studySearch = (function () {
+
+  function init() {
+
+    var listContainer = $('.study-search__row')
+    var formContainer = $('.form-study-search__wrapper')
+    var preloaderContainer = $('.preloader-plasma')
+    var clearFilters = $('.js-select__wrapper_filter')
+    var filtersContainerWrapper = $('.study-search__filters-wrapper')
+    var studyType
+
+    $('.study-search__filters-wrapper ul').on('click', '.js-remove-filter-btn', function(){
+
+      if ( $(this).is('#select-with-checkbox-filter') ) {
+        clearCheckboxes()
+      } else {
+        clearSelects( $(this).data('field-name') )
+      }
+      $(this).remove()
+
+      if ( $('.js-remove-filter-btn').length === 0 ) {
+        $('.study-search__filters-wrapper').fadeOut()
+      }
+      updateUrlWithFormParameters()
+    })
+
+    $('.js-form-data').change( function() {
+      updateUrlWithFormParameters()
+    })
+    $('.js-switch-tripple__input-wrapper input').change( function() {
+      clearCheckboxes()
+      clearSelects()
+      updateUrlWithFormParameters()
+    })
+
+
+    function sendStudyFinderAjax() {
+      listContainer.addClass('study-search__row--with-min-height')
+      preloaderContainer.fadeIn(0)
+      listContainer.css('opacity','0')
+      filtersContainerWrapper.fadeOut(0)
+      var data = new FormData()
+      data.append('action', 'getFilteredStudies');
+      data.append('s_level', studyType);
+
+      $('.form-study-search[data-study-type="'+ studyType +'"] select.js-form-data').each(function(){
+        if ( $(this).val() ) {
+          data.append( $(this).attr('name'), $(this).val() );
+        }
+      })
+
+      $('.form-study-search[data-study-type="'+ studyType +'"] input[type="checkbox"].js-form-data').each(function(){
+        if ( $(this).is(':checked') ) {
+          data.append( $(this).attr('name'), $(this).val() );
+        }
+      })
+
+      $.ajax({
+        type: "post",
+        url: homeUrl + "/wp-admin/admin-ajax.php",
+        data: data,
+        contentType : false,
+        processData : false,
+        success: function (res) {
+          var data = JSON.parse(res);
+          if (data.status ==  'success') {
+            listContainer.html( data.html )
+            // window.history.pushState("object or string", "Title", "/courses/?" + formContainer.serialize());
+          } else {
+            listContainer.html( '<h3 class="no-results"><?php _e("No results match your search criteria","pwr");?></h3>' );
+          }
+        }
+      }).done(function() {
+        preloaderContainer.fadeOut(100)
+        filtersContainerWrapper.fadeIn()
+        listContainer.css('opacity','1')
+      })
+
+    }
+
+    function clearCheckboxes() {
+      $('#select-with-checkbox-text').text( $('#select-with-checkbox-text').data('empty') )
+      $('.form-study-search input[type="checkbox"].js-form-data').each(function(){
+        $(this).prop( 'checked', false )
+      })
+
+    }
+
+    function clearSelects( fieldName ) {
+      studyType = checkStudyType()
+      if ( typeof fieldName !== 'undefined') {
+        $('.form-study-search[data-study-type="'+ studyType +'"] select.js-form-data[name="'+  fieldName  +'"]')[0].selectedIndex = 0
+      } else {
+        $('.form-study-search select.js-form-data').each(function(){
+          $(this)[0].selectedIndex = 0
+        })
+      }
+    }
+
+    function updateUrlWithFormParameters() {
+
+      var searchUrlParameters
+
+      var filtersContainer = $('.study-search__filters-wrapper ul')
+      var filtersContainerWrapper = $('.study-search__filters-wrapper')
+      filtersContainer.html('')
+      var closeSvg = '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="13px" viewBox="0 0 13 13" style="enable-background:new 0 0 13 13;" xml:space="preserve"><path style="fill:#000000;" d="M7.2,6.5l5.6-5.4c0.2-0.2,0.2-0.6,0-0.9c-0.2-0.2-0.6-0.2-0.9,0L6.5,5.5L1.1,0.2c-0.2-0.3-0.7-0.3-0.9,0	c-0.3,0.2-0.3,0.7,0,0.9l5.6,5.4l-5.6,5.4c-0.3,0.2-0.3,0.7,0,0.9c0.2,0.3,0.7,0.3,0.9,0l5.4-5.3l5.4,5.3c0.3,0.2,0.7,0.2,0.9,0	c0.2-0.3,0.2-0.7,0-0.9L7.2,6.5z"/></svg>'
+
+      studyType = checkStudyType()
+      searchUrlParameters = '?s-level=' + studyType
+
+      $('.form-study-search[data-study-type="'+ studyType +'"] input[type="checkbox"].js-form-data').each(function(){
+        if ( $(this).is(':checked') ) {
+          searchUrlParameters = searchUrlParameters + '&' + encodeURIComponent( $(this).attr('name') ) + '=' + $(this).val()
+          if ( $('#select-with-checkbox-filter').length === 0 ) {
+            filtersContainer.append('<button id="select-with-checkbox-filter" class="js-remove-filter-btn button-ghost"><span class="text text--uppercase text--black text--w-medium text--small">'+ $('#select-with-checkbox').prev().text() +'</span>' + closeSvg + '</button>')
+          }
+        }
+      })
+
+      $('.form-study-search[data-study-type="'+ studyType +'"] select.js-form-data').each(function(){
+        if ( $(this).val() ) {
+          searchUrlParameters = searchUrlParameters + '&' + $(this).attr('name') + '=' + $(this).val()
+          if ( $('#' + $(this).attr('name') + '-filter').length === 0 ) {
+            filtersContainer.append('<button id="'+ $(this).attr('name') +'-filter" data-field-name="' + $(this).attr('name') + '" class="js-remove-filter-btn button-ghost"><span class="text text--uppercase text--black text--w-medium text--small">'+ $(this).prev().text() +'</span>' + closeSvg + '</button>')
+          }
+        }
+      })
+
+      window.history.pushState("", "", $('.find-study-search__form').data('search-url') + searchUrlParameters );
+
+      sendStudyFinderAjax()
+    }
+
+  }
+  return {
+    init: init
+  };
+})();
+
+$(document).ready(function () {
+  if ( $('.find-study-search__form').length > 0 ) {
+    studySearch.init();
+  }
+})
+
+function checkStudyType() {
+  $('.switch-tripple__input-wrapper input').each( function(){
+    if ( $(this).is(':checked') ) {
+      studyType = $(this).data('study-type')
+    }
+  })
+  return studyType
+}
+
+
+/***/ },
+
+/***/ 888
+() {
+
+$(document).ready(function () {
+
+  var cVersionOn = toogleContrastVersion( true ),
+      cVersionOff = toogleContrastVersion( false ),
+      wVersionOn = toogleWhiteVersion( true ),
+      wVersionOff = toogleWhiteVersion( false )
+
+  $('.js-disable-contrast-version').on('click', function(e){
+    cVersionOff()
+    $('.js-enable-contrast-version').removeClass('active')
+    $(this).addClass('active')
+    e.preventDefault()
+  })
+  $('.js-enable-contrast-version').on('click', function(e){
+    cVersionOn()
+    wVersionOff()
+    $('#header-color-switch').prop( 'checked', false )
+    $('.js-disable-contrast-version').removeClass('active')
+    $(this).addClass('active')
+    e.preventDefault()
+  })
+
+  if ( 'cVersion' in sessionStorage ) {
+    if ( sessionStorage.getItem('cVersion') === 'true' ) {
+      $('.js-disable-contrast-version').removeClass('active')
+      $('.js-enable-contrast-version').addClass('active')
+      $('body').toggleClass('contrast-version')
+    }
+  }
+
+  $('#header-color-switch').change(function() {
+      if($(this).is(":checked")) {
+        wVersionOn()
+        cVersionOff()
+      } else {
+        wVersionOff()
+      }
+  });
+
+  if ( 'wVersion' in sessionStorage ) {
+    if ( sessionStorage.getItem('wVersion') === 'true' ) {
+      $('#header-color-switch').attr( 'checked', true )
+      $('body').toggleClass('white-version')
+    }
+  }
+
+  function toogleContrastVersion( isCVersion ) {
+    if ( isCVersion == true ){
+      return function() {
+         $('body').addClass('contrast-version')
+         sessionStorage.setItem('cVersion', isCVersion)
+      }
+    } else {
+      return function() {
+         $('body').removeClass('contrast-version')
+         sessionStorage.setItem('cVersion', isCVersion)
+      }
+    }
+  }
+
+  function toogleWhiteVersion( isWVersion ) {
+    if ( isWVersion == true ){
+      return function() {
+         $('body').addClass('white-version')
+         sessionStorage.setItem('wVersion', isWVersion)
+      }
+    } else {
+      return function() {
+         $('body').removeClass('white-version')
+         sessionStorage.setItem('wVersion', isWVersion)
+      }
+    }
+  }
+
+})
+
+
+/***/ },
+
+/***/ 228
+() {
+
+ var table = (function () {
+
+   function init() {
+     $( '.mceContentBody table' ).wrap( "<div class='table-wrapper'></div>" );
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.mceContentBody table').length ) {
+     table.init();
+   }
+ })
+
+
+/***/ },
+
+/***/ 202
+() {
+
+ var testimonialsSlider = (function () {
+
+   function init() {
+
+     var testimonials = tns({
+        container: '.testimonial__body',
+        items: 1,
+        mode: 'gallery',
+        navPosition: 'bottom',
+        speed: 1000,
+        controlsText:  [
+          '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="13px" viewBox="0 0 15 13" style="enable-background:new 0 0 15 13;" xml:space="preserve"><path d="M0,6.5c0,0.1,0,0.3,0.1,0.4s0.1,0.2,0.2,0.3l5.5,5.5c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4L3.4,7.5H14c0.6,0,1-0.4,1-1	s-0.4-1-1-1H3.4l3.8-3.8c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0L0.3,5.8C0.2,5.9,0.1,6,0.1,6.1C0,6.2,0,6.4,0,6.5L0,6.5L0,6.5z"	/></svg>',
+          '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="13px" viewBox="0 0 15 13" style="enable-background:new 0 0 15 13;" xml:space="preserve"><path style="fill:#000;" d="M15,6.5c0-0.1,0-0.3-0.1-0.4c-0.1-0.1-0.1-0.2-0.2-0.3L9.2,0.3c-0.4-0.4-1-0.4-1.4,0 c-0.4,0.4-0.4,1,0,1.4l3.8,3.8H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h10.6l-3.8,3.8c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0l5.5-5.5 c0.1-0.1,0.2-0.2,0.2-0.3C15,6.8,15,6.6,15,6.5C15,6.5,15,6.5,15,6.5C15,6.5,15,6.5,15,6.5z"/></svg>'
+        ]
+      });
+
+      var changePhotoInTestimonialsSlider = function () {
+        var info = testimonials.getInfo(),
+        indexCurrent = info.index;
+
+        var imageUrl = $('.testimonial__text-wrapper').eq(indexCurrent).data('bg-url')
+        $("#testimonial-img").stop().fadeOut(0).css('background-image','url('+ imageUrl +')').fadeIn(500)
+      }
+
+      // bind function to event
+      testimonials.events.on('indexChanged', changePhotoInTestimonialsSlider);
+
+   }
+
+   return {
+     init: init
+   };
+ })();
+
+ $(document).ready(function () {
+   if ( $('.js-testimonials-slider-tns').length ) {
+     testimonialsSlider.init();
+   }
+ })
+
+
+/***/ }
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			// no module.id needed
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/************************************************************************/
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
+/************************************************************************/
+const context = __webpack_require__(995);
+
+// Pętla po wszystkich plikach w katalogu js/
+context.keys().forEach(key => {
+  context(key);
+});
+
+/******/ })()
+;
+//# sourceMappingURL=scripts.min.js.map

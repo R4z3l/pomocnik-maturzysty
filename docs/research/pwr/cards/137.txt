@@ -1,0 +1,191 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Elektroniki, Fotoniki i Mikrosystemów
+Elektronika i fotonika
+Limit miejsc
+125
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Elektronika i fotonika
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+10 700 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+automatyka, elektronika, elektrotechnika i technologie kosmiczne
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+W programie studiów kierunku
+Elektronika
+i
+fotonika
+przeplatają się nurty tematyczne:
+elektronika
+– zarówno w kontekście elementów układów, w tym półprzewodnikowych, elektroniki analogowej i cyfrowej oraz konstrukcji urządzeń elektronicznych i inżynierii systemów,
+elementy programowania – o stopniu niezbędnym dla każdego współczesnego
+elektronika
+,
+mikroelektronika i mikrosystemy – zorientowane na podstawy fizyczne, projektowania, technologie wytwarzania i diagnostykę,
+fotonika
+– obejmująca podstawy fizyczne, projektowanie i wytwarzanie i miernictwo rozmaitych systemów fotonicznych z uwzględnieniem technik światłowodowych, laserowych i fotowoltaiki.
+W programie studiów duży nacisk położono na wybieralność, wyodrębniając dużą liczbę bloków przedmiotów wybieralnych. Pozwala to studentom na kształtowanie swojego toku studiów i jego dostosowywanie  do indywidualnych zainteresowań i predyspozycji.
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+elektronika i fotonika
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik elektronik
+Technik elektroniki i informatyki medycznej
+Technik informatyk
+Technik mechatronik
+Technik programista
+Technik szerokopasmowej komunikacji elektronicznej
+Technik urządzeń i systemów energetyki odnawialnej
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+projektant, wykonawca i tester układów elektronicznych (analogowych i cyfrowych) z wykorzystaniem najnowszych systemów i metod projektowania oraz diagnostyki
+wyspecjalizowany serwisant nowoczesnych urządzeń opartych na systemach elektroniczno-informatycznych
+operator sieci i usług w zakresie telefonii, Internetu, sieci komputerowych, transmisji danych czy systemów pomiarowych
+integrator systemów elektronicznych i informatycznych dla np. Internetu Rzeczy, Przemysłu 4.0, motoryzacji czy inteligentnych rozwiązań infrastrukturalnych
+koordynator lub lider zespołów projektowych i produkcyjnych nowoczesnych systemów elektronicznych
+Miejsca pracy absolwentów
+ZF Group
+WTB Telecom
+Whirlpool Company Polska
+WABCO Polska
+W&K Industriemontage
+Urząd Komunikacji Elektronicznej
+TechniSat Digital
+RGB Elektronika odpowiedzialnością
+RAWLPLUG
+Radiotechnika Marketing
+Przedsiębiorstwo Techniki Medycznej „ANES-MED”
+ProAUDIO-AVT
+PPG
+Poner
+PKP Energetyka
+Oleofarm
+Nyquista
+NEXT LABS
+Net Service
+NESTMEDIC SA
+MT-Silesia
+MIKROEL Controllers
+Miejskie Przedsiębiorstwo Komunikacyjne
+Media Markt Polska
+McKinsey & Company
+M.A.S., Laparo
+JABIL POLAND
+INSTOM
+Hyper Poland
+GRINN
+GKN Driveline Polska
+Gillette Poland International
+Fabryka Aparatury Pomiarowej
+Elemont
+Electrolux
+Diehl Controls
+ControlTec
+CADM Automotive
+Budimex
+TPEnerga
+Teleste Techkom Elektronik
+TECH-MET
+SI-Consulting
+Comarch
+Nokia Solutions and Networks
+Dynacon
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

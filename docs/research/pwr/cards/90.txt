@@ -1,0 +1,173 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Geoinżynierii, Górnictwa i Geologii
+Geodezja i kartografia
+Limit miejsc
+120
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Geodezja i kartografia
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+8 900 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria środowiska, górnictwo i energetyka
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+Ciekawostki
+Opis kierunku
+Geodezja i kartografia to szeroka dyscyplina naukowo-techniczna, obejmująca swoim zakresem pozyskiwanie, przetwarzanie i wizualizację danych przestrzennych na potrzeby procesów inwestycyjnych, gospodarki przestrzennej, zarządzania nieruchomościami, ochrony środowiska i innych dziedzin. Nowoczesne techniki pomiarowe wykorzystywane przez geodetów to m.in. niwelatory kodowe, robotyczne tachimetry elektroniczne, odbiorniki satelitarne i skanery laserowe. Dostępne dane teledetekcyjne umożliwiają monitorowanie środowiska naturalnego z pokładu satelitów. Systemy Informacji Geograficznej (GIS) pozwalają prowadzić zaawansowane analizy zjawisk zachodzących w środowisku naturalnym, odkrywać prawidłowości rządzące tymi zjawiskami oraz planować optymalnie przedsięwzięcia inwestycyjne. Programowanie w GIS pozwala tworzyć własne aplikacje, które dodatkowo rozszerzają możliwości dostępnych narzędzi informatycznych. Podczas zajęć dydaktycznych prowadzonych przez doświadczonych wykładowców (w tym z uczelni zagranicznych) oraz geodetów z uprawnieniami zawodowymi i pracowników administracji geodezyjnej, studenci kierunku geodezja i kartografia zdobywają uniwersalną wiedzę teoretyczną oraz umiejętności praktyczne z wymienionych powyżej obszarów, które mogą być spożytkowane w każdym miejscu na świecie. W trakcie ćwiczeń studenci korzystają z profesjonalnego sprzętu geodezyjnego oraz zaawansowanego oprogramowania. Zaplecze naukowo-badawcze i dydaktyczne Katedry Geodezji i Geoinformatyki Politechniki Wrocławskiej stanowią m.in. hybrydowy system do mobilnego skanowania laserowego, robotyczne tachimetry, bezzałogowe statki powietrzne, itd. Więcej infomacji na stronie: https://kgig.pwr.edu.pl/
+Studenci kształcą się w zakresie:
+Pozyskiwania, standaryzowania, zarządzania, przetwarzania, analizowania i wizualizowania danych przestrzennych
+Wykonywania geodezyjnych pomiarów terenowych z zastosowaniem nowoczesnych technik i instrumentów pomiarowych oraz zasad opracowania pozyskanych danych na potrzeby zasilenia baz danych państwowego zasobu geodezyjnego i kartograficznego
+Sporządzania wymaganej przepisami dokumentacji geodezyjno-kartograficznej, m.in. map do celów projektowych, map do celów prawnych (na potrzebny obrotu nieruchomościami), inwentaryzacji powykonawczej i architektoniczno-budowlanej
+Obsługi procesu inwestycyjnego oraz wykonywania specjalistycznych pomiarów diagnostycznych i kontrolnych obiektów przemysłowych
+Budowy modeli 3D otoczenia na podstawie zobrazowań fotograficznych i mikrofalowych
+Wykonywania prac geodezyjnych związanych z pozyskiwaniem surowców mineralnych i ochroną powierzchni terenów górniczych
+Zarządzania kadrą pracowników i prowadzenia przedsiębiorstw geodezyjnych
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, geografia lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+geodezja i kartografia
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik architektury krajobrazu
+Technik automatyk
+Technik budownictwa
+Technik budownictwa kolejowego
+Technik budownictwa wodnego
+Technik budowy dróg
+Technik fotografii i multimediów
+Technik geodeta
+Technik informatyk
+Technik inżynierii środowiska i melioracji
+Technik leśnik
+Technik nawigator morski
+Technik pojazdów kolejowych
+Technik pojazdów samochodowych
+Technik programista
+Technik renowacji elementów architektury
+Technik robotyk
+Technik teleinformatyk
+Technik transportu drogowego
+Technik transportu kolejowego
+studenci Geodezji i Kartografii na Politechnice Wrocławskiej… działają w dwóch kołach naukowych: KN Grupa Młodych Geodetów oraz Kole Naukowo-Badawczym GIS realizując ciekawe projekty, organizując wydarzenia oraz zdobywając nagrody w międzynarodowych konkursach
+studenci Geodezji i Kartografii na Politechnice Wrocławskiej… uczestniczą w wakacyjnych, wyjazdowych obozach naukowych w Świebodzinie i w Parku Krajobrazowym Łuk Mużakowa.
+studenci Geodezji i Kartografii na Politechnice Wrocławskiej… odbywają praktyki zawodowe m.in. w takich firmach jak: Grupa Azoty Zakłady Azotowe Kędzierzyn S.A., Lasy Państwowe, KGHM Polska Miedź S.A., Polska Grupa Górnicza S.A., Polskie Górnictwo Naftowe i Gazownictwo, Generalna Dyrekcja Dróg Krajowych i Autostrad, Oddział Rzeszów, Park Narodowy Gór Stołowych.
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Absolwent może podjąć pracę w wielu branżach i obszarach przemysłu i gospodarki.
+Może być zatrudniony przykładowo w:
+przedsiębiorstwach geodezyjnych i kartograficznych
+przedsiębiorstwach geoinformatycznych świadczących usługi z zakresu fotogrametrii, teledetekcji i skanowania laserowego
+administracji publicznej – w jednostkach zajmujących się gospodarką przestrzenną, gospodarką nieruchomościami, tworzeniem geoportali i wykorzystaniem systemów GIS
+działach mierniczych w zakładach górniczych
+instytucjach naukowo-badawczych i ośrodkach badawczo-rozwojowych
+start-upach wysoko zaawansowanych technologii, np. badań przestrzeni kosmicznej
+Miejsca pracy absolwentów
+przedsiębiorstwa geodezyjno-kartograficzne, np. OPGK Wrocław. Sp. z o.o.
+powiatowe Ośrodki Dokumentacji Geodezyjnej i Kartograficznej
+Generalna Dyrekcja Dróg Krajowych i Autostrad
+Wydziały Geodezji i Gospodarki Nieruchomościami, np. Starostwo Powiatowe we Wrocławiu, Wydział Geodezji i Kartografii Urzędu Marszałkowskiego Województwa Dolnośląskiego
+przedsiębiorstwa z branży geodezyjnej, geoinformacyjnej i geoinformatycznej, np. SatRevolution, GISPartner, Wrocławski Instytut Zastosowań Informacji Przestrzennej i Sztucznej Inteligencji, COWI Polska Sp. z o.o., SHH sp. z o.o.
+studia doktoranckie w Polsce i za granicą, np. Uniwersytet Techniczny w Monachium, Uniwersytet Techniczny w Berlinie
+Czy wiesz, że studenci Geodezji i Kartografii na Politechnice Wrocławskiej…
+…działają w dwóch kołach naukowych:
+KN Grupa Młodych Geodetów
+oraz
+Kole Naukowo-Badawczym GIS
+realizując ciekawe projekty, organizując wydarzenia oraz zdobywając nagrody w międzynarodowych konkursach
+…uczestniczą w wakacyjnych, wyjazdowych obozach naukowych w Świebodzinie i w Parku Krajobrazowym Łuk Mużakowa
+…odbywają praktyki zawodowe m.in. w takich firmach jak: Grupa Azoty Zakłady Azotowe Kędzierzyn S.A., Lasy Państwowe, KGHM Polska Miedź S.A., Polska Grupa Górnicza S.A., Polskie Górnictwo Naftowe i Gazownictwo, Generalna Dyrekcja Dróg Krajowych i Autostrad, Oddział Rzeszów, Park Narodowy Gór Stołowych.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

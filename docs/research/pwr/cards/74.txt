@@ -1,0 +1,171 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Elektroniki, Fotoniki i Mikrosystemów
+Elektronika
+Limit miejsc
+198
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Elektronika
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+8 900 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+automatyka, elektronika, elektrotechnika i technologie kosmiczne
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Studia na kierunku Elektronika umożliwiają zdobycie wiedzy i kompetencji z zakresu nowoczesnych systemów elektronicznych obecnych praktycznie w każdej dziedzinie życia człowieka. Uniwersalność tego typu układów wymaga od studentów kreatywnego podejścia do rozwiązywania problemów i rozwoju umiejętności sprzętowych (projektowanie i praktyczna realizacja układów elektronicznych) jak również programistycznych. Kandydaci decydujący się na studia na tym kierunku mają również możliwość zdobywania kompetencji miękkich wspomagających efektywną pracę w grupie projektowej oraz przygotowujących do prowadzenia własnej działalności gospodarczej. Kształcenie realizowane jest w ramach trzech specjalności.
+PROGRAM STUDIÓW
+Aparatura elektroniczna (EAE)
+oferuje możliwość zdobycia wiedzy teoretycznej i praktycznej w projektowaniu, konstrukcji i uruchamianiu, aparatury elektronicznej wykorzystującej układy: analogowe, cyfrowe
+i mikroprocesorowe z uwzględnieniem szerokich umiejętności programistycznych. Zagadnienia z zakresu systemów inteligentnych
+i odnawialnych źródeł energii oraz aparatury przemysłowej i medycznej rozszerzają kompetencje studenta.
+Inżynieria akustyczna (EIA)
+oferuje możliwość poznania zagadnień teoretycznych i praktycznego ich wykorzystania z zakresu elektroakustyki
+i ultradźwięków. Szeroką wiedzę nt. urządzeń i mechanizmów słyszenia czy generowania dźwięków studenci mogą wykorzystywać do projektowania ochrony przed hałasem, akustyki wnętrz, systemów nagłaśniania czy nagrywania, aparatury ultradźwiękowej.
+Systemy przetwarzania sygnałów (EPS)
+oferuje możliwość zdobycia wiedzy w zakresie projektowania i realizacji cyfrowych systemów przetwarzania sygnałów i danych. Studenci zdobywają kompetencje w zakresie: systemów sztucznej inteligencji, aplikacji mobilnych i sieciowych, programowania systemów rozproszonych i pojazdów autonomicznych oraz specjalizowanych procesorów sygnałowych, układów FPGA i systemów czasu rzeczywistego.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+elektronika
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik elektronik
+Technik elektroniki i informatyki medycznej
+Technik elektromobilności
+Technik informatyk
+Technik mechatronik
+Technik programista
+Technik realizacji nagłośnień
+Technik realizacji nagrań
+Technik robotyk
+Technik teleinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+projektant i konstruktor analogowych oraz cyfrowych urządzeń elektronicznych przemysłowych, medycznych, powszechnego użytku i innych,
+programista systemów inteligentnych i systemów wbudowanych,
+projektant i programista aplikacji sieciowych i mobilnych,
+projektant i programista systemów rozproszonych i pojazdów autonomicznych,
+integrator systemów,
+specjalista w zakresie wykonywania pomiarów,
+specjalista ds. BHP w zakresie ochrony przed drganiami i hałasem,
+operator oraz realizator dźwięku w radiofonii, telewizji, kinematografii, fonografii i przemyśle rozrywkowym,
+projektant akustyki i systemów elektroakustycznych dla różnych obiektów w tym widowiskowych.
+Praktyki i staże
+Studenci realizują praktyki zawodowe w trybie indywidualnym. Praktyka o wymiarze 180 godzin powinna odbywać się w lipcu, sierpniu lub wrześniu poprzedzającym semestr VII. Praktyka może odbyć się w zakładzie pracy (firmie lub instytucji naukowo-badawczej krajowej lub zagranicznej) wskazanym przez Pełnomocnika ds. Praktyk Studenckich bądź zaproponowanym przez studenta. Praktyka nie może odbywać się w jednostce Politechniki Wrocławskiej.
+Miejsca pracy absolwentów
+firmy z sektora IT,
+firmy produkujące i dystrybuujące sprzęt elektroniczny,
+przedsiębiorstwa i instytucje eksploatujące zaawansowane urządzenia elektroniczne,
+biurach projektowych i rozwojowych przedsiębiorstw i firm działających w obszarze szeroko pojętej elektroniki i informatyki,
+instytuty badawcze oraz działy R&D przedsiębiorstw,
+radiofonia, telewizja oraz instytucje kultury (teatry, teatry muzyczne, film),
+jednostki administracji państwowej i samorządowej,
+własna działalność gospodarcza.
+Przykładowymi firmami zatrudniającymi absolwentów kierunku Elektronika są:
+Nokia
+LG Electronics
+Diehl
+Whirlpool
+Volvo
+Tieto
+Dolby
+Capgemini
+KFB Sp. z o.o.
+BMW
+IBM
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

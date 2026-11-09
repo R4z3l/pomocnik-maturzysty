@@ -1,0 +1,247 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Podstawowych Problemów Techniki
+Inżynieria biomedyczna
+Limit miejsc
+130
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Inżynieria biomedyczna
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+9 300 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria biomedyczna
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Inżynieria biomedyczna to kierunek, który łączy nauki podstawowe, przyrodnicze, techniczne i medyczne. Interdyscyplinarne wykształcenie zapewnia solidne podstawy z chemii, biologii, matematyki, fizyki, elektroniki, optyki i informatyki oraz pogłębioną wiedzę i zaawansowane kompetencje w wybranej specjalności. Studenci poznają nowoczesne metody badawcze, a także nabywają kwalifikacji inżynierskich w zakresie projektowania i obsługi aparatury medycznej oraz systemów diagnostycznych i terapeutycznych. Umiejętności te są poszukiwane w intensywnie rozwijającym się sektorze biomedycznym.
+PROOGRAM STUDIÓW
+Biomechanika inżynierska
+Studia na specjalności Biomechanika inżynierska przygotowują przyszłych inżynierów do projektowania i eksploatacji urządzeń oraz środków technicznych przeznaczonych dla szeroko pojętej medycyny i weterynarii. Plan studiów został opracowany tak, aby absolwent miał możliwość zdobycia wiedzy i umiejętności w zakresie:
+projektowania sprzętu technicznego wspomagającego leczenie i rehabilitację, np.: implanty i instrumentarium chirurgiczne, roboty i manipulatory wspomagające zabiegi i operacje chirurgiczne, systemy nawigacji operacji medycznych, bioniczne protezy kończyn, sprzęt rehabilitacyjny i sprzęt wspomagający lokomocję osób z deficytem ruchowym, egzoszkielety;
+praktycznego korzystania z wiedzy o różnorodnych materiałach konstrukcyjnych stosowanych do budowy urządzeń i sprzętu medycznego, a także biomateriałach spełniających surowe wymagania współpracy z tkankami organizmu żywego;
+prowadzenia komputerowych analiz wytrzymałościowych implantów i elementów układów mechanicznych;
+doboru elementów układów napędowych (elektrycznych, hydraulicznych i pneumatycznych) oraz układów sensorycznych i mikroprocesorowych sterujących ich pracą;
+stosowania nowoczesnych narzędzi komputerowych (programy graficzne i obliczeniowe) wspomagających proces projektowania.
+Po ukończeniu studiów na specjalności Biomechanika inżynierska inżynier będzie przygotowany do pracy w interdyscyplinarnych zespołach projektowo-badawczych w firmach zajmujących się wytwarzaniem sprzętu medycznego i rehabilitacyjnego, urządzeń wspomagających lokomocję człowieka, implantów i sztucznych narządów oraz firmach motoryzacyjnych zajmujących się bezpieczeństwem biernym i czynnym kierowcy i pasażerów oraz pieszych.
+Biomechanika inżynierska jest specjalnością rozwijającą horyzonty wiedzy i umiejętności przyszłego inżyniera, niezbędne do sprostania współczesnym i przyszłościowym wyzwaniom w zakresie technicznego wspomagania medycyny.
+Elektronika medyczna
+Dzięki interdyscyplinarnej wiedzy absolwent umie porozumiewać się i świadczyć usług eksperckie zarówno w sektorze technologicznym, jak również sektorze medycznym.
+Interdyscyplinarne kształcenie obejmuje:
+nauki podstawowe (biologia, chemia, fizyka i matematyka) oraz anatomię i fizjologię,
+automatykę i robotykę,
+układy elektroniczne, mikrokontrolery,
+cyfrowe przetwarzanie sygnałów i obrazów biomedycznych,
+technologie informatyczne, w szczególności zagadnienia dotyczące: akwizycji; przetwarzania i transmisji sygnałów biomedycznych,
+systemy pomiarowe i systemy wbudowane w zastosowaniach biomedycznych.
+Absolwent potrafi:
+praktycznie wykorzystać zdobytą wiedzę z zakresu budowy i właściwości: układów elektronicznych, czujników pomiarowych, elektronicznej aparatury medycznej, cyfrowego przetwarzania sygnałów,
+dokonać krytycznej analizy sposobu funkcjonowania i ocenić istniejące rozwiązania techniczne, w szczególności: czujniki pomiarowe, urządzenia elektromedyczne diagnostyczne i terapeutyczne,
+dobrać odpowiednią technikę pomiarową do badania obiektów biomedycznych (sygnałów generowanych podczas zachodzących w poszczególnych narządach procesów fizjologicznych), wykorzystać poznane metody, technologie inżynierskie i narzędzia komputerowe do przeprowadzenia podstawowego przetwarzania i analizy wyników pomiarowych.
+Zdobyta podczas studiów wiedza i praktyka przygotowują przyszłych inżynierów do pracy w:
+jednostkach organizacyjnych lecznictwa (szpitale, jednostki kliniczne i ambulatoryjne),
+interdyscyplinarnych zespołach projektowo-badawczych w firmach zajmujących się wytwarzaniem elektronicznego sprzętu medycznego,
+przedsiębiorstwach informatycznych oraz elektronicznych zajmujących się produkcją, dystrybucją i serwisem oprzyrządowania elektronicznego dla medycyny,
+firmy doradczo-konsultingowe.
+Dzięki interdyscyplinarnej wiedzy absolwent umie porozumiewać się i świadczyć usług eksperckie zarówno w sektorze technologicznym, jak również sektorze medycznym.
+Optyka biomedyczna
+Optyka biomedyczna jest interdyscyplinarną, ciągle rozwijającą się dziedziną nauki, zajmującą się badaniem oddziaływania światła na organizmy żywe celem wykorzystania procesów zachodzących w skali nano-, mikro- lub makroskopowej na poziomie pojedynczych organelli, komórek, tkanek i organów do opracowywania nowych rozwiązań diagnostycznych i terapeutycznych.
+Studia na specjalności Optyka biomedyczna są przeznaczone dla ambitnych i przedsiębiorczych studentów, zainteresowanych rozwiązywaniem istotnych problemów współczesnej medycyny oraz biologii poprzez rozwój minimalnie inwazyjnych narzędzi badawczych i klinicznych (zarówno diagnostycznych, jaki terapeutycznych), opartych na technologiach: optycznych, fotonicznych, optoelektronicznych, które coraz częściej wspomagane są również przez technologie informatyczne, w tym sztuczną inteligencję i przyczyniają się do rozwoju telemedycyny.
+Interdyscyplinarne kształcenie obejmuje m.in.:
+nauki podstawowe (biologia, chemia, fizyka i matematyka) oraz anatomię i fizjologię
+optykę falową, interferometrię i holografię, optykę obliczeniową;
+projektowanie przyrządów i układów optoelektronicznych;
+optyczne czujniki chemiczne i biosensory;
+biomedycynę laserową i wykorzystanie laserów w medycynie;
+analizę komputerową danych spektroskopowych oraz obrazów cyfrowych;
+optyczną diagnostykę medyczną i biospektroskopię z elementami metod komputerowych.
+Absolwent potrafi:
+praktycznie wykorzystać zdobytą wiedzę na temat m.in. technik obrazowania medycznego, parametrów optycznych tkanek, oddziaływania światła z tkankami, biospektroskopii, zastosowanie laserów w medycynie, pomiarów optycznych, konstrukcji układów optoelektronicznych do zaplanowania i przeprowadzenia eksperymentów dotyczących prostych rozwiązań diagnostycznych i terapeutycznych;
+zaprojektować w wybranym środowisku programistycznym, sporządzić specyfikację i wymagania techniczne dotyczące prostych układów lub przyrządów optoelektronicznych, optycznych czujników chemicznych i biosensorów oraz je opracować;
+dokonać krytycznej analizy sposobu funkcjonowania i ocenić istniejące rozwiązania techniczne, w szczególności: optyczne układy pomiarowe, czujniki optyczne, przyrządy optyczne, urządzenia laserowe itp.;
+dobrać odpowiednią technikę obrazową i pomiarową do charakteryzacji danych obiektów biologicznych (struktur komórkowych, komórek, tkanek) i zachodzących w nich procesów, wykorzystać poznane metody, technologie inżynierskie i narzędzia komputerowe do przeprowadzenia podstawowego przetwarzania i analizy wyników pomiarowych oraz obrazów cyfrowych.
+Perspektywy zawodowe:
+prywatne i publiczne jednostki organizacyjne lecznictwa (szpitale, jednostki kliniczne i ambulatoryjne);
+interdyscyplinarne zespoły R&D firm zajmujących się wytwarzaniem sprzętu medycznego, sensorów lub biosensorów;
+przedsiębiorstwa produkujące optoelektroniczny sprzęt medyczny;
+firmy będące przedstawicielami dużych koncernów produkujących urządzenia diagnostyki medycznej i terapii laserowej;
+firmy doradczo-konsultingowe.
+Dzięki interdyscyplinarnej wiedzy absolwent umie porozumiewać się i świadczyć usług eksperckie zarówno w sektorze technologicznym, jak również sektorze medycznym.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, chemia, biologia, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+inżynieria biomedyczna
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+technik analityk
+technik automatyk
+technik bezpieczeństwa i higieny pracy
+technik dentystyczny
+technik elektronik
+technik elektroniki i informatyki medycznej
+technik elektroradiolog
+technik farmaceutyczny
+technik informatyk
+technik mechatronik
+technik optyk
+technik ortopeda
+technik programista
+technik robotyk
+technik sterylizacji medycznej
+technik szerokopasmowej komunikacji elektronicznej
+technik technologii chemicznej
+technik teleinformatyk
+technik telekomunikacji
+technik tyfloinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+inżynier aparatury medycznej (diagnostycznej / terapeutycznej) w publicznych i prywatnych jednostkach ochrony zdrowia (szpitale, kliniki, poradnie),
+projektant lub konstruktor w jednostkach projektowych, konstrukcyjnych i wytwórczych firm produkujących sensory, aparaturę i urządzenia medyczne,
+kontroler w jednostkach akredytacyjnych, atestacyjnych oraz odbioru technicznego aparatury i urządzeń medycznych,
+specjalista w jednostkach naukowo-badawczych, firmach konsultingowych, a także jednostkach administracji medycznej,
+przedstawiciel dużych koncernów produkujących sprzęt medyczny.
+Miejsca pracy absolwentów
+Szpital MSWiA we Wrocławiu
+Wojewódzki Szpital Specjalistyczny we Wrocławiu
+Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego we Wrocławiu
+SPEKTRUM Ośrodek Okulistyki Klinicznej
+Enel-med
+Siemens Healthineers
+Viridian Polska
+Boston Scientific Polska
+Becton Dickinson Polska
+Smith & Nephew Polska
+Scanfil plc
+CMR Surgical
+Fresenius Kabi
+3M Polska
+Lipid Systems Sp. z o. o.
+Medicus Sp. z o.o.
+Align Technology
+Sieć Badawcza Łukasiewicz – PORT Polski Ośrodek Rozwoju Technologii we Wrocławiu
+Optimum Patient Care Limited, Australia
+HemoLens
+Telemedi – Digital Health Platform & Telehealth Provider
+AlphaOmega GmbH
+Affidea Polska
+PPD
+NNIT
+SteriPack Group
+Accenture
+JZO S.A. – Jeleniogórskie Zakłady Optyczne
+Volvo Group
+Danfoss Power Solutions
+Nestlé Purina
+EY Polska
+McKinsey & Company Polska
+Pentacomp
+Nokia Polska
+IBM Polska
+Comarch
+Capgemini Software Solution Center
+GFT Technologies
+Exadel Europe
+ERGO Technology & Services
+SoftServe
+Kyndryl
+Pacific Blue Cross, Kanada
+Sigma IT
+USP Zdrowie
+Consultant R&D Post-Implementation Services
+Software Implementation Specialist
+ITeam S.A .
+Millenium Bank
+Lausitzer Stahlbau Ruhland GmBH
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

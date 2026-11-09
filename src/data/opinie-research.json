@@ -1,0 +1,105 @@
+{
+  "sources": [
+    {
+      "id": "opinie-uwr-overview",
+      "title": "Uniwersytet Wrocławski — karta uczelni",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-wroclawski/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Karta podaje ogólne informacje i odsyła do oficjalnej rekrutacji. Nie stanowi źródła formalnych zasad ani progów. Jej deklaracja 100 kierunków jest szersza i nie została użyta jako oferta stacjonarna I stopnia/jednolita w zakresie audytu."
+    },
+    {
+      "id": "opinie-uwr-programmes",
+      "title": "Uniwersytet Wrocławski — kierunki studiów 2026/2027",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-wroclawski/kierunki-studiow/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Odczytano listę kierunków oraz sekcje alfabetyczną i według typów. Karta jest opisana jako 2026/2027; nie potwierdza oferty 2027/2028 ani trybu i poziomu poszczególnych ofert."
+    },
+    {
+      "id": "opinie-uwr-admissions",
+      "title": "Uniwersytet Wrocławski — rekrutacja na studia 2027/2028",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-wroclawski/rekrutacja/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Tekst podaje ogólne, generyczne kroki naboru i link do oficjalnego serwisu. Nie zawiera kierunkowych zasad rekrutacji; reguł nie importowano."
+    },
+    {
+      "id": "opinie-uwr-thresholds",
+      "title": "Uniwersytet Wrocławski — progi punktowe",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-wroclawski/progi-punktowe/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Portal stwierdza, że Uniwersytet Wrocławski nie publikuje statystyk punktowych z poprzednich lat, z wyjątkiem wybranych kierunków na Wydziale Matematyki i Informatyki oraz Wydziale Fizyki i Astronomii; odsyła do zakładek zasad na kartach. Nie odczytano na tej stronie konkretnych progów 2022+. Brak podstaw do uogólnienia wyjątku."
+    },
+    {
+      "id": "opinie-uew-overview",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — karta uczelni",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Karta zawiera ogólny opis, ogólnikowy harmonogram rekrutacji i link do oficjalnej strony. Nie jest źródłem formalnych reguł."
+    },
+    {
+      "id": "opinie-uew-programmes",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — kierunki studiów 2027/2028",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/kierunki-studiow/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Strona deklaruje rok 2027/2028 i pokazuje katalog nazw kierunków, lecz nie weryfikuje katalogu 2027/2028 uczelni, trybu, poziomu i lokalizacji każdej nazwy. Nie dodano programmeCandidates na podstawie samej listy portalu."
+    },
+    {
+      "id": "opinie-uew-admissions",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — rekrutacja na studia 2027/2028",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/rekrutacja/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Tekst opisuje ogólne kroki naboru i odsyła do oficjalnego systemu. Nie zawiera kierunkowych zasad rekrutacji ani szczegółowego kalendarza; nie importowano reguł."
+    },
+    {
+      "id": "opinie-uew-thresholds",
+      "title": "Uniwersytet Ekonomiczny we Wrocławiu — progi punktowe 2027",
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/progi-punktowe/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Odczytano tabele 2026/2027, 2025/2026, 2024/2025, 2023/2024 i 2022/2023 dla studiów stacjonarnych I stopnia, gdzie portal jawnie podaje ten tryb i poziom. Dla 2024/2025 portal podaje jedynie studia I stopnia; brak jawnego trybu. Porównanie zakresu bieżącej oferty z uew.json nie ujawniło brakujących kwalifikujących się wartości 2022+ dla aktualnych stacjonarnych ofert I stopnia. Wartości na tej stronie nie zastępują oficjalnych progów."
+    },
+    {
+      "id": "opinie-uew-analityka-card",
+      "title": "Analityka gospodarcza we Wrocławiu — karta kierunku",
+      "url": "https://opinieouczelniach.pl/kierunki-studiow/analityka-gospodarcza/wroclaw/",
+      "publisher": "Opinieouczelniach.pl",
+      "checkedAt": "2026-10-25",
+      "kind": "portal",
+      "note": "Karta opisuje zakres studiów I i II stopnia, przykładowe moduły, przedmioty i ogólny zestaw maturalny. Nie podaje czasu trwania ani jednoznacznego rocznika, trybu studiów i formalnej reguły. Nie uzupełnia null duration w danych Uniwersytetu Ekonomicznego we Wrocławiu."
+    }
+  ],
+  "thresholdCandidates": [],
+  "programmeCandidates": [],
+  "excludedPages": [
+    {
+      "url": "https://opinieouczelniach.pl/uczelnia/uniwersytet-ekonomiczny-we-wroclawiu/kalendarz-akademicki/",
+      "reason": "Sprzeczność nagłówka 2026/2027 z faktycznymi terminami 2025/2026 została już potwierdzona w wyszukiwaniu bieżącej sesji. Wykluczono wyłącznie tę podstronę jako nieaktualną/niespójną; nie rozszerzono wniosku na cały portal.",
+      "checkedAt": "2026-10-25",
+      "scope": "current"
+    }
+  ],
+  "notes": [
+    "Zakres obejmuje wyłącznie Uniwersytet Wrocławski i Uniwersytet Ekonomiczny we Wrocławiu, stacjonarne studia I stopnia i jednolite magisterskie we Wrocławiu, w języku polskim i angielskim.",
+    "Priorytet źródeł: oficjalne serwisy uczelni, następnie portal Opinieouczelniach.pl, inne portale, prasa i społeczność. Dla reguł formalnych źródłem nadrzędnym pozostaje uczelnia; zachowano adresy portalu wyłącznie dla jego twierdzeń i zgłoszonych wartości.",
+    "Komentarze i opinie użytkowników nie są źródłem oficjalnych informacji i nie zostały wykorzystane.",
+    "Tabela progów Uniwersytetu Ekonomicznego we Wrocławiu w portalu zawiera historyczne liczby z lat 2022/2023–2026/2027. Rekordy już pokryte przez uew.json nie są ponownie kandydatami. Wiersze dla nazw historycznych lub niepotwierdzonego trybu, w tym Ekonomia biznesu i finanse, Zarządzanie w nowoczesnej gospodarce oraz Rachunkowość i controling, nie zostały dopasowane do obecnych programów bez potwierdzenia poziomu/trybu i równoważności nazwy.",
+    "Strona progów Uniwersytetu Wrocławskiego nie publikuje konkretnych historycznych wartości na samej karcie. Wspomina wyjątek dla wybranych kierunków dwóch wydziałów, ale nie uzasadnia importu danych dla pozostałych kierunków.",
+    "Lista kierunków Uniwersytetu Ekonomicznego we Wrocławiu oznaczona 2027/2028 nie jest tu traktowana jako urzędowy katalog uruchomionych ofert. Nie przeniesiono z niej nowych nazw do programu.",
+    "Nie znaleziono na odczytanej karcie kierunku Analityka gospodarcza informacji o czasie trwania. Czas trwania ofert Uniwersytetu Ekonomicznego we Wrocławiu pozostaje nieustalony w tym audycie; nie wypełniać null na podstawie domysłu.",
+    "Kontrola: 2026-10-25. Wykonano odczyt 9 trafnych podstron portalu; nie crawlowano pozostałej części serwisu."
+  ]
+}

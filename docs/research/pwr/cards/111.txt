@@ -1,0 +1,213 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Mechaniczno-Energetyczny
+Mechanika i budowa maszyn energetycznych
+Limit miejsc
+90
+/
+rekrutacja letnia (stacjonarne)
+45
+/
+rekrutacja letnia (niestacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Mechanika i budowa maszyn energetycznych
+Metryczka kierunku
+Forma studiów
+Zaoczne
+Dzienne
+Czas trwania
+7 semestrów (stacjonarne)
+8 semestrów (niestacjonarne)
+Czesne
+brak
+(studia stacjonarne)
+3800/ semestr
+(studia niestacjonarne)
+Czesne dla cudzoziemców
+6 210 PLN/ semestr
+(studia stacjonarne)
+3 800 PLN/ semestr
+(studia niestacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria mechaniczna
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Kształcenie ukierunkowane jest na uzyskanie wiedzy i umiejętności praktycznych w zakresie projektowania i eksploatacji nowoczesnych maszyn i urządzeń stosowanych w układach energetycznych wykorzystujących zarówno odnawialne źródła energii, jak też i paliwa konwencjonalne. Podczas kształcenia Studenci uczą się samodzielnego projektowania maszyn i urządzeń technicznych odpowiednich do studiowanej specjalności, wykonują obliczenia inżynierskie podstawowych części maszyn i urządzeń wykorzystując nowoczesne techniki komputerowego wspomagania projektowania.
+Więcej informacji o kierunku znajduje się na
+stronie wydziału
+.
+PROGRAM STUDIÓW STACJONARNYCH
+PROGRAM STUDIÓW NIESTACJONARNYCH
+Inżynieria chłodnicza, kriogeniczna i procesowa
+Specjalność „Inżynieria chłodnicza, kriogeniczna i procesowa” na kierunku „Mechanika i Budowa Maszyn Energetycznych” (studia stacjonarne) na Wydziale Mechaniczno-Energetycznym Politechniki Wrocławskiej skupia się na zdobywaniu wiedzy i umiejętności w dziedzinie projektowania i eksploatacji urządzeń i instalacji chłodniczych, kriogenicznych i procesowych. Studenci na tej specjalności zdobywają wiedzę z zakresu termodynamiki, mechaniki płynów, projektowania i analizy procesów przemysłowych. Specjalność ta umożliwia zdobycie praktycznych umiejętności projektowania i budowania instalacji chłodniczych oraz procesowych, w tym instalacji przemysłowych, chłodni, zamrażalni i magazynów chłodniczych. Absolwenci tej specjalności są przygotowani do pracy w branżach związanych z utrzymaniem komfortu termicznego człowieka, produkcją i dystrybucją żywności, farmaceutyków, chemikaliów, a także w firmach specjalizujących się w budowie i eksploatacji urządzeń kriogenicznych, takich jak zbiorniki ciekłych gazów czy instalacje do przetwarzania i przechowywania gazu ziemnego. Kształcenie na tej specjalności umożliwia zdobycie specjalistycznej wiedzy i umiejętności, które są coraz bardziej poszukiwane w przemyśle, ze względu na rosnące wymagania dotyczące efektywności energetycznej i ochrony środowiska.
+Inżynieria cieplna
+Specjalność „Inżynieria cieplna” na kierunku „Mechanika i Budowa Maszyn Energetycznych” na Wydziale Mechaniczno-Energetycznym Politechniki Wrocławskiej skupia się na zdobywaniu wiedzy i umiejętności z zakresu projektowania nowoczesnych maszyn i urządzeń stosowanych w układach energetycznych wykorzystujących zarówno odnawialne źródła energii jak też klasyczne paliwa. Studenci uczą się na tej specjalności budowy i projektowania m.in. turbin wiatrowych, wodnych, parowych i gazowych, pomp, wentylatorów, silników, wymienników ciepła i masy czy urządzeń automatyki stosowanej w energetyce. Studenci specjalności „Inżynieria cieplna” zdobywają szczegółową wiedzę z zakresu termodynamiki, mechaniki płynów, przepływu ciepła i masy, a także projektowania oraz badań eksperymentalnych i diagnostycznych urządzeń cieplnych. Studenci pozyskują ponadto wiedzę i umiejętności wykorzystania nowoczesnych technik komputerowego wspomagania projektowania i symulacji pracy maszyn i urządzeń energetycznych. Kształcenie na specjalności „Inżynieria cieplna” umożliwia więc zdobycie praktycznych umiejętności projektowania i analizy instalacji cieplnych oraz poznania narzędzi i technik wykorzystywanych w procesach cieplnych. Absolwenci tej specjalności są przygotowani do pracy w branżach związanych z najważniejszymi dziedzinami gospodarki, m.in. w przemyśle energetycznym, hutniczym, paliwowym, chemicznym, spożywczym czy w firmach zajmujących się projektowaniem, produkcją i badaniem maszyn i urządzeń cieplnych. Kształcenie na specjalności „Inżynieria cieplna” daje również możliwość zdobycia szczegółowej wiedzy na temat projektowania maszyn i urządzeń energetycznych wykorzystywanych do pozyskiwania energii ze źródeł odnawialnych.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+mechanika i budowa maszyn energetycznych
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik chłodnictwa i klimatyzacji
+Technik elektronik
+Technik elektryk
+Technik energetyk
+Technik gazownictwa
+Technik inżynierii sanitarnej
+Technik mechanik
+Technik mechatronik
+Technik ochrony środowiska
+Technik pojazdów samochodowych
+Technik robotyk
+Technik urządzeń i systemów energetyki odnawialnej
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+biura projektowe i firmy zajmujące się projektowaniem, produkcją i badaniem maszyn i urządzeń cieplnych i chłodniczych – na stanowisku konstruktora lub inżyniera procesów technologicznych
+ośrodki i działy badawczo-rozwojowe – inżynier ds. rozwoju
+firmy i instytucje użytkujące maszyny i urządzenia energetyczne – inżynier ds. eksploatacji, serwisu, dozoru technicznego
+przedsiębiorstwa energetyczne (w zakresie wytwarzania i dystrybucji energii elektrycznej, ciepła i chłodu) oraz przemysł hutniczy, paliwowy, chemiczny, spożywczy
+Praktyki i staże
+ZEC SERVICE
+LG Innotek Poland
+ENVILAB-EKO Norbert Dąbrowski
+Aeroklub Ziemi Piotrkowskiej
+Ferox Energy System
+Ekomex-Pilśniak
+MF ENDURO CROSS
+VEOLIA ENERGIA POZNAŃ
+TAURON Ciepło
+Elektroluber
+LNS
+Miejsca pracy absolwentów
+KCP
+RW Swiss Automation
+SPINKO
+Amazon
+Radiotechnika Marketing
+FAMET
+WTB Telecom
+WABCO Polska
+W&K Industriemontage
+Starion Wrocław
+Silencions
+Roba Metals Polska
+RGB Elektronika
+RAWLPLUG
+Radiotechnika Marketing
+PROCOM SYSTEM
+Poner
+Politechnika Wrocławska
+ORLEN Serwis
+Oleofar
+NG Engineering Group
+MT-Silesia
+Miejskie Przedsiębiorstwo Komunikacyjne
+McKinsey & Company
+MAHLE Behr Ostrów Wielkopolski
+M.A.S.
+LTS Poland
+LG Innotek Poland
+KSC Automation
+KSB Polska
+KMB GRUPA
+KLIMA-VENTA Kochel
+JABIL POLAND
+Industrade
+Grupa PCC
+Górażdże Cement
+GKN Driveline Polska
+Gillette Poland International
+Electrolux
+E&S Industry
+Danfoss Power Solutions
+ControlTec
+CLOOS-Polska
+CADM Automotive
+Antal
+Akzo Nobel
+AEOLUS ROBOTICS INC
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

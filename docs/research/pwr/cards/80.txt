@@ -1,0 +1,179 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Teleinformatyka
+Limit miejsc
+90
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Teleinformatyka
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 200 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Studia na kierunku gwarantują wykształcenie w obszarze informatyki oraz telekomunkacji. Kształcimy w zakresie:
+planowanie i utrzymanie sieci telekomunikacyjnych przewodowych i bezprzewodowych – media transmisyjne, kodowanie, kompresja informacji
+diagnostyka, utrzymanie, zarządzanie i administrowanie sieciami komputerowymi (sieci TCP/IP i przełączane) i teleinformatycznymi
+bezpieczeństwo sieci teleinformatycznych, w tym kryptografia i kompatybilność e-m
+bazy danych i chmury obliczeniowe
+projektowanie i programowanie aplikacji dla systemów teleinformatycznych oraz na urządzenia mobilne
+techniki internetowe
+sieci sensorowe
+metody sztucznej inteligencji
+prowadzenie działalności gospodarczej przy użyciu nowoczesnych technik (e-business i m-business).
+Zachęcamy do zapoznania się z programem studiów na kierunku teleinformatyka.
+PROGRAM STUDIÓW
+Projektowanie sieci teleinformatycznych
+Kształcenie przygotowuje do optymalizacji, projektowania i konstruowania urządzeń i
+systemów teleinformatycznych z uwzględnieniem aspektów transmisyjnych, skutecznego
+wykorzystania zasobów systemu, programowania aplikacji dla systemów teleinformatycznych
+oraz na urządzenia mobilne, zagwarantowania jakości świadczonych usług i ich
+bezpieczeństwa (głównie związanego z oprogramowaniem), stosowania technik
+internetowych, tworzenia i obsługi baz danych, systemów zarządzania, sztucznej inteligencji,
+administrowania systemem Windows, projektowania sieci teleinformatycznych, zagadnień
+związanych z funkcjonowaniem sieci przełączanych i sieci TCP/IP, wykorzystania coraz
+powszechniej stosowanych rozwiązań bezprzewodowych oraz metod skutecznego
+zarządzania procesem projektowania. W ramach specjalności studenci przechodzą przez dwa
+stopnie kursów Akademii Cisco CCNA v.7 (Wprowadzenie do sieci oraz Podstawy
+przełączania, routingu i łączności bezprzewodowej).
+Utrzymanie sieci teleinformatycznych
+Kształcenie obejmuje obsługę, zarządzanie i zaawansowaną diagnostykę sieci
+teleinformatycznych, marketing i doradztwo techniczne związane z ich projektowaniem,
+wdrażaniem i utrzymaniem, wiedzę z zakresu wykonawstwa usług instalatorskich, z zakresu
+zabezpieczenia sieci, metod tworzenia i obsługi obiegu dokumentów elektronicznych. W
+ramach kierunku Teleinformatyka studenci nabywają wiedzy podstawowej związanej m.in. z
+szerokopasmowymi technikami sieciowymi, sieciami bezprzewodowymi, kryptografią,
+mediami transmisyjnymi, bazami danych, planowaniem i projektowaniem sieci oraz
+lokalnymi i rozległymi sieciami komputerowymi. Na specjalności wiedza ich zostanie
+uzupełniona o chmury obliczeniowe, sieci sensorowe, diagnostykę i zagadnienia związane z
+utrzymaniem sieci. Specjalność przygotowuje do obsługi i rozwijania złożonych systemów
+teleinformatycznych stosowanych w przemyśle, administracji, wojsku, policji, ochronie
+zdrowia, edukacji, ze szczególnym uwzględnieniem technik internetowych,
+bezprzewodowych i systemów bazodanowych. W ramach specjalności studenci przechodzą
+przez dwa stopnie kursów Akademii Cisco CCNA v.7 (Wprowadzenie do sieci oraz Podstawy
+przełączania, routingu i łączności bezprzewodowej).
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+teleinformatyka
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technika elektronik
+Technik informatyk
+Technika programista
+Technik szerokopasmowej komunikacji elektronicznej
+Technik teleinformatyk
+Technik telekomunikacji
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+projektant sieci teleinformatycznych i systemów baz danych
+programista systemów informatycznych dla teleinformatyki, w tym dla aplikacji mobilnych
+specjalista ds. utrzymania sieci teleinformatycznych lub wdrażania rozwiązań teleinformatycznych
+administrator systemów teleinformatycznych np. w sektorze usług finansowych czy w przemyśle
+usługi doradztwa technicznego w obszarze teleinformatyki
+Miejsca pracy absolwentów
+Absolwenci tego kierunku znajdują zatrudnienie w wielu renomowanych firmach, m.in:
+Nokia
+IBM
+Cisco Poland
+Volvo IT
+Microsens
+Orange
+Instytut Łączności
+Urząd Komunikacji Elektronicznej
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

@@ -1,0 +1,176 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+3 304 169 105 30 0 164 92 56 16 0 30
+4 345 135 150 60 0 172 72 68 32 0 30
+2 390 195 150 45 0 196 104 68 24 0 30
+1 409 195 120 94 0 192 104 36 52 0 30
+0 375 135 75 120 45 184 72 28 64 20 30
+0 165 60 15 45 45 89 32 8 24 25 30
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Wprowadzenie do mikroekonomii I E 30 15 15 16 8 8 3
+Wprowadzenie do makroekonomii I Z 30 15 15 16 8 8 3
+Finanse II E 30 15 15 16 8 8 3
+Rachunkowość II E 30 15 15 16 8 8 3
+Zarządzanie I E 60 30 30 32 16 16 6
+Matematyka I E 60 30 30 32 16 16 6
+Prawo I Z 30 30 16 16 3
+Technologie cyfrowe I Z 30 30 16 16 3
+Metodyka badań naukowych IV Z 15 15 8 8 2
+315 165 120 30 0 168 88 64 16 0 32
+Podstawy marketingu II E 60 30 30 32 16 16 5
+Nauka o przedsiębiorstwie II Z 45 15 15 15 24 8 8 8 4
+Statystyka II E 60 30 15 15 32 16 8 8 6
+Logistyka zaopatrzenia i dystrybucji III E 60 30 30 32 16 16 5
+Finanse osobiste i behawioralne III Z 45 30 15 24 16 8 3
+Zarządzanie projektami III E 45 15 30 24 8 16 3
+Zarządzanie zasobami ludzkimi III Z 45 30 15 24 16 8 3
+E-biznes I Z 30 30 16 16 3
+Biznesplan IV Z 30 15 15 16 8 8 3
+Prawo dla przedsięwzięć internetowych IV Z 30 15 15 16 8 8 3
+450 240 135 75 0 240 128 72 40 0 38
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+RAZEM SEKCJA I
+RAZEM SEKCJA II
+lato 2028/2029 - Semestr 6
+E-BIZNES
+I STOPIEŃ
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+lato 2027/2028 - Semestr 4
+zima 2028/2029 - Semestr 5
+E
+C
+T
+S
+Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+2026/2027 - 2028/2029
+I ST - EB
+
+PAGE 2
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Arkusz kalkulacyjny w analizie danych II Z 30 30 16 16 3
+Optymalizacja decyzji z wykorzystaniem arkuszy 
+kalkulacyjnych III Z 30 15 15 16 8 8 3
+Zachowania nabywców III Z 30 15 15 16 8 8 3
+Rachunek kosztów działań logistycznych III Z 30 15 15 16 8 8 3
+Analityka internetowa i Google Ads IV Z 30 15 15 16 8 8 3
+AI i analiza danych w środowisku R IV Z 60 30 30 32 16 16 4
+Stymulowanie kreatywności i wspieranie postaw 
+innowacyjnych w przedsiębiorstwie IV Z 30 15 15 16 8 8 3
+Fintech IV E 30 30 16 16 2
+Zintegrowane systemy zarządzania klasy ERP IV Z 30 30 16 16 2
+Data Driven Start-up IV Z 15 15 8 8 1
+Prowadzenie, finansowanie i wycena start-up'ów V Z 30 15 15 16 8 8 2
+Projektowanie interakcji z użytkownikiem V Z 60 30 30 32 16 16 4
+Projektowanie aplikacji internetowych V Z 60 30 30 32 16 16 4
+Cyberbezpieczeństwo I Z 30 15 15 16 8 8 3
+Projektowanie e-usług VI Z 30 15 15 16 8 8 2
+Wykład rozwijający kompetencje społeczne i 
+zawodowe II Z 30 30 16 16 2
+555 285 75 195 0 296 152 40 104 0 44
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy VI Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy VI Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy VI Z 30 15 15 16 8 8 3
+210 105 15 90 0 112 56 8 48 0 21
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+SEKCJA IV. PRZEDMIOTY SPECJALNOŚCIOWE
+RAZEM SEKCJA III
+RAZEM SEKCJA IV
+I ST - EB
+
+PAGE 3
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Przedmiot humanistyczny I III Z 45 45 24 24 3
+Przedmiot humanistyczny II IV Z 45 45 24 24 3
+90 90 0 0 0 48 48 0 0 0 6
+Elektroniczne źródła informacji naukowej IV z 4 4 4 4 0
+Bezpieczeństwo i higiena pracy I z 4 4 4 4 0
+Wychowanie fizyczne IV z 30 30 0 0
+Wychowanie fizyczne V z 30 30 0 0
+Język obcy I - język angielski - S1 II Z 30 30 0 2
+Język obcy I - język angielski - S1 III Z 30 30 0 2
+Język obcy I - język angielski - S1 IV Z 30 30 0 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 30 30 0 2
+Język obcy II - S1 III Z 30 30 0 2
+Język obcy II - S1 IV Z 30 30 0 2
+Język obcy II - S1 V Z 30 30 0 2
+Seminarium dyplomowe V z 45 45 20 20 6
+Seminarium dyplomowe VI z 45 45 25 25 12
+Praca dyplomowa VI z 0
+Praktyka zawodowa (160 h) VI z 7
+368 4 270 4 90 133 4 80 4 45 39
+1988 889 615 394 90 997 476 264 212 45 180
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+RAZEM LICZBA GODZIN NA KIERUNKU
+RAZEM SEKCJA V
+RAZEM SEKCJA VI
+I ST - EB
+
+PAGE 4
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Prowadzenie sklepu internetowego V Z 30 15 15 16 8 8 3
+Profesjonalna sprzedaż i obsługa klienta V Z 30 15 15 16 8 8 3
+E-handel z wykorzystaniem porównywarki cen V Z 30 15 15 16 8 8 3
+Instrumenty konkurowania w E-commerce V Z 30 15 15 16 8 8 3
+E-marketplace VI Z 30 15 15 16 8 8 3
+Polityka asortymentowa VI Z 30 15 15 16 8 8 3
+Strategie  marketingu internetowego VI Z 30 15 15 16 8 8 3
+Lead Generation V Z 30 15 15 16 8 8 3
+SEO/SEM V Z 30 15 15 16 8 8 3
+Web Design V Z 30 15 15 16 8 8 3
+Marketing w mediach społecznościowych V Z 30 15 15 16 8 8 3
+Marketing w kanale wideo VI Z 30 15 15 16 8 8 3
+Kreowanie marki w Internecie VI Z 30 15 15 16 8 8 3
+Sztuczna inteligencja w marketingu VI Z 30 15 15 16 8 8 3
+E-commerce
+E-marketing
+SZCZEGÓŁOWY WYKAZ SPECJALNOŚCI
+I ST - EB

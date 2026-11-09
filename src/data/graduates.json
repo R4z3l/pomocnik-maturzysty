@@ -1,0 +1,1899 @@
+{
+  "checkedAt": "2026-10-25",
+  "graduationYear": 2024,
+  "edition": "11 / 2026",
+  "observation": "pierwszy rok po dyplomie (P1) dla wynagrodzeń, pracy, bezrobocia i dalszych studiów; czas do pierwszej pracy i obecność w ZUS dotyczą całego okresu badania kohorty",
+  "sourceUrl": "https://ela.nauka.gov.pl/pl/experts/source-data",
+  "dictionaryUrl": "https://ela.nauka.gov.pl/sla-server/v6.0/dataExperts/graduates/graduates-major-dictionary.xlsx",
+  "methodologyUrl": "https://ela.nauka.gov.pl/ELA10_opis_badania_20250625.pdf",
+  "citationUrl": "https://ela.nauka.gov.pl/pl/citation",
+  "citation": "Ośrodek Przetwarzania Informacji – Państwowy Instytut Badawczy, Ogólnopolski system monitorowania ekonomicznych losów absolwentów szkół wyższych, absolwenci, Edycja 11, 2026.",
+  "cohorts": [
+    {
+      "id": "5191",
+      "universityId": "uwr",
+      "name": "Administracja",
+      "reportName": "Administracja, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 83,
+      "inZus": 52.0,
+      "medianSalary": 3093.93,
+      "meanSalary": 3350.68,
+      "relativeSalary": 0.39,
+      "relativeUnemployment": 0.42,
+      "unemploymentRisk": 2.1,
+      "employmentPercent": 50.6,
+      "furtherStudyPercent": 81.9,
+      "jobSearchMonths": 2.98,
+      "jobSearchNoExperienceMonths": 3.39
+    },
+    {
+      "id": "10058",
+      "universityId": "uwr",
+      "name": "Anglistyka",
+      "reportName": "Anglistyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 41,
+      "inZus": 19.0,
+      "medianSalary": 3211.2,
+      "meanSalary": 3332.32,
+      "relativeSalary": 0.35,
+      "relativeUnemployment": 0.19,
+      "unemploymentRisk": 0.8,
+      "employmentPercent": 39.0,
+      "furtherStudyPercent": 73.2,
+      "jobSearchMonths": 3.28,
+      "jobSearchNoExperienceMonths": 2.7
+    },
+    {
+      "id": "5279",
+      "universityId": "uwr",
+      "name": "Archeologia",
+      "reportName": "Archeologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 25,
+      "inZus": 6.0,
+      "medianSalary": 2578.95,
+      "meanSalary": 2429.48,
+      "relativeSalary": 0.26,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 16.0,
+      "furtherStudyPercent": 84.0,
+      "jobSearchMonths": 7.0,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5256",
+      "universityId": "uwr",
+      "name": "Bachelor of Business and Administration",
+      "reportName": "Bachelor of Business and Administration, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 60,
+      "inZus": 16.0,
+      "medianSalary": 5354.76,
+      "meanSalary": 5381.14,
+      "relativeSalary": 0.58,
+      "relativeUnemployment": 0.52,
+      "unemploymentRisk": 1.7,
+      "employmentPercent": 21.7,
+      "furtherStudyPercent": 23.3,
+      "jobSearchMonths": 1.0,
+      "jobSearchNoExperienceMonths": 1.0
+    },
+    {
+      "id": "5241",
+      "universityId": "uwr",
+      "name": "Bezpieczeństwo narodowe",
+      "reportName": "Bezpieczeństwo narodowe, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 60,
+      "inZus": 43.0,
+      "medianSalary": 4273.65,
+      "meanSalary": 3702.79,
+      "relativeSalary": 0.44,
+      "relativeUnemployment": 0.14,
+      "unemploymentRisk": 0.7,
+      "employmentPercent": 43.3,
+      "furtherStudyPercent": 85.0,
+      "jobSearchMonths": 4.9,
+      "jobSearchNoExperienceMonths": 5.9
+    },
+    {
+      "id": "5205",
+      "universityId": "uwr",
+      "name": "Biologia",
+      "reportName": "Biologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 39,
+      "inZus": 20.0,
+      "medianSalary": 2350.68,
+      "meanSalary": 2283.73,
+      "relativeSalary": 0.27,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 38.5,
+      "furtherStudyPercent": 84.6,
+      "jobSearchMonths": 3.19,
+      "jobSearchNoExperienceMonths": 2.46
+    },
+    {
+      "id": "5188",
+      "universityId": "uwr",
+      "name": "Biologia człowieka",
+      "reportName": "Biologia człowieka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 15,
+      "inZus": 9.0,
+      "medianSalary": 2970.0,
+      "meanSalary": 3178.14,
+      "relativeSalary": 0.36,
+      "relativeUnemployment": 1.7,
+      "unemploymentRisk": 5.6,
+      "employmentPercent": 46.7,
+      "furtherStudyPercent": 60.0,
+      "jobSearchMonths": 1.86,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5328",
+      "universityId": "uwr",
+      "name": "Biotechnologia",
+      "reportName": "Biotechnologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 60,
+      "inZus": 31.0,
+      "medianSalary": 2312.5,
+      "meanSalary": 2462.16,
+      "relativeSalary": 0.28,
+      "relativeUnemployment": 0.03,
+      "unemploymentRisk": 0.3,
+      "employmentPercent": 28.3,
+      "furtherStudyPercent": 73.3,
+      "jobSearchMonths": 3.58,
+      "jobSearchNoExperienceMonths": 3.92
+    },
+    {
+      "id": "5281",
+      "universityId": "uwr",
+      "name": "Biotechnology",
+      "reportName": "Biotechnology, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 16,
+      "inZus": 5.0,
+      "medianSalary": 3120.61,
+      "meanSalary": 2856.03,
+      "relativeSalary": 0.34,
+      "relativeUnemployment": 0.74,
+      "unemploymentRisk": 5.7,
+      "employmentPercent": 18.8,
+      "furtherStudyPercent": 43.8,
+      "jobSearchMonths": 7.0,
+      "jobSearchNoExperienceMonths": 7.0
+    },
+    {
+      "id": "5226",
+      "universityId": "uwr",
+      "name": "Chemia",
+      "reportName": "Chemia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 33,
+      "inZus": 15.0,
+      "medianSalary": 3553.88,
+      "meanSalary": 3273.71,
+      "relativeSalary": 0.41,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 30.3,
+      "furtherStudyPercent": 93.9,
+      "jobSearchMonths": 1.2,
+      "jobSearchNoExperienceMonths": 0.17
+    },
+    {
+      "id": "5266",
+      "universityId": "uwr",
+      "name": "Chemia medyczna",
+      "reportName": "Chemia medyczna, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 39,
+      "inZus": 11.0,
+      "medianSalary": 2112.39,
+      "meanSalary": 2361.36,
+      "relativeSalary": 0.28,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 17.9,
+      "furtherStudyPercent": 92.3,
+      "jobSearchMonths": 3.29,
+      "jobSearchNoExperienceMonths": 5.75
+    },
+    {
+      "id": "10112",
+      "universityId": "uwr",
+      "name": "Criminal Justice",
+      "reportName": "Criminal Justice, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 23,
+      "inZus": 7.0,
+      "medianSalary": 2878.8,
+      "meanSalary": 3191.13,
+      "relativeSalary": 0.34,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 21.7,
+      "furtherStudyPercent": 34.8,
+      "jobSearchMonths": 3.5,
+      "jobSearchNoExperienceMonths": 6.67
+    },
+    {
+      "id": "5193",
+      "universityId": "uwr",
+      "name": "Dyplomacja europejska",
+      "reportName": "Dyplomacja europejska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 22,
+      "inZus": 16.0,
+      "medianSalary": 3439.75,
+      "meanSalary": 3833.47,
+      "relativeSalary": 0.38,
+      "relativeUnemployment": 0.14,
+      "unemploymentRisk": 0.8,
+      "employmentPercent": 54.5,
+      "furtherStudyPercent": 86.4,
+      "jobSearchMonths": 3.57,
+      "jobSearchNoExperienceMonths": 5.56
+    },
+    {
+      "id": "5312",
+      "universityId": "uwr",
+      "name": "Dziedzictwo kultury materialnej - ochrona, promocja, gospodarowanie",
+      "reportName": "Dziedzictwo kultury materialnej - ochrona, promocja, gospodarowanie, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 23,
+      "inZus": 15.0,
+      "medianSalary": 3069.76,
+      "meanSalary": 2936.34,
+      "relativeSalary": 0.32,
+      "relativeUnemployment": 1.49,
+      "unemploymentRisk": 4.0,
+      "employmentPercent": 39.1,
+      "furtherStudyPercent": 78.3,
+      "jobSearchMonths": 2.11,
+      "jobSearchNoExperienceMonths": 1.4
+    },
+    {
+      "id": "5252",
+      "universityId": "uwr",
+      "name": "Dziennikarstwo i komunikacja społeczna",
+      "reportName": "Dziennikarstwo i komunikacja społeczna, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 41,
+      "inZus": 26.0,
+      "medianSalary": 3407.12,
+      "meanSalary": 3454.45,
+      "relativeSalary": 0.38,
+      "relativeUnemployment": 0.15,
+      "unemploymentRisk": 0.6,
+      "employmentPercent": 51.2,
+      "furtherStudyPercent": 65.9,
+      "jobSearchMonths": 3.21,
+      "jobSearchNoExperienceMonths": 3.85
+    },
+    {
+      "id": "5316",
+      "universityId": "uwr",
+      "name": "Ekonomia",
+      "reportName": "Ekonomia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 82,
+      "inZus": 56.0,
+      "medianSalary": 2937.76,
+      "meanSalary": 3772.31,
+      "relativeSalary": 0.43,
+      "relativeUnemployment": 0.06,
+      "unemploymentRisk": 0.1,
+      "employmentPercent": 57.3,
+      "furtherStudyPercent": 81.7,
+      "jobSearchMonths": 2.02,
+      "jobSearchNoExperienceMonths": 2.46
+    },
+    {
+      "id": "5211",
+      "universityId": "uwr",
+      "name": "Etnologia i antropologia kulturowa",
+      "reportName": "Etnologia i antropologia kulturowa, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 23,
+      "inZus": 16.0,
+      "medianSalary": 4489.24,
+      "meanSalary": 4554.39,
+      "relativeSalary": 0.51,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 39.1,
+      "furtherStudyPercent": 82.6,
+      "jobSearchMonths": 5.58,
+      "jobSearchNoExperienceMonths": 8.29
+    },
+    {
+      "id": "5294",
+      "universityId": "uwr",
+      "name": "Europeistyka",
+      "reportName": "Europeistyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 13,
+      "inZus": 9.0,
+      "medianSalary": 3758.1,
+      "meanSalary": 3851.72,
+      "relativeSalary": 0.41,
+      "relativeUnemployment": 0.27,
+      "unemploymentRisk": 1.3,
+      "employmentPercent": 38.5,
+      "furtherStudyPercent": 69.2,
+      "jobSearchMonths": 4.0,
+      "jobSearchNoExperienceMonths": 6.33
+    },
+    {
+      "id": "10063",
+      "universityId": "uwr",
+      "name": "Filologia czeska",
+      "reportName": "Filologia czeska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 10,
+      "inZus": 7.0,
+      "medianSalary": 2320.6,
+      "meanSalary": 3432.16,
+      "relativeSalary": 0.41,
+      "relativeUnemployment": 0.26,
+      "unemploymentRisk": 3.3,
+      "employmentPercent": 40.0,
+      "furtherStudyPercent": 70.0,
+      "jobSearchMonths": 3.0,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "10066",
+      "universityId": "uwr",
+      "name": "Filologia francuska",
+      "reportName": "Filologia francuska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 21,
+      "inZus": 13.0,
+      "medianSalary": 4532.68,
+      "meanSalary": 4003.92,
+      "relativeSalary": 0.45,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 47.6,
+      "furtherStudyPercent": 81.0,
+      "jobSearchMonths": 2.4,
+      "jobSearchNoExperienceMonths": 3.43
+    },
+    {
+      "id": "10068",
+      "universityId": "uwr",
+      "name": "Filologia germańska",
+      "reportName": "Filologia germańska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 60,
+      "inZus": 42.0,
+      "medianSalary": 3474.92,
+      "meanSalary": 3736.25,
+      "relativeSalary": 0.43,
+      "relativeUnemployment": 0.16,
+      "unemploymentRisk": 0.7,
+      "employmentPercent": 51.7,
+      "furtherStudyPercent": 66.7,
+      "jobSearchMonths": 3.24,
+      "jobSearchNoExperienceMonths": 4.33
+    },
+    {
+      "id": "10078",
+      "universityId": "uwr",
+      "name": "Filologia hiszpańska",
+      "reportName": "Filologia hiszpańska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 29,
+      "inZus": 14.0,
+      "medianSalary": 2731.29,
+      "meanSalary": 3469.13,
+      "relativeSalary": 0.38,
+      "relativeUnemployment": 1.4,
+      "unemploymentRisk": 2.6,
+      "employmentPercent": 44.8,
+      "furtherStudyPercent": 79.3,
+      "jobSearchMonths": 3.23,
+      "jobSearchNoExperienceMonths": 4.33
+    },
+    {
+      "id": "5218",
+      "universityId": "uwr",
+      "name": "Filologia polska",
+      "reportName": "Filologia polska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 72,
+      "inZus": 38.0,
+      "medianSalary": 2152.19,
+      "meanSalary": 2251.63,
+      "relativeSalary": 0.26,
+      "relativeUnemployment": 0.42,
+      "unemploymentRisk": 1.0,
+      "employmentPercent": 31.9,
+      "furtherStudyPercent": 88.9,
+      "jobSearchMonths": 4.63,
+      "jobSearchNoExperienceMonths": 4.58
+    },
+    {
+      "id": "10089",
+      "universityId": "uwr",
+      "name": "Filologia rosyjska",
+      "reportName": "Filologia rosyjska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 31,
+      "inZus": 22.0,
+      "medianSalary": 4577.93,
+      "meanSalary": 4056.87,
+      "relativeSalary": 0.46,
+      "relativeUnemployment": 1.04,
+      "unemploymentRisk": 4.0,
+      "employmentPercent": 48.4,
+      "furtherStudyPercent": 51.6,
+      "jobSearchMonths": 2.59,
+      "jobSearchNoExperienceMonths": 3.58
+    },
+    {
+      "id": "5165",
+      "universityId": "uwr",
+      "name": "Fizyka",
+      "reportName": "Fizyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 13,
+      "inZus": 7.0,
+      "medianSalary": 3911.87,
+      "meanSalary": 4162.04,
+      "relativeSalary": 0.46,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 30.8,
+      "furtherStudyPercent": 61.5,
+      "jobSearchMonths": 0.75,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5232",
+      "universityId": "uwr",
+      "name": "Genetyka i biologia eksperymentalna",
+      "reportName": "Genetyka i biologia eksperymentalna, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 32,
+      "inZus": 7.0,
+      "medianSalary": 2635.36,
+      "meanSalary": 3176.36,
+      "relativeSalary": 0.38,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 12.5,
+      "furtherStudyPercent": 78.1,
+      "jobSearchMonths": 5.0,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5319",
+      "universityId": "uwr",
+      "name": "Geografia",
+      "reportName": "Geografia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 24,
+      "inZus": 8.0,
+      "medianSalary": 4003.31,
+      "meanSalary": 4173.08,
+      "relativeSalary": 0.51,
+      "relativeUnemployment": 0.46,
+      "unemploymentRisk": 1.4,
+      "employmentPercent": 25.0,
+      "furtherStudyPercent": 79.2,
+      "jobSearchMonths": 8.12,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5272",
+      "universityId": "uwr",
+      "name": "Gospodarka przestrzenna",
+      "reportName": "Gospodarka przestrzenna, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 42,
+      "inZus": 24.0,
+      "medianSalary": 2679.56,
+      "meanSalary": 2942.85,
+      "relativeSalary": 0.34,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 38.1,
+      "furtherStudyPercent": 90.5,
+      "jobSearchMonths": 1.31,
+      "jobSearchNoExperienceMonths": 1.1
+    },
+    {
+      "id": "5297",
+      "universityId": "uwr",
+      "name": "Historia",
+      "reportName": "Historia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 51,
+      "inZus": 20.0,
+      "medianSalary": 2929.37,
+      "meanSalary": 2805.87,
+      "relativeSalary": 0.32,
+      "relativeUnemployment": 1.18,
+      "unemploymentRisk": 2.5,
+      "employmentPercent": 21.6,
+      "furtherStudyPercent": 86.3,
+      "jobSearchMonths": 4.46,
+      "jobSearchNoExperienceMonths": 7.57
+    },
+    {
+      "id": "5184",
+      "universityId": "uwr",
+      "name": "Historia sztuki",
+      "reportName": "Historia sztuki, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 20,
+      "inZus": 4.0,
+      "medianSalary": null,
+      "meanSalary": null,
+      "relativeSalary": null,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 10.0,
+      "furtherStudyPercent": 90.0,
+      "jobSearchMonths": null,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5277",
+      "universityId": "uwr",
+      "name": "Indywidualne studia informatyczno-matematyczne",
+      "reportName": "Indywidualne studia informatyczno-matematyczne, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 11,
+      "inZus": 8.0,
+      "medianSalary": 8129.92,
+      "meanSalary": 8712.87,
+      "relativeSalary": 0.96,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 45.5,
+      "furtherStudyPercent": 81.8,
+      "jobSearchMonths": 6.57,
+      "jobSearchNoExperienceMonths": 10.75
+    },
+    {
+      "id": "5168",
+      "universityId": "uwr",
+      "name": "Informacja naukowa i bibliotekoznawstwo",
+      "reportName": "Informacja naukowa i bibliotekoznawstwo, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 22,
+      "inZus": 15.0,
+      "medianSalary": 3648.35,
+      "meanSalary": 3420.73,
+      "relativeSalary": 0.39,
+      "relativeUnemployment": 0.79,
+      "unemploymentRisk": 5.7,
+      "employmentPercent": 50.0,
+      "furtherStudyPercent": 72.7,
+      "jobSearchMonths": 3.67,
+      "jobSearchNoExperienceMonths": 5.33
+    },
+    {
+      "id": "5200",
+      "universityId": "uwr",
+      "name": "Informatyka",
+      "reportName": "Informatyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 10,
+      "inZus": 8.0,
+      "medianSalary": 8218.81,
+      "meanSalary": 5612.46,
+      "relativeSalary": 0.61,
+      "relativeUnemployment": 3.89,
+      "unemploymentRisk": 8.3,
+      "employmentPercent": 60.0,
+      "furtherStudyPercent": 20.0,
+      "jobSearchMonths": 4.0,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "29081",
+      "universityId": "uwr",
+      "name": "Informatyka",
+      "reportName": "Informatyka, studia stacjonarne pierwszego stopnia, 7-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 72,
+      "inZus": 59.0,
+      "medianSalary": 9604.69,
+      "meanSalary": 9917.24,
+      "relativeSalary": 1.11,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 63.9,
+      "furtherStudyPercent": 56.9,
+      "jobSearchMonths": 4.61,
+      "jobSearchNoExperienceMonths": 7.1
+    },
+    {
+      "id": "5288",
+      "universityId": "uwr",
+      "name": "Informatyka stosowana i systemy pomiarowe",
+      "reportName": "Informatyka stosowana i systemy pomiarowe, studia stacjonarne pierwszego stopnia, 7-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 26,
+      "inZus": 24.0,
+      "medianSalary": 7111.37,
+      "meanSalary": 7294.79,
+      "relativeSalary": 0.84,
+      "relativeUnemployment": 2.43,
+      "unemploymentRisk": 6.7,
+      "employmentPercent": 80.8,
+      "furtherStudyPercent": 34.6,
+      "jobSearchMonths": 4.0,
+      "jobSearchNoExperienceMonths": 5.43
+    },
+    {
+      "id": "5236",
+      "universityId": "uwr",
+      "name": "Komunikacja wizerunkowa",
+      "reportName": "Komunikacja wizerunkowa, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 64,
+      "inZus": 42.0,
+      "medianSalary": 3976.64,
+      "meanSalary": 4306.73,
+      "relativeSalary": 0.49,
+      "relativeUnemployment": 0.15,
+      "unemploymentRisk": 0.3,
+      "employmentPercent": 39.1,
+      "furtherStudyPercent": 76.6,
+      "jobSearchMonths": 2.97,
+      "jobSearchNoExperienceMonths": 3.78
+    },
+    {
+      "id": "10095",
+      "universityId": "uwr",
+      "name": "Koreanistyka",
+      "reportName": "Koreanistyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 13,
+      "inZus": 7.0,
+      "medianSalary": 3008.21,
+      "meanSalary": 3230.72,
+      "relativeSalary": 0.37,
+      "relativeUnemployment": 0.75,
+      "unemploymentRisk": 2.6,
+      "employmentPercent": 53.8,
+      "furtherStudyPercent": 46.2,
+      "jobSearchMonths": 2.29,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5250",
+      "universityId": "uwr",
+      "name": "Kultura i praktyka tekstu: twórcze pisanie i edytorstwo",
+      "reportName": "Kultura i praktyka tekstu: twórcze pisanie i edytorstwo, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 36,
+      "inZus": 19.0,
+      "medianSalary": 4706.97,
+      "meanSalary": 3921.62,
+      "relativeSalary": 0.44,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 36.1,
+      "furtherStudyPercent": 75.0,
+      "jobSearchMonths": 4.36,
+      "jobSearchNoExperienceMonths": 5.33
+    },
+    {
+      "id": "5271",
+      "universityId": "uwr",
+      "name": "Kulturoznawstwo",
+      "reportName": "Kulturoznawstwo, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 21,
+      "inZus": 11.0,
+      "medianSalary": 3688.52,
+      "meanSalary": 4138.89,
+      "relativeSalary": 0.48,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 23.8,
+      "furtherStudyPercent": 90.5,
+      "jobSearchMonths": 0.6,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5207",
+      "universityId": "uwr",
+      "name": "Matematyka",
+      "reportName": "Matematyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 81,
+      "inZus": 51.0,
+      "medianSalary": 4665.3,
+      "meanSalary": 5073.52,
+      "relativeSalary": 0.6,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 42.0,
+      "furtherStudyPercent": 85.2,
+      "jobSearchMonths": 5.02,
+      "jobSearchNoExperienceMonths": 6.61
+    },
+    {
+      "id": "5249",
+      "universityId": "uwr",
+      "name": "Mikrobiologia",
+      "reportName": "Mikrobiologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 36,
+      "inZus": 28.0,
+      "medianSalary": 2193.86,
+      "meanSalary": 3249.11,
+      "relativeSalary": 0.38,
+      "relativeUnemployment": 0.38,
+      "unemploymentRisk": 1.2,
+      "employmentPercent": 41.7,
+      "furtherStudyPercent": 69.4,
+      "jobSearchMonths": 2.27,
+      "jobSearchNoExperienceMonths": 2.83
+    },
+    {
+      "id": "5244",
+      "universityId": "uwr",
+      "name": "Muzykologia",
+      "reportName": "Muzykologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 11,
+      "inZus": 7.0,
+      "medianSalary": 1801.16,
+      "meanSalary": 2163.26,
+      "relativeSalary": 0.24,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 54.5,
+      "furtherStudyPercent": 63.6,
+      "jobSearchMonths": 2.0,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "10096",
+      "universityId": "uwr",
+      "name": "Niderlandystyka",
+      "reportName": "Niderlandystyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 36,
+      "inZus": 28.0,
+      "medianSalary": 3508.44,
+      "meanSalary": 4088.69,
+      "relativeSalary": 0.44,
+      "relativeUnemployment": 0.29,
+      "unemploymentRisk": 2.8,
+      "employmentPercent": 55.6,
+      "furtherStudyPercent": 75.0,
+      "jobSearchMonths": 5.46,
+      "jobSearchNoExperienceMonths": 7.17
+    },
+    {
+      "id": "5283",
+      "universityId": "uwr",
+      "name": "Ochrona środowiska",
+      "reportName": "Ochrona środowiska, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 19,
+      "inZus": 9.0,
+      "medianSalary": 1159.18,
+      "meanSalary": 1382.7,
+      "relativeSalary": 0.16,
+      "relativeUnemployment": 0.04,
+      "unemploymentRisk": 0.4,
+      "employmentPercent": 47.4,
+      "furtherStudyPercent": 78.9,
+      "jobSearchMonths": 3.44,
+      "jobSearchNoExperienceMonths": 3.17
+    },
+    {
+      "id": "5163",
+      "universityId": "uwr",
+      "name": "Pedagogika",
+      "reportName": "Pedagogika, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 75,
+      "inZus": 52.0,
+      "medianSalary": 3600.84,
+      "meanSalary": 3730.5,
+      "relativeSalary": 0.43,
+      "relativeUnemployment": 0.14,
+      "unemploymentRisk": 0.6,
+      "employmentPercent": 58.7,
+      "furtherStudyPercent": 85.3,
+      "jobSearchMonths": 2.41,
+      "jobSearchNoExperienceMonths": 3.29
+    },
+    {
+      "id": "10113",
+      "universityId": "uwr",
+      "name": "Pedagogika przedszkolna i wczesnoszkolna",
+      "reportName": "Pedagogika przedszkolna i wczesnoszkolna, stacjonarne jednolite studia magisterskie, 10-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "long-cycle",
+      "graduates": 15,
+      "inZus": 15.0,
+      "medianSalary": 6256.38,
+      "meanSalary": 5798.49,
+      "relativeSalary": 0.73,
+      "relativeUnemployment": 0.14,
+      "unemploymentRisk": 1.1,
+      "employmentPercent": 86.7,
+      "furtherStudyPercent": null,
+      "jobSearchMonths": 3.73,
+      "jobSearchNoExperienceMonths": 4.55
+    },
+    {
+      "id": "5197",
+      "universityId": "uwr",
+      "name": "Politologia",
+      "reportName": "Politologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 26,
+      "inZus": 16.0,
+      "medianSalary": 2500.97,
+      "meanSalary": 3031.1,
+      "relativeSalary": 0.34,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 50.0,
+      "furtherStudyPercent": 61.5,
+      "jobSearchMonths": 2.23,
+      "jobSearchNoExperienceMonths": 3.14
+    },
+    {
+      "id": "5174",
+      "universityId": "uwr",
+      "name": "Praca socjalna",
+      "reportName": "Praca socjalna, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 22,
+      "inZus": 16.0,
+      "medianSalary": 5641.74,
+      "meanSalary": 4685.11,
+      "relativeSalary": 0.58,
+      "relativeUnemployment": 0.2,
+      "unemploymentRisk": 1.1,
+      "employmentPercent": 63.6,
+      "furtherStudyPercent": 77.3,
+      "jobSearchMonths": 3.73,
+      "jobSearchNoExperienceMonths": 4.29
+    },
+    {
+      "id": "5175",
+      "universityId": "uwr",
+      "name": "Prawo",
+      "reportName": "Prawo, stacjonarne jednolite studia magisterskie, 10-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "long-cycle",
+      "graduates": 164,
+      "inZus": 152.0,
+      "medianSalary": 4900.0,
+      "meanSalary": 4936.64,
+      "relativeSalary": 0.54,
+      "relativeUnemployment": 0.92,
+      "unemploymentRisk": 4.9,
+      "employmentPercent": 83.5,
+      "furtherStudyPercent": null,
+      "jobSearchMonths": 3.26,
+      "jobSearchNoExperienceMonths": 3.99
+    },
+    {
+      "id": "5208",
+      "universityId": "uwr",
+      "name": "Psychologia",
+      "reportName": "Psychologia, stacjonarne jednolite studia magisterskie, 10-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "long-cycle",
+      "graduates": 75,
+      "inZus": 73.0,
+      "medianSalary": 4788.55,
+      "meanSalary": 4184.2,
+      "relativeSalary": 0.47,
+      "relativeUnemployment": 1.24,
+      "unemploymentRisk": 3.9,
+      "employmentPercent": 90.7,
+      "furtherStudyPercent": null,
+      "jobSearchMonths": 3.26,
+      "jobSearchNoExperienceMonths": 2.98
+    },
+    {
+      "id": "5315",
+      "universityId": "uwr",
+      "name": "Publikowanie cyfrowe i sieciowe",
+      "reportName": "Publikowanie cyfrowe i sieciowe, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 33,
+      "inZus": 18.0,
+      "medianSalary": 3140.05,
+      "meanSalary": 3309.64,
+      "relativeSalary": 0.39,
+      "relativeUnemployment": 0.11,
+      "unemploymentRisk": 0.3,
+      "employmentPercent": 39.4,
+      "furtherStudyPercent": 81.8,
+      "jobSearchMonths": 2.07,
+      "jobSearchNoExperienceMonths": 2.6
+    },
+    {
+      "id": "10098",
+      "universityId": "uwr",
+      "name": "Sinologia",
+      "reportName": "Sinologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 16,
+      "inZus": 12.0,
+      "medianSalary": 4746.92,
+      "meanSalary": 4586.59,
+      "relativeSalary": 0.55,
+      "relativeUnemployment": 1.08,
+      "unemploymentRisk": 4.2,
+      "employmentPercent": 37.5,
+      "furtherStudyPercent": 31.2,
+      "jobSearchMonths": 3.33,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5246",
+      "universityId": "uwr",
+      "name": "Socjologia",
+      "reportName": "Socjologia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 28,
+      "inZus": 20.0,
+      "medianSalary": 2654.44,
+      "meanSalary": 2790.13,
+      "relativeSalary": 0.3,
+      "relativeUnemployment": 0.35,
+      "unemploymentRisk": 0.6,
+      "employmentPercent": 39.3,
+      "furtherStudyPercent": 64.3,
+      "jobSearchMonths": 4.62,
+      "jobSearchNoExperienceMonths": 6.33
+    },
+    {
+      "id": "10411",
+      "universityId": "uwr",
+      "name": "Socjologia ekonomiczna",
+      "reportName": "Socjologia ekonomiczna, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 31,
+      "inZus": 20.0,
+      "medianSalary": 4224.68,
+      "meanSalary": 4315.43,
+      "relativeSalary": 0.49,
+      "relativeUnemployment": 0.12,
+      "unemploymentRisk": 0.3,
+      "employmentPercent": 45.2,
+      "furtherStudyPercent": 77.4,
+      "jobSearchMonths": 3.07,
+      "jobSearchNoExperienceMonths": 2.1
+    },
+    {
+      "id": "5172",
+      "universityId": "uwr",
+      "name": "Stosunki międzynarodowe",
+      "reportName": "Stosunki międzynarodowe, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 64,
+      "inZus": 36.0,
+      "medianSalary": 3915.34,
+      "meanSalary": 4495.68,
+      "relativeSalary": 0.53,
+      "relativeUnemployment": 0.4,
+      "unemploymentRisk": 2.7,
+      "employmentPercent": 32.8,
+      "furtherStudyPercent": 62.5,
+      "jobSearchMonths": 2.64,
+      "jobSearchNoExperienceMonths": 2.64
+    },
+    {
+      "id": "5268",
+      "universityId": "uwr",
+      "name": "Turystyka",
+      "reportName": "Turystyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 36,
+      "inZus": 25.0,
+      "medianSalary": 2080.49,
+      "meanSalary": 2290.58,
+      "relativeSalary": 0.26,
+      "relativeUnemployment": 0.4,
+      "unemploymentRisk": 2.8,
+      "employmentPercent": 38.9,
+      "furtherStudyPercent": 72.2,
+      "jobSearchMonths": 7.0,
+      "jobSearchNoExperienceMonths": 7.06
+    },
+    {
+      "id": "5185",
+      "universityId": "uwr",
+      "name": "Zarządzanie projektami społecznymi",
+      "reportName": "Zarządzanie projektami społecznymi, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 42,
+      "inZus": 29.0,
+      "medianSalary": 2850.0,
+      "meanSalary": 2908.36,
+      "relativeSalary": 0.3,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 40.5,
+      "furtherStudyPercent": 85.7,
+      "jobSearchMonths": 3.7,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "5275",
+      "universityId": "uwr",
+      "name": "Zarządzanie środowiskiem przyrodniczym",
+      "reportName": "Zarządzanie środowiskiem przyrodniczym, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 19,
+      "inZus": 12.0,
+      "medianSalary": 3062.54,
+      "meanSalary": 3694.95,
+      "relativeSalary": 0.44,
+      "relativeUnemployment": 1.25,
+      "unemploymentRisk": 3.5,
+      "employmentPercent": 42.1,
+      "furtherStudyPercent": 78.9,
+      "jobSearchMonths": 7.36,
+      "jobSearchNoExperienceMonths": 9.29
+    },
+    {
+      "id": "3809",
+      "universityId": "uew",
+      "name": "Analityka gospodarcza",
+      "reportName": "Analityka gospodarcza, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 45,
+      "inZus": 27.0,
+      "medianSalary": 4451.15,
+      "meanSalary": 4336.53,
+      "relativeSalary": 0.48,
+      "relativeUnemployment": 0.44,
+      "unemploymentRisk": 1.5,
+      "employmentPercent": 48.9,
+      "furtherStudyPercent": 88.9,
+      "jobSearchMonths": 2.68,
+      "jobSearchNoExperienceMonths": 2.4
+    },
+    {
+      "id": "3812",
+      "universityId": "uew",
+      "name": "Ekonomia",
+      "reportName": "Ekonomia, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 66,
+      "inZus": 46.0,
+      "medianSalary": 3307.8,
+      "meanSalary": 3820.86,
+      "relativeSalary": 0.42,
+      "relativeUnemployment": 0.15,
+      "unemploymentRisk": 1.4,
+      "employmentPercent": 60.6,
+      "furtherStudyPercent": 89.4,
+      "jobSearchMonths": 1.9,
+      "jobSearchNoExperienceMonths": 2.32
+    },
+    {
+      "id": "3783",
+      "universityId": "uew",
+      "name": "Finanse i rachunkowość",
+      "reportName": "Finanse i rachunkowość, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 174,
+      "inZus": 119.0,
+      "medianSalary": 4535.89,
+      "meanSalary": 4632.87,
+      "relativeSalary": 0.54,
+      "relativeUnemployment": 0.09,
+      "unemploymentRisk": 0.5,
+      "employmentPercent": 57.5,
+      "furtherStudyPercent": 85.6,
+      "jobSearchMonths": 2.98,
+      "jobSearchNoExperienceMonths": 3.65
+    },
+    {
+      "id": "3798",
+      "universityId": "uew",
+      "name": "Informatyka w biznesie",
+      "reportName": "Informatyka w biznesie, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 29,
+      "inZus": 18.0,
+      "medianSalary": 2585.43,
+      "meanSalary": 3904.86,
+      "relativeSalary": 0.42,
+      "relativeUnemployment": 0.48,
+      "unemploymentRisk": 2.3,
+      "employmentPercent": 48.3,
+      "furtherStudyPercent": 69.0,
+      "jobSearchMonths": 2.53,
+      "jobSearchNoExperienceMonths": 2.86
+    },
+    {
+      "id": "3810",
+      "universityId": "uew",
+      "name": "Logistyka",
+      "reportName": "Logistyka, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 50,
+      "inZus": 38.0,
+      "medianSalary": 3756.17,
+      "meanSalary": 3950.32,
+      "relativeSalary": 0.43,
+      "relativeUnemployment": 1.03,
+      "unemploymentRisk": 4.8,
+      "employmentPercent": 60.0,
+      "furtherStudyPercent": 74.0,
+      "jobSearchMonths": 3.94,
+      "jobSearchNoExperienceMonths": 4.08
+    },
+    {
+      "id": "3824",
+      "universityId": "uew",
+      "name": "Międzynarodowe stosunki gospodarcze",
+      "reportName": "Międzynarodowe stosunki gospodarcze, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 58,
+      "inZus": 37.0,
+      "medianSalary": 5000.03,
+      "meanSalary": 4861.46,
+      "relativeSalary": 0.53,
+      "relativeUnemployment": 0.13,
+      "unemploymentRisk": 0.4,
+      "employmentPercent": 46.6,
+      "furtherStudyPercent": 81.0,
+      "jobSearchMonths": 3.16,
+      "jobSearchNoExperienceMonths": 3.44
+    },
+    {
+      "id": "3795",
+      "universityId": "uew",
+      "name": "Zarządzanie",
+      "reportName": "Zarządzanie, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 138,
+      "inZus": 91.0,
+      "medianSalary": 3370.95,
+      "meanSalary": 3409.71,
+      "relativeSalary": 0.38,
+      "relativeUnemployment": 0.26,
+      "unemploymentRisk": 0.8,
+      "employmentPercent": 48.6,
+      "furtherStudyPercent": 76.1,
+      "jobSearchMonths": 3.34,
+      "jobSearchNoExperienceMonths": 3.9
+    },
+    {
+      "id": "3800",
+      "universityId": "uew",
+      "name": "Zarządzanie i inżynieria produkcji",
+      "reportName": "Zarządzanie i inżynieria produkcji, studia stacjonarne pierwszego stopnia, 7-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 161,
+      "inZus": 133.0,
+      "medianSalary": 3776.06,
+      "meanSalary": 3842.89,
+      "relativeSalary": 0.44,
+      "relativeUnemployment": 0.47,
+      "unemploymentRisk": 2.0,
+      "employmentPercent": 60.2,
+      "furtherStudyPercent": 81.4,
+      "jobSearchMonths": 5.97,
+      "jobSearchNoExperienceMonths": 6.82
+    },
+    {
+      "id": "11224",
+      "universityId": "uew",
+      "name": "Business Informatics",
+      "reportName": "Business Informatics, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 10,
+      "inZus": 6.0,
+      "medianSalary": 4097.49,
+      "meanSalary": 4789.23,
+      "relativeSalary": 0.51,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 50.0,
+      "furtherStudyPercent": 70.0,
+      "jobSearchMonths": 2.2,
+      "jobSearchNoExperienceMonths": null
+    },
+    {
+      "id": "11221",
+      "universityId": "uew",
+      "name": "Business Management",
+      "reportName": "Business Management, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 36,
+      "inZus": 23.0,
+      "medianSalary": 3623.74,
+      "meanSalary": 4589.71,
+      "relativeSalary": 0.48,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 50.0,
+      "furtherStudyPercent": 66.7,
+      "jobSearchMonths": 3.75,
+      "jobSearchNoExperienceMonths": 2.75
+    },
+    {
+      "id": "11225",
+      "universityId": "uew",
+      "name": "Finance",
+      "reportName": "Finance, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 24,
+      "inZus": 21.0,
+      "medianSalary": 5674.93,
+      "meanSalary": 6029.67,
+      "relativeSalary": 0.66,
+      "relativeUnemployment": 0.38,
+      "unemploymentRisk": 2.8,
+      "employmentPercent": 79.2,
+      "furtherStudyPercent": 66.7,
+      "jobSearchMonths": 2.25,
+      "jobSearchNoExperienceMonths": 4.0
+    },
+    {
+      "id": "11233",
+      "universityId": "uew",
+      "name": "International Business",
+      "reportName": "International Business, studia stacjonarne pierwszego stopnia, 6-semestralne, profil ogólnoakademicki",
+      "unit": "",
+      "specialty": "",
+      "level": "bachelor",
+      "graduates": 25,
+      "inZus": 14.0,
+      "medianSalary": 5441.59,
+      "meanSalary": 5027.19,
+      "relativeSalary": 0.55,
+      "relativeUnemployment": 0.0,
+      "unemploymentRisk": 0.0,
+      "employmentPercent": 44.0,
+      "furtherStudyPercent": 80.0,
+      "jobSearchMonths": 4.08,
+      "jobSearchNoExperienceMonths": 6.29
+    }
+  ],
+  "matches": [
+    {
+      "programmeId": "uwr-administracja",
+      "cohortIds": [
+        "5191"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-anglistyka",
+      "cohortIds": [
+        "10058"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-archeologia",
+      "cohortIds": [
+        "5279"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-bachelor-of-business-and-administration",
+      "cohortIds": [
+        "5256"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-bezpieczenstwo-narodowe",
+      "cohortIds": [
+        "5241"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-biologia",
+      "cohortIds": [
+        "5205"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-biologia-czlowieka",
+      "cohortIds": [
+        "5188"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-biotechnologia",
+      "cohortIds": [
+        "5328"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-biotechnology",
+      "cohortIds": [
+        "5281"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-chemia",
+      "cohortIds": [
+        "5226"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-chemia-medyczna",
+      "cohortIds": [
+        "5266"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-criminal-justice",
+      "cohortIds": [
+        "10112"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-dyplomacja-europejska",
+      "cohortIds": [
+        "5193"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie",
+      "cohortIds": [
+        "5312"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-dziennikarstwo-i-komunikacja-spoleczna",
+      "cohortIds": [
+        "5252"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-ekonomia",
+      "cohortIds": [
+        "5316"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-etnologia-i-antropologia-kulturowa",
+      "cohortIds": [
+        "5211"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-europeistyka",
+      "cohortIds": [
+        "5294"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-filologia-czeska",
+      "cohortIds": [
+        "10063"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-filologia-francuska",
+      "cohortIds": [
+        "10066"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-filologia-germanska",
+      "cohortIds": [
+        "10068"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-filologia-hiszpanska",
+      "cohortIds": [
+        "10078"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-filologia-polska",
+      "cohortIds": [
+        "5218"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-filologia-rosyjska",
+      "cohortIds": [
+        "10089"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-fizyka",
+      "cohortIds": [
+        "5165"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-genetyka-i-biologia-eksperymentalna",
+      "cohortIds": [
+        "5232"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-geografia",
+      "cohortIds": [
+        "5319"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-gospodarka-przestrzenna",
+      "cohortIds": [
+        "5272"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-historia",
+      "cohortIds": [
+        "5297"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-historia-sztuki",
+      "cohortIds": [
+        "5184"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-indywidualne-studia-informatyczno-matematyczne",
+      "cohortIds": [
+        "5277"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-informacja-naukowa-i-bibliotekoznawstwo",
+      "cohortIds": [
+        "5168"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-informatyka",
+      "cohortIds": [
+        "5200",
+        "29081"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-informatyka-stosowana-i-systemy-pomiarowe",
+      "cohortIds": [
+        "5288"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-komunikacja-wizerunkowa",
+      "cohortIds": [
+        "5236"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-koreanistyka",
+      "cohortIds": [
+        "10095"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-kultura-i-praktyka-tekstu-tworcze-pisanie-i-edytorstwo",
+      "cohortIds": [
+        "5250"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-kulturoznawstwo",
+      "cohortIds": [
+        "5271"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-matematyka",
+      "cohortIds": [
+        "5207"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-mikrobiologia",
+      "cohortIds": [
+        "5249"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-muzykologia",
+      "cohortIds": [
+        "5244"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-niderlandystyka",
+      "cohortIds": [
+        "10096"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-ochrona-srodowiska",
+      "cohortIds": [
+        "5283"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-pedagogika",
+      "cohortIds": [
+        "5163"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-pedagogika-przedszkolna-i-wczesnoszkolna",
+      "cohortIds": [
+        "10113"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-politologia",
+      "cohortIds": [
+        "5197"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-praca-socjalna",
+      "cohortIds": [
+        "5174"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-prawo",
+      "cohortIds": [
+        "5175"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-psychologia",
+      "cohortIds": [
+        "5208"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-publikowanie-cyfrowe-i-sieciowe",
+      "cohortIds": [
+        "5315"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-sinologia",
+      "cohortIds": [
+        "10098"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-socjologia",
+      "cohortIds": [
+        "5246"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-socjologia-ekonomiczna",
+      "cohortIds": [
+        "10411"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-stosunki-miedzynarodowe",
+      "cohortIds": [
+        "5172"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-turystyka",
+      "cohortIds": [
+        "5268"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-zarzadzanie-projektami-spolecznymi",
+      "cohortIds": [
+        "5185"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uwr-zarzadzanie-srodowiskiem-przyrodniczym",
+      "cohortIds": [
+        "5275"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-analityka-gospodarcza",
+      "cohortIds": [
+        "3809"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-ekonomia",
+      "cohortIds": [
+        "3812"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-finanse-i-rachunkowosc",
+      "cohortIds": [
+        "3783"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-informatyka-w-biznesie",
+      "cohortIds": [
+        "3798"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-logistyka",
+      "cohortIds": [
+        "3810"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-miedzynarodowe-stosunki-gospodarcze",
+      "cohortIds": [
+        "3824"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-zarzadzanie",
+      "cohortIds": [
+        "3795"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-zarzadzanie-i-inzynieria-produkcji",
+      "cohortIds": [
+        "3800"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-business-informatics",
+      "cohortIds": [
+        "11224"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-business-management",
+      "cohortIds": [
+        "11221"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-finance",
+      "cohortIds": [
+        "11225"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    },
+    {
+      "programmeId": "uew-international-business",
+      "cohortIds": [
+        "11233"
+      ],
+      "note": "Dopasowano uczelnię, nazwę, poziom i tryb stacjonarny. Zestawienie ELA nie ma osobnego pola języka; nie rozdzielamy ani nie łączymy wariantów językowych. Program absolwentów 2024 może różnić się od programu rekrutacji 2027."
+    }
+  ]
+}

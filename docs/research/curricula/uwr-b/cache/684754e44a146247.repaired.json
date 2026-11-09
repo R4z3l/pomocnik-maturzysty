@@ -1,0 +1,111 @@
+[
+  {
+    "page": 1,
+    "context": "STUDIA STACJONARNE I STOPNIA NA KIERUNKU OCHRONA ŚRODOWISKA OD ROKU AKAD. 2023/2024 Nazwa przedmiotu Liczba punktów ECTS TOTAL",
+    "subjects": [
+      "Chemia 1",
+      "Matematyka w naukach przyrodniczych",
+      "Zagrożenia cywilizacyjne",
+      "Ekologia ogólna",
+      "Biologia z elementami ewolucjonizmu",
+      "Metodologia prawa",
+      "Geologia dynamiczna",
+      "Wstęp do kartografii",
+      "Podstawy biogeochemii",
+      "Meteorologia i klimatologia",
+      "Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej"
+    ]
+  },
+  {
+    "page": 2,
+    "context": "Semestr 2 Chemia 2 4 4 E 45 45 15 30 Geologia gospodarcza 3 3 Z 30 30 15 1",
+    "subjects": [
+      "Chemia 2",
+      "Geologia gospodarcza",
+      "Biologia zwierząt",
+      "Techniki elektroanalityczne",
+      "Ekosystemy lądowe",
+      "Dzieje życia na Ziemi",
+      "Fizyka",
+      "Instrumenty prawne w ochronie środowiska",
+      "Geologia dynamiczna-ćw. terenowe",
+      "Przedmioty do wyboru1",
+      "Chemia 3",
+      "Technologie w ochronie środowiska",
+      "Geomorfologia",
+      "Hydrologia",
+      "Biologia roślin i grzybów",
+      "Język obcy nowożytny2",
+      "Analizy przestrzenne w ochronie środowiska (GIS)",
+      "Różnorodność biologiczna - flora Polski",
+      "Gleboznawstwo",
+      "Gleboznawstwo - ćw. terenowe"
+    ]
+  },
+  {
+    "page": 3,
+    "context": "Różnorodność biologiczna - fauna Polski 3 3 E 45 45 15 30 Analiza środowiska atmosferycznego i wodnego 3 3 Z 32 32",
+    "subjects": [
+      "Różnorodność biologiczna - fauna Polski",
+      "Analiza środowiska atmosferycznego i wodnego",
+      "Wychowanie fizyczne",
+      "Podstawy hydrogeologii i geologii inżynierskiej",
+      "Język obcy nowożytny",
+      "Przedmiot z MODUŁU A",
+      "Przedmiot do wyboru1",
+      "Monitoring środowiska I",
+      "Monitoring środowiska II",
+      "Ochrona przyrody",
+      "Geochemia środowiska",
+      "Biologia drobnoustrojów",
+      "Monitoring środowiska III",
+      "Przedmiot z MODUŁU B",
+      "Monitoring środowiska IV",
+      "Zarządzanie bioróżnorodnością",
+      "Język obcy nowożytny *",
+      "Przedmiot z MODUŁU C",
+      "Przedmiot z MODUŁU D"
+    ]
+  },
+  {
+    "page": 4,
+    "context": "Razem w semestrze 6 31 7 24 118 78 40 5 0 30 25 0 4 48 10 0 Razem w czasie studiów licencjackich 180 125 55 2210 1572 638 627 35 60 582 315 4 249",
+    "subjects": []
+  },
+  {
+    "page": 5,
+    "context": "Rok I/II semestr zimowy/letni Zasady pisania dyplomowych i naukowych prac przyrodniczych 4 4 Z 40 40 20 20",
+    "subjects": [
+      "Zasady pisania",
+      "Porosty jako biowskaźniki",
+      "Oceanografia",
+      "Biotechnologia zachowawcza",
+      "Hodowle komórek roślinnych",
+      "Gospodarka wodna i",
+      "Rekonstrukcje paleośrodowisk na podstawie skamieniałości",
+      "Ewolucja kręgowców",
+      "Zanieczyszczenia",
+      "Zajęcia terenowe z"
+    ]
+  },
+  {
+    "page": 6,
+    "context": "Antropocen - rola człowieka w globalnym ekosystemie 2 2 Z 30 30 20 10 Rok I/II/III semestr letni Bezpi",
+    "subjects": [
+      "Antropocen - rola",
+      "Bezpieczeństwo w",
+      "Płazy Świata - biologia,",
+      "Fizyczne metody badań w",
+      "Praktyki zawodowe",
+      "Problematyka nauk"
+    ]
+  },
+  {
+    "page": 7,
+    "context": "(monitoring i technologie środowiskowe) MODUŁ C Przygotowanie pracy dyplomowej (ochrona różnorodności biologicznej) 10 10",
+    "subjects": [
+      "Przygotowanie pracy",
+      "Seminarium dyplomowe"
+    ]
+  }
+]

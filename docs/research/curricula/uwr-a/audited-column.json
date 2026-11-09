@@ -1,0 +1,457 @@
+{
+  "uwr-administracja": [
+    {
+      "page": 1,
+      "subjects": [
+        "I ROK",
+        "Historia administracji",
+        "Wstęp do prawoznawstwa",
+        "Podstawy ekonomii",
+        "Wstęp do nauki o państwie i polityce",
+        "Statystyka w administracji",
+        "Przedmiot do wyboru:",
+        "Decydowanie i techniki decyzyjne w administracji",
+        "Socjologia i metody badań socjologicznych w administracji",
+        "Prawo konstytucyjne",
+        "Podstawy logiki praktycznej",
+        "Prawo administracyjne",
+        "Podstawy prawa międzynarodowego i europejskiego",
+        "Nauka administracji",
+        "Prawo urzędnicze i etyka urzędnicza"
+      ]
+    },
+    {
+      "page": 2,
+      "subjects": [
+        "II ROK",
+        "Podstawy prawa międzynarodowego i europejskiego",
+        "Prawo administracyjne",
+        "Podstawy prawa cywilnego",
+        "Prawo własności intelektualnej",
+        "Tworzenie prawa w administracji",
+        "Finanse publiczne i prawo finansowe",
+        "Podstawy prawa pracy",
+        "Postępowanie administracyjne",
+        "Podstawy prawa zabezpieczenia społecznego",
+        "Ustrój samorządu terytorialnego",
+        "Seminarium dyplomowe",
+        "Język obcy",
+        "Psychologia w sytuacjach kryzysowych",
+        "Regulacje funkcjonowania służb mundurowych",
+        "Gospodarowanie nieruchomościami i kształtowanie ładu przestrzennego"
+      ]
+    },
+    {
+      "page": 3,
+      "subjects": [
+        "Międzynarodowe stosunki gospodarcze",
+        "Obywatel i cudzoziemiec w prawie międzynarodowym",
+        "Samorząd gospodarczy w Polsce",
+        "Zarządzanie publiczne w samorządzie terytorialnym",
+        "III ROK",
+        "Prawo zamówień publicznych",
+        "Nauka organizacji i zarządzania",
+        "Prawa człowieka i systemy ich ochrony",
+        "Język obcy",
+        "Publiczne prawo gospodarcze",
+        "Seminarium dyplomowe",
+        "Prawo karne",
+        "Prawo wykroczeń"
+      ]
+    },
+    {
+      "page": 4,
+      "subjects": [
+        "Podstawy rachunkowości",
+        "Podstawy procesu karnego",
+        "Podstawy prawa karnego skarbowego",
+        "Podstawy prawa karnego wykonawczego",
+        "Prawo celne i dewizowe",
+        "Finanse samorządowe",
+        "Administracja ochrony środowiska",
+        "Polityka społeczna",
+        "Zarządzanie projektami UE",
+        "Ogólne prawo podatkowe",
+        "Szczegółowe prawo podatkowe",
+        "Prawo pracy II",
+        "Administracja porównawcza",
+        "Prawo gospodarcze UE",
+        "Międzynarodowe prawo inwestycyjne"
+      ]
+    },
+    {
+      "page": 5,
+      "subjects": [
+        "Prawo konkurencji i pomocy publicznej w UE",
+        "Stosunki zewnętrzne UE",
+        "Unia Gospodarcza i Walutowa",
+        "Przestrzeń Wolności, Bezpieczeństwa i Sprawiedliwości",
+        "Samorząd terytorialny a państwo",
+        "Zadania samorządu terytorialnego w sferze socjalnej",
+        "Finanse jednostek samorządu terytorialnego",
+        "Samorząd terytorialny w stosunkach międzynarodowych",
+        "Pracownicy samorządowi",
+        "Samorząd zawodowy w Polsce",
+        "Kontrola i nadzór nad samorządem terytorialnym",
+        "Gospodarka komunalna"
+      ]
+    }
+  ],
+  "uwr-criminal-justice": [
+    {
+      "page": 2,
+      "subjects": [
+        "I ROK",
+        "Critical Thinking and Argumentation / Krytyczne myślenie i argumentacja",
+        "Human Rights in Criminal Justice Context / Prawa czlowieka a wymiar sprawedliwości w sprawach karnych",
+        "Introduction to Criminology / Wprowadzenie do kryminologii",
+        "Elective",
+        "History of Crime and Criminal Justice /",
+        "Historia przestępczości i wymiaru",
+        "sprawiedliwości w sprawach karnych",
+        "History of Forensic Sciences / Historia",
+        "kryminalistyki",
+        "Polish Language for Foreigners (A1) / Język polski dla cudzoziemców A1",
+        "Introduction to Law / Podstawy prawa",
+        "Statistics in Criminal Justice / Statystyka a wymiar sprawiedliwości w sprawach karnych",
+        "Introduction to Forensic Science / Wprowadzenie do kryminalistyki",
+        "Criminal Etiology & Research Methods / Etiologia kryminalna i metody badawcze",
+        "Introduction to Criminal Law / Wprowadzenie do prawa karnego",
+        "Elements of Legal System / Działy systemu prawa",
+        "II ROK"
+      ]
+    },
+    {
+      "page": 3,
+      "subjects": [
+        "Probation, Parole and Penitentiary Law / Środki probacyjne i prawo penitencjarn",
+        "White-Collar Crimes / Przestępczość gospodarcza",
+        "Elective",
+        "Cybercrimes / Cyberprzestępczość",
+        "Crimes against Animals / Przestępstwa",
+        "przeciwko zwierzętom",
+        "Intellectual Property Protection / Ochrona własności intelektualnej",
+        "Foreign Language (B2) (Język obcy B2)",
+        "EU Criminal Law / Prawo karne Unii Europejskiej",
+        "Criminal Procedure and Courts / Postępowanie karne",
+        "International Criminal Justice / Międzynarodowe sądownictwo karne",
+        "Race, Gender, Ethnicity and Crime / Rasa, płeć, pochodzenie etniczne i przestępczość",
+        "Ethics and Criminal Justice / Etyka a wymiar sprawiedliwości w sprawach karnych",
+        "Economics and Society /",
+        "Ekonomia i społeczeństwo",
+        "Political and Legal Thought /",
+        "Myśl polityczna i prawna",
+        "III ROK",
+        "EU & International Policing / Unia Europejska i międzynarodowa współpraca policyjna",
+        "International Crimes / Zbrodnie międzynarodowe",
+        "Civil Liability / Odpowiedzialność cywilna"
+      ]
+    },
+    {
+      "page": 4,
+      "subjects": [
+        "Data Protection / Ochrona danych",
+        "Elective",
+        "Reintegration of convicts / Reintegracja",
+        "skazanych",
+        "History of Law Enforcement /",
+        "Historia egzekowania prawa",
+        "Complaints to ECHR in Criminal Cases /",
+        "Skargi do Europejskiego Trybunału Praw",
+        "Człowieka dotyczące spraw karnych",
+        "Environmental Crimes / Przestępstwa",
+        "przeciwko środowisku",
+        "Foreign Language (B2) / Język obcy B2",
+        "Seminar / Seminarium",
+        "Victimology / Wiktymologia",
+        "Violent crimes / Przestępstwa z użyciem",
+        "przemocy",
+        "Organized crime / Przestępczość",
+        "zorganizowana",
+        "Organization and Safety of Mass Events /",
+        "Organizacja i bezpieczeństwo imprez",
+        "masowych",
+        "Counter-terrorism / Zwalczanie terroryzmu",
+        "Juvenile Justice and Delinquency /",
+        "Przestępczość i wymiar sprawiedliwości",
+        "nieletnich",
+        "Sexual Offences / Przestępstwa seksualne"
+      ]
+    },
+    {
+      "page": 5,
+      "subjects": [
+        "Rok studiów",
+        "I rok",
+        "II rok",
+        "III rok"
+      ]
+    }
+  ],
+  "uwr-bachelor-of-business-and-administration": [
+    {
+      "page": 59,
+      "subjects": [
+        "Economic Policy",
+        "(Polityka ekonomiczna)",
+        "European Integration",
+        "(Integracja europejska)",
+        "Argumentation and Critical Thinking",
+        "(Argumentacja i krytyczne myślenie)",
+        "Contemporary Legal Cultures",
+        "(Współczesne kultury prawne)",
+        "Polish Language for Foreigners (A1) (Język polski dla cudzoziemców A1)",
+        "Fundamentals of Macroeconomics (Podstawy makroekonomii)",
+        "Introduction to Finance (Wprowadzenie do finansów)",
+        "Fundamentals of Civil and Commercial Law (Podstawy prawa cywilnego i hadlowego)",
+        "Public Administration and Administrative Poli- cies (Administracja publiczna i polityka administra- cyjna)",
+        "Fundamentals of Management and Strategic Management (Podstawy zarządzania i zarządzanie strate- giczne)",
+        "Foreign Language (B2) (Język obcy B2)",
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Private International Law",
+        "(Prawo prywatne międzynarodowe)",
+        "Economy of the EU",
+        "(Ekonomia UE)",
+        "Economic Logic",
+        "(Logika dla ekonomistów)",
+        "Fundamentals of Financial Arythmetics",
+        "(Podstawy arytmetyki finansowej)"
+      ]
+    },
+    {
+      "page": 60,
+      "subjects": [
+        "Principles of Accounting (Podstawy rachunkowości)",
+        "Introduction to the EU Law (Wprowadzenie do prawa UE)",
+        "Introduction to Criminal Law (Wprowadzenie do prawa karnego)",
+        "Decision Making in Business and Administration (Podejmowanie decyzji w biznesie i w admini- stracji )",
+        "Sociology of Organisations (Socjologia organizacji)",
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Fundamentals of Competition Law",
+        "(Podstawy prawa konkurencji)",
+        "Introductory Statistics for Business",
+        "(Podstawy statystyki dla biznesu)",
+        "e-Business",
+        "(e-Biznes)",
+        "Fundamentals of Labour Law and Social Secu-",
+        "rity",
+        "(Podstawy prawa pracy i zabezpieczenia spo-",
+        "łecznego)",
+        "Foreign Language (B2) (Język obcy B2)",
+        "Human Resource Management (Zarządzanie zasobami ludzkimi)",
+        "Administrative Legal Environment of Business and Administrative Procedures"
+      ]
+    },
+    {
+      "page": 61,
+      "subjects": [
+        "(Administracyjnoprawne otoczenie biznesu i procedury administracyjne)",
+        "Theory and Practice of Entrepreneurship (Teoria i praktyka przedsiębiorczości)",
+        "Intellectual Property Protection (Prawo własności intelektualnej)",
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Marketing in International Environment",
+        "(Marketing w międzynarodowym środowisku)",
+        "Theories of Leadership",
+        "(Teorie przywództwa)",
+        "Regional Policy of the European Union",
+        "(Polityka regionalna UE)",
+        "Introduction to Law of International Organisa-",
+        "tions",
+        "(Wprowadzenie do prawa organizacji międzyna-",
+        "rodowych)",
+        "Business Finance (Finanse bizesu)",
+        "Commercial Contracts (Umowy handlowe)"
+      ]
+    },
+    {
+      "page": 62,
+      "subjects": [
+        "Business Ethics and Corporate Social Responsi- bility (Etyka i społeczna odpowiedzialność biznesu)",
+        "Global Economy (Globalna ekonomia)",
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Fundamentals of Investments",
+        "(Podstawy inwestowania)",
+        "Negotiations in Business",
+        "(Negocjacje w biznesie)",
+        "Public Procurement and Public-Private Partner-",
+        "ship in the EU",
+        "(Zamówienia publiczne i partnerstwo publiczno-",
+        "prywatne w UE)",
+        "Law of Advertisement",
+        "(Prawo reklamy)",
+        "Bachelor Thesis (Seminarium dyplomowe)",
+        "Business Planning (Planowanie w biznesie)",
+        "International Trade Law (Międzynarodowe prawo handlowe)",
+        "Business Taxation (Opodatkowanie biznesu)",
+        "Innovation Management in Business (Zarządzanie innowacjami w biznesie)",
+        "Consumer Protection in the European Union",
+        "(Ochrona konsumentów w UE)",
+        "(Karne aspekty obrotu gospodarczego)",
+        "European Business",
+        "(Biznes europejski)"
+      ]
+    },
+    {
+      "page": 63,
+      "subjects": [
+        "Financial Statements Analysis (Analiza finansowa)",
+        "Corporate Finance (Finanse przedsiębiorstw)",
+        "Introduction to Financial Law (Wprowadzenie do prawa finansowego)",
+        "Financial Markets and Institutions (Rynki i instytucje finansowe)",
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Financial services",
+        "(Usługi finansowe)",
+        "Public Finance",
+        "(Finanse publiczne)",
+        "Introduction to Econometrics",
+        "(Wprowadzenie do ekonometrii)",
+        "International Tax Policy",
+        "(Międzynarodowa polityka podatkowa)",
+        "Bachelor Thesis (Seminarium dyplomowe)",
+        "Insurance Market (Rynek ubezpieczeń)",
+        "Portfolio Analysis (Analiza portfelowa)",
+        "Personal Finance (Finanse personalne)",
+        "International Finance (Finanse międzynarodowe)",
+        "Financial Instruments",
+        "(Instrumenty finansowe)",
+        "Banking",
+        "(Bankowość)",
+        "Operational Research",
+        "(Badania operacyjne)",
+        "Capital Market",
+        "(Rynek kapitałowy)"
+      ]
+    },
+    {
+      "page": 64,
+      "subjects": [
+        "European Administrative System (Europejski system administracyjny)",
+        "Corporate Governance (Zarządzanie korporacyjne)",
+        "Legal Systems of Human Rights Protection (Systemy ochrony praw człowieka)",
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Migration Law and Policy",
+        "(Polityka i prawo migracyjne)",
+        "International Arbitration and Mediation",
+        "(Międzynarodowy arbitraż i mediacje)",
+        "Law of International Responsibility",
+        "(Prawo odpowiedzialności międzynarodowej)",
+        "Administrative Reforms in the European Coun-",
+        "tries",
+        "(Reformy administracyjne w państwach euro-",
+        "pejskich)",
+        "Bachelor Thesis (Seminarium dyplomowe)",
+        "International Cooperation and Mutual Assi- stance (Współpraca międzynarodowa i wzajemna po- moc)",
+        "Horizontal Market for Sustainable Development (Rynek horyzontalny dla zrównoważonego roz- woju)",
+        "Public Governance (Zarządzanie publiczne)",
+        "Ethics and Accountability in Public Sector (Etyka i odpowiedzialność w sektorze publicz- nym)"
+      ]
+    },
+    {
+      "page": 65,
+      "subjects": [
+        "Elective / Przedmioty do wyboru",
+        "(student wybiera 2 przedmioty)",
+        "Global Administrative Law",
+        "(Globalne prawo administracyjne)",
+        "Interest Representation in the EU",
+        "(Reprezentacja interesów w UE)",
+        "Environmental Governance",
+        "(Zarządzanie w zakresie ochrony środowiska)",
+        "Law of Non-Governmental Organisations",
+        "(Prawo organizacji pozarządowych)"
+      ]
+    }
+  ],
+  "uwr-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie": [
+    {
+      "page": 1,
+      "subjects": [
+        "Język obcy 12 nowożytny*",
+        "Wychowanie fizyczne***",
+        "architektury 4 europejskiej średniowiecza do XX w.)",
+        "architektury 4 sztuki w Polsce",
+        "Zabytkoznawstwo 2 1",
+        "Krajobraz kulturowy, 3 1 jego elementy i interpretacje",
+        "Dzieje książki i 2 zbiorów bibliotecznych",
+        "Geografia 2 turystyczna świata",
+        "Ekologia i ochrona 2 środowiska",
+        "Prawodawstwo w 2 zakresie ochrony dziedzictwa kulturowego",
+        "Pojęcie regionu i 6 polityka regionalna UE",
+        "Seminarium 12 licencjackie"
+      ]
+    },
+    {
+      "page": 2,
+      "subjects": [
+        "dyplomowa** 10",
+        "Pakiet zajęć obligatoryjnych",
+        "turystyczne 2 0 Polski",
+        "turystyczne 5 0 Dolnego Śląska",
+        "Dziedzictwo 2 0 przemysłowo- techniczne Europy i Polski",
+        "globalizacji 2 0 współczesnego świata",
+        "Wybrane problemy 2 0 historii techniki i przemysłu XVIII-XX w.",
+        "Dziedzictwo 2 0 cywilizacyjne Śląska",
+        "Przemiany społeczne 4 0 Polsce XIX/XXI w.",
+        "Muzealnictwo 3 2",
+        "Pakiet zajęć uzupełniających",
+        "Techniki obsługi 4 4 turystycznego",
+        "Historia w 1 przestrzeni publicznej (wybrane zagadnienia)",
+        "Podstawy 2 0 numizmatyki nowożytnej",
+        "Przemiany 1 0 demograficzne na ziemiach Polskich XIX-XXI w.",
+        "Przedmiot do wyboru 2 0"
+      ]
+    },
+    {
+      "page": 3,
+      "subjects": [
+        "Analiza źródeł do 1 0 badania kultury materialnej",
+        "i gospodarka 5 0 Polsce i Unii Europejskiej",
+        "Zajęcia 6 terenowe/ekwiwalent (po 60 h na specjalność",
+        "zaliczenia w ciągu sem. 2-5",
+        "Egzamin licencjacki 6 semestrze",
+        "zaliczenia w ciągu sem. 3-5",
+        "- Gospodarowanie kultury materialnej",
+        "i budownictwo - i wzorce lokalne* 6 0",
+        "formy i detale w 6 6",
+        "komunalna XIX-XX w. 2 0",
+        "i formy ochrony kultury 3 2"
+      ]
+    },
+    {
+      "page": 4,
+      "subjects": [
+        "badania 4 4",
+        "Śląska po II wojnie - dziedzictwo materialne-społeczeństwo- 2 0",
+        "inwentaryzacji i zabytków 2 2",
+        "dokumentacji i ruchomych techniki oraz 3 3",
+        "sepulkralna XVII - 2 1",
+        "adaptacja i architektury i budownictwa 2 2",
+        "fotografii dokumentacyjnej 2 2",
+        "problemowy 5 0",
+        "40 23",
+        "Turystyka historyczna",
+        "turystyki. Środki transportu i kierunki",
+        "krajobrazu naturalnego i kulturowego jako globalizacji",
+        "podróżowania",
+        "historyczne",
+        "jej rodzaje",
+        "funduszy UE na promocję regionu - wniosków, warsztaty",
+        "polonijna"
+      ]
+    },
+    {
+      "page": 5,
+      "subjects": [
+        "czasu wolnego",
+        "promocji regionu",
+        "Procentowy udział liczby punktów przyporządkowanego do więcej niż"
+      ]
+    }
+  ]
+}

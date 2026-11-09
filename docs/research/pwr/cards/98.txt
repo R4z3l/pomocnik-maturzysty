@@ -1,0 +1,101 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Informatyka stosowana
+Limit miejsc
+120
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Informatyka stosowana
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 100 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Opis kierunku
+Program studiów I stopnia na kierunku informatyka stosowana pozwala na zdobycie kwalifikacji obejmujących wiedzę, umiejętności i kompetencje inżynierskie w zakresie: języków programowania w tym języków niskiego poziomu na potrzeby Internetu Rzeczy, algorytmów i struktur danych, paradygmatów programowania, sieci komputerowych, administracji systemami, cyberbezpieczeństwa, modelowania i analizy danych biznesowych, projektowania oprogramowania, w tym projektowania baz danych, zarządzania projektem informatycznym, sztucznej inteligencji, systemów rozproszonych, aplikacji mobilnych i multimediów.
+Zachęcamy do zapoznania się z programem studiów na kierunku informatyka stosowana.
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka lub informatyka)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Specjaliści działu IT zajmujący się utrzymaniem i rozwojem narzędzi informatycznych w firmach i instytucjach prowadzących działalność produkcyjną, handlową, usługową lub badawczą
+Programiści, testerzy i administratorzy oprogramowania
+Projektanci i administratorzy systemów informatycznych i sieci komputerowych
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

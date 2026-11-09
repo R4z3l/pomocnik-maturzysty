@@ -1,0 +1,192 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+3 379 244 135 0 0 204 132 72 0 0 30
+3 360 165 165 30 0 180 88 76 16 0 30
+2 390 225 135 30 0 196 120 60 16 0 30
+2 364 195 165 4 0 168 104 60 4 0 30
+0 360 120 180 15 45 176 64 84 8 20 30
+0 135 45 45 0 45 73 24 24 0 25 30
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Mikroekonomia I I E 30 15 15 16 8 8 3
+Makroekonomia I I Z 30 15 15 16 8 8 3
+Finanse II E 30 15 15 16 8 8 3
+Rachunkowość II E 30 15 15 16 8 8 3
+Zarządzanie II E 60 30 30 32 16 16 6
+Matematyka I E 60 30 30 32 16 16 6
+Prawo I Z 30 30 16 16 3
+Technologie cyfrowe II Z 30 30 16 16 3
+Metodyka badań naukowych IV Z 15 15 8 8 2
+315 165 120 30 0 168 88 64 16 0 32
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+RAZEM SEKCJA I
+lato 2028/2029 - Semestr 6
+EKOBIZNES
+I STOPIEŃ
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+lato 2027/2028 - Semestr 4
+zima 2028/2029 - Semestr 5
+E
+C
+T
+S
+Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+2026/2027 - 2028/2029
+I ST - Ekobiznes
+
+PAGE 2
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Współczesne problemy środowiska I Z 30 30 16 16 2
+Społeczna odpowiedzialność biznesu I Z 45 30 15 24 16 8 3
+Gospodarka kreatywna I E 45 30 15 24 16 8 3
+Biznes plan III E 30 15 15 16 8 8 2
+Podstawy działalności gospodarczej II Z 30 30 16 16 2
+Mikroekonomia II II Z 30 15 15 16 8 8 2
+Makroekonomia II II Z 30 15 15 16 8 8 3
+Ekonomia środowiska i zasobów naturalnych I Z 30 15 15 16 8 8 2
+Gospodarka obiegu zamkniętego II Z 30 15 15 16 8 8 2
+Ekonomia rozwoju miast neutralnych klimatycznie III E 30 15 15 16 8 8 3
+Zielone certyfikaty i jakość w biznesie III Z 30 30 16 16 2
+Zielone finanse III Z 30 15 15 16 8 8 2
+Podstawy statystyki III Z 30 15 15 16 8 8 2
+Ekologizacja gospodarki żywnościowej V Z 30 15 15 16 8 8 3
+Ekomarketing I Z 30 15 15 16 8 8 2
+480 300 150 30 0 256 160 80 16 0 35
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+RAZEM SEKCJA II
+I ST - Ekobiznes
+
+PAGE 3
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Gospodarka cyfrowa I Z 45 30 15 24 16 8 3
+Analiza ekonomiczna III Z 30 15 15 16 8 8 3
+Historia myśli ekonomii ekologicznej IV E 30 30 16 16 3
+Raportowanie ESG IV E 30 15 15 16 8 8 3
+Ekoefektywność biznesu IV Z 30 15 15 16 8 8 3
+Green games III Z 45 30 15 24 16 8 3
+Prawo ochrony środowiska IV Z 30 30 16 16 3
+Zarządzanie ochroną środowiska IV Z 30 15 15 16 8 8 3
+Analiza rynku prośrodowiskowego IV Z 30 15 15 16 8 8 3
+Wycena elementów środowiska przyrodniczego IV Z 30 15 15 16 8 8 3
+Ekonomia informacji III Z 30 30 16 16 3
+Global social problems V Z 30 15 15 16 8 8 2
+Metody podejmowania decyzji biznesowych III Z 30 15 15 16 8 8 3
+Badania społeczno-środowiskowe i wizualizacja 
+danych V Z 45 15 15 15 24 8 8 8 3
+Zarządzanie strategiczne V Z 30 15 15 16 8 8 2
+Wykład rozwijający kompetencje społeczne i 
+zawodowe II Z 30 30 16 16 2
+525 330 180 15 0 280 176 96 8 0 45
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy V Z 30 15 15 16 8 8 3
+Przedmiot specjalnościowy VI Z 30 15 15 16 8 8 4
+Przedmiot specjalnościowy VI Z 30 15 15 16 8 8 4
+Przedmiot specjalnościowy VI Z 30 15 15 16 8 8 3
+210 105 105 0 0 112 56 56 0 0 23
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+SEKCJA IV. PRZEDMIOTY SPECJALNOŚCIOWE
+RAZEM SEKCJA III
+RAZEM SEKCJA IV
+I ST - Ekobiznes
+
+PAGE 4
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Przedmiot humanistyczny I III Z 45 45 24 24 3
+Przedmiot humanistyczny II IV Z 45 45 24 24 3
+90 90 0 0 0 48 48 0 0 0 6
+Elektroniczne źródła informacji naukowej IV z 4 4 4 4 0
+Bezpieczeństwo i higiena pracy I z 4 4 4 4 0
+Wychowanie fizyczne IV z 30 30 0 0
+Wychowanie fizyczne V z 30 30 0 0
+Język obcy I - język angielski - S1 II Z 30 30 0 2
+Język obcy I - język angielski - S1 III Z 30 30 0 2
+Język obcy I - język angielski - S1 IV Z 30 30 0 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 30 30 0 2
+Język obcy II - S1 III Z 30 30 0 2
+Język obcy II - S1 IV Z 30 30 0 2
+Język obcy II - S1 V Z 30 30 0 2
+Seminarium dyplomowe V z 45 45 20 20 6
+Seminarium dyplomowe VI z 45 45 25 25 12
+Praca dyplomowa VI z 0
+Praktyka zawodowa (160 h) VI z 7
+368 4 270 4 90 133 4 80 4 45 39
+1988 994 825 79 90 997 532 376 44 45 180
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+RAZEM LICZBA GODZIN NA KIERUNKU
+RAZEM SEKCJA V
+RAZEM SEKCJA VI
+I ST - Ekobiznes
+
+PAGE 5
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Rynek energii V Z 30 15 15 16 8 8 3
+Ekonomiczne problemy transformacji energetycznej V Z 30 15 15 16 8 8 3
+Efektywność energetyczna V Z 30 15 15 16 8 8 3
+Inteligentne innowacje w OZE V Z 30 15 15 16 8 8 3
+Innowacyjne ekomiasto VI Z 30 15 15 16 8 8 4
+Eko start-upy VI Z 30 15 15 16 8 8 4
+Zrównoważone zarządzanie projektami VI Z 30 15 15 16 8 8 3
+Zrównoważone modele biznesowe V Z 30 15 15 16 8 8 3
+Proekologiczna konsumpcja V Z 30 15 15 16 8 8 3
+Ekonomia marnotrawstwa V Z 30 15 15 16 8 8 3
+Rozwój inkluzywny V Z 30 15 15 16 8 8 3
+Ekonomia szczęscia VI Z 30 15 15 16 8 8 4
+Ekonomia życia i zdrowia VI Z 30 15 15 16 8 8 4
+Turystyka zrównoważona VI Z 30 15 15 16 8 8 3
+Green Energy & Eco-Smart City
+Sharing Economy & Well-Being
+SZCZEGÓŁOWY WYKAZ SPECJALNOŚCI
+I ST - Ekobiznes

@@ -1,0 +1,78 @@
+[
+  {
+    "page": 19,
+    "context": "19 43. Lektorat języka obcego Biegłość językowa w posługiwaniu się wybranym językiem obcym nowożytnym. Treści i słownictwo niezbędne do egzaminu, wymagania określone na poz",
+    "subjects": [
+      "Analiza matematyczna 1 (AI)",
+      "Algebra liniowa 1 (AI)",
+      "Wstęp do matematyki",
+      "Podstawowy warsztat AI"
+    ]
+  },
+  {
+    "page": 20,
+    "context": "20 ROK STUDIÓW: I SEMESTR: DRUGI Nazwa przedmiotu/zajęć O/W/OzW* Forma zajęć Liczba godzin zajęć Sposób weryfikacji efektów uczenia się Punkty ECTS Dyscyplin",
+    "subjects": [
+      "Analiza matematyczna 2 (AI)",
+      "Algebra liniowa 2 (AI)",
+      "Programowanie 1 (Python)",
+      "Wizualizacja danych",
+      "Projektowanie kariery zawodowej",
+      "Przedmiot do wyboru z dziedziny nauk humanistycznych lub nauk społecznych***",
+      "Lektorat języka obcego"
+    ]
+  },
+  {
+    "page": 21,
+    "context": "21 SUMA godzin zajęć/punktów ECTS 150 120 0 16 75 60 421 32 ROK STUDIÓW: II SEMESTR: TRZECI Nazwa przedmiotu/zajęć O/W/OzW* Forma zajęć Liczba godzin z",
+    "subjects": [
+      "Rachunek prawdopodobieństwa",
+      "Grafy i algorytmy",
+      "Programowanie 2 (Python)",
+      "Przedmiot do wyboru 1 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**",
+      "Lektorat języka obcego",
+      "Wychowanie fizyczne"
+    ]
+  },
+  {
+    "page": 22,
+    "context": "22 ROK STUDIÓW: II SEMESTR: CZWARTY Nazwa przedmiotu/zajęć O/W/OzW* Forma zajęć Liczba godzin zajęć Sposób weryfikacji efektów uczenia się Punkty ECTS Dyscypli",
+    "subjects": [
+      "Podstawy statystyki",
+      "Uczenie maszynowe",
+      "Zaawansowany warsztat AI",
+      "Przedmiot do wyboru z kategorii PROGRAMOWANIE**",
+      "Lektorat języka obcego",
+      "Wychowanie fizyczne"
+    ]
+  },
+  {
+    "page": 23,
+    "context": "23 SEMESTR: PIĄTY Nazwa przedmiotu/zajęć O/W/OzW* Forma zajęć Liczba godzin zajęć Sposób weryfikacji efektów uczenia się Punkty ECTS Dyscyplina(y), do której(ych)",
+    "subjects": [
+      "Najnowsze osiągnięcia i zastosowania z dziedziny AI",
+      "Sieci neuronowe",
+      "Przedmiot do wyboru z kategorii ANALIZA DANYCH**",
+      "Przedmiot do wyboru 2 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**",
+      "Przedmiot do wyboru 3 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**",
+      "Przedmiot do wyboru 4 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**"
+    ]
+  },
+  {
+    "page": 24,
+    "context": "24 SEMESTR: SZÓSTY Nazwa przedmiotu/zajęć O/W/OzW* Forma zajęć Liczba godzin zajęć Sposób weryfikacji efektów uczenia się Punkty ECTS Dyscyplina(y), do której(ych",
+    "subjects": [
+      "Przedmiot do wyboru 5 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**",
+      "Przedmiot do wyboru 6 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**",
+      "Przedmiot do wyboru 7 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE**",
+      "Projekt zespołowy",
+      "Ochrona własności intelektualnej",
+      "Egzamin dyplomowy"
+    ]
+  },
+  {
+    "page": 25,
+    "context": "25 do wyboru – OzW ** Wybór i realizacja Przedmiotów do wyboru 1-7 z kategorii PRZEDMIOTY MATEMATYCZNE I INFORMATYCZNE, przedmiotów do wyboru z kategorii ANALIZA DANYCH i",
+    "subjects": []
+  }
+]

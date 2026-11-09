@@ -1,0 +1,225 @@
+                                                   Wydział Biotechnologii Uniwersytetu Wrocławskiego
+                                 PROGRAM STUDIÓW I stopnia (licencjackich) kierunku Biotechnologia
+                                       obowiązuje studentów rozpoczynających studia w roku akademickim 2023/2024
+
+                                                       (E)   (Z)                                I rok                                                           II rok                                                           III rok
+                                                rodzaj
+         Lp.          przedmiot                         lub                   I sem.                       II sem.                      III sem.              IV sem.          V sem.              VI sem.                                                  zajęćSemestr                                                                                                                                Egzamin           zaliczenie   ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny
+ 1      2               3                 4         5         6        7        8        9        10       11       12       13       14       15       16       17
+          Od biologii komórki do
+        1                                wykład       Z         2        15            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+               biotechnologii
+
+        2   Chemia ogólna i analityczna      wykład       E         3        30            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+            Chemia ogólna i analityczna-
+        3                                            lab.        Z         3        30            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+              ćwiczenia
+
+        4   BHP w laboratorium              ćw.         Z         1        6             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+        5    Obliczenia biochemiczne          ćw.         Z         4        45            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+              Techniki laboratoryjne w
+        6                                            lab.        Z         2        30            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+               biotechnologii
+            Matematyka dla
+        7                                   ćw.         Z         2        30            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+ I           biotechnologów-ćwiczenia        8    Biologia roślin                 wykład       E         2        15            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+        9    Biologia zwierząt               wykład       E         2        15            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+       10   Szkolenie BHP                   e-learning      Z             ---        4             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+       11     j. angielski*                       lektorat       Z           ---*         ---*           ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+                              zajęcia do wyboru:                                    ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+               Biologia roślin-ćwiczenia
+       12                                           lab.        Z         2        15            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---               Biologia zwierząt-ćwiczenia2)
+        13   wykład do wyboru1)             wykład1)      Z         2        15            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+                                        3 E     25     250        ---         ---         ---         ---         ---         ---         ---         ---         ---         ---
+ 1      2               3                 4         5         6        7        8        9        10       11       12       13       14       15       16       17
+
+        14   Biochemia strukturalna          wykład       E             ---            ---        5        45            ---            ---            ---            ---            ---            ---            ---            ---
+
+             Biochemia strukturalna-
+        15                                           lab.        Z             ---            ---        4        60            ---            ---            ---            ---            ---            ---            ---            ---
+              ćwiczenia
+
+        16  Chemia organiczna             wykład       E             ---            ---        4        30            ---            ---            ---            ---            ---            ---            ---            ---
+
+        17  Chemia organiczna-ćwiczenia        lab.        Z             ---            ---        3        45            ---            ---            ---            ---            ---            ---            ---            ---
+
+        18   Informatyka                  ćw. komp.      Z              ---            ---        2        30            ---            ---            ---            ---            ---            ---            ---            ---
+ II                                       wykład       E             ---            ---        4        30            ---            ---            ---            ---            ---            ---            ---            ---           MODUŁ: Statystyka w analizie i
+        19
+             planowaniu eksperymentu
+                                          ćw. komp.      Z             ---            ---        2        30            ---            ---            ---            ---            ---            ---            ---            ---
+
+        20  WF#                            ćw.         Z             ---            ---            ---       30#           ---            ---            ---            ---            ---            ---            ---            ---
+                              zajęcia do wyboru:                                    ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+        21   wykład do wyboru1)             wykład1)      Z             ---            ---        2        15            ---            ---            ---            ---            ---            ---            ---            ---
+
+                                        3 E            ---            ---      26     285
+ 1      2               3                 4         5         6        7        8        9        10       11       12       13       14       15       16       17
+
+        22   Metabolizm                   wykład       E             ---            ---            ---            ---        5        45            ---            ---            ---            ---            ---            ---
+
+             Metabolizm białek i cukrów-
+        23                                           lab.        Z             ---            ---            ---            ---        3        40            ---            ---            ---            ---            ---            ---
+              ćwiczenia
+
+        24   Metabolizm lipidów-ćwiczenia       lab.        Z             ---            ---            ---            ---        2        25            ---            ---            ---            ---            ---            ---
+
+        25  Chemia biofizyczna             wykład       E             ---            ---            ---            ---        4        30            ---            ---            ---            ---            ---            ---
+
+        26  Chemia biofizyczna-ćwiczenia    lab.+ćw.      Z             ---            ---            ---            ---        3        30            ---            ---            ---            ---            ---            ---
+
+        27   Genetyka                     wykład       E             ---            ---            ---            ---        3        30            ---            ---            ---            ---            ---            ---
+
+        28   Genetyka-ćwiczenia                  lab.        Z             ---            ---            ---            ---        2        30            ---            ---            ---            ---            ---            ---III
+        29  WF#                            ćw.         Z             ---            ---            ---            ---            ---       30#           ---            ---            ---            ---            ---            ---
+                              zajęcia do wyboru:                                    ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+           MODUŁ:                                          wykład       Z             ---            ---            ---            ---        2        15            ---            ---            ---            ---            ---            ---
+              Bioinformatyka i bazy danych
+        30
+              Bioinformatyka z modelo-
+                                          ćw. komp.      Z             ---            ---            ---            ---        2        30            ---            ---            ---            ---            ---            ---            waniem białek
+             Metabolizm zwierząt
+        31                                wykład       Z             ---            ---            ---            ---        2        15            ---            ---            ---            ---            ---            ---
+             Metabolizm mikroorg.2)
+                                         3E         ---         ---         ---         ---     28     290        ---         ---         ---         ---         ---         ---
+ 1      2               3                 4         5         6        7        8        9        10       11       12       13       14       15       16       17
+
+        32   Mikrobiologia                 wykład       E             ---            ---            ---            ---            ---            ---        3        30            ---            ---            ---            ---
+
+        33   Mikrobiologia-ćwiczenia             lab.        Z             ---            ---            ---            ---            ---            ---        2        30            ---            ---            ---            ---
+
+        34   Podstawy przedsiębiorczości     wykład       Z             ---            ---            ---            ---            ---            ---        2        15            ---            ---            ---            ---
+
+               Techniki biologii
+        35                                wykład       Z             ---            ---            ---            ---            ---            ---        2        15            ---            ---            ---            ---
+              molekularnej
+               Techniki biologii
+        36                                           lab.        Z             ---            ---            ---            ---            ---            ---        3        45            ---            ---            ---            ---
+              molekularnej-ćwiczenia
+              Zasady prezentacji wyników
+        37                                  ćw.         Z              ---            ---            ---            ---            ---            ---        3        30            ---            ---            ---            ---
+            naukowych
+                              zajęcia do wyboru:                                    ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+                 Fizjologia roślin
+        38                                wykład       E             ---            ---            ---            ---            ---            ---        3        30            ---            ---            ---            ---                 Fizjologia zwierząt2)
+
+                Biofizyka z el. biofizyki
+        39   medycznej                    wykład       E             ---            ---            ---            ---            ---            ---        3        30            ---            ---            ---            ---
+                Biofizyka z el. bioenergetyki2)
+
+                Biofizyka z el. biofizykiIV
+              medycznej-ćwiczenia
+        40                                           lab.        Z             ---            ---            ---            ---            ---            ---        2        30            ---            ---            ---            ---                Biofizyka z el. bioenergetyki-
+                ćwiczenia2)
+            Hodowle komórek i tkanek
+               roślinnych
+        41                                wykład       Z             ---            ---            ---            ---            ---            ---        2        15            ---            ---            ---            ---            Hodowle komórek i tkanek
+               zwierzęcych2)
+            Hodowle komórek i tkanek
+               roślinnych-ćwiczenia
+        42                                           lab.        Z             ---            ---            ---            ---            ---            ---        2        30            ---            ---            ---            ---            Hodowle komórek i tkanek
+               zwierzęcych-ćwiczenia2)
+        43   Seminarium w j. ang.1)           sem.        Z             ---            ---            ---            ---            ---            ---        3        15            ---            ---            ---            ---
+
+        44   wykład do wyboru1)             wykład1)      Z             ---            ---            ---            ---            ---            ---        2        15            ---            ---            ---            ---
+
+        45     j. polski dla cudzoziemców%      lektorat      E             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+
+                                         3E         ---         ---         ---         ---         ---         ---     32     330        ---         ---         ---         ---
+ 1      2               3                 4         5         6        7        8        9        10       11       12       13       14       15       16       17
+             Molekularna organizacja
+       46                                wykład       E             ---            ---            ---            ---            ---            ---            ---            ---        4        30            ---            ---
+            komórki
+             Molekularna organizacja
+       47                                           lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---        3        45            ---            ---
+             komórki-ćwiczenia
+
+       48   Inżynieria genetyczna           wykład       E             ---            ---            ---            ---            ---            ---            ---            ---        3        30            ---            ---
+
+               Inżynieria genetyczna-
+       49                                           lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---        2        30            ---            ---
+              ćwiczenia
+
+       50   Preparatyka biochemiczna       wykład       E             ---            ---            ---            ---            ---            ---            ---            ---        3        30            ---            ---
+
+             Preparatyka biochemiczna-
+       51                                           lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---        2        30            ---            ---
+              ćwiczenia
+
+       52   Bioetyka                      wykład       Z             ---            ---            ---            ---            ---            ---            ---            ---        2        15            ---            ---
+                             zajęcia do wyboru:                                    ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---V
+              Biotechnologia z el. biotech.
+            medycznej
+       53                                wykład       E             ---            ---            ---            ---            ---            ---            ---            ---        4        30            ---            ---              Biotechnologia z el. biotech.
+              przemysłowej2)
+              Biotechnologia z el. biotech.
+             medycznej-ćwiczenia
+       54                                           lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---        3        45            ---            ---              Biotechnologia z el. biotech.
+              Przemysłowej-ćwiczenia2)
+       55   Seminarium w j. angielskim1)      sem.        Z             ---            ---            ---            ---            ---            ---            ---            ---        4        30            ---            ---
+
+       56   wykład do wyboru1)             wykład1)      Z             ---            ---            ---            ---            ---            ---            ---            ---        2        15            ---            ---
+
+                                        4E         ---         ---         ---         ---         ---         ---         ---         ---     32     330        ---         ---
+ 1      2               3                 4         5         6        7        8        9        10       11       12       13       14       15       16       17
+
+        57   Enzymologia                  wykład       E             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        3        30
+
+        58   Enzymologia-ćwiczenia               lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        3        45
+
+        59   Immunologia                  wykład       E             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        3        30
+
+        60   Immunologia-ćwiczenia              lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        2        30
+
+        61   Biogospodarka                   ćw.         Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        2        15
+
+             Ochrona własności
+        62                                wykład       Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        2        15
+                intelektualnej
+                              zajęcia do wyboru:                                    ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---            ---
+VI          Biotechnologia farmaceutyczna        63                                wykład       E             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        3        30
+                Bioinżynieria2)
+
+              Biotechnologia farmaceutyczna-
+        64   ćwiczenia                             lab.        Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        2        15
+                Bioinżynieria-ćwiczenia2)
+        65   wykład do wyboru1)             wykład1)      Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        2        15
+
+        66   Seminarium licencjackie          sem.        Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---        3        30
+
+        67   Konwersatorium licencjackie      sem.        Z             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---       12        5
+
+                                         3E                                                                              37     260
+            j. polski dla cudzoziemców%               lektorat      E             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---      8     120
+            j. angielski*                               lektorat      E             ---            ---            ---            ---            ---            ---            ---            ---            ---            ---      12     180
+
+                                                         ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny
+
+                                                25     250     26     285     28     290     32     330     32     330     37     260
+                                                                       RAZEM z wyłączeniem lektoratów i w-f:   180    1745
+                                                          RAZEM z j. angielskim (12 ECTS, 180 godz.) i w-f (60 godz.):   192    1985
+                                                          RAZEM z j. polskim dla cudzoziemców (8 ECTS, 120 godz.):   200    2105
+* j. angielski - 180 godzin do wykorzystania (60 godz./semestr); 12 ECTS przyznawane za osiągnięcie poziomu B2 II z j. angielskiego, dopisywane na koniec studiów.
+
+% j. polski dla cudzoziemców- 120 godzin do wykorzystania do sem. IV; 8 ECTS przyznawane za osiągnięcie poziomu B2
+# WF - obowiązują 2 semestry zajęć z WF
+1) wybór spośród przynajmniej dwóch opcji (tematów); w ramach wykładów do wyboru zajecia mogą mieć również formę konwersatoriów lub ćwiczeń. Lista dostępnych zajęć jest ogłoszana przed rozpoczęciem
+semestru
+2) przedmiot ograniczonego wyboru; student wybiera wykład lub zestaw wykład i ćwiczenia spośród wymienionych opcji
+
+                                                                                 I sem.                       II sem.                     III sem.             IV sem.          V sem.             VI sem.         RAZEM
+
+                                        ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny    ECTS    godziny
+SUMA - zajęcia do wyboru
+                                            4        30        2        15        6        60       17       165       13       120       22       95       64       485
+(do uzyskania przez studenta)
+SUMA - zajęcia z dziedziny nauk
+humanistycznych lub społecznych                 0         0         0        0        0        0        2        15        2        15        2        15        6        45
+(do uzyskania przez studenta)

@@ -1,0 +1,195 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S LAB Liczba 
+godzin W Ć Ć-K S LAB
+4 304 169 90 45 0 0 164 92 48 24 0 0 30
+3 330 120 90 120 0 0 164 64 36 64 0 0 30
+2 405 180 60 135 0 30 204 96 20 72 0 16 30
+1 484 225 105 124 0 30 232 120 28 68 0 16 30
+1 390 150 90 60 30 60 193 80 36 32 13 32 30
+0 405 180 0 135 30 60 216 96 0 72 16 32 30
+0 165 60 15 30 30 30 88 32 8 16 16 16 30
+Liczba 
+godzin W Ć Ć-K S LAB Liczba 
+godzin W Ć Ć-K S LAB
+Wprowadzenie do mikroekonomii I E 30 15 15 16 8 8 3
+Wprowadzenie do makroekonomii I Z 30 15 15 16 8 8 3
+Finanse I E 30 15 15 16 8 8 3
+Rachunkowość I E 30 15 15 16 8 8 3
+Matematyka I E 60 30 30 32 16 16 6
+Prawo I Z 30 30 16 16 3
+Technologie cyfrowe I Z 30 30 16 16 3
+Zarządzanie II E 60 30 30 32 16 16 6
+300 150 120 30 0 0 160 80 64 16 0 0 30
+E
+C
+T
+S
+Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+zima 2029/2030 - Semestr 7
+INFORMATYKA W ZARZĄDZANIU PRODUKCJĄ
+I STOPIEŃ
+2026/2027 - 2029/2030
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+lato 2027/2028 - Semestr 4
+zima 2028/2029 - Semestr 5
+lato 2028/2029 - Semestr 6
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne
+RAZEM SEKCJA I
+E
+C
+T
+S
+I ST - IwZP
+
+PAGE 2
+Liczba 
+godzin W Ć Ć-K S LAB Liczba 
+godzin W Ć Ć-K S LAB
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Architektura systemów komputerowych I Z 30 15 15 16 8 8 3
+Grafika inżynierska I Z 30 30 16 16 3
+Matematyka II II E 60 30 30 32 16 16 6
+Sieci komputerowe II Z 30 15 15 16 8 8 3
+Wprowadzenie do programowania II E 60 30 30 32 16 16 5
+Obliczenia inżynierskie w MATLAB II Z 30 30 16 16 3
+Grafika inżynierska w AutoCAD III Z 30 30 16 16 2
+Elektronika i metrologia III Z 60 30 30 32 16 16 4
+Procesy produkcyjne III Z 30 15 15 16 8 8 3
+Statystyka III E 60 30 30 32 16 16 4
+Systemy baz danych III E 30 15 15 16 8 8 3
+Logistyka w przedsiębiorstwie IV E 60 30 30 32 16 16 4
+Zarządzanie projektami IT IV Z 30 15 15 16 8 8 2
+Metodyka pracy naukowej i ochrona własności intelektualnejIV Z 30 30 16 16 2
+Optymalizacja decyzji IV Z 60 30 30 32 16 16 4
+Zarządzanie jakością IV Z 30 15 15 16 8 8 2
+Zarządzanie produkcją i zrównoważony rozwój V E 30 15 15 16 8 8 3
+Automatyzacja i robotyzacja procesów produkcyjnych VI Z 60 30 30 32 16 16 4
+750 375 30 285 0 60 400 200 16 152 0 32 60RAZEM SEKCJA II
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+I ST - IwZP
+
+PAGE 3
+Liczba 
+godzin W Ć Ć-K S LAB Liczba 
+godzin W Ć Ć-K S LAB
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+E-rachunkowość II Z 30 15 15 16 8 8 3
+E-marketing III Z 30 15 15 16 8 8 3
+Programowanie strukturalne III Z 60 30 30 32 16 16 4
+Programowanie obiektowe IV Z 60 30 30 32 16 16 4
+Data Science IV Z 30 15 15 16 8 8 2
+Technologie wytwarzania produktów IV Z 45 15 30 24 8 16 3
+Inżynieria oprogramowania V Z 30 15 15 16 8 8 2
+Sztuczna inteligencja V Z 30 15 15 16 8 8 3
+Projektowanie systemów w MATLAB & Simulink V Z 30 15 15 16 8 8 2
+Cyberbezpieczeństwo V Z 30 15 15 16 8 8 2
+Cyfrowe techniki analityczne I V Z 60 30 30 32 16 16 4
+Cyfrowe techniki analityczne II VI Z 60 30 30 32 16 16 4
+Badania operacyjne VI Z 60 30 30 32 16 16 4
+Zintegrowane systemy zarządzania VI Z 45 15 30 24 8 16 3
+600 285 0 225 0 90 320 152 0 120 0 48 43
+Przedmioty specjalnościowe V Z 90 45 15 30 48 24 8 16 9
+Przedmioty specjalnościowe VI Z 150 75 75 80 40 40 12
+Przedmioty specjalnościowe VII Z 135 60 15 30 30 72 32 8 16 16 11
+375 180 30 105 0 60 200 96 16 56 0 32 32
+Przedmiot humanistyczny I III Z 45 45 24 24 3
+Przedmiot humanistyczny II IV Z 45 45 24 24 3
+90 90 0 0 0 0 48 48 0 0 0 0 6
+SEKCJA IV. PRZEDMIOTY SPECJALNOŚCIOWE
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+RAZEM SEKCJA III
+RAZEM SEKCJA IV
+RAZEM SEKCJA V
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+I ST - IwZP
+
+PAGE 4
+Liczba 
+godzin W Ć Ć-K S LAB Liczba 
+godzin W Ć Ć-K S LAB
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Elektroniczne źródła informacji naukowej IV z 4 4 4 4 0
+Bezpieczeństwo i higiena pracy I z 4 4 4 4 0
+Wychowanie fizyczne IV z 30 30 0
+Wychowanie fizyczne V z 30 30 0
+Język obcy I - język angielski - S1 II Z 30 30 2
+Język obcy I - język angielski - S1 III Z 30 30 2
+Język obcy I - język angielski - S1 IV Z 30 30 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 30 30 2
+Język obcy II - S1 III Z 30 30 2
+Język obcy II - S1 IV Z 30 30 2
+Język obcy II - S1 V Z 30 30 2
+Seminarium dyplomowe V z 30 30 13 13 3
+Seminarium dyplomowe VI z 30 30 16 16 3
+Seminarium dyplomowe VII z 30 30 16 16 12
+Praca dyplomowa VII z 0
+Praktyka zawodowa (160 h) VII z 7
+368 4 270 4 90 0 133 4 80 4 45 0 39
+2483 1084 450 649 90 210 1261 580 176 348 45 112 210
+RAZEM SEKCJA VI
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+RAZEM LICZBA GODZIN NA KIERUNKU
+I ST - IwZP
+
+PAGE 5
+Liczba 
+godzin W Ć Ć-K S LAB Liczba 
+godzin W Ć Ć-K S LAB
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Big Data V Z 30 15 15 16 8 8 3
+Projektowanie i implementacja aplikacji webowych V Z 60 30 30 32 16 16 6
+Uczenie maszynowe VI Z 60 30 30 32 16 16 4
+Technologie kognitywne w zarządzaniu VI Z 30 15 15 16 8 8 3
+Projektowanie i implementacja aplikacji mobilnych VI Z 60 30 30 32 16 16 5
+Aplikacje cyfrowe w komponowaniu produktów 
+żywnościowych VII Z 45 15 30 24 8 16 3
+Internet rzeczy VII Z 30 15 15 16 8 8 2
+Technologie blockchain w zarządzaniu VII Z 30 15 15 16 8 8 3
+Zastosowania AI VII Z 30 15 15 16 8 8 3
+Przemysł 4.0 V Z 30 15 15 16 8 8 3
+Maszynoznawstwo w inżynierii procesowej V Z 60 30 30 32 16 16 6
+Programowanie sterowników PLC VI Z 30 15 15 16 8 8 3
+Druk 3D w przemyśle VI Z 60 30 30 32 16 16 4
+Modelowanie i symulacja procesów produkcyjnych VI Z 60 30 30 32 16 16 5
+Instrumentalne metody identyfikacji składników 
+produktów VII Z 45 15 30 24 8 16 3
+Planowanie i harmonogramowanie produkcji VII Z 30 15 15 16 8 8 2
+Komputerowe systemy pomiarowo-sterujące VII Z 30 15 15 16 8 8 3
+Inteligentna produkcja VII Z 30 15 15 16 8 8 3
+SZCZEGÓŁOWY WYKAZ SPECJALNOŚCI
+Inżynieria aplikacji inteligentnych
+Inżynieria systemów informatycznych w przemyśle 4.0
+I ST - IwZP

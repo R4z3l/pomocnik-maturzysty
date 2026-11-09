@@ -1,0 +1,107 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Informatyka algorytmiczna
+Limit miejsc
+70
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Informatyka algorytmiczna
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 500 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Opis kierunku
+Zapraszamy do świata Informatyki Algorytmicznej – kierunku doskonałego dla pasjonatów informatyki i matematyki, gotowych na podjęcie wyzwań matematycznych. Podczas studiów poznasz zarówno klasyczne, jak i najnowocześniejsze algorytmy oraz zgłębisz narzędzia matematyczne stosowane do dowodzenia ich poprawności oraz badania ich efektywności. Nauczysz się wielu języków programowania (zarówno tych powszechnie stosowanych, jak i bardzo nowoczesnych) oraz będziesz umiał dobrać właściwy język do realizacji konkretnych problemów.
+Poznasz również najważniejsze paradygmaty programowania oraz współczesne narzędzia pracy informatyka. Oprócz opanowania warsztatu informatycznego przydatnego do analizy i projektowania systemów informatycznych, będziesz przygotowany do rozpoczęcia pracy naukowej w informatyce teoretycznej.
+Centralnym elementem tego kierunku jest kurs Algorytmy i Struktury Danych. Dodatkowo będziesz miał do wyboru 10 spośród 25 kursów pokrywających szeroki zakres tematyczny – od zagadnień teoretycznych (na przykład, Wprowadzenie do Teorii Grafów, Teoretyczne Podstawy Informatyki), przez kursy algorytmiczne (na przykład, Algorytmy Metaheurystyczne, Algorytmy Optymalizacji Dyskretnej, Wprowadzenie do Sztucznej Inteligencji), po czysto programistyczne (na przykład, Języki i Paradygmaty Programowania, czy też Aplikacje Mobilne).
+Zapraszamy Cię do rozpoczęcia przygody z Informatyką Algorytmiczną: otwórz drzwi do fascynującego świata nowoczesnej informatyki!
+Zachęcamy do zapoznania się z programem studiów na kierunku informatyka algorytmiczna.
+PROGRAM STUDIÓW
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka lub informatyka)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Absolwenci znajdują zatrudnienie na bardzo różnych stanowiskach związanych z branżą IT. Wiele spośród osób kończących informatykę algorytmiczną podejmuje bardzo ambitne zadania dotyczące konstrukcji zaawansowanych algorytmów dla potrzeb rozwiązywania rzeczywistych, bardzo złożonych problemów. Wielu absolwentów znajduje zatrudnienie na stanowiskach takich jak:
+programista
+analityk danych
+analityk systemowy
+inżynier algorytmów/inżynier oprogramowania
+specjalista d/s optymalizacji
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

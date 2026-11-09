@@ -1,0 +1,197 @@
+{
+  "checkedAt": "2026-10-25",
+  "pages": [
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/medycyna-lekarski-dentystyczny/",
+      "status": 200,
+      "modified": "2020-08-17T09:32:56+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/pedagogika/",
+      "status": 200,
+      "modified": "2020-08-17T09:38:14+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/psychologia/",
+      "status": 200,
+      "modified": "2020-08-17T09:48:01+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/zarzadzanie/",
+      "status": 200,
+      "modified": "2020-08-17T09:57:35+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        }
+      ],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/logistyka-transport/",
+      "status": 200,
+      "modified": "2020-11-09T13:52:42+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [
+        {
+          "label": "Uniwersytet Ekonomiczny",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        }
+      ],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/inoformatyka-programowanie-grafika/",
+      "status": 200,
+      "modified": "2020-11-24T12:27:18+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        }
+      ],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/prawo-administracja/",
+      "status": 200,
+      "modified": "2021-04-09T11:09:25+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        }
+      ],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/ochrona-srodowiska/",
+      "status": 200,
+      "modified": "2021-10-14T12:38:54+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/kierunki-studiow-progi-punktowe/",
+      "status": 200,
+      "modified": "2021-10-14T12:39:01+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [
+        {
+          "label": "Uniwersytet Ekonomiczny",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny",
+          "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/"
+        }
+      ],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/mapa/uniwersytet-ekonomiczny/",
+      "status": 200,
+      "modified": "2021-06-15T12:46:04+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [
+        {
+          "label": "",
+          "url": "mailto:rekrutacja@ue.wroc.pl"
+        },
+        {
+          "label": "Idź do Uczelni",
+          "url": "http://www.ue.wroc.pl/"
+        },
+        {
+          "label": "Portal Kandydata",
+          "url": "https://www.rekrutacja.ue.wroc.pl/"
+        },
+        {
+          "label": "Szczegółowy Kontakt",
+          "url": "https://www.rekrutacja.ue.wroc.pl/kontakt/21981/kontakt.html"
+        },
+        {
+          "label": "Uniwersytet Ekonomiczny we Wrocławiu",
+          "url": "https://www.rekrutacja.ue.wroc.pl/kontakt/21981/kontakt.html"
+        },
+        {
+          "label": "rekrutacja@ue.wroc.pl",
+          "url": "mailto:rekrutacja@ue.wroc.pl"
+        },
+        {
+          "label": "enrolment@ue.wroc.pl",
+          "url": "mailto:enrolment@ue.wroc.pl"
+        }
+      ],
+      "thresholdYearsInMain": []
+    },
+    {
+      "url": "https://wroclaw.mapaakademicka.pl/progi-punktowe/",
+      "status": 200,
+      "modified": "2022-01-17T12:21:19+00:00",
+      "tables": 0,
+      "forms": 0,
+      "iframes": [],
+      "universityLinks": [],
+      "thresholdYearsInMain": []
+    }
+  ]
+}

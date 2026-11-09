@@ -1,0 +1,141 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Mechaniczno-Energetyczny
+Lotnictwo i kosmonautyka
+Limit miejsc
+120
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Lotnictwo i kosmonautyka
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+5 980 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+inżynieria mechaniczna
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+Opis kierunku
+Kształcenie ukierunkowane jest na uzyskanie wiedzy i umiejętności praktycznych w zakresie konstruowania, wytwarzania i eksploatacji statków powietrznych oraz obiektów kosmicznych. Daje możliwość poznania zagadnień związanych z projektowaniem i eksploatacją napędów lotniczych i kosmicznych, konstruowaniem płatowców, diagnostyką systemów pokładowych oraz projektowaniem systemów awioniki i sterowania lotniczego. Podczas kształcenia Studenci uczą się samodzielnego projektowania i analizy pracy konstruowanych podzespołów korzystając z nowoczesnych technologii i narzędzi informatycznych.
+Więcej informacji o kierunku znajduje się na
+stronie wydziału
+.
+PROGRAM STUDIÓW
+Awionika i sterowanie
+Specjalność „Awionika i sterowanie” na kierunku Lotnictwo i Kosmonautyka na Wydziale Mechaniczno-Energetycznym Politechniki Wrocławskiej skupia się na projektowaniu, budowie i testowaniu systemów awioniki i sterowania lotniczego. Studenci na tej specjalności zdobywają wiedzę i umiejętności z dziedziny elektroniki, programowania, systemów mikroprocesorowych, automatyki i sterowania, a także z zakresu technologii informatycznych związanych z systemami awioniki. Absolwenci przygotowani są do projektowania i implementacji nowoczesnych systemów awioniki, takich jak systemy nawigacji, komunikacji, radiolokacji, systemy kontroli lotu oraz systemy monitorowania stanu technicznego samolotów. Kształcenie na tej specjalności łączy teorię z praktyką, co umożliwia absolwentom zdobycie wiedzy i umiejętności potrzebnych do pracy w przemyśle lotniczym oraz w instytutach badawczych zajmujących się rozwojem nowych technologii w dziedzinie lotnictwa.
+Napędy i płatowce
+Specjalność „Napędy i płatowce” na kierunku Lotnictwo i Kosmonautyka na Wydziale Mechaniczno-Energetycznym Politechniki Wrocławskiej skupia się na zagadnieniach związanych z projektowaniem i eksploatacją napędów lotniczych i kosmicznych, tworzeniem i diagnostyką systemów pokładowych obiektów latających oraz konstruowaniem płatowców. Studenci na tej specjalności zdobywają wiedzę i umiejętności z dziedziny mechaniki, aerodynamiki, termodynamiki, mechaniki płynów, spalania paliw i elektrotechniki. Absolwenci przygotowani są do prowadzenia obliczeń i diagnostyki nowoczesnych napędów lotniczych i kosmicznych, w tym silników tłokowych, turbinowych, strumieniowych, rakietowych i hybrydowych, jak również do projektowania i konstruowania statków powietrznych – samolotów, helikopterów, szybowców, dronów. Kształcenie na tej specjalności łączy teorię z praktyką, co umożliwia absolwentom zdobycie wiedzy i umiejętności potrzebnych do pracy w przemyśle lotniczym oraz w instytutach prowadzących prace badawczo-rozwojowe z zakresu napędów lotniczych i kosmicznych lub maszyn i urządzeń stosowanych w lotnictwie i kosmonautyce.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+lotnictwo i kosmonautyka
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik awionik
+Technik elektronik
+Technik elektryk
+Technik lotniskowych służb operacyjnych
+Technik mechanik
+Technik mechanik lotniczy
+Technik mechatronik
+Technik pojazdów samochodowych
+Technik robotyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+krajowy i zagraniczny przemysł lotniczy (w zakresie konstrukcji i eksploatacji różnego rodzaju statków powietrznych i kosmicznych oraz jednostek napędowych)
+przedsiębiorstwa obsługi technicznej linii lotniczych (w zakresie remontów i eksploatacji statków powietrznych)
+ośrodki naukowo-badawcze zajmujące się rozwojem nowych technologii w dziedzinie lotnictwa
+praca na stanowiskach inżynierskich w innych gałęziach przemysłu w zakresie nowoczesnych technologii i napędów stosowanych w lotnictwie i kosmonautyce
+biura konstrukcyjno-projektowe
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

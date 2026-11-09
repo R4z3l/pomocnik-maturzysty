@@ -1,0 +1,208 @@
+
+PAGE 1
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+4 274 139 135 0 0 148 76 72 0 0 30
+3 375 165 180 30 0 188 88 84 16 0 30
+3 405 195 180 30 0 204 104 84 16 0 30
+3 394 165 195 34 0 184 88 76 20 0 30
+0 375 135 165 30 45 184 72 76 16 20 30
+0 165 60 60 0 45 89 32 32 0 25 30
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Wprowadzenie do mikroekonomii I E 30 15 15 16 8 8 3
+Wprowadzenie do makroekonomii I Z 30 15 15 16 8 8 3
+Finanse I E 30 15 15 16 8 8 3
+Rachunkowość I E 30 15 15 16 8 8 3
+Zarządzanie I E 60 30 30 32 16 16 6
+Matematyka II E 60 30 30 32 16 16 6
+Prawo II Z 30 30 16 16 3
+Technologie cyfrowe II Z 30 30 16 16 3
+Metodyka badań naukowych IV Z 15 15 8 8 2
+315 165 120 30 0 168 88 64 16 0 32
+Zachowania organizacyjne I Z 30 15 15 16 8 8 6
+Podstawy marketingu I Z 60 30 30 32 16 16 6
+Zarządzanie zasobami ludzkimi III Z 45 15 30 24 8 16 3
+Zarządzanie projektami III E 45 15 30 24 8 16 3
+Statystyka III E 60 30 15 15 32 16 8 8 5
+Zarządzanie operacyjne III Z 30 15 15 16 8 8 3
+Zarządzanie strategiczne IV E 45 15 15 15 24 8 8 8 4
+AI w systemach informatycznych zarządzania V Z 30 30 16 16 2
+345 135 150 60 0 184 72 80 32 0 32
+E
+C
+T
+S
+ZARZĄDZANIE
+I STOPIEŃ
+2026/2027 - 2028/2029 Liczba 
+egz.
+Studia stacjonarne Studia niestacjonarne
+SEKCJA I. PRZEDMIOTY PODSTAWOWE - OBOWIĄZKOWE
+zima 2026/2027 - Semestr 1
+lato 2026/2027 - Semestr 2
+zima 2027/2028 - Semestr 3
+lato 2027/2028 - Semestr 4
+zima 2028/2029 - Semestr 5
+lato 2028/2029 - Semestr 6
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+RAZEM SEKCJA I
+RAZEM SEKCJA II
+SEKCJA II. PRZEDMIOTY KIERUNKOWE - OBOWIĄZKOWE
+I ST- Zarządzanie
+
+PAGE 2
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Badania marketingowe II E 60 30 30 32 16 16 3
+Przedsiębiorczość w biznesie II E 45 15 30 24 8 16 3
+Zarządzanie pracą II Z 30 15 15 16 8 8 3
+Psychologia w zarządzaniu II Z 30 15 15 16 8 8 3
+Logistyka III E 30 15 15 16 8 8 2
+Zachowania nabywców III Z 30 15 15 16 8 8 2
+Zarządzanie finansami przedsiębiorstw III Z 30 15 15 16 8 8 3
+Nauka o przedsiębiorstwie IV E 45 15 15 15 24 8 8 8 3
+Marketing usług IV Z 30 15 15 16 8 8 3
+Intercultural competencies IV Z 15 15 8 8 2
+Zarządzanie jakością IV E 30 15 15 16 8 8 3
+Innowacyjność i kreatywność w organizacji IV Z 45 15 30 24 8 16 3
+Zarządzanie zmianami IV Z 30 15 15 16 8 8 3
+Analityka internetowa i kampanie reklamowe III Z 30 30 16 16 2
+Wykład rozwijający kompetencje społeczne i 
+zawodowe II Z 30 30 16 16 2
+510 270 210 30 0 272 144 112 16 0 40
+Moduł I V Z 120 75 45 64 40 24 10
+Moduł II V Z 120 60 60 64 32 32 10
+Moduł III VI Z 120 60 60 64 32 32 11
+360 195 165 0 0 192 104 88 0 0 31
+Przedmiot humanistyczny I III Z 45 45 24 24 3
+Przedmiot humanistyczny II IV Z 45 45 24 24 3
+90 90 0 0 0 48 48 0 0 0 6
+SEKCJA III. PRZEDMIOTY KIERUNKOWE
+RAZEM SEKCJA III
+SEKCJA IV. MODUŁY
+RAZEM SEKCJA IV
+SEKCJA V. PRZEDMIOTY HUMANISTYCZNE 
+RAZEM SEKCJA V
+I ST- Zarządzanie
+
+PAGE 3
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Elektroniczne źródła informacji naukowej IV z 4 4 4 4 0
+Bezpieczeństwo i higiena pracy I z 4 4 4 4 0
+Wychowanie fizyczne IV z 30 30 0 0
+Wychowanie fizyczne V z 30 30 0 0
+Język obcy I - język angielski - S1 II Z 30 30 0 2
+Język obcy I - język angielski - S1 III Z 30 30 0 2
+Język obcy I - język angielski - S1 IV Z 30 30 0 2
+Język obcy I - język angielski - N1 II Z 0 20 20 4
+Język obcy I - język angielski - N1 III Z 0 20 20 4
+Język obcy I - język angielski - N1 IV Z 0 20 20 4
+Język obcy I - język angielski - N1 V Z 0 20 20 2
+Język obcy II - S1 II Z 30 30 0 2
+Język obcy II - S1 III Z 30 30 0 2
+Język obcy II - S1 IV Z 30 30 0 2
+Język obcy II - S1 V Z 30 30 0 2
+Seminarium dyplomowe V z 45 45 20 20 6
+Seminarium dyplomowe VI z 45 45 25 25 12
+Praca dyplomowa VI z 0
+Praktyka zawodowa (160 h) VI z 7
+368 4 270 4 90 133 4 80 4 45 39
+1988 859 915 124 90 997 460 424 68 45 180
+SEKCJA VI. PRZEDMIOTY OGÓLNOUCZELNIANE - OBOWIĄZKOWE
+RAZEM SEKCJA VI
+RAZEM LICZBA GODZIN NA KIERUNKU
+I ST- Zarządzanie
+
+PAGE 4
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Marketing i przywództwo V Z 30 30 16 16 3
+Podstawy zarządzania marką V Z 30 15 15 16 8 8 2
+Strategie marki V Z 30 15 15 16 8 8 3
+E-branding V Z 30 15 15 16 8 8 2
+Modele doskonałości w biznesie V Z 30 30 16 16 3
+Informatyczne narzędzia zarządzania procesami V Z 30 15 15 16 8 8 2
+Projektowanie i doskonalenie procesów V Z 30 15 15 16 8 8 3
+Metody i techniki zarządzania procesami V Z 30 15 15 16 8 8 2
+Komunikacja marketingowa w internecie V Z 30 15 15 16 8 8 2
+Zarządzanie reklamą V Z 30 15 15 16 8 8 3
+Public Relations V Z 30 15 15 16 8 8 2
+Zarządzanie relacjami z klientem V Z 30 30 16 16 3
+Modele biznesowe startupów V Z 30 15 15 16 8 8 3
+Design thinking i kreowanie innowacyjnych      
+produktów V Z 30 15 15 16 8 8 2
+Dokumentacja organizacyjna i kadrowa V Z 30 15 15 16 8 8 3
+Akademia start-up V Z 30 15 15 16 8 8 2
+Planowanie i organizacja projektów V Z 30 15 15 16 8 8 3
+Kierowanie zespołem V Z 30 15 15 16 8 8 2
+Budżetowanie i controlling projektów V Z 30 15 15 16 8 8 2
+Metodyki Agile V Z 30 15 15 16 8 8 3
+SZCZEGÓŁOWY WYKAZ MODUŁÓW
+Biznes i start-upy
+Menedżer projektów
+Brand Management
+Komunikacja marketingowa
+Analityk procesów biznesowych
+I ST- Zarządzanie
+
+PAGE 5
+Liczba 
+godzin W Ć Ć-K S Liczba 
+godzin W Ć Ć-K S
+Nazwa przedmiotu Sem. Forma 
+zal.
+Studia stacjonarne Studia niestacjonarne E
+C
+T
+S
+Raportowanie ESG V Z 30 15 15 16 8 8 2
+Eko-Start-upy V Z 30 15 15 16 8 8 3
+Zrównoważony rozwój organizacji V Z 30 15 15 16 8 8 2
+Zrównoważone zarządzanie projektami V Z 30 15 15 16 8 8 3
+Komunikacja interpersonalna w biznesie VI Z 30 15 15 16 8 8 2
+Budowanie zespołu i trening kierowniczy VI Z 30 15 15 16 8 8 3
+Symulacja AC/DC VI Z 30 30 16 16 3
+Wywieranie wpływu na ludzi VI Z 30 15 15 16 8 8 3
+Zarządzanie działem sprzedaży VI Z 30 15 15 16 8 8 3
+Merchandising VI Z 30 15 15 16 8 8 2
+Profesjonalna sprzedaż i obsługa klienta VI Z 30 15 15 16 8 8 3
+Zarządzanie ceną i promocja sprzedaży VI Z 30 15 15 16 8 8 3
+Staffing the Organization VI Z 30 15 15 16 8 8 3
+Employee Development & Performance Appraisal VI Z 30 15 15 16 8 8 2
+Communication and Negotiations VI Z 30 15 15 16 8 8 3
+Psychology of Team-working VI Z 30 15 15 16 8 8 3
+Zarządzanie sprzedażą
+HR Business Partner
+Zrównoważone zarządzanie
+Team Leader
+I ST- Zarządzanie

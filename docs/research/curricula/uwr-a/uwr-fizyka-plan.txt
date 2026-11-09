@@ -1,0 +1,288 @@
+                         FIZYKA, STUDIA I STOPNIA – BEZ OKREŚLONEJ SPECJALNOŚCI – TOK A ALBO B
+
+                                PLAN STUDIÓW DLA CYKLU KSZTAŁCENIA 2025-2028
+
+
+
+FIZYKA I STOPNIA – BEZ OKREŚLONEJ SPECJALNOŚCI
+
+
+                                                                 forma realizacji                ROZKŁAD OBCIĄŻEŃ (GODZINY/ECTS) W KOLEJNYCH SEMESTRACH
+                                                              łączny           zajęć                          I ROK                     II ROK                    III ROK                                              sposób                                                    wymiar
+NAZWA PRZEDMIOTU                              weryfikacji                           ECTS  SEMESTR   SEMESTR   SEMESTR   SEMESTR   SEMESTR   SEMESTR                                                               godzi-
+                                               (semestr)                                             I            II           III         IV        V          VI                                                 nowy                                                                                                           LAB    SEM                                                                                             WYK     K/ĆW                                                                                       godz  ECTS  godz  ECTS  godz  ECTS  godz  ECTS  godz  ECTS  godz  ECTS
+
+PRZEDMIOTY OBOWIĄZKOWE
+
+                                                    945                      68blok podstaw matematyki i fizyki ogólnej – do
+                          1                                                   /                                  /wyboru tok A albo B
+                                                    930                      64
+
+    Algebra 1                                 E/Z (I)     60    30  30             6    60    6
+
+    Algebra 2                                 E/Z (II)     60    30  30             4                60    4
+
+     Analiza matematyczna 1                    E/Z (I)     105    45  60             8    105    8
+
+     Analiza matematyczna 2                    E/Z (II)     120    60  60             8                120    8
+
+     Analiza matematyczna 3                    E/Z (III)     90    45  45             6                            90    6
+
+A
+tok  Rachunek prawdopodobieństwa              E/Z (II)     60    30  30             4                60    4
+
+    Mechanika                                E/Z (I)     135    60  75            10   135   10
+
+    Termodynamika                           E/Z (II)     60    30  30             4                60    4
+
+    Elektryczność i magnetyzm                 E/Z (III)    120    60  60             8                            120    8
+
+     Fale                                     E/Z (IV)     75    45  30             5                                        75    5
+
+    Fizyka atomu, jądra i cząstek elementar-                                             E/Z (V)     60    30  30             5                                                    60    5
+    nych
+    Wstęp do algebry                          E/Z (I)     90    45  45             6    90    6
+
+    Matematyka 1                             E/Z (I)     120    60  60             8    120    8
+
+    Matematyka 2                             E/Z (II)     120    60  60             8                120    8
+
+    Matematyka 3                            E/Z (III)     90    45  45             6                            90    6
+
+B
+tok  Elementy rachunku prawdopodobieństwa      E/Z (II)     60    30  30             4                60    4
+
+    Podstawy fizyki 1                          E/Z (I)     135    60  75            10   135   10
+
+    Podstawy fizyki 2                          E/Z (II)     120    60  60             8                120    8
+
+    Podstawy fizyki 3                          E/Z (III)    120    60  60             8                            120    8
+
+    Podstawy fizyki 4                          E/Z (IV)     75    45  30             6                                        75    6
+
+Pracownia komputerowa metod matematycznych
+                                       Z (II)      30             30        2                30    21
+Pracownia komputerowa metod matematycznych
+                                       Z (III)      30             30        2                            30    22
+
+I pracownia fizyczna 1                       Z (II)      45             45        5                45    5
+
+I pracownia fizyczna 2                       Z (III)      45             45        5                            45    5
+
+do wyboru przedmiot w wersji A albo B
+
+A   Mechanika teoretyczna                     E/Z (III)     60    30  30             5                            60    5
+
+B   Elementy mechaniki teoretycznej i STW       E/Z (III)     60    30  30             5                            60    5
+
+do wyboru przedmioty w wersji A albo B
+
+    Mechanika kwantowa 1                     E/Z (IV)     60    30  30             5                                        60    5
+A
+    Mechanika kwantowa 2                     E/Z (V)     60    30  30             5                                                    60    5
+
+B   Fizyka kwantowa                          E/Z (IV)     60    30  30             5                                        60    5
+
+do wyboru przedmiot w wersji A albo B
+     Statistical Physics
+A                                           E/Z (IV)     60    30  30             5                                        60    5    (Fizyka statystyczna)
+
+B   Elementy fizyki statystycznej                E/Z (IV)     60    30  30             5                                        60    5
+
+do wyboru przedmiot w wersji A albo B
+
+     Classical Electrodynamics
+A                                            E/Z (V)     60    30  30             5                                                    60    5    (Elektrodynamika klasyczna)
+
+B   Elementy elektrodynamiki klasycznej         E/Z (V)     60    30  30             5                                                    60    5
+
+Podstawy opracowania danych pomiarowych       Z (I)      15    15                 1    15    1
+
+Programy użytkowe                         Z (I)      45    15       30        3    45    3
+
+Praktyczny wstęp do programowania            Z (II)      60    15       45        3                60    3
+
+Podstawy statystyki i analizy danych             Z (V)      75    30  45             4                                                    75    4
+
+Obliczenia numeryczne i symboliczne w fizyce      Z (V)      60    30       30        4                                                    60    4
+
+Elementy astronomii i astrofizyki                E (VI)      45    45                 3                                                               45     3
+
+do wyboru przedmiot w wersji A albo B
+
+A   Praktyka zawodowa                     Z (IV)      90                       4                                        90    4
+
+B   Praktyka badawcza                      Z (IV)      90                       4                                        90    4
+
+Szkolenie wstępne z BHP i ochrony p-poż.         Z (I)       4        E-LEARNING      0     4     0
+
+Ochrona własności intelektualnej               Z (II)      15    15                 1                15    1
+
+Podstawy przedsiębiorczości                  Z (IV)      60    30  30             4                                        60    4
+
+Wychowanie fizyczne 2                      Z (V,VI)     60         60             0                                                    30    0    30     0
+
+Język obcy (poziom B2) 3                       E (V)      180        180            12                            60         60          60    12
+
+Seminarium licencjackie                     Z (VI)      30                  30   2                                                               30     2
+
+Praca licencjacka i egzamin licencjacki 4           E (VI)      n/o                      10                                                                     10
+PRZEDMIOTY UZUPEŁNIAJĄCE DO WYBORU 5,6
+
+Metody matematyczne fizyki teoretycznej         E/Z (IV)     60    30  30             5                                        60    5
+
+General Chemistry with Elements of Physical
+Chemistry 7                               Z (IV)      60    30  30             4                                        60    4
+(Chemia ogólna z elementami chemii fizycznej)
+
+Programowanie w C++                         E/Z (IV)     60    30       30        5                                        60    4
+
+Języki programowania i GIU                  Z (IV)      60    30       30        4                                        60    4
+
+Systemy operacyjne                        Z (IV)      45    15       30        4                                        45    4
+
+Sieci komputerowe                         Z (IV)      45             45        3                                        45    3
+
+Introduction to Condensed Matter Physics 7
+                                             E/Z (V)     60    30  30             5                                                    60    5(Wstęp do fizyki fazy skondensowanej)
+
+Wstęp do elektroniki                          E (V)      45    30            15   4                                                    45    4
+
+Pracownia elektroniczna                      Z (V)      45             45        4                                                    45    4
+
+II pracownia fizyczna                        Z (V)      120             120       8                                                    120    8
+
+Zaawansowane programowanie w C++           E/Z (V)     60    30       30        5                                                    60    5
+
+Metody numeryczne                            E/Z (V)     60    30       30        5                                                    60    5
+
+Języki skryptowe – Python 1                     E/Z (V)     45    15       30        4                                                    45    4
+
+Procesy stochastyczne w ekonomii                E/Z (V)     60    30  30             5                                                    60    5
+
+Ekonofizyka 1                                 E/Z (V)     60    30  30             5                                                    60    5
+
+Wstęp do geometrii różniczkowej                E/Z (VI)     60    30  30             5                                                               60     5
+
+Optyka kwantowa                             E/Z (VI)     60    30  30             5                                                               60     5
+
+Elektronika cyfrowa                           E (VI)      45    30            15   4                                                               45     4
+
+Pracownia elektroniki cyfrowej                 Z (VI)      45             45        4                                                               45     4
+Zastosowania środowiska LabVIEW w pomiarach   Z (VI)      60             60        4                                                               60     4
+
+Selected Topics in Condensed Matter Physics 7,8
+(Wybrane zagadnienia fizyki fazy skondensowa-    Z (VI)      30    30                 3                                                               30     3
+nej)
+Exploring Physics Problems with Numerical Tools                                       Z (VI)      45    30       15        4                                                               45     4
+(Numeryczne badanie problemów fizycznych)
+
+Algorytmy i struktury danych                    E/Z (VI)     60    30       30        5                                                               60     5
+
+Bazy danych                              Z (VI)      45    15       30        4                                                               45     4
+
+Modelowanie komputerowe                   Z (VI)      60    30       30        5                                                               60     5
+
+Języki skryptowe – Python 2                  Z (VI)      45    15       30        4                                                               45     4
+
+Podstawy analizy danych – praktyczne warsztaty   Z (VI)      30             30        3                                                               30     3
+
+Ekonofizyka 2                                 E/Z (VI)     60    30  30             5                                                               60     5
+
+Teoria przejść fazowych i zjawisk krytycznych     E/Z (VI)     60    30  30             5                                                               60     5
+
+OPCJONALNY MODUŁ KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU NAUCZYCIELA FIZYKI – do wyboru wersja 1 albo 2 9
+
+    Psychologia dla nauczycieli – wykład          E (II)      15    15                 1                15    1
+
+    Psychologia rozwoju człowieka             Z (II)      15         15             1                15    1
+
+    Pedagogika dla nauczycieli – wykład          E (II)      15    15                 1                15    1
+
+    Pedagogika dla nauczycieli – konwersato-
+                                       Z (II)      15         15             1                15    1    rium
+1  Wspomaganie rozwoju dziecka i dysharmo-
+                                       Z (III)      15         15             1                            15    1     nie rozwojowe
+    Pedagogika - uczeń ze specjalnymi potrze-wersja                                     Z (III)      30         30             2                            30    2    bami edukacyjnymi
+    Elementy prawa oświatowego i bezpieczeń-
+                                       Z (III)      15         15             1                            15    1    stwo w szkole
+
+    Psychologiczne podstawy pracy nauczyciela    Z (IV)      30         30             2                                        30    2
+
+    Pedagogiczne podstawy pracy nauczyciela     Z (IV)      15         15             1                                        15    1
+
+    Podstawy dydaktyki                     Z (IV)      45         30       15   3                                        45    3
+    Emisja głosu                          Z (IV)      15         15             1                                        15    1
+
+    Praktyka psychologiczno-pedagogiczna w
+                                       Z (V)      30                       2                                                    30    2    szkole
+    Kompetencje psychologiczno-pedagogiczne                                       Z (VI)      30                  30   2                                                               30     2
+    nauczyciela
+
+    Dydaktyka fizyki                        Z (VI)      30    30                 2                                                               30     2
+
+    Warsztat pracy nauczyciela                Z (VI)      30         30             3                                                               30     3
+
+    Psychologia dla nauczycieli – wykład          E (III)      15    15                 1                            15    1
+
+    Psychologia rozwoju człowieka             Z (III)      15         15             1                            15    1
+
+    Pedagogika dla nauczycieli – wykład          E (III)      15    15                 1                            15    1
+
+    Pedagogika dla nauczycieli – konwersato-                                       Z (III)      15         15             1                            15    1
+    rium
+   Wspomaganie rozwoju dziecka i dysharmo-
+                                       Z (III)      15         15             1                            15    1    nie rozwojowe
+    Pedagogika – uczeń ze specjalnymi potrze-
+                                       Z (IV)      30         30             2                                        30    2    bami edukacyjnymi
+    Elementy prawa oświatowego i bezpieczeń-                                       Z (IV)      15         15             1                                        15    1
+2  stwo w szkole
+
+    Psychologiczne podstawy pracy nauczyciela    Z (IV)      30         30             2                                        30    2wersja
+    Pedagogiczne podstawy pracy nauczyciela     Z (IV)      15         15             1                                        15    1
+
+    Podstawy dydaktyki                     Z (IV)      45         30       15   3                                        45    3
+
+    Emisja głosu                           Z (V)      15         15             1                                                    15    1
+
+    Praktyka psychologiczno-pedagogiczna w
+                                       Z (V)      30                       2                                                    30    2    szkole
+    Kompetencje psychologiczno-pedagogiczne                                       Z (VI)      30                  30   2                                                               30     2
+    nauczyciela
+
+    Dydaktyka fizyki                        Z (VI)      30    30                 2                                                               30     2
+
+    Warsztat pracy nauczyciela                Z (VI)      30         30             3                                                               30     3
+                                             2405 10
+                           ŁĄCZNIE 10             /                    180
+                                             2441 10
+                                                   2134                     158   364   28    450   31    405   31   405   23    405   35   105    15
+przedmioty obowiązkowe dla toku/wersji A/B                         /                                  /       /       /        /       /        /       /       /       /        /       /       /       /
+                                                   2059                     149   409   28    450   31    405   31   405   24    285   25   105    15
+
+przedmioty uzupełniające do wyboru 5                     1590 5                    129 5                                      330   24    555   45   705    60
+
+                                                    345                      23                60    4     60    4    105    6     30    2    90     7
+blok kształcenia nauczycielskiego w wersji 1/2                       /                                  /                        /       /        /       /       /       /        /       /       /       /
+                                                    345                      23                0     0     75    5    135    8     45    3    90     7
+
+Formy realizacji zajęć:                           Wyjaśnienia:
+WYK – wykład                                               1 Student wybiera do realizacji i zalicza przedmioty z bloku podstaw matematyki i fizyki ogólnej w toku A albo B.
+K/ĆW – konwersatorium/ćwiczenia/warsztat         2 Student realizuje dwa semestry zajęć z wychowania fizycznego w łącznym wymiarze 60 godzin i zalicza je do końca semestru 6.
+LAB – laboratorium/pracownia                          3 Cudzoziemcy zobowiązani są dodatkowo do realizacji lektoratu języka polskiego w semestrach 1-4 w łącznym wymiarze 120 godzin,
+SEM – seminarium                               zgodnie z odrębnymi przepisami. Wymagany poziom biegłości językowej B2. 8 punktów ECTS uzyskanych za zaliczenie tego lektoratu
+                                                     nie wlicza się do puli 180 punktów ECTS wymaganych do ukończenia studiów.
+Sposoby weryfikacji:                                      4 Do egzaminu licencjackiego może przystąpić student, który złożył pracę licencjacką i została ona pozytywnie oceniona, zaliczył wszystkie
+E – egzamin                                    przedmioty obowiązkowe, stosownie do wybranego toku A albo B, i uzyskał łącznie co najmniej 170 punktów ECTS. Po zdaniu egzaminu
+Z – zaliczenie na ocenę                       dyplomowego otrzymuje się 10 punktów ECTS przewidzianych za pracę licencjacką i egzamin licencjacki.
+                                                                 5 W zależności od wybranego toku/wersji A/B, student zalicza przedmioty uzupełniające do wyboru za co najmniej 22/31 punktów ECTS.
+                                             Wiąże się to odpowiednio z realizacją przeciętnie 271/382 godzin zajęć uzupełniających.
+                                                                 6 Przedmioty uzupełniające do wyboru mogą być realizowane odpowiednio w innym semestrze parzystym/nieparzystym, z zastrzeżeniem
+                                                     spełnienia wymagań wstępnych.
+                                                                 7 Alternatywnie przedmiot oferowany w języku polskim.
+                                                                 8 Dopuszcza się różną formę zajęć w zależności od specyfiki przedmiotu.
+                                                                 9 Student ma możliwość kształcenia modułowego przygotowującego do wykonywania zawodu nauczyciela fizyki poprzez realizację bloku
+                                                   zajęć w wersji 1 albo 2 na studiach fizyki I stopnia, a pozostałych zajęć wymaganych do uzyskania uprawnień nauczycielskich – na
+                                                   studiach fizyki II stopnia.
+                                                                 10 Uwzględnia wymiar zajęć obowiązkowych odpowiednio w toku/wersji A/B oraz przeciętny wymiar realizowanych przedmiotów uzupełnia-
+                                                  jących do wyboru.

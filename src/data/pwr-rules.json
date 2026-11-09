@@ -1,0 +1,4332 @@
+[
+  {
+    "id": "pwr-architektura-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Architektura, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0.",
+    "extraExam": {
+      "key": "rysunek",
+      "label": "Egzamin z rysunku",
+      "min": 0,
+      "max": 660,
+      "passMin": 240,
+      "note": "Dwa zadania rysunkowe; zaliczenie od 240 pkt. Uwzględnia się wyłącznie egzamin z rekrutacji 2027/2028."
+    }
+  },
+  {
+    "id": "pwr-automatyka-i-robotyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Automatyka i robotyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-automatyka-przemyslowa-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Automatyka przemysłowa, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-bezpieczenstwo-i-higiena-pracy-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Bezpieczeństwo i higiena pracy, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-biomechanika-inzynierska-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Biomechanika inżynierska, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-biotechnologia-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Biotechnologia, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-budownictwo-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Budownictwo, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-chemia-i-analityka-przemyslowa-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Chemia i analityka przemysłowa, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-chemia-i-inzynieria-materialow-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Chemia i inżynieria materiałów, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-cyberbezpieczenstwo-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Cyberbezpieczeństwo, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-electronic-and-computer-engineering-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Electronic and Computer Engineering, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-elektromobilnosc-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Elektromobilność, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-elektronika-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Elektronika, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-elektronika-i-fotonika-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Elektronika i fotonika, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-elektroradiologia-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Elektroradiologia, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-elektrotechnika-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Elektrotechnika, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-energetyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Energetyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-fizyka-techniczna-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Fizyka techniczna, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-geodezja-i-kartografia-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Geodezja i kartografia, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-geoenergetyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Geoenergetyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-geoinformatyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Geoinformatyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-geologia-stosowana-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Geologia stosowana, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-gornictwo-i-geologia-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Górnictwo i geologia, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-gospodarka-o-obiegu-zamknietym-i-ochrona-klimatu-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Gospodarka o obiegu zamkniętym i ochrona klimatu, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "geografia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-gospodarka-przestrzenna-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Gospodarka przestrzenna, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-informatyczne-systemy-automatyki-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Informatyczne systemy automatyki, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-informatyka-algorytmiczna-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Informatyka algorytmiczna, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-informatyka-stosowana-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Informatyka stosowana, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-informatyka-stosowana-w-j-angielskim-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Informatyka stosowana w j. angielskim, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-informatyka-techniczna-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Informatyka techniczna, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inteligentna-elektronika-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inteligentna elektronika, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-biomedyczna-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria biomedyczna, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-chemiczna-i-procesowa-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria chemiczna i procesowa, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-kwantowa-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria kwantowa, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-pojazdow-i-napedow-niskoemisyjnych-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria pojazdów i napędów niskoemisyjnych, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-srodowiska-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria środowiska, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-surowcow-mineralnych-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria surowców mineralnych, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-systemow-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria systemów, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-inzynieria-zarzadzania-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Inżynieria zarządzania, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-lekarski-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Lekarski, polska nowa matura",
+    "formula": "WM = B + M + PD + 0,1JO + 0,1JP; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli B = 0 lub M = 0, cały WM wynosi 0; minimum formalne 500 pkt nie jest progiem ostatniej osoby.",
+    "minimumTotal": 500
+  },
+  {
+    "id": "pwr-logistyka-przemyslowa-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Logistyka przemysłowa, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-lotnictwo-i-kosmonautyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Lotnictwo i kosmonautyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-matematyka-i-algorytmy-sztucznej-inteligencji-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Matematyka i algorytmy sztucznej inteligencji, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-matematyka-i-analiza-danych-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Matematyka i analiza danych, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-matematyka-stosowana-i-sztuczna-inteligencja-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Matematyka stosowana i sztuczna inteligencja, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-mechanika-i-budowa-maszyn-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Mechanika i budowa maszyn, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-mechanika-i-budowa-maszyn-energetycznych-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Mechanika i budowa maszyn energetycznych, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-mechanika-i-budowa-maszyn-w-j-angielskim-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Mechanika i budowa maszyn w j. angielskim, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-mechatroniczne-systemy-automatyki-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Mechatroniczne systemy automatyki, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-mechatronika-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Mechatronika, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-medical-informatics-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Medical Informatics, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-odnawialne-zrodla-energii-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Odnawialne źródła energii, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-optyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Optyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "informatyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-robotyka-i-automatyzacja-procesow-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Robotyka i automatyzacja procesów, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-sztuczna-inteligencja-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Sztuczna inteligencja, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-technologia-chemiczna-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Technologia chemiczna, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-teleinformatyka-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Teleinformatyka, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-telekomunikacja-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Telekomunikacja, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-transport-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Transport, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-zarzadzanie-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Zarządzanie, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biznes i zarządzanie",
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-zarzadzanie-i-inzynieria-produkcji-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Zarządzanie i inżynieria produkcji, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  },
+  {
+    "id": "pwr-zarzadzanie-w-j-angielskim-2027",
+    "year": "2027/2028",
+    "title": "Politechnika Wrocławska — Zarządzanie w j. angielskim, polska nowa matura",
+    "formula": "WI = M + PD + 0,1JO + 0,1JP + RA; M, PD i JO = max(P, P + 1,5R, 2,5R), osobno dla każdego przedmiotu; JP = max(P, R). B = 2,5R z biologii; RA dotyczy wyłącznie architektury.",
+    "sourceUrl": "https://rekrutacja.pwr.edu.pl/wp-content/uploads/2026/06/WIR-2027_2028-Zalacznik-nr-1-dokument-glowny.pdf",
+    "checkedAt": "2026-11-02",
+    "groups": [
+      {
+        "label": "Matematyka",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot dodatkowy",
+        "subjects": [
+          "biznes i zarządzanie",
+          "fizyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 2.5,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 0.1,
+        "optional": true
+      }
+    ],
+    "caveat": "Uchwała 384/26/2024-2028, załącznik 1 (§9–12) i załącznik 3. Kalkulator obsługuje wyłącznie polską nową maturę pisemną PP/PR; zaznaczony wynik bez procentu blokuje obliczenie, przedmiot niezdawany daje 0. Matematyka może być również przedmiotem dodatkowym, gdy dopuszcza ją tabela. Nie obejmuje matury dwujęzycznej (w tym dodatkowych egzaminów w obcym języku), IB/EB, starej matury, egzaminów zawodowych, dobrowolnych egzaminów uczelni ani olimpiad. Brak zewnętrznego wyniku nie jest szacowany. Zasady 2027/28 nie potwierdzają uruchomienia oferty. Dokumenty i ewentualne wymagania językowe dla studiów po angielsku trzeba sprawdzić osobno. Minimalne wskaźniki rektora i progi komisji dla nowego naboru mogą zostać ogłoszone odrębnie; nie są przenoszone z historii. Jeżeli M = 0 i PD = 0, składniki JO i JP przyjmują wartość 0."
+  }
+]

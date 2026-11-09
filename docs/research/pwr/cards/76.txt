@@ -1,0 +1,146 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Informatyki i Telekomunikacji
+Informatyka techniczna
+Limit miejsc
+160
+/
+rekrutacja letnia (stacjonarne)
+-
+/
+rekrutacja zimowa
+Strona główna
+Wyszukiwarka kierunków
+Informatyka techniczna
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+6 300 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+informatyka techniczna i telekomunikacja
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Specjalności
+Kryteria
+Egzamin zawodowy
+OPIS KIERUNKU
+Studia na kierunku zapewniają wszechstronne wykształcenie w obszarze informatyki z uwzględnieniem zarówno sprzętowych jak i programowych jej aspektów:
+budowy i eksploatacji systemów komputerowych i mikroprocesorowych
+inżynierii oprogramowania
+projektowania, zarządzania i utrzymywania systemów informatycznych, baz i hurtowni danych oraz systemów transmisji danych
+budowy i eksploatacji sieci komputerowych
+zaawansowanych metod sztucznej inteligencji
+nowoczesnych technologii internetowych, mobilnych i multimedialnych
+Zachęcamy do zapoznania się z programem studiów na kierunku informatyka techniczna.
+PROGRAM STUDIÓW
+Grafika i systemy multimedialne
+Kształcenie obejmuje tworzenie aplikacji internetowych z dynamiczną treścią i skalowalnym interfejsem, projektowanie i implementację gier komputerowych, rozpoznawanie i przetwarzanie obrazów statycznych i ich sekwencji, generowanie scen 3D, tworzenie animacji, metody użycia inteligentnego przetwarzania informacji, mechanizmy efektywnego przyspieszania przetwarzania oraz kompresji danych. Absolwent to specjalista aplikacji mobilnych z mechanizmami efektywnego przetwarzania danych i akceleracji graficznej oraz systemów danych wielowymiarowych, z elementami Augmented Reality i Virtual Reality (AR/VR). Ma wiedzę umożliwiającą szybkie adaptowanie się do dynamicznie zmieniającej się rzeczywistości świata grafiki komputerowej i współczesnych multimediów. Może znaleźć zatrudnienie przy tworzeniu i eksploatacji systemów oprogramowania, aplikacji internetowych (e-business, e-commerce, e-banking), systemów zarządzania w administracji i służbach wojskowych, gdzie zachodzi potrzeba przetwarzania, analizy, ekstrakcji i wizualizacji dużych zbiorów danych.
+Inżynieria systemów informatycznych
+Kształcenie przygotowuje do projektowania i wytwarzania oprogramowania oraz eksploatacji systemów informatycznych z rozproszonymi bazami danych. Studenci zapoznają się z narzędziami wspierającymi prowadzenie prac programistycznych w zakresie: śledzenia zagadnień, kontroli wersji, ciągłej integracji, analizy i recenzowania kodu, automatycznej budowy i przeprowadzania testów. Studia na specjalności przygotowują do posługiwania się najnowszymi narzędziami informatycznymi, a także pozwalają na nabycie umiejętności szybkiej adaptacji w dynamicznie zmieniającej się rzeczywistości informatycznej. Absolwent przygotowany jest do podjęcia pracy w zakresie projektowania, realizacji oprogramowania i eksploatacji systemów informatycznych, takich jak systemy sztucznej inteligencji, systemy baz danych, sieci komputerowe, systemy multimedialne oraz kierowania projektami informatycznymi.
+Systemy i sieci komputerowe
+Kształcenie obejmuje zagadnienia z zakresu budowy, eksploatacji i projektowania lokalnych i rozległych sieci komputerowych, projektowania systemów internetowych i mobilnych, technik projektowania systemów komputerowych, gier komputerowych, projektowania i eksploatacji baz danych, internetowych baz danych, wirtualizacji i rozwiązań chmurowych, a także szeroko pojętego bezpieczeństwa systemów i sieci komputerowych. Absolwent może znaleźć zatrudnienie jako projektant oprogramowania, lider projektów informatycznych, administrator systemów, projektant i administrator sieci komputerowych, czy specjalista w dziedzinie bezpieczeństwa systemów informatycznych. Studenci nabywają praktycznych umiejętności podczas praktyki zawodowej i często poprzez współpracę, już w trakcie studiów, z przyszłym pracodawcą. Dobre przygotowanie teoretyczne, zdobyte doświadczenie i umiejętności praktyczne, jak również znajomość języków obcych, pozwalają absolwentom na łatwe dostosowanie się do potrzeb rynku pracy oraz na znalezienie ciekawej i dobrze płatnej pracy zarówno w firmach krajowych, jak i zagranicznych.
+Systemy informatyki w medycynie
+Informatyka medyczna to dziedzina szybko rozwijająca się i z dużym potencjałem – od zdalnych operacji i rozpoznawania schorzeń po zarządzanie jednostkami opieki zdrowotnej i obsługę pacjenta. Kształcenie obejmuje telemedyczne zastosowania informatyki, komputerową diagnostykę obrazową (ultrasonografia, tomografia), przetwarzanie sygnałów biomedycznych (EKG, EEG), technologie hurtowni danych i eksploracji danych, zagadnienia kompleksowej informatyzacji placówek i złożonych struktur służby zdrowia, ze szczególnym uwzględnieniem nowoczesnych technologii mobilnych i bezprzewodowych. Uzyskane kompetencje umożliwiają absolwentowi uczestnictwo w realizacji zadań projektowych wymagających pracy zespołowej, w tym zarządzanie projektami informatycznymi. Absolwenci specjalności znajdują zatrudnienie przy projektowaniu, wdrażaniu i eksploatacji informatycznych systemów szpitalnych (e-health), telemedycznych systemów monitorowania i konsultacji wykorzystujących platformy mobilne (m-health) oraz aplikacji internetowych dla sektora opieki medycznej.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+informatyka techniczna
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik informatyk
+Technik teleinformatyk
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+programista/projektant systemów informatycznych (baz danych, systemów internetowych i mobilnych, systemów zarządzania, sterowników i systemów wbudowanych, systemów obsługi służby zdrowia, gier komputerowych)
+projektant/administrator systemów i sieci komputerowych
+programista/projektant systemów wykorzystujących metody sztucznej inteligencji
+specjalista ds. bezpieczeństwa systemów informatycznych i ochrony danych
+pracownik/kierownik zespołu ds. zarządzania systemami sieciowymi
+specjalista ds. inteligentnych systemów diagnostyki obrazowej w medycynie, monitorowania wizualnego i obrazowej inspekcji przemysłowej
+Praktyki i staże
+Praktyki odbywają się w korporacjach międzynarodowych oraz w krajowych firmach informatycznych i teleinformatycznych, a także w dużych bankach, w zależności od zainteresowań studenta.
+Miejsca pracy absolwentów
+Absolwenci znajdują pracę w dużych korporacjach międzynarodowych i uznanych firmach krajowych oferujących systemy i produkty informatyczne. Znajdują zatrudnienie w bankach, urzędach administracji państwowej i samorządowej, a także w podmiotach gospodarczych wykorzystujących systemy informatyczne.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

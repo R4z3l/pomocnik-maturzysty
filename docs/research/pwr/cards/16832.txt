@@ -1,0 +1,163 @@
+studia I stopnia
+Tytuł zawodowy: inżynier
+Wydział Elektroniki, Fotoniki i Mikrosystemów
+Mechatroniczne systemy automatyki
+Limit miejsc
+100
+rekrutacja letnia (stacjonarne)
+Strona główna
+Wyszukiwarka kierunków
+Mechatroniczne systemy automatyki
+Metryczka kierunku
+Forma studiów
+Dzienne
+Czas trwania
+7 semestrów
+Czesne
+brak
+(studia stacjonarne)
+Czesne dla cudzoziemców
+10 780 PLN/ semestr
+(studia stacjonarne)
+Język wykładowy
+polski
+Miasto
+Wrocław
+Profil kierunku
+ogólnoakademicki
+Dyscyplina
+automatyka, elektronika, elektrotechnika i technologie kosmiczne
+Aplikuj
+Naciśnij Enter aby wybrać kartę, Tab, aby odczytać treść karty.
+Opis kierunku
+Kryteria
+Egzamin zawodowy
+Mechatroniczne systemy automatyki (MSA) to interdyscyplinarny kierunek studiów, który stanowi odpowiedź na wyzwania czwartej rewolucji przemysłowej (Przemysł 4.0). Zastępuje i wzbogaca dotychczasową ofertę Inżynierii Mikrosystemów Mechatronicznych. Program studiów łączy zaawansowaną automatykę i technikę sterowania z nowoczesną inżynierią mechatroniczną, elektroniką oraz technologiami informatycznymi. Unikatową cechą kierunku jest silne osadzenie w technologiach mikrosystemów (MEMS), inteligentnej sensoryki oraz wykorzystaniu algorytmów sztucznej inteligencji (SI) i uczenia maszynowego w optymalizacji procesów.
+W ramach przedmiotów obowiązkowych zdobędziesz solidną wiedzę z zakresu programowania, automatyki oraz budowy układów elektronicznych. Wyjątkowym atutem kierunku jest duża wybieralność przedmiotów. Pozwala to na samodzielne decydowanie o swojej ścieżce rozwoju – możesz skupić się na sztucznej inteligencji, nowoczesnych technikach druku 3D lub miniaturowych systemach sensorycznych typu MEMS, które są sercem współczesnych systemów mechatronicznych.
+Duży nacisk kładziemy na praktykę w nowocześnie wyposażonych laboratoriach oraz pracę zespołową, co idealnie przygotowuje do realiów współczesnego rynku pracy. Wybierając ten kierunek, stajesz się kreatywnym inżynierem gotowym na wyzwania nowoczesnego przemysłu.
+PROGRAM STUDIÓW
+Absolwent potrafi
+Projektować i integrować złożone systemy mechatroniczne
+, łącząc wiedzę z zakresu mechaniki, elektroniki oraz informatyki sterującej. Skutecznie wdraża innowacyjne rozwiązania w nowoczesnym przemyśle, dbając o ich techniczną stabilność oraz wysoką precyzję działania.
+Programować sterowniki PLC oraz systemy wbudowane
+, tworząc zaawansowane algorytmy sterowania i interfejsy HMI. Buduje rozproszone systemy automatyki oraz przeprowadza skuteczną diagnostykę i optymalizację procesów produkcyjnych w czasie rzeczywistym.
+Implementować metody sztucznej inteligencji i uczenia maszynowego
+oraz przeprowadzać zaawansowaną analizę danych inżynierskich. Wykorzystuje nowoczesne technologie IT do optymalizacji systemów przemysłowych i budowy rozwiązań w ramach koncepcji Przemysłu 4.0.
+Projektować i eksploatować zaawansowane mikrosystemy (MEMS) oraz inteligentne układy sensoryczne
+. Wykorzystuje wiedzę o zjawiskach fizycznych i mikroelektronice do budowy precyzyjnych sensorów i aktuatorów, które są kluczowe w nowoczesnych systemach autonomicznych i pomiarowych.
+Posługiwać się narzędziami CAD/CAM/CAE do modelowania i symulacji
+oraz wykorzystywać druk 3D w szybkim prototypowaniu. Dobiera odpowiednie materiały i metody wytwarzania, sprawnie przeprowadzając pełny proces inżynierski od projektu po finalną realizację.
+Zarządzać projektami i pracować w interdyscyplinarnych zespołach
+. Skutecznie komunikuje się w międzynarodowym środowisku branżowym, dbając o etykę zawodową i stały rozwój własnych kompetencji.
+Kryteria
+Wskaźnik rekrutacyjny kandydata na studia I stopnia jest liczony wg wzoru:
+M
++
+PD
++ 0,1
+JO
++ 0,1
+JP
+M
+PD
+JO
+jest równa większej z liczb:
+P
+albo
+P
++ 1,5
+R
+albo 2,5
+R
+JP
+jest równa większej z liczb:
+P
+albo
+R
+M
+Matematyka
+PD
+Przedmiot dodatkowy
+(fizyka, informatyka, matematyka lub egzamin zawodowy)
+JO
+Język obcy
+JP
+Język polski
+P
+Wynik procentowy z matury podstawowej
+R
+Wynik procentowy z matury rozszerzonej
+Jeżeli nie zdawałeś matury z matematyki i przedmiotu dodatkowego to Twój wskaźnik wynosi zero
+Od rekrutacji na studia na rok akademicki 2022/2023 do wskaźnika (jako przedmiot dodatkowy) mogą być brane wyniki uzyskane na dyplomie potwierdzającym uzyskanie kwalifikacji zawodowych na poziomie technika.
+PD = WEZ
+gdzie WEZ jest:
+dla kandydatów posiadających  dyplom zawodowy:
+liczbą punktów odpowiadających końcowemu wynikowi egzaminów zawodowych w zawodzie nauczanym na poziomie technika, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, liczonemu zgodnie ustawą z dnia 7 września 1991 r. o systemie oświaty z późn. zmianami.
+dla kandydatów posiadających dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika:
+liczbą punktów odpowiadająca wynikowi egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika i jest obliczana według wzoru:
+gdzie:
+W
+p
+i
+– wynik z części pisemnej egzaminu zawodowego dla i-tej kwalifikacji
+W
+pr
+i
+– wynik z części praktycznej egzaminu zawodowego dla i-tej kwalifikacji
+n – liczba kwalifikacji wyodrębnionych w danym zawodzie
+Nazwy zawodów, które mogą być brane pod uwagę przy obliczaniu WEZ na kierunku
+mechatroniczne systemy automatyki
+dla kandydatów posiadających dyplom potwierdzający uzyskanie kwalifikacji zawodowych na poziomie technika:
+Technik automatyk
+Technik elektronik
+Technik elektroniki i informatyki medycznej
+Technik elektromobilności
+Technik elektryk
+Technik energetyk
+Technik informatyk
+Technik mechatronik
+Technik programista
+Technik robotyk
+Technik szerokopasmowej komunikacji elektronicznej
+Technik teleinformatyk
+Technik telekomunikacji
+Technik urządzeń i systemów energetyki odnawialnej
+Skorzystaj z kalkulatora
+Policz swój
+wskaźnik
+Dla kandydatów
+Więcej
+informacji
+Dla cudzoziemców
+Więcej informacji
+Praktyki, staże, kariera
+Perspektywy zatrudnienia
+Ukończenie studiów na kierunku mechatroniczne systemy automatyki otwiera szerokie możliwości kariery
+w najbardziej dynamicznych sektorach nowoczesnej gospodarki. Jako absolwent będziesz przygotowany do podjęcia pracy jako:
+Projektant systemów mechatronicznych
+– Twoje kompetencje w zakresie mechaniki, elektroniki
+i CAD pozwolą Ci na pracę w działach badawczo-rozwojowych (R&D) liderów branży motoryzacyjnej, lotniczej oraz kosmicznej.
+Inżynier systemów wbudowanych (embedded)
+– będziesz tworzyć oprogramowanie i architekturę inteligentnych urządzeń elektroniki użytkowej raz specjalistycznej aparatury przemysłowej.
+Integrator systemów Przemysłu 4.0
+– Twoja wiedza o IoT, nowoczesnej sensoryce MEMS
+i algorytmach sztucznej inteligencji umożliwi Ci wdrażanie innowacyjnych rozwiązań w inteligentnych fabrykach przyszłości.
+Inżynier automatyk i programista PLC
+– znajdziesz zatrudnienie przy projektowaniu i wdrażaniu systemów sterowania liniami produkcyjnymi w przedsiębiorstwach stawiających na pełną automatyzację procesów.
+Specjalista ds. diagnostyki i eksploatacji
+– zdobędziesz kwalifikacje do nadzoru nad zaawansowanymi systemami pomiarowymi, m.in. w centrach serwisowych.
+Twoje kompetencje będą wysoko cenione przez czołowych pracodawców, takich jak
+Ronal Polska Sp. z o.o.
+,
+XTPL S.A.
+, czy liczne innowacyjne firmy zlokalizowane w
+Wałbrzyskiej Specjalnej Strefie Ekonomicznej „INVEST-PARK”
+. Wykształcenie oparte na standardach Politechniki Wrocławskiej gwarantuje łatwość odnalezienia się zarówno na lokalnym, jak i międzynarodowym rynku pracy.
+Rekrutacja online
+Pozostałe kierunki na Wydziale
+Koła naukowe
+Na PWr działa 160 kół naukowych,
+sprawdź czym możesz zająć się „po godzinach”
+Zobacz spis
+wszystkich organizacji
+studenckich

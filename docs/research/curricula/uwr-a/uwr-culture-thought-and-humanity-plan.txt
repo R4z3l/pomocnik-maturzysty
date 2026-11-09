@@ -1,0 +1,1187 @@
+                                                                                                                                       Załącznik do uchwały Nr 55/2023 Senatu Uniwerstetu
+                                                                                                                           Wrocławskiego z dnia 22 marca 2023 r.
+
+
+Program studiów
+
+Nazwa kierunku studiów / Name of the field of study: Culture, Thought and Humanity / Kultura, myśl i człowieczeństwo
+Poziom studiów / Level of study: I stopień (licencjat)/First degree (bachelor)
+Poziom kwalifikacji / Qualification level: poziom 6 Polskiej Ramy Kwalifikacji
+Profil kształcenia / Education profile: ogólnoakademicki/general academic
+Nazwa wydziału / Faculty name: Wydział Nauk Społecznych/Faculty of Social Sciences
+
+
+1.  Przyporządkowanie kierunku studiów do dziedzin nauki i dyscyplin naukowych, w których prowadzony jest kierunek studiów
+   Assignment of the program of study to the fields of science and scientific disciplines in which the program of study is conducted.
+
+ Dziedzina nauki            Dyscyplina naukowa    Procentowy udział dyscyplin       Dyscyplina wiodąca (ponad połowa efektów uczenia się)
+ Field of science              Scientific discipline      Percentage share of disciplines    Leading discipline (more than half of learning outcomes)
+ dziedzina nauk humani-
+                                  filozofia                                                              filozofia stycznych                              100%
+                           philosophy                                               philosophy humanities
+ Razem:                                 -                 100%                                 -
+ Altogether:
+
+
+2.  Tabela procentowego udziału liczby punktów ECTS w łącznej liczbie punktów ECTS dla każdej z dyscyplin kierunku.
+    Table of the percentage of the number of ECTS credits in the total number of ECTS credits for each discipline of the course.
+
+ Dziedzina nauki            Dyscyplina naukowa    Procentowy udział liczby punktów ECTS w łącznej liczbie punktów ECTS dla każdej z dyscyplin
+ Field of science              Scientific discipline      Percentage of the total number of ECTS credits for each discipline
+ dziedzina nauk humani-
+                                  filozofia
+ stycznych                              100%                           philosophy
+ humanities
+
+
+3.  Informacje ogólne o programie studiów
+   General information about the study program
+
+ Liczba semestrów                                                                       6
+ Number of semesters
+
+
+
+                                                                            2
+ Liczba punktów ECTS wymagana do ukończenia studiów na danym poziomie          180 / +5 dla cudzoziemców za język polski
+ Number of ECTS credits required for graduation at a given level                    180 / +5 for foreigners for the Polish language
+ Tytuł zawodowy nadawany absolwentom                                                    licencjat
+ Professional title awarded to graduates                                               bachelor
+ Forma studiów                                                                      stacjonarna
+ Form of study                                                                                                  full time
+ Kod ISCED                                                                       0223
+ ISCED code
+ Liczba punktów ECTS obejmująca zajęcia do wyboru
+                                                                       74
+ Number of ECTS credits including elective classes
+ Łączna liczba punktów ECTS, jaką student musi uzyskać w ramach zajęć prowadzo-
+ nych z bezpośrednim udziałem nauczycieli akademickich lub innych osób prowadzą-
+                                                                       180 / +5 dla cudzoziemców za język polski cych zajęcia
+                                                                       180 / +5 for foreigners for the Polish language
+ Total number of ECTS credits to be obtained by the student in classes with direct
+ participation of academic teachers or other instructors
+ Liczba punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk
+ społecznych (nie mniej niż 5 ECTS) – w przypadku kierunków studiów przyporządko-
+ wanych do dyscyplin w ramach dziedzin innych niż nauki humanistyczne lub nauki
+ społeczne                                                               6
+ Number of ECTS credits for courses in humanities or social sciences (not less than 5
+ ECTS) - for majors assigned to disciplines within fields other than humanities or so-
+ cial sciences
+ Liczba punktów ECTS w ramach zajęć z lektoratu języka obcego lub lektoratu języka                                                                       12 (język angielski) + 5 (język polski dla cudzoziemców)
+ polskiego                                                                       12 (English) + 5 (Polish language for foreigners)
+ Number of ECTS credits for foreign language or Polish language classes
+ Łączna liczba godzin realizowanych na kierunku                                 1789 / + 60 dla cudzoziemców za język polski
+ The total number of hours carried out in the course                              1789 / + 60 for foreigners for Polish language
+ Wymiar, liczba punktów ECTS, zasady i forma odbywania praktyk zawodowych                                                                                                    --
+ Dimension, number of ECTS credits, rules and form of professional practice
+
+ Praktyki mają na celu: nie dotyczy
+ Practices are aimed at: not applicable
+
+
+
+4.  Opis efektów uczenia się zdefiniowanych dla programów studiów w odniesieniu do charakterystyk drugiego stopnia Polskiej Ramy
+    Kwalifikacji dla kwalifikacji na poziomach 6-7 uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji
+    pełnej na poziomie 4.
+
+
+
+
+                                                                            3
+  Description of the learning outcomes defined for study programs in relation to the second cycle characteristics of the Polish
+  Qualifications Framework (PRK) for qualifications at levels 6-7 obtained within the higher education and science system after obtaining
+ a full qualification at level 4.
+
+Symbol efektu uczenia się   Efekty uczenia się dla kierunku studiów                                                    Odniesienie do cha-
+dla programu studiów       Po ukończeniu studiów pierwszego stopnia na kierunku Culture, Thought and Humanity absol-    rakterystyk drugiego
+                         went uzyska efekty uczenia się w zakresie:                                                     stopnia PRK (kody)
+Symbol of the learning ef-
+fect for the programme of   Learning outcomes for the course of study.                                             Reference to second-
+study                   Upon completion of the first degree program in the field of Culture, Thought and Humanity        level PRK characteris-
+                            the graduate will have acquired learning outcomes in:                                                    tics (codes)
+
+WIEDZA/KNOWLEDGE
+
+                          zna i rozumie wybrane fakty, obiekty i zjawiska z zakresu filozoficznych aspektów zjawisk kul-
+                               tury, ze szczególnym uwzględnieniem ujęć filozofii kultury
+
+K_W01                                                                                     P6S_WG
+                        knows and understands selected facts, objects and phenomena in the field of philosophical as-
+                             pects of cultural phenomena, with particular emphasis on approaches of the philosophy of cul-
+                              ture
+                          zna i rozumie zaawansowane filozoficzne metody i teorie wyjaśniające złożone zależności między
+                          różnymi faktami, obiektami  i zjawiskami kulturowymi, ze szczególnym uwzględnieniem filozo-
+                             ficznego ujęcia kultury
+K_W02                                                                                     P6S_WG
+                        knows and understands advanced philosophical methods and theories that explain the complex
+                               relationships between various cultural facts, objects and phenomena, with particular emphasis
+                         on the philosophical view of culture
+                          zna i rozumie zaawansowaną terminologię z zakresu filozofii kultury w języku angielskim
+K_W03                                                                                     P6S_WG
+                        knows and understands advanced terminology in philosophy of culture in English
+                          zna i rozumie fundamentalne filozoficzne wymiary dylematów współczesnej cywilizacji i kultury
+
+K_W04                                                                                       P6S_WK
+                        knows and understands the fundamental philosophical dimensions of the dilemmas of modern
+                                   civilization and culture
+                          zna  i rozumie podstawowe ekonomiczne, prawne  i inne uwarunkowania aktywności naukowej
+                            związanej z uprawianiem filozofii, w szczególności z filozoficznym namysłem nad kulturą, w tym
+                        podstawowe pojęcia  i zasady z zakresu ochrony własności intelektualnej, a także podstawowe
+                          zasady tworzenia i rozwoju różnych form przedsiębiorczości
+K_W05                                                                                       P6S_WK
+
+                        knows and understands the basic economic, legal and other conditions of scientific activity re-
+                               lated to the practice of philosophy, in particular, to the philosophical reflection on culture, in-
+                              cluding the basic concepts and principles of intellectual property protection, as well as the basic
+
+
+                                                                          4
+                                principles of creation and development of various forms of entrepreneurship
+
+
+UMIEJĘTNOŚCI/SKILLS
+
+                           wykorzystuje posiadaną wiedzę na temat filozofii kultury i koncepcji kultury w antropologii filo-
+                                zoficznej, formułując złożone i nietypowe problemy oraz odpowiednio dobierając źródła i infor-
+                         macje z nich pochodzące, dokonując ich oceny, krytycznej analizy i syntezy tych informacji
+K_U01                                                                                      P6S_UW
+                           uses his knowledge of the philosophy of culture and the concept of culture in philosophical an-
+                             thropology, formulating complex and unusual problems and appropriately selecting sources and
+                             information from them, evaluating them, critically analyzing and synthesizing this information
+                            dobiera właściwe metody  i narzędzia, w tym zaawansowane techniki informacyjno-komunika-
+                              cyjne, rozwiązując złożone i nietypowe problemy
+K_U02                                                                                      P6S_UW
+                               selects appropriate methods and tools, including advanced information and communication tech-
+                             niques, solving complex and unusual problems
+                          komunikuje się z użyciem specjalistycznej terminologii w dyskusjach na temat filozoficznych
+                             koncepcji kultury, przedstawiając i oceniając różne opinie i stanowiska
+K_U03                                                                                            P6S_UK
+                         communicates using specialized terminology in discussions on philosophical concepts of culture,
+                            presenting and evaluating various opinions and positions
+                            posługuje się językiem angielskim na poziomie B2 Europejskiego Systemu Opisu Kształcenia
+                         JęzykowegoK_U04                                                                                            P6S_UK
+
+                          speaks English at the B2 level of the Common European Framework of Reference for Languages
+                            samodzielnie organizuje własną pracę, zarówno indywidualną, jak i w zespole, a także planuje
+                          własne dalsze uczenie się
+                                                                                               P6S_UOK_U05
+                                                                                                P6S_UU
+                            independently organizes his own work, both individually and in a team, and plans his own further
+                              learning
+
+KOMPETENCJE SPOŁECZNE/SOCIAL COMPETENCES
+
+                                 jest gotów do krytycznej oceny posiadanej wiedzy i znajdowania argumentów i przykładów po-
+                            twierdzających znaczenie wiedzy w rozwiązywaniu problemów poznawczych i praktycznych
+K_K01                                                                                             P6S_KK
+                                      is ready to critically evaluate his knowledge and find arguments and examples that confirm the
+                           importance of knowledge in solving cognitive and practical problems
+                                 jest gotów do wypełniania zobowiązań społecznych badacza, współorganizowania działalności
+K_K02                   na rzecz środowiska społecznego i kultury oraz na rzecz interesu publicznego                P6S_KO
+
+
+
+
+                                                                          5
+                                         is ready to fulfill the social obligations of the researcher, to co-organize activities for the social
+                          and cultural environment and for the public interest
+                                   jest gotów do przestrzegania zasad etyki i wymagania ich przestrzegania od innych
+  K_K03                                                                                             P6S_KR
+                                         is ready to adhere to ethical principles and require others to follow them
+                                 Jest gotów do dbałości o dorobek i tradycje filozoficznego namysłu nad światem i kulturą
+
+  K_K04                                                                                             P6S_KR
+                                         is ready to care for the achievements and traditions of philosophical reflection on the world and
+                                 culture
+
+Objaśnienie symboli:
+PRK – Polska Rama Kwalifikacji
+P6S_WG/P7S _WG – kod składnika opisu kwalifikacji dla poziomu 6 i 7 w charakterystykach drugiego stopnia Polskiej Ramy Kwalifikacji
+K_W - kierunkowe efekty uczenia się w zakresie wiedzy
+K_U - kierunkowe efekty uczenia się w zakresie umiejętności
+K_K - kierunkowe efekty uczenia się w zakresie kompetencji społecznych
+01, 02, 03 i kolejne - kolejny numer kierunkowego efektu uczenia się
+
+
+5.  Treści programowe. Efekty uczenia się dla przedmiotów/modułów zajęć
+   Program content. Learning outcomes for course subjects/modules
+
+                                                                                                                     Efekty uczenia się dla przed-
+ l.p.   Nazwa przedmiotu      Treści programowe                                                             miotu/modułu zajęć
+ No.   Subject name         Curriculum content                                                                  Learning outcomes for the
+                                                                                                                       course/class module
+                               Zajęcia wprowadzające w problemy i literaturę estetyki oraz prezentujące wybrane pro-
+                           blemy i pojęcia estetyczne, podkreślające związek sztuki i estetyki (praktyki i teorii ar-
+                                 tystycznej). 1. Problemy z estetyką: a) „wynalezienie” estetyki, jej autonomia (od no-
+                             wożytności do dziś); czy estetyka jest nauką?; b) przedmiot estetyki (sztuka, piękno
+                                                            i inne wartości estetyczne, doświadczenie estetyczne, twórczość/ekspresja artystyczna,
+                        smak itp.). 2. Sztuka  i teoria – zarys historyczny wybranych zjawisk: a) starożytność
+                            (kanon antropometryczny); b) średniowiecze (iluminatorstwo i sztuka kartograficzna);        Aesthetics and Art                                                                         K_W01, K_W02, K_W03
+                                 c) renesans (antropocentryzm  i nowożytny atlas anatomiczny oraz fizjonomiczny); d)  1.                                                                                                K_U01, K_U03
+                              oświecenie (racjonalizm  i osobliwość w kunstkamerze  i encyklopedii). 3. Wiek XIX: a)
+        Estetyka i sztuka                                                                          K_K04                             rozwój eksperymentalnych nauk o percepcji  i optyce a sztuka nowoczesna; b) ewolu-
+                             cjonizm i jego związki ze sztukami wizualnymi; c) techniki fotograficzne a malarstwo. 4.
+                         Wybrane nurty estetyki współczesnej w analizie  i interpretacji sztuki współczesnej: a)
+                               antropologia filozoficzna i egzystencjalizm (E. Cassirer i in.; człowiek jako zwierzę two-
+                              rzące symbole  i jego ograniczenia/rozszerzenia – ku „człowiekowi 3.0”); b) estetyka
+                             fenomenologiczna (M. Merleau-Ponty, M. Dufrenne, J. Pallasmaa i inni – postimpresjo-
+                             nizm, sztuka abstrakcyjna); c) estetyka strukturalistyczna (U. Eco  i in. – informel,
+
+
+
+                                                                            6
+                            sztuka kinetyczna itp.; rzeźba w rozszerzonym polu R. Krauss); d) bioestetyka (estetyka
+                           ewolucyjna i neuroestetyka: E. Dissanayake, D. Dutton, V. Ramachandran, S. Zeki i inni
+                        – bio art i transhuman art); e) estetyka postmodernistyczna i (J.-F. Lyotard, W. Welsch,
+                            R. Krauss, S. Sontag i inni; f) modernizm a postmodernizm w sztuce i dizajnie; sztuka
+                             apropriacyjna; kicz i kamp); g) estetyka analityczna i instytucjonalna filozofia sztuki (N.
+                       Goodman, A.C. Danto, G. Dickie, J. Margolis  i in. – dada, ready mades, arte povera,
+                           konceptualizm i minimalizm).
+
+                            Lecture and class introducing the problems and basic readings of Western aesthetics
+                        and presenting selected aesthetic questions and concepts, emphasizing the relationship
+                         between art and aesthetics (artistic practice and its theory). 1. Problems with aesthet-
+                                  ics/ Aesthetic problems – overview: a) “invention” of aesthetics, its autonomy (since
+                          modernity till now); is aesthetics a science; b) aesthetics subject-matter (art, beauty
+                        and other aesthetic values, aesthetic experience, artistic creation/ expression, taste,
+                                  etc.). 2. Art and theory – historical outline of selected phenomena: a) Antiquity (anthro-
+                           pometric canons); b) Middle Ages (illumination and cartographic art); c) Renaissance
+                            (anthropocentrism and modern anatomical and physiognomic atlases); d) Enlighten-
+                       ment (rationalism and curiosity in kunstkamera and encyclopedia). 3. The 19th century:
+                             a) the development of experimental sciences of perception and optics and modern art;
+                            b) evolutionism and its relationship to the visual arts; c) photographic techniques vs.
+                               painting. 4. Selected aesthetic approaches/ theses in the analysis and interpretation of
+                          contemporary art: a) philosophical anthropology and existentialism (E. Cassirer et al.;
+                      human as symbol-making animal and its limitations/ extensions – up to “human 3.0”);
+                            b) phenomenological aesthetics (M. Merleau-Ponty, M. Dufrenne, J. Pallasmaa et al. –
+                            postimpressionism, abstract art); c) structuralist aesthetics/ the openness of art (U. Eco
+                               et al. – informel, kinetic art, etc.; sculpture in expanded field by R. Krauss); d) bio-
+                              aesthetics (evolutionary aesthetics and neuroaesthetics: E. Dissanayake, D. Dutton, V.
+                         Ramachandran, S. Zeki et al. – bio art and transhuman art); e) postmodern aesthetics
+                        and (J.-F. Lyotard, W. Welsch, R. Krauss, S. Sontag and the others; f) modernism vs.
+                         postmodernism in arts and design; appropriaton art; kitsch and camp.
+                            Przedstawienie  i zapoznanie studentów z warsztatem pisarskim  i metodologią pisania
+                           pracy licencjackiej. Wskazanie technik doboru  i selekcji literatury przedmiotu  i źródeł
+                            oraz sposobów właściwego ich wykorzystania w pracy. Określenie cech, charakteru
+      Bachelor Seminar            i rodzajów prac licencjackich. Wskazanie właściwego sposobu przygotowania się do pi-
+                                                                                            K_W03, K_W05                             sania pracy: ustalenie problematyki, planu  i metodologii. Opracowanie konstrukcji
+2.                                                                                                K_U01, K_U02, K_U05
+     Seminarium li-         pracy: podział na rozdziały i podrozdziały, wstęp, zakończenie i bibliografia.                                                                                            K_K01
+      cencjackie
+                             Introducing and familiarizing students with the writing workshop and methodology of
+                               writing an undergraduate thesis. Indicating the techniques of selection and selection of
+                                 literature on the subject and sources, as well as the ways of their proper use in the
+
+
+
+
+
+                                                                          7
+                           work. Identifying the characteristics, nature and types of undergraduate theses. Indi-
+                              cating the proper way to prepare for writing a thesis: determining the problem state-
+                         ment, plan and methodology. Developing the structure of the work: division into chap-
+                               ters and subchapters, introduction, conclusion and bibliography.
+                           Kurs koncentruje się na trzech dziedzinach kluczowych dla samej idei cywilizacji w ogóle,
+                         a dla europejskiej średniowiecznej cywilizacji europejskiej w szczególności: I. Prawo
+                                                        i moralność (obowiązek prawny  i moralny, prawo a cnoty, prawo naturalne a prawo
+                           stanowione, państwo a Kościół). II. Religia (pojęcie o cnota religijności w filozofii; religia,
+      Civitas Christiana:      wiara, teologia, filozofia; łaska  i porządek naturalny). III. Ontologie artefaktów (arte-
+     Mediaeval European    fakty vs. byty naturalne; artefakty vs działania; artefakty, konwencje  i porządek spo-
+      Culture and Civiliza-    łeczny). W każdej z tych trzech dziedzin prezentowane są szkicowo kluczowe pojęcia,
+      tion                 główne stanowiska i wybrane dyskusje.                                       K_W01, K_W02, K_W03
+3.                                                                                                K_U01, K_U02
+      Civitas Christiana:     The course is focused on three areas of medieval thought crucial for the very idea of  K_K03, K_K04
+      Kultura i cywilizacja     civilization and for European medieval Christian civilization in particular: I. Law and
+      średniowiecznej Eu-    morality (legal and moral obligation; law and virtues; natural and positive law; state
+     ropy                and church). II. Religion (the very concept and virtue of religion in philosophy; religion,
+                                  faith, theology, philosophy; grace and natural order). III. Ontologies of artifacts (arti-
+                                facts vs. natural beings; artifacts vs actions; artifacts, conventions, and social order).
+                             In each of these three domains, key concepts, main standpoints and selrcted debates
+                            are sketched.
+                           Przedmiot poświęcony jest przekazaniu wiedzy o ewolucji kultury masowej ku kulturze
+                             popularnej, ich cechom dystynktywnym, związkiem z procesami historyczno-społecz-
+                        nymi  i rozwojem technologicznym aż ku problemom współczesnej ikonosfery, interdy-
+                           scyplinarnym badaniom nad rolą  i znaczeniem obrazu w systemach komunikacji sym-
+                                bolicznej, zwrotowi ikonicznemu i filozofii obrazu. W komunikacji internetowej występuje
+                              też wiele zjawisk tzw. komunikacji  hiperteleologicznej, negatywnej („ciemna komuni-
+                               kacja”), które warto współcześnie wydobywać i poddać je krytycznej refleksji. Osobnym
+     Contemporary Cul-    problemem na zajęciach będzie analiza problemu pojęcia cywilizacji w filozofii, naukach
+      ture and the Prob-     społecznych i naukach o kulturze w spektrum różnych sposobów jej definiowania, róż-  K_W01, K_W02, K_W03,
+     lem of Civilization     nych typach klasyfikacji typów cywilizacji i współczesnej ich krytyce.               K_W04
+4.
+                                                                                                  K_U01, K_U02
+      Kultura współczesna   The course is devoted to the transfer of knowledge about the evolution of mass culture  K_K03
+           i problem cywilizacji    into popular one, their distinctive features, the relationship with historical, social pro-
+                            cesses and technological development to the problems of the contemporary icono-
+                            sphere, interdisciplinary research on the role and meaning of the image in systems of
+                            symbolic communication, the iconic turn and the philosophy of the image. There are
+                              also many phenomena in Internet communication of so-called hyperteleological com-
+                            munication, negative one (“dark communication”), which are worth exploring and sub-
+                               jecting them to critical reflection. A separate problem during the course will be the anal-
+                                ysis of the problem of civilization notion in philosophy, social and cultural sciences in
+
+
+
+                                                                          8
+                            the spectrum of different ways of defining it, different types of classification of types of
+                                  civilizations and their contemporary criticism.
+                               Treści związane z poszerzaniem  i pogłębianiem zagadnień związanych z filozoficznymi
+                         fundamentami kultury  i antropologią filozoficzną. Szczegółowa lista tematów zawarta
+                                 jest w ofercie dla studentów, a uszczegółowienie treści programowych znajduje się w
+      Elective                             sylabusie przedmiotu.                                                    K_W01, K_W02, K_W03
+5.                                                                                                K_U01, K_U02, K_U03, K_U05     Przedmiot do wy-
+                           Content related to broadening and deepening issues related to the philosophical foun-  K_K01     boru
+                             dations of culture and philosophical anthropology. A detailed list of topics is included in
+                            the offer to students, and the details of the program content can be found in the course
+                               syllabus.
+                               Filozoficzne koncepcje człowieka; miejsce człowieka w kulturze  i w naturze; krytyczne
+      Elective: Philosophi-    ujęcia namysłu nad człowiekiem. Szczegółowa lista tematów zawarta jest w ofercie dla
+      cal Anthropology       studentów, a uszczegółowienie treści programowych znajduje się w sylabusie przed-                                                                                            K_W01, K_W02, K_W03
+                            miotu.
+6.                                                                                                K_U01, K_U02, K_U03, K_U05     Przedmiot do wy-
+                                                                                            K_K01
+     boru: Antropologia     Philosophical conceptions of man; man's place in culture and nature; critical approaches
+      filozoficzna             to thinking about man. A detailed list of topics is included in the offer to students, and
+                            the details of the program content can be found in the course syllabus.
+                               Filozoficzne pojęcie kultury; kultura a społeczeństwo; kultura a natura; kultura i cywili-
+      Elective: Philosophy    zacja; człowiek wobec kultury. Szczegółowa lista tematów zawarta jest w ofercie dla
+      of Culture             studentów, a uszczegółowienie treści programowych znajduje się w sylabusie przed-
+                                                                                            K_W01, K_W02, K_W03                            miotu.
+7.                                                                                                K_U01, K_U02, K_U03, K_U05
+     Przedmiot do wy-                                                                                            K_K01
+     boru: Filozofia kul-     Philosophical concept of culture; culture and society; culture and nature; culture and
+      tury                       civilization; man in the face of culture. A detailed list of topics is included in the offer to
+                             students, and the details of the program content can be found in the course syllabus.
+                               Filozoficzne ujęcia społeczeństwa; problematyka społeczna w ujęciu filozoficznym (libe-
+                               ralizm, komunitaryzm, feminizm itp.); filozoficzny namysł nad gospodarką; filozofia po-
+      Elective: Social Phi-                                      lityki. Szczegółowa lista tematów zawarta jest w ofercie dla studentów, a uszczegóło-
+     losophy
+                            wienie treści programowych znajduje się w sylabusie przedmiotu.                   K_W01, K_W02, K_W03
+8.                                                                                                K_U01, K_U02, K_U03, K_U05
+     Przedmiot do wy-                              Philosophical approaches to society; social issues in philosophical terms (liberalism,  K_K01
+     boru: Filozofia spo-
+                          communitarianism, feminism, etc.); philosophical reflection on the economy; philosophy      łeczna
+                                of politics. A detailed list of topics is included in the offer to students, and the details of
+                            the program content can be found in the course syllabus.
+                               Treści pozwalające na uzyskanie kompetencji językowych na poziomie B2, zgodnie z
+      English              Zarządzeniem nr 42/2020 Rektora Uniwersytetu Wrocławskiego z dnia 3 kwietnia 2020r.
+9.                        wraz z dokumentami powiązanymi.                                          K_U04
+     Język angielski
+                           Content to achieve language competence at B2 level, in accordance with the Order No.
+
+
+
+                                                                          9
+                         42/2020 of the Rector of the University of Wrocław of 3 April 2020 and related docu-
+                          ments.
+                           Oświecenie to jeden z przełomowych momentów w historii kultury i filozofii, w którym
+                           rozpoczyna się kluczowe dla naszej współczesności wielowymiarowe rozumienie świata.
+                          Perspektywa podmiotu, procesy społeczne i polityczne, różnorodność kulturowa i wiara
+                  w potęgę nauki łączyły się w świadomości oświeconego intelektualisty jako aspekty dy-
+                         namicznego procesu historycznego, który w opinii większości zmierzał ku lepszemu
+                             światu. Postępowe rozumienie świata, czy inaczej mówiąc idea postępu, było modelem
+                          heurystycznym, który pozwalał łączyć to, co indywidualne (wolność i samostanowienie
+                             człowieka, moralność) z tym, co ogólne i zbiorowe (prawo, wolności obywatelskie, mo-
+                             ralność społeczna) na gruncie rozumu i prawa naturalnego, a nie na mocy metafizyczno-
+                          spekulatywnych uzasadnień. W ten sposób wyłoniła się nowa postać - intelektualisty
+                                (pisarza-filozofa), aktywnie uczestniczącego w biegu spraw publicznych  i naukowych,
+                          wyrażającego zindywidualizowany punkt widzenia, autonomicznego wobec autorytetów
+                                filozoficznych, politycznych  i religijnych. Ówczesne środki masowego przekazu (prasa,
+                                książki, ulotki), upowszechniając i konfrontując indywidualne stanowiska, tworzyły prze-
+                             strzeń dla aktualizacji dyskursu publicznego. Konfrontacja tego, co jednostkowe, z tym,
+                           co zbiorowe, odbywała się także na poziomie ciał elitarnych (akademie nauk, stowarzy-
+                              szenia, salony, towarzystwa czytelnicze). W ten sposób kluczowe idee oświecenia - po-
+     Enlightenment and                            stęp nauki, reforma edukacji, rozwój gospodarki, emancypacja nieuprzywilejowanych
+      the Idea of Progress                                                                        K_W01, K_W02, K_W03                          grup społecznych - miały charakter deliberatywny i uniwersalny. Przy wszystkich istnie-
+10.                                                                                               K_U01, K_U02
+                            jących uwarunkowaniach regionalnych (Francja, Anglia, Niemcy) istniało powszechne     Oświecenie i idea                                                                                K_K03, K_K04
+                            przekonanie, że w przyszłości możliwe będzie zbudowanie w pełni racjonalnej formy
+     postępu                            racjonalnego współżycia ludzi - społeczeństwa obywatelskiego, zgodnego z postępem
+                             nauki.
+
+                         The Enlightenment is one of the breakthrough moments in the history of culture and
+                             philosophy, in which the multidimensional understanding of the world, which is crucial
+                                 for our modern times, begins. The perspective of the subject, social and political pro-
+                             cesses, cultural diversity and faith in the power of science were combined in the con-
+                            sciousness of the enlightened intellectual as aspects of a dynamic historical process that,
+                                 in the opinion of the majority, was moving towards a better world. The progressive
+                           understanding of the world, or in other words the idea of progress, was a heuristic model
+                              that allowed to combine what is individual (human freedom and self-determination, mo-
+                                   rality) with what is general and collective (law, civil liberties, social morality) on the
+                              basis of reason and natural law, and not on the basis of the power of metaphysical-
+                             speculative justifications. In this way, a new character emerged - an intellectual (writer-
+                              philosopher), actively involved in the course of public and scientific affairs, expressing
+                        an individualized point of view, autonomous from philosophical, political and religious
+                                authorities. The mass media of that time (press, books, leaflets), by disseminating and
+
+
+
+
+
+                                                                         10
+                             confronting individual positions, created a space for updating public discourse. The in-
+                               dividual and the collective were also confronted at the level of elite bodies (academies
+                                of science, associations, salons, reading societies). In this way, the key ideas of the
+                           Enlightenment - the progress of science, reform of education, development of the econ-
+                        omy, emancipation of underprivileged social groups - had a deliberative and universal
+                              character. With all the existing regional conditions (France, England, Germany), there
+                       was a widespread belief that in the future it would be possible to build a fully rational
+                          form of rational coexistence of people - civil society, in line with the progress of science.
+                        Podstawowym, pierwszym celem przedmiotu jest zapoznanie studentów z głównymi za-
+                            gadnieniami, pytaniami  i zakresem problemowym etyki indywidualnej  i społecznej z
+                          uwzględnieniem podstawowych zagadnień  filozofii praktycznej  i zjawiskami społecz-
+                           nymi. Kolejnym, który można rozbić na trzy pomniejsze, jest: wskazanie mechanizmów
+                         prawnych i etycznych ochrony człowieka w sytuacjach kryzysu humanitarnego, ewolucja
+      Ethics of Humanitar-   działań humanitarnych, zarówno w aspekcie podmiotowym, jak i przedmiotowym, prawo                                                                                            K_W01, K_W02, K_W03,
+      ian Actions                        i obowiązek ochrony każdego człowieka.                                                                                            K_W04, K_W05
+11.
+                                                                                                  K_U01, K_U02     Etyka akcji humani-   The primary, first aim of the course is to familiarize students with the main issues,
+                                                                                                   K_K02, K_K03
+      tarnych                questions and problem scope of individual and social ethics, taking into account the
+                              basic issues of practical philosophy and social phenomena. The next one, which can be
+                          broken down into three minor ones are: indicating the legal and ethical mechanisms of
+                      human protection in humanitarian crisis situations, the evolution of humanitarian action,
+                           both in its subjective and objective aspects, the right and duty to protect every human
+                             being.
+               W trakcie zajęć studenci zapoznają się z podstawowymi pytaniami etycznymi na prze-
+                               strzeni dziejów oraz z głównymi typami udzielanych na te pytania odpowiedzi. Poruszone
+                             zostają następujące pytania: o szczęście, o cnotę/dzielność etyczną, o związek etyki  i
+                                       religii, o wolność woli, o kwestię odpowiedzialności, o subiektywność  i obiektywność
+                            moralności i wartości, o źródło doświadczenia moralnego. Przywołane zostają stanowi-
+                           ska od starożytności po współczesność. Wykład poświęcony jest systematycznej pre-
+                               zentacji poszczególnych zagadnień. Ćwiczenia stanowią uzupełniającą wykład analizę
+      Ethics: Main Ques-                         wybranych tekstów prezentujących poszczególne pytania  i pewne konkretne kierunki
+      tions                                                                                    K_W01, K_W02, K_W04
+                            udzielanych odpowiedzi.12.                                                                                               K_U01, K_U02
+      Etyka: główne                                                                                  K_K01, K_K03                           During the course, students will learn about the basic ethical questions throughout his-
+      pytania
+                              tory and the main types of answers given to these questions. The following questions
+                            are addressed: about happiness, about virtue, about the relationship between ethics
+                        and religion, about freedom of the will, about the question of responsibility, about the
+                               subjectivity and objectivity of morality and values, about the source of moral experi-
+                            ence. Positions from antiquity to the present are recalled. The lecture is devoted to a
+                            systematic presentation of the various issues. Whereas classwork is complementary
+                              analysis of selected texts presenting particular questions and some specific directions
+
+
+
+                                                                         11
+                                of the answers given.
+                             Zajęcia poświęcone są lekturze wybranych – historycznych  i współczesnych – tekstów
+                        pod kątem ujawniających się w nich wartości formujących kulturę europejską na prze-
+                               strzeni dziejów. W trakcie zajęć poszukiwać będzie się takich wartości jak, m.in., wol-
+                             ność, równość, sprawiedliwość, braterstwo, szlachetność, wierność, solidarność. Spe-
+     European Heritage     cjalna uwaga poświęcona będzie Europy Środkowej i próbie odpowiedzi na pytanie, czy
+                                                                                            K_W01, K_W02, K_W03,
+      of Values                istnieje jakaś wspólnota wartości konstytuująca jej odrębność.                                                                                    K_W04
+13.                                                                                                  K_U01, K_U02
+      Europejskie          The classes are devoted to reading selected - historical and contemporary - texts from
+                                                                                                   K_K01, K_K03, K_K04      dziedzictwo wartości   the point of view of the values revealed in them that have formed European culture
+                           throughout history. During the course of the class, such values as, among others, free-
+                        dom, equality, justice, fraternity, nobility, fidelity, solidarity will be sought. Special at-
+                              tention will be paid to Central Europe and an attempt to answer the question of whether
+                             there is any community of values constituting its distinctiveness.
+               W ramach przedmiotu "Greek Culture and Civilization" przedstawione zostaną dwie fun-
+                         damentalne sfery kultury starożytnej. Pierwszym jest szeroko pojmowana literatura.
+                            Starożytność tworzy szereg wzorców, motywów aktualnych po dziś dzień. Wyobraźnię
+                          Europejczyków po dziś kształtują tacy autorzy jak Homer, Hezjod, Ajschylos, Sofokles
+                            czy Eurypides. W ramach literatury pojawia się również twórczość filozoficzna, a przecież
+                              to właśnie w starożytności pojawiają się najważniejsze teorie stworzone przez Platona,
+                              Arystotelesa, stoików, epikurejczyków czy sceptyków. Z myślą literacką ściśle związana
+                                 jest sfera religijna, która z perspektywy współczesnej jest o tyle godna zainteresowania,
+                           że w starożytności nie miały miejsca wojny o podłożu religijnym. Drugą sferą jest
+                             sztuka. Klasyczna koncepcja piękna oraz kanony, które realizowane były przede wszyst-
+     Greek Culture and
+                         kim w rzeźbie i architekturze, są aktualne po dziś dzień i mimo zmian warto wciąż o nich       Civilization                                                                               K_W01, K_W02, K_W03
+                           przypominać.
+14.                                                                                               K_U01, K_U02
+      Kultura i cywilizacja                                                                              K_K03, K_K04
+                         The subject 'Greek Culture and Civilization' will present two fundamental spheres of     grecka
+                             ancient culture. The first is literature, broadly conceived. Antiquity creates a number of
+                              patterns, motifs that are still relevant today. The imagination of Europeans is still shaped
+                           today by authors such as Homer, Hesiod, Aeschylus, Sophocles and Euripides. Philo-
+                              sophical works also appear within the framework of literature, yet it is in antiquity that
+                            the most important theories created by Plato, Aristotle, the Stoics, Epicureans or Scep-
+                                   tics appear. Along with literary thought, the religious sphere is closely linked, which,
+                          from a modern perspective, is worthy of interest insofar as religiously motivated wars
+                              did not take place in antiquity. The second sphere is art. The classical concept of beauty
+                        and the canons, which were realized above all in sculpture and architecture, are still
+                             relevant today and, despite the changes, it is worth reminding ourselves of them.
+      Information Technol-   Najważniejsze technologie informacyjne wykorzystywane w badaniach filozoficznych                                                                                    K_W05
+15.  ogy with Elements of      i historyczno-filozoficznych; wybrane użyteczne narzędzia pozyskiwania, przesyłania,
+                                                                                                  K_U01, K_U02      Intellectual Property   przetwarzania, przechowywania  i prezentowania informacji, w tym także internetowe
+
+
+
+                                                                         12
+     Law                 bazy danych; prawo własności intelektualnej, zwłaszcza prawo autorskie, prawo wła-
+                             sności przemysłowej oraz prawa sui generis ochrony baz danych, ze szczególnym
+      Technologia infor-     uwzględnieniem zarówno przepisów prawa krajowego, unijnego oraz międzynarodo-
+     macyjna z elemen-    wego; przedmiot, podmiot, treść oraz ochrona prawa autorskiego, regulacje szczególne
+     tami prawa własno-    dotyczące programów komputerowych i utworów audiowizualnych, instytucja dozwolo-
+       ści intelektualnej      nego użytku, zagadnienia plagiatu, umów autorsko prawnych; własność i prawa autor-
+                               skie w aplikacjach grantowych; podstawowe formy tworzenia form przedsiębiorczości.
+
+                         The most important information technologies used in philosophical and historical-philo-
+                              sophical research; selected useful tools for acquiring, transmitting, processing, storing
+                        and presenting information, including online databases; intellectual property law, espe-
+                                    cially copyright law, industrial property law and sui generis database protection laws,
+                            with particular emphasis on both national, EU and international laws; object, subject,
+                            content and protection of copyright law, special regulations on computer programs and
+                             audiovisual works, the institution of permitted use, issues of plagiarism, copyright con-
+                                tracts; ownership and copyright in grant applications; basic forms of creating forms of
+                            entrepreneurship.
+               W tym kursie licencjackim studenci będą badać znaczenie kultury jako horyzontu na-
+                           szych możliwości tworzenia znaczeń oraz rolę nas samych i praktyki filozoficznej w jej
+                             obrębie. W szczególności studenci dowiedzą się, jak filozofia kultury podchodzi do tego
+                           tematu, jako teorii filozoficznej, metody i sposobu życia. Studenci poznają różne poglądy
+                                      filozofii kultury na naturę kultury (teoria). Studenci poznają filozofię kultury jako narzę-
+                              dzie do analizy zjawisk naukowych, artystycznych, religijnych, ekonomicznych czy filo-
+                             zoficznych (metoda). Studenci będą uczyć się o filozofii kultury jako praktyce samo-
+      Introduction to Phi-
+                              kształcenia (sposób życia), starając się stać dobrze oczytaną  i dobrze ukształtowaną     losophy of Culture:
+                           osobą, z bogatym, złożonym i głębokim zaangażowaniem we wszystkie horyzonty sensu     As Theory, Method
+                               życia, od sztuk pięknych i innowacji naukowych do popkultury i gotowania.            K_W01, K_W02, K_W03,
+     and Way of Life                                                                                    K_W04
+16.
+                             In this bachelors course students will explore the meaning of culture as the horizon of  K_U01, K_U02     Wprowadzenie do fi-
+                           our meaning making potential, and the role of ourselves and philosophical practice  K_K01, K_K02, K_K03
+       lozofii kultury: Jako                              within it. In particular, students will learn about how philosophy of culture approaches
+       teorii, metody i spo-
+                                 this thematic, as philosophical theory, method, and way of life. As a theory, students     sobu życia
+                                     will learn about different philosophy of culture views on the nature of culture. As a
+                         method, they will learn about philosophy of culture as a tool for analyzing scientific,
+                                    artistic, religious, economic, philosophical, etc., phenomena. As a way of life, students
+                                     will learn about philosophy of culture as a practice of self-cultivation, seeking to become
+                         a well read and well rounded person, with rich, complex, and deep engagement with all
+                             horizons of meaning in life, from the fine arts and scientific innovations to pop culture
+                        and cooking.
+      Logical Culture                                                                            K_W01, K_W02
+17.                      Celem kursu jest przedstawienie podstawowych pojęć i wybranych technik logicznych z                                                                                           K_U02
+
+
+
+                                                                         13
+      Kultura logiczna       naciskiem na ich zastosowanie w metodologii ogólnej oraz w sztuce argumentacji, na-  K_K01
+                             bycie przez słuchaczy umiejętności formułowania i oceny argumentów oraz budowania
+                         poprawnych i trafnych definicji, wykształcenie umiejętności konceptualizacji problemów
+                            oraz odróżniania problemów rzetelnych od pseudo-problemów i sporów przedmiotowych
+                         od sporów słownych. Treści programowe przedmiotu obejmują następujące zagadnie-
+                               nia: 1. Podstawowe pojęcia logiki – prawda  i fałsz, wynikanie logiczne  i inne stosunki
+                               logiczne. 2. Ontologiczne podstawy logiki i podstawowe pojęcia ontologiczne. 3. Defini-
+                               cje  i ich rola w badaniach naukowych. 4. Filozoficzne przesłanki klasycznej logiki zda-
+                            niowej i logiki pierwszego rzędu. 5. Wartości logiczne i treści logiczne zdań. Stany rzeczy
+                                                        i światy możliwe. 6. Logika konieczności  i możliwości. Semantyka światów możliwych.
+                              7. Logiczna analiza istnienia, wartości i działania.
+
+                         The aim of the course is to present basic concepts and selected logical techniques with
+                         emphasis on their application in general methodology and in the art of argumentation,
+                              to acquire the students' ability to formulate and evaluate arguments and build correct
+                        and accurate definitions, to develop the ability to conceptualize problems and to distin-
+                            guish reliable problems from pseudo-problems and object disputes from verbal disputes.
+                         The curriculum content of the subject includes the following: 1. Basic concepts of logic
+                                 - truth and falsity, logical result and other logical relations. 2. Ontological foundations
+                                of logic and basic ontological concepts. 3. Definitions and their role in scientific research.
+                              4. Philosophical premises of classical sentence logic and first-order logic. 6. Logical val-
+                          ues and logical content of sentences. States of affairs and possible worlds. 7. Logic of
+                             necessity and possibility. Semantics of possible worlds. 8. Logical analysis of existence,
+                            value and action.
+                             Kultura popularna jest współcześnie hegemoniczna. Przedmiotem zajęć będą jej związki
+                             z kulturą masową, jej cechy demarkacyjne, możliwe formy krytyki (w amerykańskich
+                                                        i europejskich naukach o kulturze)    i formy obrony, jej związki z kulturą wysoką, z
+                              kulturą ludową i najnowsze tendencje jej rozwoju. Kultura popularna określana jest jako
+                              „kultura okrucieństwa”, „alienacji”, „repetycji” (jako jej podstawowego mechanizmu),
+    New Phenomena in     „przyjemności” – w analizach oferowane są diagnozy, zjawiska „kontroli i bycia kontro-
+     Contemporary Cul-    lowanym”, roli reklamy oraz form legislacji związanych ze zjawiskami negatywnymi w
+      ture                    świetle badań nad np. wpływem obrazów przemocy, czy zjawiskami uprzedmiotowienia  K_W01, K_W02, K_W03,
+18.                          lub manipulacji dotyczącej zjawisk o charakterze społeczno-politycznym. Wszystkie te  K_W04
+    Nowe zjawiska w       zjawiska mają bardzo duże znaczenie i wpływają na uniwersum ikonosfery, w której żyje  K_U01, K_U02, K_U03
+      kulturze współcze-     współczesna jednostka.
+      snej
+                            Popular culture is currently a hegemonic one. The subject of the course will be its rela-
+                               tions with mass culture, its demarcation features, possible forms of criticism (in Ameri-
+                          can and European cultural studies) and forms of “defence”, its relations with high cul-
+                               ture, folk culture and the latest trends in its development. Popular culture is referred to
+                           as the "culture of cruelty", "alienation", "repetition" (as its basic mechanism), "pleasure"
+
+
+
+                                                                         14
+                                 - the analyzes offer diagnoses, the phenomena of "control and being controlled", the
+                                role of advertising and forms of legislation related to the negative phenomena consid-
+                           ered in the light of research on, for example, the impact of images of violence, manip-
+                               ulation concerning phenomena of a socio-political nature. All these phenomena are of
+                             great importance and affect the universe of the iconosphere in which a contemporary
+                               individual lives.
+                             Pytanie o ontologię bytu społecznego będzie w tym kursie rozpatrywane z trzech róż-
+                           nych, choć wyraźnie współzależnych punktów widzenia, rozgraniczających trzy główne
+                               części w treści kursu. Pierwsza z nich to ontologia społeczna jako przedmiot badań kla-
+                           sycznych  i najnowszych nauk społecznych  i humanistycznych nad "składnikami" oraz
+                          "sposobami istnienia  i konstruowania" bytów  i kategorii społecznych. Druga perspek-
+                         tywa związana jest z problemem zwrotu ontologicznego w filozofii społecznej i politycz-
+                             nej jako próby przekroczenia "późnonowoczesnego" (poststrukturalistycznego i postmo-
+                            dernistycznego) antyfundacjonalizmu (Stephen K. White, William Connolly, Carsten
+                            Strathausen). Perspektywa ta, nazywana w kontekście tego kursu "analityczną", jest tu
+                        omawiana jako uzupełniona i paralelna z rosnącym zainteresowaniem kwestiami meto-
+                            dologicznymi  i epistemologicznymi w ścisłych, zorientowanych empirycznie, naukach
+                            społecznych, zwłaszcza ekonomii (Tony Lawson, Roy Bhaskar, Uskali Mäki) i politologii
+                               (Colin Hay, Bob Jessop). Trzeci punkt widzenia  i komponent kursu koncentruje się na
+                           pracach  i debatach we współczesnej "kontynentalnej" filozofii politycznej  i społecznej
+                          związanych z ideą postfundacjonalizmu i "zwrotu ontologicznego" w obu "słabych" i "bo-
+     Ontology of the So-    gatych" znaczeniach tego terminu ("lewy Heideggerianizm" Olivera Marcharta). Stu-                                                                                            K_W01, K_W02, K_W03,
+       cial Being              denci zapoznają się także z szerszym kontekstem europejskich (kontynentalnych") tra-
+                                                                                    K_W0419.                             dycji teoretycznych drugiej części XX i początku XXI wieku, pozostających pod wpływem
+                                                                                                  K_U01, K_U02
+      Ontologia bytu        paradygmatu postkonstruktywistycznego i postkorrelacyjnego w epistemologii, metafi-                                                                                            K_K01
+     społecznego           zyce i filozofii nauki.
+
+                         The question of the ontology of the social being will be considered in this course from
+                             three various, although clearly interdependent points of view, demarcating three main
+                             parts in the course content. First of them is social ontology as a subject of research in
+                                 classical and the most recent social sciences and humanities on “constituents” and the
+                        “modes of existence and construction” of social beings and categories. The second per-
+                             spective is related to the problem of ontological turn in social and political philosophy as
+                        an attempt to transcend the “late modern” (poststructuralist and postmodern) anti-
+                            foundationalism (Stephen K. White, William Connolly, Carsten Strathausen). This per-
+                              spective, called in the context of this course “analytic”, is discussed here as supple-
+                        mented and paralleled by a growing interest in methodological and epistemological is-
+                           sues in exact, empirically-oriented, social sciences, especially economics (Tony Lawson,
+                        Roy Bhaskar, Uskali Mäki) and political science (Colin Hay, Bob Jessop). The third point
+                                of view and component of the course is focused on works and debates in contemporary
+                              “continental” political and social philosophy linked to the idea of postfoundationalism
+
+
+
+                                                                         15
+                        and “ontological turn” in both “weak” and “rich” senses of the term (Oliver Marchart’s
+                                    “left Heideggerianism”). Students will be familiarized also with the broader context of
+                         European (continental”) theoretical traditions in the second part of the 20th and begin-
+                            ning of the 21st century, influenced by post-constructivist and post-correlationist para-
+                        digm in epistemology, metaphysics, and philosophy of science.
+                        Celem prowadzenia przedmiotu jest prezentacja źródeł myśli psychologicznej w historii
+                                       filozofii, początków kształtowania się dyscypliny w ujęciach W. Wundta, P. Janeta, W.
+                          Jamesa, jej głównych nurtów, takich jak behawioryzm, psychoanaliza i psychologia hu-
+                          manistyczna oraz nowszych jej kierunków, takich jak psychologia poznawcza, psycho-
+                                logia ewolucyjna czy neuropsychologia. Szczególny nacisk położony zostanie na psycho-
+                              logiczne koncepcje człowieka  i koncepcje zdrowia psychicznego oraz ich związki z an-
+                              tropologią filozoficzną i niektórymi współczesnymi koncepcjami filozoficznymi, takimi jak
+                            egzystencjalizm i fenomenologia. Zarysowana więc zostanie również perspektywa inter-
+     Psychology            dyscyplinarna pomiędzy psychologią, antropologią i filozofią.                       K_W01, K_W02
+20.                                                                                               K_U01, K_U02
+      Psychologia          The aim of the course is a presentation of the sources of psychological thought in the  K_K01
+                               history of philosophy, the beginnings of the formation of the discipline in the conceptions
+                                of W. Wundt, P. Janet, W. James, its main trends, such as behaviorism, psychoanalysis
+                        and humanistic psychology, and its newer currents, such as cognitive psychology, evo-
+                               lutionary psychology or neuropsychology. The emphasis will be placed on the psycho-
+                                 logical conceptions of man, the conceptions of mental health and their relationship with
+                              philosophical anthropology and some contemporary philosophical conceptions, such as
+                              existentialism or phenomenology. There will also be outlined an interdisciplinary per-
+                             spective between psychology, anthropology and philosophy.
+                      Na treść kursu składa się interdyscyplinarny przegląd złożonych zależności między
+                           kształtowaniem się idei religijnych a procesami kulturowymi. O ile kulturogenny aspekt
+                                       religii, nie budzi zasadniczych kontrowersji, o tyle religia jako nadwyżka kultury musi
+                           pozostać przedmiotem głębszej refleksji. Określenie relacji między religią a kulturą, czy
+                              to poprzez autonomizację, czy też zniesienie granic semantycznych między nimi, w każ-
+                     dym przypadku ujawnia preferencje światopoglądowe użytkownika języka - celem jest
+                          debata nad tymi przesądzającymi zasadami i próba określenia, czy możliwa jest definicja
+                                                                                            K_W01, K_W02, K_W03,
+      Religion and Culture   metanarracyjna.                                                                                    K_W04
+21.
+                                                                                                  K_U01, K_U02      Religia i kultura       The content of the course consists of an interdisciplinary overview of the complex inter-
+                                                                                            K_K03
+                               relationships between the formation of religious ideas and cultural processes. While the
+                             culturogenic aspect of religion, is not fundamentally controversial, religion as a surplus
+                                of culture must remain the object of deeper reflection. The definition of the relationship
+                         between religion and culture, whether autonomising or abolishing the semantic bound-
+                               aries between them, in each case reveals the worldview preferences of the language
+                            user – the aim is to debate these prejudicial principles and attempt to determine whether
+                         a metanarrative definition is possible.
+
+
+
+                                                                         16
+                           Kurs socjologii obejmuje takie zagadnienia związane z kulturą, strukturą społeczną oraz
+                           metodologiczne podstawy i metody badań empirycznych. W ramach kwestii związanych
+                             z kulturą przerabiane będą m. in. takie zagadnienia jak: interakcje społeczne, procesy
+                          grupowe, wartości i normy. W ramach kwestii dotyczących struktury społecznej m. im.:
+                             klasy i warstwy, nierówności społeczne. Studenci zapoznają się również z podstawami
+      Sociology            badań jakościowych i ilościowych.                                           K_W01, K_W04, K_W05
+22.                                                                                               K_U01, K_U02, K_U03
+      Socjologia           The sociology course covers issues related to culture, social structure, and methodolog-  K_K02
+                                    ical foundations and methods of empirical research. As part of issues related to culture,
+                               e.g. topics such as social interactions, group processes, values, and norms will be dis-
+                            cussed. With regards to issues concerning the social structure, among others: classes
+                        and strata, social inequalities. Students will also learn the basics of qualitative and quan-
+                                  titative research.
+               W tym kursie na poziomie licencjackim studenci będą badać współczesne paradygmaty,
+                             które przewartościowują to, jak osoby (ludzkie i inne) odnoszą się do szerszego świata
+                            (naturalnego lub innego). W XIX-XX wieku zachodnia filozofia zaczęła przewartościowy-
+                       wać dominujący paradygmat ludzkości jako władcy, pana lub ostatecznego racjonalnego
+                           obserwatora świata  i jego procesów, wyróżniającego się  i oddzielonego od niego. Za-
+                           miast tego filozofowie, od Henry'ego-Davida Thoreau i Mary Shelley do Johna Deweya
+                                                        i Donny Haraway, zaproponowali opisy osób jako wyłaniających się procesów w ramach
+                                                        i w interakcji z szerszym środowiskiem świata  i różnorodnymi kontekstami. Ludzkość
+     The Modern Para-
+                              nie może już zajmować uprzywilejowanej pozycji jako jedyny, a może nawet najważ-     digm of the Person
+                              niejszy rodzaj osoby i musi zmagać się ze światem jako nieuniknionym biegunem i wy-  K_W01, K_W02, K_W03,
+     and the World                        miarem wszelkiego doświadczenia.                                       K_W04
+23.
+                                                                                                  K_U01, K_U02, K_U03     Współczesny para-
+                             In this bachelors level course students will explore contemporary paradigms that reeval-  K_K01     dygmat człowieka
+                           uate how persons (human and otherwise) relate to the broader world (natural or other-
+           i świata                              wise). In the nineteenth-twentieth century Western philosophy began to reevaluate the
+                         dominant paradigm of humanity as the ruler, master, or ultimate rational observer of
+                            the world and its processes, distinctive and separate from it. Instead philosophers from
+                          Henry-David Thoreau and Mary Shelley to John Dewey and Donna Haraway, offered
+                           accounts of persons as emergent processes within and interacting with the broader
+                            world environment and variety of contexts. Humanity may longer have a privileged po-
+                                  sition as the only, or perhaps even most important kind of person, and must contend
+                            with the world as an inevitable pole and dimension of all experience.
+     The Philosophical      Kurs podzielony jest na trzy główne części. Pierwsza oferuje badanie wzajemnych relacji
+     Aspects of Politics     między myśleniem o polityce (i "tym, co polityczne") a myśleniem filozoficznym, ze  K_W01, K_W02, K_W03,
+     and Economy         szczególnym uwzględnieniem ich wymiaru epistemologicznego i ontologicznego (a także  K_W04
+24.
+                               filozoficznego rdzenia, podstaw i implikacji projektów teoretycznych opartych na współ-  K_U01, K_U02, K_U03
+      Filozoficzne aspekty    pracy filozofii i polityki). Głównym celem ogólnym lektur studiowanych i dyskutowanych  K_K01
+       polityki i ekonomii    w tej części kursu jest zakwestionowanie przekonań o rzekomo "czystym" - wolnym od
+
+
+
+                                                                         17
+wartości (lub poszukującym prawdy)  i nienormatywnym - charakterze rozumowania
+i działania w sferze politycznej (definiowanej zwykle przez dyskurs akademicki  i prak-
+tyczny jako domena "machtpolitik", "realpolitik" i polityki racji stanu), w tym politologii
+jako dyscypliny naukowej. Druga część kursu poświęcona jest filozoficznym aspektom
+ekonomii i rynków. W jej ramach z jednej strony ujawnione zostaną ontologiczne i epi-
+stemologiczne wymiary filozoficznych badań i refleksji nad gospodarką, przede wszyst-
+kim te dotyczące szeroko rozumianej relacji między społeczeństwem a gospodarką, a z
+drugiej strony potwierdzone zostanie uznanie zagadnień ekonomicznych za niezbywalne
+składniki "historii i przedmiotu" filozofii." Trzecia część kursu odnosi się do systematycz-
+nej filozofii ekonomii (metaekonomii) rozumianej  i uprawianej jako już autonomiczna
+subdyscyplina filozofii i ekonomii, posiadająca własny obszar, kompetencje i instytucje
+badawcze - odnosząca się z jednej strony, do metodologii nauk ekonomicznych (w tym
+podstaw teorii użyteczności postrzeganej zarówno według paradygmatu teorii wyboru
+społecznego z modelem człowieka jako homo economicus, jak  i ekonomii behawioral-
+nej), a z drugiej strony do badania aspektów normatywnych w teoriach ekonomicznych
+i "rzeczywistości gospodarczej", w tym problemu dobrobytu.
+
+The course is divided into three main parts. The first offers an examination of interrela-
+tions between thinking about politics (and “the political”) and philosophical thinking,
+with special attention paid to their epistemological and ontological dimensions (as well
+as philosophical core, foundations, and implications of theoretical projects based on the
+cooperation between philosophy and politics). The main general aim of the readings
+studied and discussed in this part of the course is to challenge convictions about alleg-
+edly “pure” – value-free (or truth-seeking) and non-normative – the character of rea-
+soning and action within the political sphere (defined usually by the academic and prac-
+tical discourses as the domain of “machtpolitik”, “realpolitik” and reason-of-state poli-
+tics), including political science as scientific discipline. The second part of the course is
+devoted to the philosophical aspects of economics and markets. Within its framework,
+on the one hand, there will be revealed ontological and epistemological dimensions of
+philosophical research and reflections on the economy, primarily those regarding the
+broadly understood relationship between society and economy, and, on the other hand,
+the reaffirmation of economic issues as inalienable components of “the history and sub-
+ject matter” of philosophy." The course’s third part refers to the systematic philosophy
+of economics (meta-economics) understood and practiced as already an autonomous
+sub-discipline of philosophy and economics, with its own area, competencies, and re-
+search institutions - relating, on the one hand, to the methodology of economic science
+(including the foundations of utility theory viewed both according to the paradigm of
+social choice theory with the model of man as homo economicus, as well as of behavioral
+economics), and, on the other hand, to the study of normative aspects in economic
+theories and "economic reality," including the problem of welfare.
+
+
+
+
+
+                                            18
+                              Treścią zajęć będzie rozważenie wielu typów definicji kultury z różnych dyscyplin nauki
+                                                        i refleksji filozoficznej. Podejścia i próby definicyjne w antropologii filozoficznej w kon-
+                            cepcjach np. H. Plessnera i A. Gehlena zostaną skonfrontowane z tymi wywodzącymi się
+                             z nauk o kulturze i socjologii. Porównanie tych definicji skutkuje wyróżnieniem niektó-
+                            rych ich specyficznych typów oraz wskazaniem, jakie cechy zjawisk są w nich akcento-
+                         wane. Na tym tle zaprezentowane zostaną ujęcia filozoficzne  i antropologiczne, które
+                           zostaną odniesione do koncepcji człowieka. Tym samym kultura zostanie ukazana w
+     The Problem of Cul-
+                           perspektywie problematyki wartości, systemu samoidentyfikacji oraz kształtowania się      ture in Philosophical
+                           "symbolicznego pomiędzy".                                                K_W01, K_W02, K_W03,
+     Anthropology                                                                                    K_W04
+25.
+                         The content of the course will include the consideration of many types of definitions of  K_U01, K_U02, K_U03     Problem kultury w
+                              culture from various disciplines of science and philosophical reflection. Approaches and  K_K01      antropologii filozo-
+                                definition attempts in philosophical anthropology in the concepts of e.g. H. Plessner and
+      ficznej                             A. Gehlen will be confronted with those derived from the sciences of culture and sociol-
+                            ogy. Comparing these definitions results in distinguishing some of their specific types
+                        and indicating what features of phenomena are emphasized in them. Against this back-
+                           ground, philosophical and anthropological approaches will be presented and will be re-
+                              lated to the concepts of man. Thus, culture will be shown in the perspective of the issues
+                                of values, the system of self-identification and the formation of the "symbolic in-be-
+                           tween".
+                             Zajęcia będą składały się z dwóch części. W pierwszej omówione zostaną renesansowe
+                           koncepcje rozumienia świata, zarówno te, będące rezultatem namysłu nad koncepcjami
+                            starożytnymi (Ptolemeusz), jak i średniowiecznymi (Grosseteste, Roger Bacon, neopla-
+                            tonizm, Jean Buridan), by skonfrontować je z renesansowymi (Galileusz i Kopernik, Ta-
+                                 lesio i Bruno, Tycho de Brache i Keppler). Na zakończenie tej części pokazana zostanie
+                          droga przejścia od świata geocentrycznego, poprzez heliocentryczny do antropocen-
+                             trycznego. Część druga poświęcona będzie renesansowym koncepcjom człowieka. Za-
+     The Renaissance       cznie się od omówienie idei humanizmu, wraz ze wskazaniem decydującej roli filozofii
+      Project of the Person   oraz przedstawieniem głównych stanowisk filozoficznych: Erazm z Rotterdamu, egalita-
+     and the Universe      ryzm Thomasa More’a, koncepcje godności: Ficino, Pico della Mirandola. Omówiona też  K_W01, K_W02, K_W03
+26.                          zostanie pozycja człowieka w jego odniesieniu do społeczeństwa: renesansowe utopie,  K_U01, K_U02
+     Renesansowy pro-     antropologia Pomponaziego   i  filozofia  polityczna  Machiavellego,  ze  szczególnym  K_K03, K_K04
+      jekt osoby i wszech-   uwzględnieniem jego koncepcji władcy.
+      świata
+                         The class will consist of two parts. In the first, Renaissance conceptions of the under-
+                            standing of the world will be discussed, both those resulting from reflection on ancient
+                           (Ptolemy) and medieval concepts (Grosseteste, Roger Bacon, Neoplatonism, Jean Buri-
+                            dan), in order to contrast them with those of the Renaissance (Galileo and Copernicus,
+                              Talesio and Bruno, Tycho de Brache and Keppler). This part will conclude by showing
+                            the transition from a geocentric, through a heliocentric to an anthropocentric world. Part
+                         two will be focused on Renaissance conceptions of man. It will begin with a discussion
+
+
+
+                                                                         19
+                                  of the idea of humanism, together with an indication of the decisive role of philosophy
+                          and a presentation of the main philosophical positions: Erasmus of Rotterdam, Thomas
+                              More's egalitarianism, concepts of dignity: Ficino, Pico della Mirandola. The position of
+                      man in his relation to society will also be discussed: the Renaissance utopias, Pompon-
+                                     azi's anthropology and Machiavelli's political philosophy, with particular reference to his
+                             concept of the prince.
+
+
+6.  Plan studiów
+   Study plan
+
+ Rok studiów: I/Year of study: 1st
+ Semestr: pierwszy/Semester: 1st
+                                                           Forma zajęć/                  Liczba
+                                                                                                  Sposób                                                         Form of classes                godzin
+                                                                                                                         weryfikacji   Punkty   Dyscyplina (y) do której od-                                                                                                         zajęć/
+ Nazwa przedmiotu/moduły zajęć                O/                                                                         /       ECTS/    nosi się przedmiot                                                                               Number
+ Name of course/module                        F*                                    Inne/             Method of    ECTS     Discipline (s) to which the                                W    Ć    S     L    K               of hours                                                                                    Other                   verifica-     credits    subject relates                                                                                                              of clas-                                                                                                                               tion
+                                                                                                   ses
+ Greek Culture and Civilization                                                                                                                                  filozofia
+                                   O     30    30                            60        E/Zo        6 Kultura i cywilizacja grecka                                                                                                          philosophy
+
+ Aesthetics and Art                                                                                                                                               filozofia                                   O     30    30                            60        E/Zo        6
+ Estetyka i sztuka                                                                                                                   philosophy
+
+ Logical Culture                                                                                                                                                   filozofia
+                                   O     30    30                            60        E/Zo        6 Kultura logiczna                                                                                                                    philosophy
+                                                                                                                                   nauki prawne / nauki o ko-
+ Information technology with elements of intel-
+                                                                                                                                     munikacji społecznej i me- lectual property law
+                                   O                          15             15        Zo        1      diach Technika informacyjna z elementami prawa
+                                                                                                                              law / social communication
+ własności intelektualnej                                                                                                                   and media studies
+ Sociology                                                                                                                                     socjologia
+                                   O                          30             30        Zo        3
+ Socjologia                                                                                                                                sociology
+
+ Psychology                                                                                                                          psychologia                                   O                          30             30        Zo        3
+ Psychologia                                                                                                                    psychology
+ The Philosophical Aspects of Politics and Econ-
+                                                                                                                                                                      filozofia omy                               O                          30             30        Zo        3
+                                                                                                                                    philosophy
+ Filozoficzne aspekty polityki i ekonomii
+ Ethics of Humanitarian Actions                                                                                                                                 filozofia                                   O                          30             30        Zo        3
+ Etyka akcji humanitarnych                                                                                                           philosophy
+
+
+
+
+                                                                           20
+Polish for Foreigners                                  O                     30                  30        Zo        0
+Polski dla cudzoziemców
+
+Occupational Safety and Health
+                                  O                                 4        4         Z         0       -BHP
+                               Razem                                             319                                                                                                         31
+                                     Altogether                                         +30
+Rok studiów: I/Year of study: 1st
+Semestr: drugi/Semester: 2nd
+                                                          Forma zajęć/                  Liczba                                                                                                 Sposób
+                                                        Form of classes                godzin
+                                                                                                                       weryfikacji   Punkty   Dyscyplina (y) do której od-                                                                                                        zajęć/
+Nazwa przedmiotu/moduły zajęć                O/                                                                         /       ECTS /    nosi się przedmiot                                                                              Number
+Name of course/module                        F*                                  Inne /             Method of    ECTS     Discipline (s) to which the                               W    Ć    S     L    K               of hours                                                                                   Other                   verifica-     credits    subject relates                                                                                                             of clas-                                                                                                                              tion
+                                                                                                  ses
+Civitas Christiana: Mediaeval European Culture
+and Civilization                                                                                                                                                   filozofia
+                                  O     30    30                            60        E/Zo        6Civitas Christiana: Kultura i cywilizacja średnio-                                                                                       philosophy
+wiecznej Europy
+Ethics: Main Questions                                                                                                                                          filozofia                                  O     30    30                            60        E/Zo        6
+Etyka: główne pytania                                                                                                              philosophy
+
+European Heritage of Values                                                                                                                                   filozofia
+                                  O                          30             30        Zo        3Europejskie dziedzictwo wartości                                                                                                     philosophy
+
+Polish for Foreigners                                  O                     30                  30         E         5
+Polski dla cudzoziemców
+
+English**                                                                                                                 językoznawstwo
+                                  O                     60                  60        Zo        0Język angielski                                                                                                                                             linguistics
+
+                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3
+                                                                                                                                   philosophy
+
+                                                                                                                                                                     filozofia                                               F                          30             30        Zo        3
+                                                                                                                                   philosophyElective: Philosophy of Culture
+Przedmiot do wyboru: Filozofia kultury                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3                                                                                                                                   philosophy
+
+                                                                                                                                                                     filozofia                                               F                          30             30        Zo        3
+                                                                                                                                   philosophy
+
+                               Razem                                             360                  27
+                                     Altogether                                         +30               +5
+
+
+
+
+
+                                                                          21
+Rok studiów: II/Year of study: 2nd
+Semestr: trzeci/Semester: 3rd
+                                                          Forma zajęć/                  Liczba
+                                                                                                 Sposób                                                        Form of classes                godzin
+                                                                                                                       weryfikacji   Punkty   Dyscyplina (y) do której od-
+                                                                                                        zajęć/Nazwa przedmiotu/moduły zajęć                O/                                                                         /       ECTS/    nosi się przedmiot
+                                                                              Number
+Name of course/module                        F*                                    Inne/             Method of    ECTS     Discipline(s) to which the                               W    Ć    S     L    K               of hours                                                                                   Other                   verifica-     credits    subject relates                                                                                                             of clas-
+                                                                                                                              tion                                                                                                  ses
+The Renaissance Project of the Person and the                                                                                                                                                                     filozofia
+Universe                            O     30    30                            60        E/Zo        6                                                                                                                                   philosophy
+Renesansowy projekt osoby i wszechświata
+Ontology of the Social Being                                                                                                                                   filozofia
+                                  O     30    30                            60        E/Zo        6Ontologia bytu społecznego                                                                                                          philosophy
+
+New Phenomena in Contemporary Culture                                                                                           nauki o kulturze i religii                                  O                          30             30        Zo        3
+Nowe zjawiska w kulturze współczesnej                                                                                                      culture and religion studies
+
+English**                                                                                                                 językoznawstwo
+                                  O                     60                  60        Zo        0Język angielski                                                                                                                                             linguistics
+
+                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3
+                                                                                                                                   philosophy
+
+                                                                                                                                                                     filozofia                                               F                          30             30        Zo        3
+                                                                                                                                   philosophyElective: Philosophical Anthropology
+Przedmiot do wyboru: Antropologia filozoficzna                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3                                                                                                                                   philosophy
+
+                                                                                                                                                                     filozofia                                               F                          30             30        Zo        3
+                                                                                                                                   philosophy
+
+                               Razem
+                                                                                    330                  27                                     Altogether
+Rok studiów: II/Year of study: 2nd
+Semestr: czwarty/Semester: 4th
+                                                          Forma zajęć/                  Liczba
+                                                                                                 Sposób                                                        Form of classes                godzin
+                                                                                                                       weryfikacji   Punkty   Dyscyplina (y) do której od-
+                                                                                                        zajęć/Nazwa przedmiotu/moduły zajęć                O/                                                                         /       ECTS/    nosi się przedmiot
+                                                                              Number
+Name of course/module                        F*                                  Inne /             Method of    ECTS     Discipline (s) to which the                               W    Ć    S     L    K               of hours                                                                                   Other                   verifica-     credits    subject relates                                                                                                             of clas-
+                                                                                                                              tion                                                                                                  ses
+The Modern Paradigm of the Person and the                                                                                                                 filozofia
+                                  O     30    30                            60        E/Zo        6
+World                                                                                                                              philosophy
+
+
+
+                                                                          22
+Współczesny paradygmat osoby i świata
+
+
+Religion and Culture                                                                                                               nauki o kulturze  religii
+                                  O     30    30                            60        E/Zo        6Religia i kultura                                                                                                                               culture and religion studies
+
+English**                                                                                                                 językoznawstwo                                  O                     60                  60         E        12
+Język angielski                                                                                                                                             linguistics
+
+                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3                                                                                                                                   philosophy
+
+                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3
+                                                                                                                                   philosophyElective: Social Philosophy
+Przedmiot do wyboru: Filozofia społeczna                                                                                                                                                                     filozofia                                               F                          30             30        Zo        3
+                                                                                                                                   philosophy
+
+                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3                                                                                                                                   philosophy
+
+Physical Education***                                  O                                60       60        Zo        0
+Wychowanie fizyczne
+
+                               Razem                                             300
+                                                                                                         36                                     Altogether                                         +60
+Rok studiów: III/Year of study: 3rd
+Semestr: piąty/Semester: 5th
+                                                          Forma zajęć/                  Liczba
+                                                                                                 Sposób                                                        Form of classes                godzin
+                                                                                                                       weryfikacji   Punkty   Dyscyplina (y) do której od-
+                                                                                                        zajęć/Nazwa przedmiotu/moduły zajęć                O/                                                                         /       ECTS/    nosi się przedmiot
+                                                                              Number
+Name of course/module                        F*                                    Inne/             Method of    ECTS     Discipline (s) to which the                               W    Ć    S     L    K               of hours                                                                                   Other                   verifica-     credits    subject relates                                                                                                             of clas-
+                                                                                                                              tion                                                                                                  ses
+Enlightenment and the Idea of Progress                                                                                                                      filozofia
+                                  O     30    30                            60        E/Zo        6
+Oświecenie i idea postępu                                                                                                           philosophy
+The Problem of Culture in Philosophical Anthro-                                                                                                                                                                     filozofia
+pology                              O     30    30                            60        E/Zo        6
+                                                                                                                                   philosophyProblem kultury w antropologii filozoficznej
+                                                                                                                                                                     filozofia
+                                               F                          30             30        Zo        3
+                                                                                                                                   philosophyElective: Philosophy o Culture
+Przedmiot do wyboru: Filozofia kultury                                                                                                                                                                     filozofia                                               F                          30             30        Zo        3
+                                                                                                                                   philosophy
+
+
+
+
+
+                                                                          23
+                                                                                                                                                                      filozofia                                                F                          30             30        Zo        3
+                                                                                                                                    philosophy
+
+                                                                                                                                                                      filozofia
+                                                F                          30             30        Zo        3                                                                                                                                    philosophy
+
+ Bachelor Seminar                                                                                                                                                filozofia                                                F                30                       30        Zo        7
+ Seminarium licencjackie                                                                                                             philosophy
+
+                                Razem
+                                                                                     270                  31                                      Altogether
+ Rok studiów: III/Year of study: 3rd
+ Semestr: szósty/Semester: 6th
+                                                           Forma zajęć/                  Liczba
+                                                                                                  Sposób                                                         Form of classes                godzin
+                                                                                                                         weryfikacji   Punkty   Dyscyplina (y) do której                                                                                                         zajęć/
+ Nazwa przedmiotu/moduły zajęć                O/                                                                         /       ECTS/    odnosi się przedmiot
+                                                                               Number
+ Name of course/module                        F*                                    Inne/             Method of    ECTS     Discipline (s) to which the                                W    Ć    S     L    K               of hours                                                                                    Other                   verifica-     credits    subject relates                                                                                                              of clas-                                                                                                                               tion
+                                                                                                   ses
+ Contemporary Culture and the Problem of Civili-
+                                                                                                                                                                      filozofia
+ zation                              O     30    30                            60        E/Zo        6                                                                                                                                    philosophy
+ Kultura współczesna i problem cywilizacji
+ Introduction to Philosophy of Culture: Cultural
+ Phenomenology                                                                                                                                                  filozofia
+                                   O                          30             30        Zo        3 Wprowadzenie do filozofii kultury: fenomenolo-                                                                                       philosophy
+ gia kultury
+ Bachelor Seminar                                                                                                                                                filozofia                                                F                30                       30        Zo        10
+ Seminarium licencjackie                                                                                                             philosophy
+
+                                                                                                                                                                      filozofia
+                                                F                          30             30        Zo        3                                                                                                                                    philosophy
+
+ Elective                                                                                                                                                            filozofia                                                F                          30             30        Zo        3
+ Przedmiot do wyboru                                                                                                                philosophy
+
+                                                                                                                                                                      filozofia
+                                                F                          30             30        Zo        3                                                                                                                                    philosophy
+
+                                Razem
+                                                                                     210                  28
+                                      Altogether
+
+* Przedmiot: obowiązkowy – O / fakultatywny – F
+* Class: obligatory – O / elective – F
+** Szczegółowe zasady zaliczenia lektoratu języka angielskiego oraz możliwości nauki innego języka obcego regulowane są odrębnymi przepisami.
+** Detailed rules for the credit of English classes and the possibility of learning another foreign language are regulated by separate regulations.
+
+
+
+                                                                           24
+*** Obowiązkowe dwa semestry (2x30godz.=60godz.) wychowania fizycznego należy zrealizować nie później niż do IV semestru.
+*** Obligatory two semesters (2x30h=60h) of physical education must be completed no later than by 4th semester.
+
+Dodatkowe informacje:
+Obowiązkowe szkolenie BHP do zrealizowania na I semestrze w formie e-learningowej, rozliczenie zaliczenia w semestrze I (zasady odbywania zajęć uregulowane są od-
+rębnymi przepisami).
+Obowiązkowe dwa semestry (60 godz.) wychowania fizycznego należy zrealizować do IV semestru.
+Język polski dla cudzoziemców obejmuje 60 h i 5 ECTS w I roku studiów. Zasady realizacji obowiązku regulowane są odrębnymi przepisami.
+
+Additional information:
+Obligatory occupational health and safety training to be completed in 1st semester in the form of e-learning, credit settlement in 1st semester (the rules for this class are
+regulated in separate regulations).
+Obligatory two semesters (60 h) of physical education must be completed by 4th semester.
+Polish for Foreigners includes 60 h and 5 ECTS in the first year of study. The rules for the implementation of the obligation are governed by separate regulations.
+
+
+Łączna liczba punktów ECTS w I semestrze: 31
+Łączna liczba punktów ECTS w II semestrze: 27+5 (j. polski)
+Łączna liczba punktów ECTS w I roku: 58+5 (j. polski)
+Łączna liczba godzin zajęć w I semestrze: 319+30 (j. polski)
+Łączna liczba godzin zajęć w II semestrze: 360+30 (j. polski)
+
+Łączna liczba punktów ECTS w III semestrze: 27
+Łączna liczba punktów ECTS w IV semestrze: 36
+Łączna liczba punktów ECTS w II roku: 63
+Łączna liczba godzin zajęć w III semestrze: 330
+Łączna liczba godzin zajęć w IV semestrze: 300+60 (WF)
+
+Łączna liczba punktów ECTS w V semestrze: 31
+Łączna liczba punktów ECTS w VI semestrze: 28
+Łączna liczba punktów ECTS w III roku: 59
+Łączna liczba godzin zajęć w V semestrze: 270
+Łączna liczba godzin zajęć w VI semestrze: 210
+
+Total number of ECTS credits in the 1st semester: 31
+Total number of ECTS credits in the 2nd semester: 27+5 (Polish)
+Total number of ECTS credits in 1st year: 58+5 (Polish)
+Total number of teaching hours in the 1st semester: 319+30 (Polish)
+Total number of teaching hours in the 2nd semester: 360+30 (Polish)
+
+Total number of ECTS credits in the 3rd semester: 27
+Total number of ECTS credits in the 4th semester: 36
+Total number of ECTS credits in 2nd year: 63
+
+
+                                                                           25
+Total number of teaching hours in the 3rd semester: 330
+Total number of teaching hours in the 4th semester: 300+60 (physical education)
+
+Total number of ECTS credits in the 5th semester: 31
+Total number of ECTS credits in the 6th semester: 28
+Total number of ECTS credits in 3rd year: 59
+Total number of class hours in the 5th semester: 270
+Total number of class hours in the 6th semester: 210
+
+
+
+OBJAŚNIENIA
+
+Formy realizacji zajęć:                                       Sposoby weryfikacji efektów uczenia się:
+W - wykład                                               E - egzamin
+Ć - ćwiczenia                                               EP - egzamin pisemny
+S - seminarium                                             T - test
+L - laboratorium                                                        Es.- esej
+K - konwersatorium                                                      Proj. - projekt
+Proj. - projekt                                                             Pr. - praca roczna
+Ćw. - ćwiczenia terenowe                                 Z - zaliczenie
+Ćw.l. - ćwiczenia laboratoryjne                               Zo - zaliczenie z oceną
+Inne: np. Wr - warsztaty, L - lektoraty, Pr - praktyki,                Inne: np. UP - ustna prezentacja, R – raport
+
+EXPLANATIONS
+
+Forms of course delivery:                                 Ways of verifying learning outcomes:
+W – lecture                                               E - exam
+Ć – classwork                                              EP - written exam
+S – seminar                                                T - test
+L – laboratory                                                 Es - essay
+K – tutorial                                                               Proj. - project
+Proj. – project                                                             Pr. - annual thesis
+Ćw. - field exercise                                      Z – credit (without grade)
+Ćw.l. - laboratory classes                                   Zo - credit (with grade)
+Other: e.g. Wr - workshops, L - lectures, Pr - internships,            Other: e.g. UP - oral presentation, R - report
+
+
+
+
+
+                                                                           26

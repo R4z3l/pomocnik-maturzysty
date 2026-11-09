@@ -1,0 +1,8 @@
+.programme-tablist{display:flex;flex-wrap:wrap;gap:0;border-bottom:1px solid var(--line);margin:24px 0 26px;position:relative}
+.programme-tabs .programme-tab{background:transparent;border:0;border-radius:0;border-bottom:3px solid transparent;margin-bottom:-1px;color:var(--muted);padding:13px 14px;font-size:13px;font-weight:600;line-height:1.5;white-space:normal;cursor:pointer}
+.programme-tabs .programme-tab[aria-selected='true']{color:#12626c;border-bottom-color:#167b85;background:#eff7f7}
+.programme-tabs .programme-tab:hover{color:#12626c;background:#eff7f7}
+.programme-tabpanel[hidden]{display:none!important}.programme-tabpanel{min-width:0;scroll-margin-top:20px;outline-offset:6px}
+.programme-tabs .graduate-panel{margin-top:0}.programme-tabs .career-advisor{margin-top:24px}
+html[data-theme='dark'] .programme-tabs .programme-tab[aria-selected='true'],html[data-theme='dark'] .programme-tabs .programme-tab:hover{color:#a0e4dc;border-bottom-color:#77d4cc;background:#203e4c}
+@media(max-width:620px){.programme-tablist{margin:20px 0}.programme-tabs .programme-tab{flex:1 0 45%;padding:11px 7px;font-size:12px;text-align:left}}

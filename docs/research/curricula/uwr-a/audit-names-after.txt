@@ -1,0 +1,2375 @@
+uwr-administracja
+
+
+uwr-analityka-spoleczna
+Współczesne problemy społeczne
+Kulturowe aspekty życia społecznego
+Wstęp do ilościowych metod badawczych
+Wstęp do jakościowych metod badawczych
+Analiza wariancji i wprowadzenie do regresji
+Modele redukcyjne i klasyfikacyjne
+Analiza treści z elementami uczenia maszynowego
+Koncepty socjologii współczesnej
+Analiza logliniowa
+Szeregi czasowe i modele prognostyczne
+Zarządzanie badaniami i zespołem badawczym
+Socjologia miasta i teorie rozwoju miast
+Dane jakościowe i badania sondażowe w analizie zjawisk i przemian miejskich
+Badania etnograficzne w marketingu
+Segmentacja, różnicowanie, pozycjonowanie i profilowanie w zarządzaniu rynkami
+Szeregi czasowe i analiza trendów rynkowych
+Analityka danych w marketing-mix
+Wprowadzenie do nauk społecznych
+Ekonomiczne i gospodarcze wymiary życia społecznego
+Globalne procesy społeczne
+Statystyka w analityce społecznej
+Logika i jej zastosowanie
+Wprowadzenie do programowania I
+Język polski dla cudzoziemców
+Język obcy
+Pomiar w naukach społecznych
+Komunikacja społeczna i treningi komunikacyjne
+Podstawy analiz geoinformacyjnych (GIS)
+Wprowadzenie do baz danych
+Zagadnienia etyczne i prawne w pracy z danymi
+Wprowadzenie do programowania II
+Wprowadzenie do badań UX (User Experience) LUB Wprowadzenie do badań ewaluacyjnych
+Podstawy analizy i interpretacja danych ilościowych
+Podstawy analizy i interpretacji danych jakościowych
+Analityka, zarządzanie i edukacja w obszarze bezpieczeństwa - wykład monograficzny
+Analityka danych miejskich - wykład monograficzny
+Teorie społeczne XXI wieku
+Język obcy (poziom B2)
+Proseminarium licencjackie
+Modele regresyjne
+Zaawansowane modele analityczne (równania strukturalne, sieci neuronowe, modele ścieżkowe)
+Analityka danych w marketingu - wykład monograficzny
+Wizualizacja danych
+Język polski dla cudzoziemców (poziom B2)
+Zajęcia specjalnościowe
+Seminarium licencjackie
+Laboratorium badań społecznych w obszarze bezpieczeństwa
+Prawne podstawy bezpieczeństwa
+Kultura bezpieczeństwa
+Bezpieczeństwo narodowe i międzynarodowe
+Strategie zarządzania bezpieczeństwem w instytucjach
+Badania sondażowe w analizie społecznych kontekstów bezpieczeństwa
+Strategie edukacyjne
+Elementy planowania przestrzennego i podstawy funkcjonowania samorządu terytorialnego
+Ekonomia miasta
+Źródła i rodzaje danych zastanych w badaniach miejskich
+Big Data w analityce miejskiej
+Analizy geoinfomacyjne w badaniach miejskich
+Źródła danych rynkowych
+Zachowania konsumenckie i badanie postaw utajonych
+eCommerce
+Analiza projektów reklamowych i badanie skuteczności reklamy
+Big Data w marketingu
+Jakościowa i ilościowa metodologia badań rynkowych
+Prawne aspekty pozyskiwania danych na potrzeby analiz miejskich
+Badanie przemian miejskich z użyciem metod analizy wielowymiarowej
+Równania strukturalne i modele regresyjne w badaniu problemów i przemian miejskich
+Elementy badań diagnostycznych i planowania strategicznego w oparciu o przetwarzanie danych miejskich
+Elementy zarządzania miastem w oparciu o dane
+Segmentacja, różnicowanie i pozycjonowanie w zarządzaniu rynkami
+Modelowanie procesów rynkowych z użyciem metod analizy wielowymiarowej
+Równania strukturalne i modele regresyjne w badaniu determinant wyborów konsumenckich
+Analityka danych w marketingmix
+
+uwr-anglistyka
+PNJA – gramatyka 1
+PNJA – język angielski w kontekście 1
+PNJA – pisanie 1
+PNJA – fonetyka 1
+PNJA – konwersacje 1
+Historia literatury angielskiej 1
+Literatura angielska 1
+Wiedza o społeczeństwie brytyjskim
+Wiedza o społeczeństwie amerykańskim
+Wstęp do literaturoznawstwa
+Wstęp do językoznawstwa 1
+Gramatyka opisowa 1
+Historia Wielkiej Brytanii i USA
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz
+Język polski dla cudzoziemców
+Język obcy
+PNJA – gramatyka 2
+PNJA – język angielski w kontekście 2
+PNJA – pisanie 2
+PNJA – fonetyka 2
+PNJA – konwersacje 2
+Historia literatury angielskiej 2
+Literatura angielska 2
+Historia literatury amerykańskiej 1
+Literatura amerykańska 1
+Wstęp do językoznawstwa 2
+Gramatyka opisowa 2
+Przedmiot do wyboru z dziedziny nauk społecznych
+Wychowanie fizyczne
+Podstawy przedsiębiorczości w zawodach językowych
+PNJA – gramatyka 3
+PNJA – język angielski w kontekście 3
+PNJA – pisanie 3
+PNJA – fonetyka 3
+PNJA – konwersacje 3
+Historia literatury angielskiej 3
+Literatura angielska 3
+Historia literatury amerykańskiej 2
+Literatura amerykańska 2
+Gramatyka opisowa 3
+Psychologicznosocjologiczne aspekty akwizycji języka
+PNJA – gramatyka 4
+PNJA – pisanie 4
+PNJA – konwersacje 4
+Historia literatury angielskiej 4
+Literatura angielska 4
+Historia literatury amerykańskiej 3
+Literatura amerykańska 3
+Gramatyka opisowa 4
+Teksty kultury kręgu północnoamerykańskiego – kurs realioznawczy
+Teksty kultury kręgu północnoamerykańskiego – wybrane zjawiska kultury i literatury
+Zajęcia projektowe: badania językoznawcze
+Metody eksperymentalne w badaniach nad językiem i umysłem
+Wybrane podejścia badawcze w dziedzinie literaturoznawstwa
+Zajęcia projektowe: badania literaturoznawcze
+Teorie literaturoznawstwa
+PNJA – konwersacje 5
+Gramatyka kontrastywna 1
+Filozofia w językoznawstwie / Filozofia w literaturoznawstwie / Główne problemy filozofii zachodniej
+Przedmiot do wyboru
+Seminarium licencjackie 1
+Pisanie pracy naukowej 1
+Język i umiejętności cyfrowe
+Kultura: proces twórczy i recepcja
+Proces badawczy i umiejętności miękkie w pracy badawczej
+PNJA – konwersacje 6
+Gramatyka historyczna 1
+Gramatyka kontrastywna 2 /Gramatyka historyczna 2
+Seminarium licencjackie 2
+Pisanie pracy naukowej 2
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Przekład literacki
+Elementy przekładu ustnego w biznesie
+Psychologia dla nauczycieli
+Pedagogika dla nauczycieli
+Podstawy dydaktyki
+
+uwr-archeologia
+Wstęp do archeologii
+Wprowadzenie do archeologii Polski
+Wprowadzenie do nauk o Ziemi
+Antropologia fizyczna
+Dokumentacja w archeologii
+Wprowadzenie do archeologii Nowego Świata
+Podstawy informatyki dla archeologów
+Traseologia
+Archeologia Powszechna Paleolit i Mezolit
+Nauki pokrewne archeologii
+Archeologia społeczna
+Bioarcheologia
+Geoarcheologia
+Muzealnictwo i ochrona zabytków
+Metodyka badań wykopaliskowych
+Archeologia powszechna neolit
+Archeologia powszechna epoka brązu
+Archeologia klasyczna
+GIS w archeologii
+Konwersatorium specjalistyczne
+Proseminarium
+Konserwacja zabytków archeologicznych
+Metodyka prospekcji archeologicznej
+Język obcy nowożytny
+Archeologia Powszechna okres lateński
+Archeologia Powszechna Okres wpływów rzymskich
+Podstawy numizmatyki
+Ćwiczenia muzealne
+Archeologia Powszechna wczesne średniowiecze
+Seminarium licencjackie
+Archeologia powszechna późne średniowiecze
+Przedsiębiorczość w archeologii
+Metodyka badań zabytków ruchomych
+Archaeological ceramic through time and space
+Archeologia historyczna XVI-XX w.
+Archeologia kolonizacji europejskiej XV-XIX w.
+Archeologia konfliktów
+Archeologia sądowa w teorii i praktyce
+Crafts of the Bronze Age Europe
+Świat opisany i świat przedstawiony w monetach średniowiecznych
+Świat Rzymian w świetle ich kultury materialnej
+Pseudoscience and critical reading in archaeology
+TU JEST PIES POGRZEBANY. Archeologia pochówków zwierzęcych
+Zabytki archeologiczne jako archeometryczne źródło informacji o przeszłości
+
+uwr-astronomia
+Mechanika 1
+Podstawy astronomii 1
+Wstęp do algebry
+Analiza matematyczna 1 1
+Szkolenie wstępne z BHP i ochrony p-poż.
+Termodynamika 1
+Podstawy astronomii 2
+Pracownia astronomiczna
+Ćwiczenia obserwacyjne 1 2
+Analiza matematyczna 2 1
+Algorytmy i programowanie
+Wstęp do systemów operacyjnych
+Ochrona własności intelektualnej
+PRZEDMIOTY UZUPEŁNIAJĄCE DO WYBORU 6,7 Pracownia komputerowa metod matematycznych 1
+Elektryczność i magnetyzm 1
+Astrofizyka obserwacyjna 1
+Wstęp do fizyki Słońca
+Ćwiczenia obserwacyjne 2 2
+Analiza matematyczna 3 1
+Laboratorium programowania
+Pracownia komputerowa metod matematycznych 2
+Elementy mechaniki teoretycznej i STW
+Fale 1
+Fizyka kwantowa
+Astrofizyka obserwacyjna 2
+Budowa i ewolucja gwiazd
+Wakacyjna praktyka obserwacyjna 2
+Statystyka matematyczna
+Wprowadzenie do programowania w IDL
+Wprowadzenie do programowania w Pythonie
+Fizyka atomu, jądra i cząstek elementarnych 1
+Astrofizyka układów planetarnych
+Metody numeryczne
+Seminarium licencjackie 1
+Język obcy (poziom B2) 4
+Bazy danych astronomicznych
+Prezentacja wyników naukowych
+Teoria atmosfer gwiazdowych
+Metody matematyczne w astronomii
+Podstawy przedsiębiorczości
+Seminarium licencjackie 2
+Praca licencjacka i egzamin licencjacki 3
+Tworzenie stron internetowych
+Historia astronomii
+Seminarium z astronomii
+Praktyka heliofizyczna 2
+Wychowanie fizyczne 5
+
+uwr-bachelor-of-business-and-administration
+Access to Information and Information Management (Dostęp do informacji i zarządzanie informacjami)
+Administrative Legal Environment of Business and Administrative Procedures (Administracyjnoprawne otoczenie biznesu i procedury administracyjne)
+Fundamentals of Law and Government (Podstawy państwa i prawa)
+Fundamentals of Microeconomics (Podstawy mikroekonomii)
+Introduction to Public International Law (Wprowadzenie do prawa międzynarodowego publicznego)
+Fundamentals of Quantitative Methods (Podstawy metod ilościowych)
+Public and Private Organisations (Publiczne i prywatne organizacje)
+Elective / Przedmioty do wyboru (student wybiera 2 przedmioty)
+Principles of Accounting (Podstawy rachunkowości)
+Introduction to the EU Law (Wprowadzenie do prawa UE)
+Introduction to Criminal Law (Wprowadzenie do prawa karnego)
+Decision Making in Business and Administration (Podejmowanie decyzji w biznesie i w admini - stracji )
+Sociology of Organisations (Socjologia organizacji)
+Fundamentals of Competition Law (Podstawy prawa konkurencji)
+Introductory Statistics for Business (Podstawy statystyki dla biznesu)
+e-Business (e-Biznes)
+Foreign Language (B2) (Język obcy B2)
+Human Resource Management (Zarządzanie zasobami ludzkimi)
+Administrative Legal Environment of Business and Administrative Procedures
+
+uwr-bezpieczenstwo-narodowe
+Nauka o państwie
+Mikroekonomia
+Geografia polityczna i ekonomiczna
+Historia wojskowości
+Podstawy prawa
+Historia najnowsza
+Problemy narodowościowe i konflikty etniczne
+Technologia informacyjna z elementami prawa własności intelektualnej
+Język polski dla cudzoziemców
+Szkolenie bhp
+Teorie bezpieczeństwa
+Makroekonomia
+Prawne podstawy bezpieczeństwa
+Administracja publiczna
+Obronność państwa
+Polska polityka zagraniczna
+Socjologia bezpieczeństwa
+Systemy bezpieczeństwa narodowego
+Międzynarodowe stosunki polityczne
+Strategia i polityka bezpieczeństwa
+Zarządzanie w organizacjach bezpieczeństwa
+Międzynarodowe prawo humanitarne konfliktów zbrojnych
+Terroryzm i działania antyterrorystyczne oraz kontrterrorystyczne
+Komunikacja strategiczna
+Współczesne systemy polityczne
+Polityka bezpieczeństwa i obronna Rzeczypospolitej Polskiej
+Geopolityka i geostrategia
+Bezpieczeństwo ekonomiczne
+Integracja europejska
+Język polski dla cudzoziemców (poziom B2)
+Zarządzanie kryzysowe i ochrona ludności
+Dyplomacja obronna
+Logistyka w sytuacjach kryzysowych
+
+uwr-biologia
+Biologia człowieka
+Biofizyka
+Chemia dla biologów
+Ekologia
+Organizmy zarodnikowe
+Postawy biologii komórki zwierzęcej
+Podstawy bioetyki
+Podstawy budowy roślin
+Podstawy komunikacji formalnej
+Szkolenie BHP i Ppoż
+Wprowadzenie do metod obliczeniowych w naukach biologicznych
+Zoologia bezkręgowców
+Antropologia fizyczna
+Biochemia dla biologów
+Histologia zwierząt
+Mikrobiologia
+Ochrona środowiska
+Podstawy biologii komórki roślinnej
+Podstawy parazytologii
+Rośliny nasienne
+Wychowanie fizyczne
+Zoologia kręgowców
+Biogeografia
+Etologia
+Fizjologia roślin
+Fizjologia zwierząt
+Genetyka
+Język angielski w biologii
+Język angielski
+Podstawy immunologii
+Podstawy rozwoju zwierząt
+Prawo autorskie i prawo pracy
+Programy stypendialne dla studentów nauk biologicznych
+Techniki przygotowania i prezentacji pracy naukowej
+Ekologia roślin i zbiorowisk roślinnych (wakacyjne ćwiczenia terenowe w Karpaczu)
+Ekosystemy świata
+Ewolucjonizm
+Metody in silico i statystyka dla biologów
+Paleontologia
+Paleontologia w praktyce (wakacyjne ćw. terenowe)
+Psychologiczno-biologiczne uwarunkowania ludzkich zachowań
+Różnorodność zwierząt (wakacyjne ćw. terenowe w Rudzie Milickiej)
+Ekologia człowieka
+Metody antropologiczne w kryminalistyce
+Osteometria i kranioskopia
+Podstawy statystyki w naukach o człowieku
+Prymatologia
+Przygotowanie pracy licencjackiej
+Bioindykatory i bioindykacja
+Biologia lasu - wprowadzenie
+Ewolucja i biologia bezkręgowców
+Ewolucja i biologia kręgowców
+Genetyka populacyjna
+Grzyby Polski
+Kręgowce Polski
+Kształtowanie się środowiska przyrodniczego Ziemi
+Problematyka badawcza w biologii środowiskowej
+Biologia molekularna w diagnostyce
+Fizjologia wzrostu i rozwoju roślin
+Metabolity wtórne roślin i ich praktyczne zastosowanie
+Obliczenia w biochemii i biologii
+Struktura i funkcja białka
+Techniki badawcze w biologii roślin
+Bakteriologia
+Choroby inwazyjne
+Mikroflora człowieka
+Wirusologia
+Antropometria i antroposkopia
+Antropogeneza
+Ergonomia
+Etologia człowieka
+Rozwój osobniczy i zdrowie człowieka
+Wprowadzenie do ekologii behawioralnej człowieka
+Zarys współczesnych metod badań w paleoantropologii
+Bezkręgowce Polski
+Ekologia roślin
+Ekologia zwierząt
+Ewolucja roślin nasiennych
+Inwazje biologiczne
+Ochrona różnorodności gatunkowej w Polsce
+Rośliny nasienne Polski
+Biochemiczne podstawy odżywiania roślin
+Biologia rozwoju organizmów modelowych
+Biologia rozwoju roślin
+Genetyka człowieka
+Genetyka molekularna
+Techniki histologiczne
+Budowa i funkcje struktur komórkowych mikroorganizmów
+Człowiek w układzie pasożyt-żywiciel
+Mikrobiologia środowiska
+Mykologia
+
+uwr-biologia-czlowieka
+Anatomia człowieka I
+Archeologia
+Chemia dla biologów
+Ekologia człowieka
+Podstawy biologii komórki zwierzęcej
+Podstawy komunikacji formalnej
+Radzenie sobie ze stresem
+Szkolenie BHP i Ppoż
+Anatomia człowieka II
+Antropologia biologiczna
+Mikrobiologia
+Wczesne etapy ontogenezy człowieka
+Czynniki rozwoju człowieka i ochrony zdrowia
+Genetyka
+Język angielski
+Osteometria i kranioskopia
+Podstawy statystyki w naukach o człowieku I
+Wprowadzenie do immunologii człowieka
+Wychowanie fizyczne
+Wykorzystanie języka angielskiego w biologii człowieka
+Antropometria i antroposkopia
+Choroby infekcyjne człowieka
+Etologia człowieka
+Fizjologia zwierząt
+Osteologia wieku rozwojowego
+Współczesne metody badań w paleoantropologii
+Podstawy bioetyki
+Podstawy statystyki w naukach o człowieku II
+Prawo autorskie i prawo pracy
+Prymatologia
+Techniki przygotowania pracy dyplomowej
+Przygotowanie pracy licencjackiej
+Antropogeneza
+Ekologia behawioralna człowieka
+Ergonomia
+Ewolucjonizm
+Komercjalizacja badań naukowych
+
+uwr-biotechnologia
+Od biologii komórki do biotechnologii
+Chemia ogólna i analityczna
+Chemia ogólna i analitycznaćwiczenia
+BHP w laboratorium
+Obliczenia biochemiczne
+Techniki laboratoryjne w biotechnologii
+Matematyka dla biotechnologów-ćwiczenia
+Biologia roślin
+Biologia zwierząt
+Szkolenie BHP
+j. angielski*
+Biologia roślin-ćwiczenia Biologia zwierząt-ćwiczenia 2)
+wykład do wyboru 1)
+WF #
+Metabolizm
+Metabolizm białek i cukrówćwiczenia
+Metabolizm lipidów-ćwiczenia
+Chemia biofizyczna
+Chemia biofizyczna-ćwiczenia
+Genetyka
+Genetyka-ćwiczenia
+Metabolizm zwierząt Metabolizm mikroorg. 2)
+MODUŁ: Bioinformatyka i bazy danych Bioinformatyka z modelowaniem białek
+MODUŁ: Statystyka w analizie i planowaniu eksperymentu
+Zasady prezentacji wyników naukowych
+Fizjologia roślin Fizjologia zwierząt 2)
+Biofizyka z el. biofizyki medycznej Biofizyka z el. bioenergetyki 2)
+Biofizyka z el. biofizyki medycznej-ćwiczenia Biofizyka z el. bioenergetykićwiczenia 2)
+Hodowle komórek i tkanek roślinnych Hodowle komórek i tkanek zwierzęcych 2)
+Hodowle komórek i tkanek roślinnych-ćwiczenia Hodowle komórek i tkanek zwierzęcych-ćwiczenia 2)
+Seminarium w j. ang.1)
+j. polski dla cudzoziemców %
+Preparatyka biochemicznaćwiczenia
+Bioetyka
+Biotechnologia z el. biotech. medycznej Biotechnologia z el. biotech. przemysłowej 2)
+Biotechnologia z el. biotech. medycznej-ćwiczenia Biotechnologia z el. biotech. Przemysłowej-ćwiczenia 2)
+Seminarium w j. angielskim 1)
+Ochrona własności intelektualnej
+Biotechnologia farmaceutyczna Bioinżynieria 2)
+Biotechnologia farmaceutycznaćwiczenia Bioinżynieria-ćwiczenia 2)
+Seminarium licencjackie
+Konwersatorium licencjackie
+
+uwr-biotechnology
+Plant biology
+Animal biology (e-learning)
+Introduction to biotechnology
+General and inorganic chemistry
+General and inorganic chemistry – laboratory
+Mathematics in life sciences
+Introduction to biochemical calculations
+Computer sciences
+English in life sciences
+Safety in the laboratory
+Basic laboratory techniques
+Initial training in the field of health and safety and fire protection (e-learning)
+Polish (A1) for foreigners
+Plant or Animal Biology – laboratories
+Physicochemical methods in biology
+Structure and function of biomolecules
+Structure and function of biomolecules – laboratories
+Organic chemistry
+Organic chemistry – laboratories
+Biochemical calculations
+Introduction to statistics
+Metabolism
+Metabolism of proteins and carbohydrates
+Metabolism of lipids
+Biophysical chemistry
+Biophysical chemistry - practicals
+Genetics – laboratories
+Scientific presentations
+Sport activities
+Elective lecture 1.
+Microbiology
+Microbiology – laboratories
+Techniques in molecular biology
+Techniques in molecular biology – laboratories
+Animal or Plant cell culture techniques
+Bioinformatics and databases or Bioinformatics and protein modeling
+Biophysics and bioenergetics or Medical biophysics
+Plant physiology (e-learning) or Animal physiology
+Seminar 1.
+Elective lecture 2.
+Cell biology
+Cell biology – laboratories
+Preparative biochemistry
+Preparative biochemistry – laboratories
+Bioethics
+Medical or Industrial biotechnology
+Seminar 2.
+Elective lecture 3.
+Elective lecture 4.
+Enzymology
+Enzymology – laboratories
+Economics
+Economics - practicals
+Immunology
+Immunology – laboratories
+Intellectual property law
+Biotechnology of pharmaceutics or Bioengineering
+BSc seminar1)
+Diploma thesis preparation1)
+
+uwr-chemia
+Podstawy chemii
+Matematyka
+chemicznym
+Kurs BHP
+Przedmiot do wyboru
+Historia Chemii (PDW-1)
+Człowiek a środowisko (PDW-1)
+Chemia analityczna
+Fizyka
+Chemia kwantowa
+Metody komputerowe w chemii
+Prawo własności intelektualnej
+materiałów (PDW-2)
+analizie chemicznej (PDW-2)
+Podstawy mikroskopii (PDW-2)
+Chemia nieorganiczna
+Chemia fizyczna I
+Lektorat (PDW-3)
+badawcza
+Analiza minerałów (PDW-4)
+metody badawcze (PDW-4)
+Analiza śladowa (PDW-4)
+(PDW-4)
+Chemia organiczna
+Chemia fizyczna II
+Zarządzanie laboratorium
+(PDW-5)
+chemicznym (PDW-5)
+Zarządzanie chemikaliami (PDW-6)
+(PDW-6)
+Analityka instrumentalna
+Podstawy chromatografii
+zastosowania (PDW-7)
+(PDW-7)
+Spektroskopia ciała stałego (PDW-7)
+(PDW-8)
+Monitoring środowiska (PDW-8)
+praktyce (PDW-8)
+Analiza matematyczna (PDW-9)
+molekularnych (PDW-9)
+Symetria w chemii (PDW-9)
+Wiązania chemiczne (PDW-9)
+Postawy chemometrii (PDW-9)
+Technologia chemiczna
+Krystalochemia
+Przygotowanie do egzaminu dyplomowego
+licencjackie – projekt grupowy
+nieorganicznej (PDW-11)
+nieorganicznych (PDW-11)
+Zielona chemia (PDW-11)
+Biomakromolekuły (PDW-11)
+(PDW-12)
+badaniach materiałów (PDW-12)
+(PDW-13)
+Praktyka zawodowa
+
+uwr-chemia-medyczna
+Podstawy chemii
+chemicznym
+Biologia ogólna
+Matematyka
+Fizyka z elementami biofizyki
+Kurs BHP
+Przedmioty do wyboru
+Ekologia (PDW-1)
+bioanalizy
+Chemia nieorganiczna
+Chemia kwantowa
+Metody komputerowe w chemii
+Podstawy fizjologii człowieka (PDW-2)
+chemicznej (PDW-2)
+Chemia organiczna
+Chemia bioorganiczna
+Lektorat (PDW-3)
+Chemia żywności (PDW-4)
+Chemia kosmetyczna (PDW-4)
+English in life sciences (PDW-5)
+(PDW-5)
+Chemia medyczna
+Lek - od pomysłu do wdrożenia
+Chemia fizyczna I
+Prawo własności intelektualnej
+Praktyka zawodowa/Praktyka badawcza
+Mikrobiologia (PDW-6)
+Immunologia (PDW-6)
+Chemia biokoordynacyjna (PDW-7)
+Chemia fizyczna II
+Chemia komórki I
+biotechnologii
+Leki nieorganiczne
+Biologiczna chemia nieorganiczna
+genetycznej (PDW-8)
+Biomagnetyzm (PDW-8)
+(PDW-9)
+Chemia kwasów nukleinowych (PDW-9)
+Informacja naukowa w chemii (PDW-9)
+Symetria w chemii (PDW-9)
+Chemia białek (PDW-9)
+Chemia komórki II
+Leki organiczne
+Nowoczesne metody syntezy leków
+Toksykologia
+Antybiotyki i lekooporność
+licencjackie – projekt grupowy
+Przygotowanie do egzaminu dyplomowego
+Biomateriały (PDW-11)
+aktywnych farmakologicznie (PDW-11)
+(PDW-11)
+Chemia jądrowa i radiacyjna (PDW-11)
+Chemia nowotworów (PDW-12)
+Kontrola jakości w analityce (PDW-12)
+kosmetycznych i ich aktywność
+Zarządzanie marketingowe (PDW-14)
+Praktyka zawodowa/Praktyka
+
+uwr-chemistry
+O/W/ OzW
+Bezpieczeństwo w laboratorium chemicznym Safety in a chemical laboratory
+Kurs BHP Health and safety course
+Podstawy chemii Fundamental of chemistry
+Metody matematyczne w chemii Mathematical methods in chemistry
+Lektorat z języka nowożytnego* Foreign language course
+Język polski dla cudzoziemców Polish for Foreigners
+Chemia analityczna Analytical chemistry
+Podstawy informatyki Fundamentals of computer science
+Przedmioty do wyboru PDW-1*** Elective courses PDW-1
+Język polski dla cudzoziemców** Polish for Foreigners
+Analiza chemiczna środowiska i materiałów Chemical analysis of environment and materials
+Wybrane specjalne techniki w analizie chemicznej Selected special techniques in chemical analysis
+Chemia nieorganiczna Inorganic chemistry
+Przedmioty do wyboru PDW-2 Elective courses PDW-2
+Struktury i zastosowania związków nieorganicznych Strictures and applications of inorganic compounds
+Zielona chemia Green chemistry
+Chemia organiczna Organic chemistry
+Technologia chemiczna Chemical technology
+Przedmioty do wyboru PDW-3*** Elective courses PDW-3
+Siły i równowaga w układach molekularnych Molecular driving forces
+Symetria w chemii Symmetry in chemistry
+Chemia fizyczna Physical chemistry
+Podstawy chemii kwantowej Fundamentals of quantum chemistry
+Przedmioty do wyboru PDW-4*** Elective courses PDW-4
+Elementy syntezy organicznej Elements of organic synthesis
+Elementy chemii produktów naturalnych Elements of natural products chemistry
+Zaawansowane metody analityczne Advanced analitical methods
+Przedmioty do wyboru PDW-5*** Elective courses PDW-5
+Przedmioty do wyboru PDW-6*** Elective courses PDW-6
+Przedmioty do wyboru PDW-7*** Elective courses PDW-7
+Seminarium licencjackie/Pracowania licencjacka Bechelor seminar/laboratory
+Egzamin licencjacki Bachelor degree exam
+Molekularna chemia fizyczna Molecular physical chemistry
+Elektrochemia Electrochemistry
+Modelowanie molekularna biologicznie istotnych systemów Molecular modeling of biologically relevant systems
+Reaktywność molekularna Molecular reactivity
+Społeczeństwo obywatelskie, demokracja i jej instytucje Civil socjety, democracy and its institutions
+Procesy komunikacyjne , informacyjne i poznawcze Communication, information and cognitive processes
+
+uwr-criminal-justice
+
+
+uwr-culture-thought-and-humanity
+European Heritage of Values Europejskie dziedzictwo wartości
+Sociology Socjologia
+Greek Culture and Civilization Kultura i cywilizacja grecka
+Aesthetics and Art Estetyka i sztuka
+Logical Culture Kultura logiczna
+Information technology with elements of intellectual property law Technika informacyjna z elementami prawa własności intelektualnej
+Psychology Psychologia
+Ethics of Humanitarian Actions Etyka akcji humanitarnych
+Polish for Foreigners Polski dla cudzoziemców
+Occupational Safety and Health BHP
+Civitas Christiana: Mediaeval European Culture and Civilization Civitas Christiana: Kultura i cywilizacja średniowiecznej Europy
+Ethics: Main Questions Etyka: główne pytania
+English** Język angielski
+The Renaissance Project of the Person and the Universe Renesansowy projekt osoby i wszechświata
+Ontology of the Social Being Ontologia bytu społecznego
+New Phenomena in Contemporary Culture Nowe zjawiska w kulturze współczesnej
+The Modern Paradigm of the Person and the World
+Religion and Culture Religia i kultura
+Physical Education*** Wychowanie fizyczne
+Enlightenment and the Idea of Progress Oświecenie i idea postępu
+The Problem of Culture in Philosophical Anthropology Problem kultury w antropologii filozoficznej
+Contemporary Culture and the Problem of Civilization Kultura współczesna i problem cywilizacji
+Introduction to Philosophy of Culture: Cultural Phenomenology Wprowadzenie do filozofii kultury: fenomenologia kultury
+
+uwr-data-and-society
+Wprowadzenie do socjologii
+Wprowadzenie do data science i społeczeństwa
+Współczesne problemy społeczne
+Etyka z metodologią nauk społecznych
+Podstawy statystyki dla socjologów (I i II)
+Koncepcje socjologii klasycznej
+Metody i techniki ilościowych badań społecznych
+Metody i techniki jakościowych badań społecznych
+Współczesne teorie socjologiczne
+Psychologia społeczna
+Cyfrowe kultury codzienności
+Wprowadzenie do data science i społeczeństwa /
+Projektowanie badań społecznych
+Podstawy statystyki dla socjologów (I)
+Język polski (dla cudzoziemców)
+Kultura akademicka
+Szkolenie BHP
+Nowy i nowszy urbanizm cyfrowego miasta
+Praca, gospodarka i społeczeństwo
+Kluczowe koncepcje i trendy badawcze w socjologii migracji
+Podstawy statystyki dla socjologów (II)
+Pisanie tekstów akademickich
+Język obcy
+Podstawy programowania w naukach społecznych
+Przedmiot do wyboru (1) (Blok Praca)
+Przedmiot do wyboru (2) (Blok Migracje)
+Przedmiot do wyboru (3) (Blok Miasto)
+Przedmiot do wyboru (4) (Blok Dane)
+Przedmiot do wyboru (5) (Blok Dane)
+Przedmiot do wyboru (2) (Blok Praca)
+Przedmiot do wyboru (3) (Blok Migracje)
+Przedmiot do wyboru (4) (Blok Miasto)
+Krytyczne teorie datyfikacji społeczeństwa
+Seminarium licencjackie
+Język obcy B2
+Wizualizacja danych
+Wystąpienia publiczne
+Introduction to sociology
+Introduction to data science and society
+Current social problems
+Research design
+Statistics for sociologists (I)
+Polish language (for foreigners)
+Academic culture
+Introductory training in occupational safety and hygiene, fire protection
+Key concepts in classic sociology
+New and newer urbanism of the digital city
+Work, economy and society
+Key concepts in and research trends in the sociology of migration
+Methods of quantitative research
+Methods of qualitative research
+Statistics for sociologists (II)
+Academic Writing
+Foreign language
+Current social theories
+Social psychology
+Coding for social sciences
+Elective course (1) (Labour)
+Elective course (2) (Migration)
+Elective course (3) (City)
+Elective course (4) (Data)
+Elective course (5) (Data)
+Elective course (2) (Labour)
+Elective course (3) (Migration)
+Elective course (4) (City)
+Critical Theories of Society's Datafication
+BA seminar
+Foreign language B2
+Data visualisation
+Physical education
+Digital cultures of everyday life
+Public speaking
+
+uwr-dyplomacja-europejska
+
+
+uwr-dziedzictwo-kultury-materialnej-ochrona-promocja-gospodarowanie
+ZAKŁADANEEFEKTYUCZENIASIĘ wiedza
+umiejętności
+
+uwr-dziennikarstwo-i-komunikacja-spoleczna
+Filozofia
+Socjologia
+Gatunki dziennikarskie
+Kultura języka
+Retoryka i erystyka
+Nauka o komunikowaniu
+Warsztat dziennikarski
+Wprowadzenie do kultury współczesnej
+Prawo
+BHP (e-learning)
+Systemy medialne na świecie
+Źródła informacji
+Problemy współczesnej audiosfery
+Współczesna literatura powszechna
+E-literatura i e-książka
+Praktyczne pisanie
+Reportaż
+Wprowadzenie do krytyki literackiej i artystycznej
+Język obcy
+Wychowanie fizyczne
+Public Relations
+Ekonomia mediów
+Ochrona własności intelektualnej
+Wprowadzenie do badań medioznawczych
+System medialny w Polsce
+Małe formy prozatorskie
+Kultura i literatura popularna
+Słuchowisko - warsztat
+Krótkie formy filmowe
+Etyka dziennikarska
+Komunikacja wizualna
+Mediatyzacja życia społecznego
+Wywiad
+Publicystyka – teoria i praktyka
+Pracownia literacka
+Współczesna literatura polska
+Podstawy montażu filmowego
+Podstawy realizacji dźwięku
+Seminarium licencjackie
+Analiza dyskursu medialnego
+Data journalism
+Warsztat powieściopisarza
+Kino i film
+Fotografia artystyczna
+Promocja książki
+Warsztat non fiction
+Podcasting
+Esej
+Teoria filmowej adaptacji
+Teorie komunikowania masowego
+Warsztat poetycki
+Warsztat reklamy
+Literatura audialna
+Scenariusz filmowy i telewizyjny
+Współczesny film dokumentalny
+Eksperymentalne formy literackie
+Wprowadzenie do antropologii widowisk
+Warsztat tekstów użytkowych
+Proces kreatywny
+Metody prezentacji osobistej
+Komunikacja marketingowa – podstawy teoretyczne
+Komunikacja wizerunkowa
+Podstawy grafiki
+Video editing
+Zarządzanie informacją
+Projektowanie graficzne
+Creative writing
+Rzecznictwo prasowe
+Copywriting
+Fotografia cyfrowa
+Montaż cyfrowy
+Strategia i narzędzia PR
+Formaty radiowe i telewizyjne
+Internet content
+Storytelling
+Audio content
+Fotografia użytkowa i reklamowa
+Webdesign
+Social media content
+Infografika
+Marka w otoczeniu komunikacyjnym
+Fact checking
+Zarządzanie zawartością mediów
+Online wideo marketing
+Influencer marketing
+Praca z kamerą i podstawy montażu
+Realizacja dźwięku
+Teoria i historia mediów audiowizualnych
+Teoria i praktyka fotografii
+Media audiowizualne - krytyka
+Radiowy montaż dźwięku
+Fotografia reklamowa
+Wystąpienia publiczne z elementami emisji głosu
+Radiowe gatunki dziennikarskie
+Fotograficzne gatunki dziennikarskie
+Studium reportażu filmowego
+Fotografia prasowa
+Publicystyka w TV
+Prezenter radiowy
+Krótkie formy telewizyjne i filmowe
+Reportaż radiowy
+Program TV na żywo
+Obsługa medialna eventu
+Dziennikarstwo newsowe w TV
+Oświetlenie planu i techniki operatorskie
+Wideoklipy
+Researching i dziennikarstwo śledcze
+Techniki scenopisarstwa
+Fotoreportaż – teoria i praktyka
+Informacyjne programy telewizyjne
+Podstawy reżyserii filmowej i telewizyjnej
+Program TV w studio
+Spoty reklamowe
+Autorski program radiowy
+
+uwr-edukacja-polonistyczna
+Nowe tendencje współczesnej humanistyki
+Psychologia dla nauczycieli
+Pedagogika dla nauczycieli – wykład
+Wiedza o kulturze – wykład
+Wiedza o kulturze – ćwiczenia
+Retoryka – wykład
+Retoryka – ćwiczenia
+Literatura i konteksty: antyk i Biblia – wykład
+Literatura i konteksty: antyk i Biblia – ćwiczenia
+Edukacja medialna
+Warsztaty twórczego czytania
+Emisja głosu
+Komunikacja społeczna
+Przedmioty opcyjnie1
+Język polski dla cudzoziemców
+Szkolenie BHP
+Podstawy dydaktyki
+Pedagogika dla nauczycieli – konwersatorium
+Psychologia rozwoju człowieka
+Kanony literatury dziecięcej i młodzieżowej
+Literatura dla młodego odbiorcy we współczesnej szkole
+Literatura i konteksty: staropolska – wykład
+Literatura i konteksty: staropolska – ćwiczenia
+Wprowadzenie do teorii literatury – wykład
+Wprowadzenie do teorii literatury – ćwiczenia
+Kultura popularna
+Kultura popularna i jej konteksty2
+Dziedzictwo folkloru i mitu w pamięci kulturowej2
+Folklorystyczne i mityczne inspiracje w tekstach kultury popularnej2
+Technologie w edukacji polonistycznej
+Dydaktyka przedmiotowa: kształcenie językowe SP (I)3
+Dydaktyka przedmiotowa: kształcenie literackie SP (II)3
+Literatura i konteksty: oświecenie – wykład
+Literatura i konteksty: oświecenie – ćwiczenia
+Poetyka stosowana
+Praktyczna gramatyka języka polskiego – fonetyka i słowotwórstwo – wykład
+Praktyczna gramatyka języka polskiego – fonetyka i słowotwórstwo – ćwiczenia
+Metodyka tekstu naukowego, praca pisemna (literaturoznawcza/ językoznawcza)
+Gatunki w kulturze popularnej2
+Gatunki fabularne fantastyczne2
+Gatunki fabularne niefantastyczne2
+Lektorat języka obcego
+Wychowanie fizyczne
+Elementy prawa oświatowego i bezpieczeństwo w szkole
+Pedagogiczne podstawy pracy nauczyciela
+Pedagogika – uczeń ze specjalnymi potrzebami edukacyjnymi w szkole
+Wspomaganie rozwoju dziecka i dysharmonie rozwojowe
+Dydaktyka przedmiotowa: kształcenie językowe SP (III)3
+Dydaktyka przedmiotowa: kształcenie literackie SP (IV)3
+Literatura i konteksty: romantyzm – wykład
+Literatura i konteksty: romantyzm – ćwiczenia
+Praktyczna gramatyka języka polskiego – fleksja i składnia – wykład
+Praktyczna gramatyka języka polskiego – fleksja i składnia – ćwiczenia
+Praktyka dydaktyczna śródroczna SP
+Gatunki sceniczno-dramatyczne, pograniczne, użytkowe; muzyka; kultura materialna2
+Literatura i kultura dla dzieci i młodzieży / young adult2
+Lektorat języka obcego (poziom B2)
+Język polski dla cudzoziemców (poziom B2)
+Warsztaty twórczego pisania
+Literatura i konteksty: pozytywizm i Młoda Polska – wykład
+Literatura i konteksty: pozytywizm – ćwiczenia
+Literatura i konteksty: Młoda Polska – ćwiczenia
+Praktyka dydaktyczna ciągła SP
+Współczesne tendencje i zjawiska kultury popularnej2
+Teksty kultury audiowizualnej i gatunki internetowe2
+Seminarium licencjackie
+Literatura i konteksty: dwudziestolecie i okres II wojny – wykład
+Literatura i konteksty: dwudziestolecie i okres II wojny – ćwiczenia
+Gry i gamifikacja w edukacji polonistycznej
+Stylistyka i tekstologia
+Edukacja pozaformalna
+Przedmioty opcyjne1
+Krótkie formy audiowizualne2
+Lekcja dyplomowa SP
+
+uwr-ekonomia
+Mikroekonomia
+Matematyka w ekonomii
+Podstawowe pojęcia prawa i prawoznawstwa
+Marketing
+Podstawy finansów
+Nauka o przedsiębiorstwie
+MS Office dla ekonomistów
+Wychowanie fizyczne
+Metody probabilistyczne w ekonomii
+Podstawy zarządzania
+Arytmetyka finansowa
+Negocjacje i komunikacja
+Podstawy rachunkowości
+Podstawy prawa cywilnego i handlowego
+Język obcy nowożytny 1
+Mediacje w obrocie gospodarczym
+Argumentacja i myślenie krytyczne
+Zarządzanie zespołami wielokulturowymi
+Makroekonomia
+Analiza rynków
+Międzynarodowe stosunki gospodarcze
+Statystyka w ekonomii
+Ekonomia rozwoju
+Wprowadzenie do biznesu międzynarodowego
+Ład korporacyjny
+Produkty emerytalne w biznesie
+Język obcy nowożytny 2
+Innowacje w biznesie międzynarodowym
+Ekonometria
+Historia i ustrój Śląska
+Elementy prawa finansów publicznych
+Internacjonalizacja przedsiębiorstwa
+Język obcy nowożytny 3
+Międzynarodowe przepływy wiedzy
+Ekonomia integracji
+Historia myśli ekonomicznej
+Polityka gospodarcza
+Seminarium
+Projekty unijne
+Polityka konkurencji
+Marketing międzynarodowy
+Ekonomia monetarna
+Międzynarodowe standardy rachunkowości i sprawozdawczości finansowej
+Praktyka zawodowa
+Współczesna myśl ekonomiczna
+Przedsiębiorstwo w warunkach gospodarki cyrkularnej
+Handel zagraniczny
+Opodatkowanie korporacji międzynarodowych
+Międzynarodowe systemy patentowe
+Azjatyckie modele zarządzania przedsiębiorstwem
+Analiza regulacji rynku finansowego (w Polsce i na świecie)
+SmartCity
+Ochrona prywatności w handlu elektronicznym
+Innowacyjność a zrównoważony rozwój
+Nowe trendy w gospodarce i ekonomii
+Innowacje w gospodarce
+Gospodarka oparta na wiedzy
+Ochrona własności intelektualnej
+Opodatkowanie w gospodarce cyfrowej
+Kryptowaluty i konkurencja walutowa
+Nowoczesne modele biznesowe - warsztaty
+Zarządzanie produktem i markąwarsztaty
+Zarządzanie zasobami ludzkimi
+Komunikacja marketingowa
+Innowacje w handlu i usługach
+Systemy patentowe
+Finanse gospodarstw domowych
+Rachunkowość finansowa 1
+Opodatkowanie instytucji finansowych
+Bezpieczeństwo rynku finansowego
+Zarządzanie finansami
+Strategie inwestycyjne
+Wstęp do controllingu
+Analiza finansowa
+Rachunek kosztów
+Ewidencja i opodatkowanie małych podmiotów gospodarczych
+Komputerowe systemy finansowo-księgowe w rachunkowości 1
+Międzynarodowe rozliczenia podatkowe
+Zobowiązania podatkowe
+Postępowanie podatkowe
+Wprowadzenie do finansów publicznych i prawa finansowego
+Źródła prawa i wykładnia prawa podatkowego
+Harmonizacja podatków w UE
+Podstawy międzynarodowego i unijnego prawa podatkowego
+Prawne instrumenty ochrony praw podatnika
+Postępowanie sądowoadministracyjne
+Międzynarodowa polityka podatkowa
+Prawo karne skarbowe
+Warsztaty ze stosowania prawa podatkowego
+Sądowa kontrola podatków
+Organizacja i funkcjonowanie "KAS"
+Wykroczenia i przestępstwa podatkowe
+Prawo egzekucyjne
+Regulacje ogólnego prawa podatkowego w interpretacjach i orzecznictwie
+Prawo celne i dewizowe
+
+uwr-english-for-knowledge-culture-and-innovation
+Practical English: speaking 1
+Practical English: reading and writing 1
+Practical English: grammar 1
+Practical English: pronunciation 1
+Practical English: integrated skills 1
+Introduction to linguistics: language science
+Words: structure, meaning, and lexical diversity
+English literature 1
+British life and institutions
+American life and institutions
+History of Great Britain and the USA
+Polish for international students
+Health and safety and fire protection training
+Practical English: speaking 2
+Practical English: reading and writing 2
+Practical English: grammar 2
+Practical English: pronunciation 2
+Practical English: integrated skills 2
+Introduction to linguistics: Linguistic diversity
+Phonology
+English literature 2
+American Literature 1
+
+uwr-etnologia-i-antropologia-kulturowa
+Wstęp do etnologii i antropologii kulturowej
+Antropologia współczesności
+Antropologia historyczna
+Antropologia pokrewieństwa i rodziny
+Społeczności lokalne i regionalne w Polsce
+1 Szkolenie BHP
+Zajęcia fakultatywne 2
+Etnologia Europy
+Etnologia kultur świata
+Niematerialne dziedzictwo kulturowe
+Metody badań etnograficznych cz. 1 3
+Badania etnograficzne cz. 1 4
+Metody badań etnograficznych cz. 2 3
+Antropologia sztuki
+Społeczności rdzenne we współczesnym świecie
+Teorie i metodologie antropologii cz. 1 i cz. 2 5
+Seminarium licencjackie
+Antropologia etniczności
+Antropologia medyczna
+Badania etnograficzne cz. 2 4
+Język obcy 6
+Metodologia nauk społecznych
+Teorie i analizy stratyfikacji społecznych
+Systemy polityczne: perspektywa antropologiczna
+Antropologia pamięci
+Antropologia płci i seksualności
+Antropologia prawa
+Antropologia i rynek pracy
+
+uwr-etyka
+Etyka klasyczna I
+Etyka klasyczna II
+Etyka współczesna I
+Historia moralności (w Polsce, w Europie, na świecie) I
+Metodologia nauk humanistycznych
+Logika
+Wstęp do etyki
+Język starożytny (łacina lub greka)
+Technologia informacyjna z elementami prawa własności intelektualnej
+Historia moralności (w Polsce, w Europie, na świecie) II
+Język nowożytny
+Etyka nowożytna I
+Etyka i religia
+Elementy bioetyki
+Główne problemy w dziejach polskiej myśli etycznej
+Etyka nowożytna II
+Elementy retoryki
+Etyka współczesna II
+Współczesna polska myśl etyczna
+Hermeneutyka dialogu
+Socjologia moralności
+Język starożytny (łacina)
+
+uwr-european-cultures
+
+
+uwr-europeistyka
+O/W/ OzW
+Historia społeczna i gospodarcza Europy
+Nauka o państwie i polityce
+Podstawy ekonomii
+Geografia polityczna i gospodarcza Europy
+Podstawy prawoznawstwa
+Cywilizacja europejska
+Logika praktyczna
+Filozofia
+Warsztaty informatyczne
+Język polski dla cudzoziemców1
+Bezpieczeństwo i higiena pracy
+Systemy polityczne Europy
+Stosunki międzynarodowe
+Integracja gospodarcza w Europie
+Prawo UE
+Psychologia społeczna
+Demografia Europy
+Społeczeństwo i kultura współczesnej Europy
+Język polski dla cudzoziemców
+Międzynarodowe stosunki gospodarcze
+Instytucje i procesy decyzyjne
+Zarządzanie rozwojem regionalnym
+Historia myśli politycznej
+Samorządy terytorialne w Europie
+Problemy narodowościowe współczesnej Europy
+Ochrona własności intelektualnej
+Metodologia nauk społecznych
+Język obcy
+Polityki UE
+Polityka zagraniczna i bezpieczeństwa UE
+Podstawy zarządzania w praktyce
+Polityka gospodarcza UE
+Przedmiot do wyboru 1
+Przedmiot do wyboru 2
+Przedmiot do wyboru 3
+Przedmiot do wyboru 4
+Przedmiot do wyboru 5
+Partie i systemy partyjne w Europie
+Polityka społeczna w UE
+Programy i fundusze europejskie
+Społeczeństwo obywatelskie Europy
+Praca dyplomowa
+Wychowanie fizyczne2
+Europejskie prawo administracyjne
+Europejski i polski rynek pracy
+Swobodny przepływ pracowników w UE
+Język obcy3
+
+uwr-filologia-chorwacka-z-jezykiem-serbskim
+Praktyczna nauka języka serbskiego – sprawności zintegrowane 1
+Praktyczna nauka języka serbskiego – sprawności zintegrowane 2
+Praktyczna nauka języka serbskiego – sprawności zintegrowane 3
+Praktyczna nauka języka serbskiego – sprawności zintegrowane 4
+Praktyczna nauka języka serbskiego – sprawności zintegrowane 5
+Praktyczna nauka języka chorwackiego – sprawności zintegrowane 1
+Praktyczna nauka języka chorwackiego – fonetyka
+Praktyczna nauka języka chorwackiego – gramatyka funkcjonalna 1
+Dawna literatura chorwacka i krajów regionu z folklorem słownym
+Historia Chorwacji
+Kultura i sztuka Chorwacji oraz krajów regionu
+Wstęp do językoznawstwa
+Wstęp do literaturoznawstwa
+Warsztat młodego badacza
+Przedmiot literaturoznawczy do wyboru lub Przedmiot językoznawczy do wyboru
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Język polski dla cudzoziemców
+Praktyczna nauka języka chorwackiego – sprawności zintegrowane 2
+Praktyczna nauka języka chorwackiego – gramatyka funkcjonalna 2
+Gramatyka opisowa języka chorwackiego (fonetyka i fonologia)
+Literatura chorwacka i krajów regionu od romantyzmu do modernizmu
+Dzieje Bałkanów w świetle utworów literackich różnych epok
+Konteksty literatur południowosłowiańskich
+Przedmiot do wyboru z dziedziny nauk społecznych
+Praktyczna nauka języka chorwackiego – sprawności zintegrowane 3
+Praktyczna nauka języka chorwackiego – gramatyka funkcjonalna 3
+Gramatyka opisowa języka chorwackiego (morfologia i leksykologia)
+Literatura chorwacka i krajów regionu. Awangarda
+Kultura popularna w Chorwacji i krajach regionu
+Podstawy przedsiębiorczości w zawodach językowych
+Praktyczna nauka innego języka słowiańskiego 1
+Przedmiot uzupełniający do wyboru
+Wychowanie fizyczne
+Praktyczna nauka języka chorwackiego – sprawności zintegrowane 4
+Praktyczna nauka języka chorwackiego – gramatyka funkcjonalna 4
+Gramatyka opisowa języka chorwackiego (składnia)
+Tłumaczenie 1
+Literatura chorwacka i krajów regionu w drugiej połowie XX wieku
+Praktyczna nauka innego języka słowiańskiego 2
+Praktyczna nauka języka chorwackiego – sprawności zintegrowane 5
+Praktyczna nauka języka chorwackiego – gramatyka funkcjonalna 5
+Historia języka chorwackiego i innych standardów sztokawskich z elementami gramatyki historycznej
+Współczesna literatura chorwacka i krajów regionu po 1990 roku
+Tłumaczenie 2
+Seminarium licencjackie 1
+Praktyczna nauka innego języka słowiańskiego 3
+Praktyczna nauka języka chorwackiego – sprawności zintegrowane 6
+Praktyczna nauka języka chorwackiego – gramatyka funkcjonalna 6
+Kino chorwackie i krajów regionu
+Seminarium licencjackie 2
+Praktyczna nauka innego języka słowiańskiego 4
+Czechy – kraj i ludzie
+Historia Czech I
+Historia Czech II
+Perły i diamenty literatury czeskiej
+
+uwr-filologia-czeska
+Praktyczna nauka języka czeskiego – gramatyka praktyczna 3
+Praktyczna nauka języka czeskiego – sprawności zintegrowane 5
+Współczesny język czeski
+Praktyczna nauka języka czeskiego – wymowa i pisownia 1
+Praktyczna nauka języka czeskiego – gramatyka praktyczna 1
+Praktyczna nauka języka czeskiego – sprawności zintegrowane 1
+Czechy – kraj i ludzie
+Perły i diamenty literatury czeskiej
+Wstęp do językoznawstwa
+Wstęp do literaturoznawstwa
+Warsztat młodego badacza
+Przedmiot językoznawczy do wyboru lub Przedmiot literaturoznawczy do wyboru
+Szkolenie wstępne w zakresie BHP
+Język polski dla cudzoziemców
+Praktyczna nauka języka czeskiego – wymowa i pisownia 2
+Praktyczna nauka języka czeskiego – gramatyka praktyczna 2
+Praktyczna nauka języka czeskiego – sprawności zintegrowane 2
+Przedmiot do wyboru z bloku Wiedza o kulturze czeskiej
+Gramatyka języka czeskiego – fonetyka i fonologia
+Historia literatury czeskiej do połowy XIX wieku
+Historia Czech I
+Przedmiot do wyboru z dziedziny nauk społecznych
+Praktyczna nauka języka czeskiego – sprawności zintegrowane 3
+Gramatyka języka czeskiego – leksykologia i słowotwórstwo
+Historia literatury czeskiej od poł. XIX do I wojny światowej
+Historia Czech II
+Literatura czeska na warsztacie filologa
+Język czeski w pojęciach współczesnej lingwistyki
+Podstawy przedsiębiorczości w zawodach językowych
+Praktyczna nauka innego języka słowiańskiego 1
+Przedmiot uzupełniający do wyboru
+Wychowanie fizyczne
+Praktyczna nauka języka czeskiego – gramatyka praktyczna 4
+Praktyczna nauka języka czeskiego – sprawności zintegrowane 4
+Gramatyka języka czeskiego – morfologia
+Historia literatury czeskiej 19181945
+Wiedza o języku słowackim
+Praktyczna nauka innego języka słowiańskiego 2
+Czeskie teksty ekonomiczne i urzędowe - ćwiczenia
+Gramatyka opisowa języka czeskiego – składnia
+Historia języka czeskiego
+Historia literatury czeskiej drugiej połowy XX wieku
+Praktyczna nauka innego języka słowiańskiego 3
+Seminarium licencjackie 1
+Praktyczna nauka języka czeskiego – sprawności zintegrowane 6
+Literatura i kultura czeska w XXI wieku
+Wprowadzenie do tłumaczenia – warsztaty
+Praktyczna nauka innego języka słowiańskiego 4
+Seminarium licencjackie 2
+Historia Chorwacji
+Dzieje Rosji w kontekście europejskim 1
+Dzieje Rosji w kontekście europejskim 2
+Wiedza o kulturze Rosji w kontekście europejskim
+
+uwr-filologia-francuska
+Wstęp do literatury hispanoamerykańskiej: proza najnowsza
+Praktyczna znajomość języka niderlandzkiego – kurs podręcznikowy 1
+Praktyczna znajomość języka niderlandzkiego – kurs podręcznikowy 2
+Praktyczna nauka języka francuskiego – sprawności zintegrowane 1
+Praktyczna nauka języka francuskiego – fonetyka
+Gramatyka opisowa języka francuskiego – fonetyka
+Gramatyka opisowa języka francuskiego – części mowy i części zdania
+Językoznawstwo 1
+Historia kultury Francji – starożytność i średniowiecze2
+Historia literatury francuskiej – średniowiecze i renesans
+Literatura francuska – średniowiecze i renesans2
+Przedmiot językoznawczy do wyboru lub Przedmiot literaturoznawczy do wyboru3
+Szkolenie wstępne w zakresie BHP
+Język polski dla cudzoziemców4
+Praktyczna nauka języka francuskiego – sprawności zintegrowane 2
+Gramatyka opisowa języka francuskiego – morfologia i leksykologia
+Językoznawstwo 2
+Historia kultury Francji – renesans i XVII wiek2
+Historia literatury francuskiej – XVII wiek
+Literatura francuska – XVII wiek2
+Przedmiot do wyboru z dziedziny nauk społecznych5
+Praktyczna nauka języka francuskiego – sprawności zintegrowane 3
+Gramatyka opisowa języka francuskiego – grupa rzeczownikowa
+Historia kultury Francji – XVIII wiek2
+Historia literatury francuskiej – XVIII wiek
+Literatura francuska – XVIII wiek2
+Praktyczna nauka drugiego języka romańskiego A1
+Podstawy przedsiębiorczości w zawodach językowych lub Wprowadzenie do przedsiębiorczości – komunikacja międzyjęzykowa6
+Wychowanie fizyczne7
+Praktyczna nauka języka francuskiego – sprawności zintegrowane 4
+Praktyczna nauka języka francuskiego – przedmiot do wyboru2
+Gramatyka opisowa języka francuskiego – grupa czasownikowa
+Historia kultury Francji – XIX wiek2
+Historia literatury francuskiej – XIX wiek
+Literatura francuska – XIX wiek2
+Przedmiot specjalistyczny do wyboru: Historia języka francuskiego / Teoria literatury / Wstęp do przekładoznawstwa8
+Praktyczna nauka drugiego języka romańskiego A2
+Język polski dla cudzoziemców
+Praktyczna nauka języka francuskiego – sprawności zintegrowane 5
+Gramatyka opisowa języka francuskiego – składnia zdania złożonego
+Tłumaczenie 1
+Historia kultury Francji – XX wiek2
+Historia literatury francuskiej – XX i XXI wiek
+Literatura francuska – XX i XXI wiek2
+Praktyczna nauka drugiego języka romańskiego B1 I
+Seminarium licencjackie 1
+Przedmiot językoznawczy do wyboru
+Praktyczna nauka języka francuskiego – słuchanie z mówieniem
+Praktyczna nauka języka francuskiego – czytanie z pisaniem
+Tłumaczenie 2
+Wybrane problemy współczesnej kultury francuskiej
+Praktyczna nauka drugiego języka romańskiego B1 II
+Seminarium licencjackie 2
+Szkolne wstępne w zakresie BHP
+Seminarium licencjackie
+Moduł Zajęcia kierunkowe – wykład monograficzny + Zajęcia kierunkowe – konwersatorium monograficzne (powiązany tematyczne z Belgią)
+
+uwr-filologia-germanska
+O/OzW
+moduł PZJN I zima I: Gramatyka praktyczna I
+moduł PZJN I zima I: Leksyka
+moduł PZJN I zima II: Słuchanie i mówienie
+moduł PZJN I zima II: Czytanie i pisanie
+Moduł: Historia literatury niemieckiej: średniowiecze, barok, oświecenie
+Fonetyka i fonologia: system samogłoskowy
+Wstęp do językoznawstwa
+Prawo autorskie i ochrona własności intelektualnej
+Bezpieczeństwo i higiena pracy
+Lektorat języka obcego
+Wychowanie fizyczne
+Lektorat języka polskiego dla cudzoziemców
+moduł PZJN I lato I: Gramatyka praktyczna II
+moduł PZJN I lato I: Struktury leksykalne
+moduł PZJN I lato II: Kurs podręcznikowy A2 (B)
+moduł PZJN I lato II: Słuchanie i mówienie
+moduł PZJN I lato II: Czytanie i pisanie
+Zajęcia opcyjnie (A)
+Moduł: Historia literatury niemieckiej: Burza i napór, klasyka weimarska, romantyzm
+Fonetyka i fonologia: system spółgłoskowy
+Historia Niemiec, Austrii i Szwajcarii
+Wstęp do literaturoznawstwa
+moduł PZJN II zima (A): Gramatyka praktyczna
+moduł PZJN II zima (A): pisanie
+moduł PZJN II zima (A): Kurs podręcznikowy B2
+moduł PZJN II zima (B): gramatyka praktyczna B1
+moduł PZJN II zima (B): pisanie B1
+moduł PZJN II zima (B): Kurs podręcznikowy B1
+moduł PZJN II zima (B): słuchanie i mówienie B1
+Moduł: Historia literatury niemieckiej 1830-1910 (od literatury przedmarcowej do literatury przełomu wieków)
+Moduł: Kultura krajów niemieckojęzycznych i Śląska 1
+Moduł: Gramatyka - morfologia: część werbalna
+Kompetencje cyfrowe w pracy germanisty
+moduł PZJN II lato (A): Kurs podręcznikowy B2
+moduł PZJN II lato (A): pisanie
+moduł PZJN II lato (A): konwersacje
+moduł PZJN II lato (A): gramatyka praktyczna
+Moduł PZJN II lato I (B): gramatyka praktyczna
+Moduł PZJN II lato I (B): ćwiczenia leksykalne B2
+Moduł PZJN II lato II (B): Kurs podręcznikowy B2
+Moduł PZJN II lato II (B): konwersacje B2
+Moduł PZJN II lato II (B): pisanie B2
+Moduł: Historia literatury niemieckiej 1910-1945
+Moduł: Kultura krajów niemieckojęzycznych i Śląska 2
+Moduł: Gramatyka - morfologia: część nominalna
+Fonetyka praktyczna – prezentacja tekstu mówionego
+Psychologia komunikacji i języka – wybrane aspekty
+moduł PZJN III: Kurs podręcznikowy C1
+moduł PZJN III: pisanie C1
+moduł PZJN III: Konwersacje C1
+Moduł: Historia literatury niemieckiej po 1945
+Pragmalingwistyka
+Moduł: Gramatyka - składnia
+Pisanie tekstów naukowych
+Zajęcia opcyjnie
+Seminarium licencjackie
+PZJN: Techniki parafrazowania
+PZJN: Ćwiczenia erystyczne
+PZJN: Kurs branżowy
+Tłumaczenia pisemne
+Gramatyka kontrastywna
+Psychologia dla nauczycieli
+Pedagogika dla nauczycieli
+Psychologia rozwoju człowieka
+Podstawy dydaktyki
+Wspomaganie rozwoju dziecka
+Pedagogikauczeń ze specjalnymi potrzebami edukacyjnymi
+Elementy prawa oświatowego i bezpieczeństwo w szkole
+Pedagogiczne podstawy pracy nauczyciela
+Dydaktyka języka niemieckiego w szkole podstawowej 1
+Psychologiczne podstawy pracy nauczyciela
+Praktyka dydaktyczna śródroczna
+Praktyka dydaktyczna ciągła
+Dydaktyka języka niemieckiego w szkole podstawowej II
+Praktyka psychologicznopedagogiczna w szkole (śródroczna)
+Dydaktyka języka niemieckiego i nowe technologie
+Kompetencje psychologicznopedagogiczne nauczyciela
+
+uwr-filologia-hiszpanska
+Praktyczna nauka języka hiszpańskiego – gramatyka praktyczna I (A)2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu I (A)2
+Praktyczna nauka języka hiszpańskiego – słownictwo i intensywne czytanie I (A)2
+Praktyczna nauka języka hiszpańskiego – język pisany I (A)2
+Wstęp do językoznawstwa
+Wstęp do literaturoznawstwa
+Zarys historii literatury hiszpańskiej – od średniowiecza do baroku
+Historia i kultura Hiszpanii – od starożytności do XVII wieku
+Przedmiot językoznawczy do wyboru lub Przedmiot literaturoznawczy do wyboru3
+Szkolenie wstępne w zakresie BHP
+Język polski dla cudzoziemców
+Praktyczna nauka języka hiszpańskiego – gramatyka praktyczna II (A)2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu II (A)2
+Praktyczna nauka języka hiszpańskiego – słownictwo i intensywne czytanie II (A)2
+Praktyczna nauka języka hiszpańskiego – język pisany II (A)2
+Praktyczna nauka języka hiszpańskiego – egzamin [gramatyka praktyczna II (A) + konwersacje i rozumienie ze słuchu II (A) + słownictwo i intensywne czytanie II (A) + język pisany II (A)]2
+Gramatyka opisowa języka hiszpańskiego – fonetyka
+Zarys historii literatury hiszpańskiej – od oświecenia do 1936 roku
+Historia i kultura Hiszpanii – od XVIII wieku do 1975 roku
+Przedmiot do wyboru z dziedziny nauk społecznych5
+Praktyczna nauka języka hiszpańskiego – gramatyka praktyczna III2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu III2
+Praktyczna nauka języka hiszpańskiego – słownictwo i intensywne czytanie III2
+Praktyczna nauka języka hiszpańskiego – język pisany III2
+Gramatyka opisowa języka hiszpańskiego – grupa rzeczownikowa (teoria)
+Gramatyka opisowa języka hiszpańskiego – grupa rzeczownikowa (praktyka)
+Metodologia pracy z tekstem literackim. Poezja
+Metodologia pracy z tekstem literackim. Dramat
+Zarys historii literatury hispanoamerykańskiej
+Podstawy przedsiębiorczości w zawodach językowych lub Wprowadzenie do przedsiębiorczości – komunikacja międzyjęzykowa6
+Praktyczna nauka drugiego języka romańskiego A1
+Wychowanie fizyczne7
+Praktyczna nauka języka hiszpańskiego – gramatyka praktyczna IV2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu IV2
+Praktyczna nauka języka hiszpańskiego – słownictwo i intensywne czytanie IV2
+Praktyczna nauka języka hiszpańskiego – język pisany IV2
+Praktyczna nauka języka hiszpańskiego – egzamin [gramatyka praktyczna IV + konwersacje i rozumienie ze słuchu IV + słownictwo i
+Gramatyka opisowa języka hiszpańskiego – grupa czasownikowa (teoria)
+Gramatyka opisowa języka hiszpańskiego – grupa czasownikowa (praktyka)
+Metodologia pracy z tekstem literackim. Proza
+Przedmiot do wyboru z bloku Teksty i konteksty literatury hiszpańskojęzycznej8
+Praktyczna nauka drugiego języka romańskiego A2
+Praktyczna nauka języka hiszpańskiego – sprawności zintegrowane I2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu V2
+Praktyczna nauka języka hiszpańskiego – język pisany V2
+Gramatyka opisowa języka hiszpańskiego – składnia (teoria)
+Gramatyka opisowa języka hiszpańskiego – składnia (praktyka)
+Historia języka hiszpańskiego
+Praktyczna nauka drugiego języka romańskiego B1 I
+Seminarium licencjackie 1
+Praktyczna nauka języka hiszpańskiego – sprawności zintegrowane II2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu VI2
+Praktyczna nauka języka hiszpańskiego – język pisany VI2
+Praktyczna nauka języka hiszpańskiego – egzamin [sprawności zintegrowane II + konwersacje i rozumienie ze słuchu VI + język pisany VI]2
+Gramatyka kontrastywna
+Praktyczna nauka drugiego języka romańskiego B1 II
+Seminarium licencjackie 2
+Praktyczna nauka języka hiszpańskiego – gramatyka praktyczna I (B)2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu I (B)2
+Praktyczna nauka języka hiszpańskiego – słownictwo i język pisany I (B)2
+Praktyczna nauka języka hiszpańskiego – gramatyka praktyczna II (B)2
+Praktyczna nauka języka hiszpańskiego – konwersacje i rozumienie ze słuchu II (B)2
+Praktyczna nauka języka hiszpańskiego – słownictwo i język pisany II (B)2
+Praktyczna nauka języka hiszpańskiego – egzamin [gramatyka praktyczna IV + konwersacje i rozumienie ze słuchu IV + słownictwo i intensywne czytanie IV + język pisany IV]2
+
+uwr-filologia-indyjska
+Sanskryt 1
+Hindi 1
+Historia Indii w oparciu o źródła literackie (starożytność)
+Główne zagadnienia literatury indyjskiej – literatura Wed
+Kultura Indii współczesnych w literaturze indyjskiej (geografia i etnografia)
+Obyczaje dawnych Indii na podstawie literatury sanskryckiej
+Przedmiot językoznawczy do wyboru LUB Przedmiot literaturoznawczy do wyboru2
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Język polski dla cudzoziemców3
+Sanskryt 2
+Hindi 2
+Historia Indii w oparciu o źródła literackie (Indie muzułmańskie)
+Główne zagadnienia literatury indyjskiej – literatura Upaniszad
+Wprowadzenie do literaturoznawstwa
+Historia sztuki indyjskiej – słowo i obraz – od epoki Guptów do współczesności
+Przedmioty do wyboru z dziedziny nauk społecznych4
+Sanskryt 3
+Gramatyka sanskrytu 1
+Ćwiczenia z hindi – konwersacje 1
+Gramatyka języka hindi 1
+Lektura tekstu w hindi z XX w. (proza) LUB Lektura tekstu w hindi z XXI w. (proza)
+Literatura sanskrycka – epos Mahabharata
+Wstęp do językoznawstwa
+Główne zagadnienia religii i filozofii Indii (zagadnienia religijne)
+Podstawy przedsiębiorczości w zawodach językowych
+Wychowanie fizyczne5
+Lektura tekstów sanskryckich: eposy LUB Lektura tekstów sanskryckich: bajki
+Gramatyka sanskrytu 2
+Ćwiczenia z hindi – konwersacje 2
+Gramatyka języka hindi 2
+Główne zagadnienia literatury indyjskiej (literatura hindi od X do XVII w.)
+Literatura sanskrycka – epos Ramajana
+Wstęp do studiów indologicznych – studia indologiczne na przestrzeni dziejów
+Hindi 3
+Lektura tekstu w hindi z XX w. (opowiadania) LUB Lektura tekstu w hindi z XXI w. (opowiadania)
+Ćwiczenia z hindi – konwersacje 3
+Seminarium licencjackie w zakresie filologii indyjskiej: sanskryt LUB Seminarium licencjackie w zakresie filologii indyjskiej: hindi
+Zróżnicowanie społeczeństwa indyjskiego na podstawie literatury indyjskiej LUB Języki Indii
+Lektura tekstów sanskryckich: poezja liryczna i gnomiczna
+Literatura kunsztowna (kawja)
+Wstęp do studiów indologicznych – warsztat indologiczny
+Teatr staroindyjski
+Sanskryt z elementami wedyjskiego LUB Lektura tekstów sanskryckich (teksty filozoficzne)
+Wstęp do języka urdu
+Ćwiczenia z hindi – konwersacje 4 (życie kulturalne) LUB Ćwiczenia z hindi – konwersacje 4 (zagadnienia społeczno-polityczne)
+Sanskryt dla zaawansowanych
+Lektura tekstów sanskryckich: dharmasutry LUB Lektura tekstów
+Seminarium licencjackie w zakresie filologii indyjskiej
+Indyjskie miejsca kultów religijnych
+Literatura kunsztowna w sanskrycie
+Język urdu
+Lektura tekstu w hindi z XX w. (teksty poetyckie) LUB Lektura tekstu w hindi z XXI w. (teksty poetyckie)
+Literatura buddyjska
+
+uwr-filologia-klasyczna
+Wychowanie fizyczne
+Język łaciński I
+Język grecki I
+Historia starożytna (Grecja)
+Literatura antyczna grecka: okres archaiczny
+Propedeutyka gramatyki
+Archeologia klasyczna
+Przedmiot literaturoznawczy do wyboru lub Przedmiot językoznawczy do wyboru2
+Przedmiot uzupełniający do wyboru3
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Lektorat języka polskiego dla cudzoziemców 14
+Język łaciński II
+Język grecki II
+Gramatyka opisowa języka łacińskiego: fonetyka i morfologia
+Filozofia starożytna
+Historia starożytna (Rzym)
+Literatura antyczna łacińska: okres archaiczny i cyceroński
+Literatura antyczna grecka: okres klasyczny
+Przedmiot do wyboru z dziedziny nauk społecznych5
+Język obcy nowożytny6
+Lektorat języka polskiego dla cudzoziemców 24
+Język łaciński III
+Język grecki III
+Gramatyka opisowa języka łacińskiego: składnia
+Literatura antyczna grecka: okres hellenistyczny
+Literatura antyczna łacińska: okres augustowski i wczesne cesarstwo
+Wstęp do studiów filologii klasycznej
+Podstawy przedsiębiorczości w zawodach językowych
+Wychowanie fizyczne7
+Lektorat języka polskiego dla cudzoziemców 34
+Język łaciński IV – lektura tekstu (Nepos)8
+Język łaciński IV – lektura tekstu (Cezar)8
+Język łaciński IV – lektura tekstu (Katullus)8
+Język łaciński IV – lektura tekstu (Hyginus)8
+Język grecki IV – lektura tekstu (Ksenofont)8
+Język grecki IV – lektura tekstu (mówcy attyccy)8
+Język grecki IV – lektura tekstu (Lukian)8
+Język grecki IV – lektura tekstu (Babrios)8
+Gramatyka opisowa języka greckiego: fonetyka i morfologia 1
+Metryka łacińska
+Literatura antyczna grecka: okres cesarstwa
+Literatura antyczna łacińska: okres cesarstwa
+Lektorat języka polskiego dla cudzoziemców 44
+Język łaciński V – lektura tekstu (Cyceron – mowy)8
+Język łaciński V – lektura tekstu (Cyceron – pisma filozoficzne)8
+Język łaciński V – lektura tekstu (Wergiliusz)8
+Język grecki V – lektura tekstu (Homer)8
+Język grecki V – lektura tekstu (Herodot)8
+Język grecki V – lektura tekstu (tragedia)8
+Seminarium licencjackie łacińskie 1
+Seminarium licencjackie greckie 1
+Metryka grecka
+Gramatyka opisowa języka greckiego: morfologia 2 i składnia
+Lektura grecka9 Zestaw 1 Iliada – Ksenofont – tragedia Zestaw 2 Odyseja – Plutarch – komedia
+Lektura łacińska9 Zestaw 1 Eneida – Swetoniusz – Propercjusz Zestaw 2 Metamorfozy – Kurcjusz Rufus – Tibullus
+Język łaciński VI – lektura tekstu (Salustiusz)8
+Język łaciński VI – lektura tekstu (Horacy)8
+Język łaciński VI – lektura tekstu (Owidiusz)8
+Język grecki VI – lektura tekstu (Platon)8
+Język grecki VI – lektura tekstu (melika)8
+Język grecki VI – lektura tekstu (jamb i elegia)8
+Stylistyka łacińska
+Seminarium licencjackie łacińskie 2 lub seminarium licencjackie greckie 210
+
+uwr-filologia-polska
+Wprowadzenie do literaturoznawstwa
+Wprowadzenie do językoznawstwa współczesnego
+Warsztat pracy filologa
+Literatura antyczna
+Łacińska tradycja kulturowa
+Literatura staropolska
+Poetyka (I)
+Poetyka (II)
+Fonetyka z fonologią (I) Fonetyka z fonologią (II)
+Wprowadzenie do kultury europejskiej – historia / Wprowadzenie do kultury europejskiej – Biblia / Wprowadzenie do kultury europejskiej – mitologia / Wprowadzenie do kultury europejskiej – filozofia
+Prawo autorskie
+Szkolenie wstępne w zakresie BHP
+Historia literatury dawnej
+Literatura oświecenia
+Poetyka (III)
+Poetyka (IV)
+Analiza i interpretacja dzieła literackiego (I)
+Kultura języka (I)
+Wprowadzenie do językoznawstwa historycznego
+Praca pisemna literaturoznawcza - pisanie tekstu naukowego
+Przedmioty opcyjne
+Wprowadzenie do edytorstwa
+Wprowadzenie do retoryki klasycznej
+Ćwiczenia w sztuce inwencji i kompozycji
+Przegląd konwencji teatralnych do XX wieku
+Dramatyczność a teatralność
+Literatura XIX wieku (I)
+Literatura XIX wieku (II)
+Teoria literatury (I)
+Teoria literatury (II)
+Historia języka polskiego
+Składnia z elementami tekstologii (I)
+Składnia z elementami tekstologii (II)
+Współczesne życie kulturalne / Literatura i kultura popularna
+Kultura języka (II)
+Praca pisemna językoznawcza - pisanie tekstu naukowego
+Język obcy
+Tekstologia i edytorstwo (I)
+Współczesne edytorstwo książki
+Redakcja tekstu (I)
+Ćwiczenia w sztuce elokucji
+Stylistyka dzieł dawnych
+Przegląd konwencji teatralnych od XX wieku
+Muzyka, muzyczność, teatr (I)
+Literatura XIX wieku (III)
+Literatura XIX wieku (IV)
+Podstawy prawoznawstwa
+Analiza i interpretacja dzieła literackiego (II)
+Wiedza o kulturze (I)
+Wiedza o kulturze (II)
+Gramatyka historyczna (I)
+Proseminarium
+Stylistyka praktyczna (zróżnicowanie współczesnej polszczyzny)
+Redakcja tekstu (II)
+Podstawy typografii (I)
+Tekstologia i edytorstwo (II)
+Ćwiczenia pamięci i sztuka wygłaszania mowy
+Kultura żywego słowa
+Metafora – narzędzie poznawcze i retoryczne
+Retoryka literaturoznawcza XX i XXI w.
+Czytanie teatru. Analiza dzieła teatralnego
+Muzyka, muzyczność, teatr (II)
+Teatr z ducha muzyki
+Literatura XX wieku (I) Literatura XX wieku (II)
+Humanistyka cyfrowa
+Podstawowe metody statystyczne w badaniach humanistycznych
+Gramatyka historyczna (II)
+Literatura XXI wieku (I)
+Seminarium licencjackie (I)
+Wychowanie fizyczne
+Współczesne edytorstwo prasy
+Genologia oratorska – ćwiczenia praktyczne
+Teatr na pograniczu sztuk
+Literatura XXI wieku (II)
+Leksykografia normatywna
+Literatura XX wieku (III)
+Literatura XX wieku (IV)
+Seminarium licencjackie (II)
+Podstawy typografii (II)
+Tekst w Internecie
+Tekstologia i edytorstwo
+Z dziejów sztuki oratorskiej
+Komunikacja, perswazja, argumentacja w życiu codziennym
+Dyskurs równościowy i antyrównościowy
+Życie teatralne na Dolnym Śląsku
+Wybrane azjatyckie konwencje teatralne
+Praktyki w instytucjach kultury
+Morfologia (słowotwórstwo i fleksja) (I) Morfologia (fleksja) (II) Morfologia (słowotwórstwo (III)
+O/OzW
+
+uwr-filologia-rosyjska
+Praktyczna nauka języka rosyjskiego – fonetyka audytywna 1
+Praktyczna nauka języka rosyjskiego – fonetyka 1
+Praktyczna nauka języka rosyjskiego – leksyka 1
+Praktyczna nauka języka rosyjskiego – gramatyka funkcjonalna 1
+Praktyczna nauka języka rosyjskiego – praca z tekstem 1
+Dzieje Rosji w kontekście europejskim 1
+Bestselery literatury rosyjskiej
+Wstęp do językoznawstwa
+Wstęp do literaturoznawstwa
+Warsztat młodego badacza
+Przedmiot uzupełniający do wyboru / Praktyczna nauka języka angielskiego 1
+Przedmiot uzupełniający do wyboru
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Język polski dla cudzoziemców
+Praktyczna nauka języka rosyjskiego – fonetyka 2
+Praktyczna nauka języka rosyjskiego – leksyka 2
+Praktyczna nauka języka rosyjskiego – gramatyka funkcjonalna 2
+Praktyczna nauka języka rosyjskiego – praca z tekstem 2
+Wstęp do filologii słowiańskiej
+Gramatyka współczesnego języka rosyjskiego (fonetyka i fonologia)
+Dawna literatura rosyjska
+Dzieje Rosji w kontekście europejskim 2
+Przedmiot uzupełniający do wyboru / Praktyczna nauka języka angielskiego 2
+Przedmiot do wyboru z dziedziny nauk społecznych
+Praktyczna nauka języka rosyjskiego – leksyka 3
+Praktyczna nauka języka rosyjskiego – gramatyka funkcjonalna 3
+Praktyczna nauka języka rosyjskiego – praca z tekstem 3
+Gramatyka współczesnego języka rosyjskiego (leksykologia i słowotwórstwo)
+Literatura rosyjska drugiej połowy XIX wieku
+Wiedza o kulturze Rosji w kontekście europejskim
+Podstawy przedsiębiorczości w zawodach językowych
+Praktyczna nauka innego języka słowiańskiego 1 / Praktyczna nauka języka angielskiego 3
+Przedmiot językoznawczy do wyboru lub Przedmiot literaturoznawczy do wyboru
+Wychowanie fizyczne
+Praktyczna nauka języka rosyjskiego – leksyka 4
+Praktyczna nauka języka
+Praktyczna nauka języka rosyjskiego – praca z tekstem 4
+Gramatyka współczesnego języka rosyjskiego (morfologia)
+Literatura rosyjska przełomu XIX i XX wieku
+Realioznawstwo rosyjskie
+Gramatyka historyczna z elementami języka starocerkiewno-słowiańskiego
+Praktyczna nauka innego języka słowiańskiego 2 / Praktyczna nauka języka angielskiego 4
+Praktyczna nauka języka rosyjskiego – leksyka 5
+Praktyczna nauka języka rosyjskiego – gramatyka funkcjonalna 5
+Praktyczna nauka języka rosyjskiego – praca z tekstem 5
+Media rosyjskojęzyczne we współczesnym świecie
+Literatura rosyjska lat 1917-1945
+Gramatyka współczesnego języka rosyjskiego (składnia)
+Seminarium licencjackie 1
+Praktyczna nauka innego języka słowiańskiego 3 / Praktyczna nauka języka angielskiego 5
+Praktyczna nauka języka rosyjskiego – leksyka 6
+Praktyczna nauka języka rosyjskiego – gramatyka funkcjonalna 6
+Praktyczna nauka języka rosyjskiego – praca z tekstem 6
+Literatura i kultura rosyjska w XXI wieku 2
+Wprowadzenie do przekładu
+Seminarium licencjackie 2
+Praktyczna nauka innego języka słowiańskiego 4 / Praktyczna nauka języka angielskiego 6
+Psychologia dla nauczycieli
+Psychologia rozwoju człowieka
+Pedagogika dla nauczycieli
+Pedagogika - uczeń ze specjalnymi potrzebami edukacyjnymi
+Wspomaganie rozwoju dziecka i dysharmonie rozwojowe
+Elementy prawa oświatowego i bezpieczeństwo w szkole
+Psychologiczne podstawy pracy nauczyciela
+Pedagogiczne podstawy pracy nauczyciela
+Emisja głosu
+Podstawy dydaktyki
+Praktyka śródroczna
+Praktyka psychologicznopedagogiczna w szkole (śródroczna)
+Czechy – kraj i ludzie
+Historia Czech 1
+Historia Czech 2
+Perły i diamenty literatury czeskiej
+Historia Chorwacji
+
+uwr-filologia-ukrainska
+Praktyczna nauka języka ukraińskiego – fonetyka 1
+Praktyczna nauka języka ukraińskiego – sprawności zintegrowane 1
+Kultura i historia Ukrainy do XVII w.
+Wstęp do językoznawstwa
+Wstęp do literaturoznawstwa
+Wstęp do filologii słowiańskiej
+Warsztat młodego badacza
+Przedmiot językoznawczy do wyboru lub Przedmiot literaturoznawczy do wyboru
+Przedmiot uzupełniający do wyboru / Praktyczna nauka języka angielskiego 1
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Język polski dla cudzoziemców
+Praktyczna nauka języka ukraińskiego – fonetyka 2
+Praktyczna nauka języka ukraińskiego – sprawności zintegrowane 2
+Realioznawstwo ukraińskie
+Gramatyka współczesnego języka ukraińskiego (fonetyka i fonologia)
+Literatura ukraińska w dobie postkolonialnej
+Kultura i historia Ukrainy XVIIXVIII w.
+Przedmiot do wyboru z dziedziny nauk społecznych
+Przedmiot uzupełniający do wyboru / Praktyczna nauka języka angielskiego 2
+Praktyczna nauka języka ukraińskiego – sprawności zintegrowane 3
+Gramatyka współczesnego języka ukraińskiego (leksykologia i słowotwórstwo)
+Historia literatury ukraińskiej (do I poł. XIX w.)
+Kultura i historia Ukrainy XIX-XX w.
+Podstawy przedsiębiorczości w zawodach językowych
+Praktyczna nauka innego języka słowiańskiego 1/ Praktyczna nauka języka angielskiego 3
+Przedmiot uzupełniający do wyboru
+Wychowanie fizyczne
+Pisanie akademickie
+Praktyczna nauka języka ukraińskiego – sprawności zintegrowane 4
+Gramatyka współczesnego języka ukraińskiego (morfologia)
+Historia literatury ukraińskiej (II poł. XIX w.)
+Kultura i historia Ukrainy XX-XXI w.
+Praktyczna nauka innego języka słowiańskiego 2/ Praktyczna nauka języka angielskiego 4
+Praktyczna nauka języka ukraińskiego – sprawności zintegrowane 5
+Gramatyka historyczna języka ukraińskiego z elementami języka staro-cerkiewnosłowiańskiego
+Historia literatury ukraińskiej (XIX-XX w.)
+Gramatyka współczesnego języka ukraińskiego (składnia)
+Seminarium licencjackie 1
+Praktyczna nauka innego języka słowiańskiego 3/ Praktyczna nauka języka angielskiego 5
+Praktyczna nauka języka ukraińskiego – sprawności zintegrowane 6
+Wprowadzenie do przekładu
+Historia literatury ukraińskiej (lata 20.-30. XX w.)
+Seminarium licencjackie 2
+Praktyczna nauka innego języka słowiańskiego 4/ Praktyczna nauka języka angielskiego 6
+Psychologia dla nauczycieli
+Psychologia rozwoju człowieka
+Pedagogika dla nauczycieli
+Pedagogika - uczeń ze specjalnymi potrzebami edukacyjnymi
+Wspomaganie rozwoju dziecka i dysharmonie rozwojowe
+Elementy prawa oświatowego i bezpieczeństwo w szkole
+Psychologiczne podstawy pracy nauczyciela
+Pedagogiczne podstawy pracy nauczyciela
+Emisja głosu
+Podstawy dydaktyki
+Dydaktyka języka ukraińskiego w szk. podst.1
+Praktyka psychologicznopedagogiczna w szkole (śródroczna)
+Dydaktyka języka ukraińskiego w szkole podstawowej 2
+Praktyka zawodowa (śródroczna)
+Kompetencje psychologicznopedagogiczne nauczyciela
+Czechy – kraj i ludzie
+Historia Czech 1
+Historia Czech 2
+Perły i diamenty literatury czeskiej
+Historia Chorwacji
+Dzieje Rosji w kontekście europejskim 1
+Dzieje Rosji w kontekście europejskim 2
+Wiedza o kulturze Rosji w kontekście europejskim
+
+uwr-filozofia
+Wstęp do filozofii
+Estetyka
+Logika
+Propedeutyka filozofii najnowszej
+Metodologia ogólna
+Socjologia
+Wstępne szkolenie w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Filozofia starożytna
+Język starożytny I (greka)
+Język starożytny I (łacina)
+Filozofia średniowieczna
+Teoria argumentacji
+Socjologia z elementami socjologii rynku
+Technologia informacyjna z elementami prawa własności intelektualnej
+Język obcy nowożytny B1
+Moduł konwersatoria do wyboru: Filozofia praktyczna I
+Moduł konwersatoria do wyboru: Filozofia systematyczna I
+Moduł konwersatoria do wyboru: Filozofia i historia I
+Język starożytny II (łacina)
+Język starożytny II (greka)
+Etyka
+Filozofia XVIIXVIII w.
+Język obcy nowożytny B2I
+Moduł konwersatoria do wyboru: Filozofia praktyczna II
+Moduł konwersatoria do wyboru: Filozofia systematyczna II
+Moduł konwersatoria do wyboru: Filozofia i historia II
+Translatorium z języka starożytnego (greka)
+Translatorium z języka starożytnego (łacina)
+Klasyczna filozofia niemiecka
+Filozofia XIX w.
+Wychowanie fizyczne
+Seminarium licencjackie I
+Moduł konwersatoria do wyboru: Filozofia praktyczna III
+Moduł konwersatoria do wyboru: Filozofia systematyczna III
+Moduł konwersatoria do wyboru: Filozofia i historia III
+Język obcy nowożytny B2II
+Filozofia współczesna
+Ontologia
+Epistemologia
+Seminarium licencjackie II
+Moduł konwersatoria do wyboru: Filozofia praktyczna IV
+Moduł konwersatoria do wyboru: Filozofia systematyczna IV
+Moduł konwersatoria do wyboru: Filozofia i historia IV
+Filozofia społeczna
+Filozofia polska
+Translatorium z języka nowożytnego
+Seminarium licencjackie III
+Moduł konwersatoria do wyboru: Filozofia praktyczna V
+Moduł konwersatoria do wyboru: Filozofia systematyczna V
+Moduł konwersatoria do wyboru: Filozofia i historia V
+
+uwr-fizyka
+Algebra 1
+Analiza matematyczna 1
+Mechanika
+Wstęp do algebry
+Matematyka 1
+Podstawy fizyki 1
+Podstawy opracowania danych pomiarowych
+Programy użytkowe
+Szkolenie wstępne z BHP i ochrony p-poż.
+Algebra 2
+Analiza matematyczna 2
+Rachunek prawdopodobieństwa
+Termodynamika
+Matematyka 2
+Elementy rachunku prawdopodobieństwa
+Podstawy fizyki 2
+I pracownia fizyczna 1
+Praktyczny wstęp do programowania
+Ochrona własności intelektualnej
+OPCJONALNY MODUŁ KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU NAUCZYCIELA FIZYKI – do wyboru wersja 1 albo 2 9 wersja 1 Psychologia dla nauczycieli – wykład
+Psychologia rozwoju człowieka
+Pedagogika dla nauczycieli – wykład
+Pedagogika dla nauczycieli – konwersatorium
+Analiza matematyczna 3
+Elektryczność i magnetyzm
+Matematyka 3
+Podstawy fizyki 3
+I pracownia fizyczna 2
+do wyboru przedmiot w wersji A albo B A Mechanika teoretyczna
+B Elementy mechaniki teoretycznej i STW
+Wspomaganie rozwoju dziecka i dysharmonie rozwojowe
+Pedagogika - uczeń ze specjalnymi potrzebami edukacyjnymi
+Elementy prawa oświatowego i bezpieczeństwo w szkole
+wersja 2 Psychologia dla nauczycieli – wykład
+Fale
+Podstawy fizyki 4
+do wyboru przedmioty w wersji A albo B A Mechanika kwantowa 1
+B Fizyka kwantowa
+A Statistical Physics (Fizyka statystyczna)
+B Elementy fizyki statystycznej
+do wyboru przedmiot w wersji A albo B A Praktyka zawodowa
+B Praktyka badawcza
+Podstawy przedsiębiorczości
+PRZEDMIOTY UZUPEŁNIAJĄCE DO WYBORU 5,6 Metody matematyczne fizyki teoretycznej
+General Chemistry with Elements of Physical Chemistry 7 (Chemia ogólna z elementami chemii fizycznej)
+Programowanie w C++
+Języki programowania i GIU
+Systemy operacyjne
+Sieci komputerowe
+Psychologiczne podstawy pracy nauczyciela
+Pedagogiczne podstawy pracy nauczyciela
+Podstawy dydaktyki
+Emisja głosu
+Pedagogika – uczeń ze specjalnymi potrzebami edukacyjnymi
+Fizyka atomu, jądra i cząstek elementarnych
+Mechanika kwantowa 2
+do wyboru przedmiot w wersji A albo B A Classical Electrodynamics (Elektrodynamika klasyczna)
+B Elementy elektrodynamiki klasycznej
+Podstawy statystyki i analizy danych
+Obliczenia numeryczne i symboliczne w fizyce
+Język obcy (poziom B2) 3
+Introduction to Condensed Matter Physics 7 (Wstęp do fizyki fazy skondensowanej)
+Wstęp do elektroniki
+Pracownia elektroniczna
+II pracownia fizyczna
+Zaawansowane programowanie w C++
+Metody numeryczne
+Języki skryptowe – Python 1
+Procesy stochastyczne w ekonomii
+Ekonofizyka 1
+Praktyka psychologiczno-pedagogiczna w szkole
+Elementy astronomii i astrofizyki
+Seminarium licencjackie
+Praca licencjacka i egzamin licencjacki 4
+Wstęp do geometrii różniczkowej
+Optyka kwantowa
+Elektronika cyfrowa
+Pracownia elektroniki cyfrowej
+Zastosowania środowiska LabVIEW w pomiarach
+Selected Topics in Condensed Matter Physics 7,8 (Wybrane zagadnienia fizyki fazy skondensowanej)
+Exploring Physics Problems with Numerical Tools (Numeryczne badanie problemów fizycznych)
+Algorytmy i struktury danych
+Bazy danych
+Modelowanie komputerowe
+Języki skryptowe – Python 2
+Podstawy analizy danych – praktyczne warsztaty
+Ekonofizyka 2
+Teoria przejść fazowych i zjawisk krytycznych
+Kompetencje psychologiczno-pedagogiczne nauczyciela
+Dydaktyka fizyki
+Warsztat pracy nauczyciela
+Wychowanie fizyczne 2
+
+uwr-genetics-and-experimental-biology
+Chemistry of organic and inorganic compounds
+Functional anatomy of the plant
+Diversity, biology and systematics of embryophytes
+Fundamentals of systematic zoology
+Animal histology
+Microbiology
+Basis of entrepreneurship
+Health and safety
+Physical education
+Foreign language
+Biochemistry
+Genetics
+Plant cell biology
+Animal cell biology
+Microscopic techniques
+Science behind mindfulness, mindfulness for science
+Calculations in experimental biology
+Experimental approach to plant developmental biology
+Genetic engineering techniques
+PCR techniques in use
+Basics of evolutionary biology
+Molecular genetics
+Plant physiology
+Animal physiology
+Principals of immunology and virology
+Isolation of plant subcellular fractions technique
+Animal developmental biology
+Statistics in biology
+Preparation of B.Sc. thesis
+Genetics and molecular biology of plants
+Molecular organization of the cell
+Informatics in experimental biology
+Copyright and labour law
+
+uwr-genetyka-i-biologia-eksperymentalna
+Biofizyka
+Chemia dla genetyków
+Genetyka
+Anatomia funkcjonalna roślin
+Podstawy taksonomii roślin, glonów i grzybów
+Podstawy zoologii systematycznej
+Techniki mikroskopowe
+Histologia zwierząt
+Własność intelektualna i prawo pracy
+Podstawy komunikacji formalnej
+Szkolenie BHP i Ppoż
+Biochemia
+Mikrobiologia
+Biologia komórki roślinnej
+Biologia komórki zwierzęcej
+Obliczenia w biologii eksperymentalnej
+Radzenie sobie ze stresem
+Wychowanie fizyczne
+Język angielski
+Techniki inżynierii genetycznej
+Techniki analizy białek
+Techniki w biologii eksperymentalnej roślin
+Techniki PCR w praktyce
+Struktura i funkcja białka
+Podstawy ewolucjonizmu
+Programy stypendialne dla studentów nauk biologicznych
+Techniki izolacji frakcji subkomórkowych
+Fizjologia roślin
+Fizjologia zwierząt
+Biologia rozwoju roślin
+Zarys wirusologii molekularnej
+Genetyka molekularna
+Biologia rozwoju zwierząt
+Molekularna organizacja komórki
+Statystyka w biologii
+Przygotowanie pracy licencjackiej
+Genetyka i biologia molekularna roślin
+Genetyka człowieka
+Wstęp do neurobiologii
+Informatyka w biologii eksperymentalnej
+
+uwr-geografia
+BHP i ppoż.
+Ochrona własności intelektualnej
+Astronomiczne podstawy geografii
+Geografia ekonomiczna
+Geografia regionalna Polski
+Historia gospodarcza z elementami odkryć geograficznych
+Matematyka
+Podstawy geografii fizycznej
+Podstawy geologii
+Podstawy kartografii
+Technologie informacyjne
+Geografia ludności
+Geografia osadnictwa
+Geografia regionalna świata
+Hydrologia
+Kartografia tematyczna
+Meteorologia
+Statystyka
+Ćwiczenia terenowe - hydrologia (5 dni)
+Ćwiczenia terenowe - kartografia i topografia (5 dni)
+Ćwiczenia terenowe - meteorologia (5 dni)
+Język obcy nowożytny 1 (poziom B2)
+Dzieje cywilizacji a zmiany środowiska
+Geografia przemysłu i usług
+Geomorfologia
+Gleboznawstwo
+Gospodarka przestrzenna
+Klimatologia
+Ochrona środowiska
+Systemy informacji geograficznej 1
+Język obcy nowożytny 2 (poziom B2)
+Geografia fizyczna - przedmioty fakultatywne
+Geografia człowieka - przedmioty fakultatywne
+Biogeografia
+Geografia społeczna
+Podstawy ekonomii
+Podstawy nauki o krajobrazie
+Systemy informacji geograficznej 2
+Teledetekcja
+Ćwiczenia terenowe - geografia społecznoekonomiczna (5 dni)
+Ćwiczenia terenowe - geomorfologia i gleboznawstwo (6 dni)
+Ćwiczenia terenowe - gospodarka przestrzenna (5 dni)
+Praktyki zawodowe (3 tygodnie = 120 h)
+Język obcy nowożytny 3 (poziom B2)
+Geografia turystyki
+Geozagrożenia
+Globalne problemy gospodarcze
+Projekt w systemach informacji geograficznej 1
+Seminarium dyplomowe 1
+Język obcy nowożytny poziom B2 (egzamin)
+WF*
+Geografia polityczna
+Geografia Śląska
+Projekt w systemach informacji geograficznej 2
+Seminarium dyplomowe 2
+Ćwiczenia terenowe - geografia regionalna (7 dni - "objazdówka")
+Praca dyplomowa i egzamin licencjacki
+
+uwr-geoinformacja
+BHP i ppoż.
+Ochrona własności intelektualnej
+Analiza matematyczna
+Technologie informacyjne
+Wstęp do programowania
+Podstawy kartografii
+Geologia i geomorfologia
+Geografia społeczno-ekonomiczna i gospodarka przestrzenna
+Geoinformacja w biznesie
+Algebra liniowa
+Programowanie
+Podstawy topografii i geodezji
+Systemy informacji geograficznej 1
+Atmosfera i hydrosfera
+Modelowanie zjawisk demograficznoosadniczych
+Ćwiczenia terenowe - kartografia i topografia
+Język obcy nowożytny 1
+Rachunek prawdopodobieństwa i statystyka matematyczna
+Bazy danych i geobazy
+Podstawy wizualizacji kartograficznej
+Teledetekcja
+Systemy informacji geograficznej 2
+Metody ilościowe w obsłudze ruchu turystycznego
+Źródła informacji przestrzennej
+Język obcy nowożytny 2
+Przedmioty fakultatywne - geoinformatyczne
+Przedmioty fakultatywne - nauki o Ziemi
+Przedmioty fakultatywne - geografia człowieka
+Automatyzacja geoprzetwarzania
+Podstawy fotogrametrii
+Ćwiczenia terenowe - pozyskiwanie danych środowiskowych
+Ćwiczenia terenowe - drony
+Praktyki zawodowe (3 tygodnie = 120 h)
+Język obcy nowożytny 3
+Techniki eksploracji danych
+Mapy internetowe
+Geografia fizyczna kompleksowa
+Podstawy sztucznej inteligencji
+Cyfryzacja w planowaniu przestrzennym
+Planowanie zintegrowane w dobie zmian klimatu
+Analizy krajobrazowe
+Seminarium dyplomowe 1
+WF*
+Podstawy prawa i przedsiębiorczości
+Historia geoinformacji (przedmiot humanistyczny)
+Archeologia środowiskowa (przedmiot humanistyczny)
+Seminarium dyplomowe 2
+Praca dyplomowa i egzamin inżynierski
+
+uwr-geologia
+Szkolenie wstępne w zakresie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej
+Geologia dynamiczna I
+Matematyka
+Ochrona własności intelektualnej
+Metody komputerowe w geologii
+Podstawy paleobotaniki
+Podstawy paleozoologii i stratygrafii
+Ćwiczenia terenowe z podstaw geologii
+Chemia
+Fizyka
+Geologia dynamiczna II
+Mineralogia I
+Ćw. terenowe - Geologia dynamiczna I
+Geochemia
+Geologia historyczna I
+Hydrologia
+Mineralogia II
+Petrologia I
+Język obcy nowożytny
+Geologia historyczna II
+Petrologia II
+Ekonomia
+Geofizyka
+Geologia inżynierska
+Metody statystyczne w geologii
+Górnictwo i wiertnictwo
+Kartografia geologiczna
+Ćw. terenowe - Górnictwo i wiertnictwo
+Ćw. terenowe - Kartografia geologiczna
+Praca dyplomowa i egzamin dyplomowy
+UWAGA! wszystkie zajęcia objęte planem studiów kończą się egzaminem lub zaliczeniem na ocenę
+Ochrona i kształtowanie środowiska
+Podstawy ekologii
+Ćw. terenowe - Geologia dynamiczna II (procesy endogeniczne)
+Ćw. terenowe - Geologia dynamiczna II (procesy egzogeniczne)
+Wychowanie fizyczne
+Hydrogeologia
+Applied hydrogeology
+Sedymentologia
+Principles of sedimentology
+Geologia strukturalna
+Principles of structural geology
+Ćw. terenowe - Hydrogeologia z elementami hydrologii
+Ćw. terenowe - Sedymentologia
+Ćw. terenowe - Tektonika
+Ćw. terenowe - Geologia historyczna
+Ćw. terenowe - Geologia z elementami geomorfologii
+Ćw. terenowe - Mineralogia i petrologia
+Historia środowiskowa i geoarcheologia
+Proseminarium
+Przedsiębiorczość i zarządzanie małą firmą
+Geologia złóż
+Economic geology
+Gemmologia
+Metody badania jakości wód i gruntów
+Podstawy geoturystyki
+Minerały skałotwórcze
+Tektonika
+Principles of tectonics
+Geologia regionalna Polski
+Regional Geology of Poland
+Gosp. surowcami min. w warunkach zrówn. rozwoju
+Analiza materiału paleontologicznego
+Kopalne środowiska naturalne
+Gruntoznawstwo
+Seminarium - Geochemia i geologia środowiskowa
+Seminarium - Hydrogeologia i geologia inżynierska
+Seminarium - Mineralogia, petrologia, geochemia
+Seminarium - Stratygrafia, tektonika, geol. złóż, sedymentologia
+
+uwr-gospodarka-przestrzenna
+BHP i ppoż.
+Ochrona własności intelektualnej
+Historia gospodarcza z elementami odkryć geograficznych
+Kształtowanie i ochrona środowiska
+Podstawy kartografii społ.-gosp., planistycznej i geodezji
+Prawne podstawy gospodarki przestrzennej i ochrony środowiska
+Przyrodnicze uwarunkowania gospodarki przestrzennej
+Społeczno-kulturowe uwarunkowania gospodarki przestrzennej
+Systemy osadnicze
+Technologie informacyjne w gospodarce przestrzennej
+Wprowadzenie do statystyki
+Demografia
+Komputerowe wspomaganie projektowania (CAD)
+Podstawy ekonomii
+Podstawy gospodarki przestrzennej
+Zasady projektowania
+Źródła informacji w gospodarce przestrzennej
+Ćwiczenia terenowe 1 - inwentaryzacja urbanistyczna (6 dni)
+Język obcy nowożytny
+Moduł A - przedmioty do wyboru
+Fizjografia planistyczna
+Historia urbanistyki
+Kształtowanie krajobrazu
+Podstawy geografii ekonomicznej
+Podstawy zarządzania
+Projektowanie urbanistyczne 1
+Samorząd terytorialny
+Systemy informacji geograficznej 1
+Moduł B - przedmioty do wyboru
+Klimatologia i meteorologia w gospodarce przestrzennej
+Projektowanie urbanistyczne 2
+Przemiany morfologiczne struktur zurbanizowanych
+Strategia rozwoju gminy
+Struktura i planowanie rozwoju usług
+Systemy informacji geograficznej 2
+Ćwiczenia terenowe 2 - inwentaryzacja przyrodnicza (6 dni)
+Praktyki zawodowe (3 tygodnie)
+Moduł C - przedmioty do wyboru
+Metody analizy w gospodarce przestrzennej
+Planowanie przestrzenne 1
+Rewitalizacja obszarów zurbanizowanych
+Seminarium dyplomowe 1
+Wychowanie fizyczne
+Język obcy nowożytny poziom B2II (egzamin)
+Moduł D - przedmioty do wyboru
+Ekonomika miast i regionów
+Monitoring środowiska
+Planowanie przestrzenne 2
+Seminarium dyplomowe 2
+Tematyczna informacja przestrzenna
+Wpływ zjawisk ekstremalnych na gospodarowanie przestrzenią
+Praca dyplomowa i egzamin
+Geologia gospodarcza w planowaniu przestrzennym
+Problemy rozwoju infrastruktury transportowej
+Problemy zagospodarowania obszarów Natura 2000
+Teledetekcja
+Zagospodarowanie turystyczne
+Gospodarka leśna
+Gospodarka zasobami glebowymi
+Inwestycje liniowe w gospodarce przestrzennej
+Podstawy polityki regionalnej w turystyce
+Gospodarka wodna
+Podstawy zarządzania jakością powietrza
+Problemy zagospodarowania przestrzennego Dolnego Śląska
+System przyrodniczy miasta
+Gospodarka odpadami
+Krajobrazy kulturowe świata a gospodarowanie przestrzenią
+Problemy zagospodarowania obszarów wiejskich
+Zastosowanie wiedzy o atmosferze w gospodarce przestrzennej
