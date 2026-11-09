@@ -30,6 +30,7 @@ export function validateCurricula(records: CurriculumRecord[], programmes: Progr
     }
     for (const group of row.groups) if (!urls.has(group.sourceUrl) || !group.title || group.subjects.some(s => !s.trim())) errors.push(`Przedmioty bez źródła: ${row.programmeId}`);
     for (const group of row.groups) for (const subject of group.subjects) {
+      if (/^Student(?:\/ka|ka)? wybiera\b/i.test(subject)) errors.push(`Instrukcja wyboru zamiast przedmiotu: ${row.programmeId}/${subject}`);
       if (/^(?:(?:Łącznie|Razem|Suma|Total):?|ECTS|dyscyplina\/punkty ECTS|Przedmiot:\s*obowiązkowy.*|Cele kształcenia, wskazanie związku.*)$/i.test(subject)) errors.push(`Nagłówek zamiast przedmiotu: ${row.programmeId}/${subject}`);
       if (/^(?:zna zakres posiadanej|potrafi |jest gotów do |kurs to nie tylko podróż|opcyjne obejmują:)/i.test(subject) || subject.length > 400 && subject.includes('. ')) errors.push(`Opis lub efekt uczenia zamiast przedmiotu: ${row.programmeId}/${subject}`);
     }

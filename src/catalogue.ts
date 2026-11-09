@@ -9,7 +9,7 @@ import type { Catalogue, AdmissionRule } from './types';
 
 export const admissionRules: AdmissionRule[] = [UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027, ...uwrRules as AdmissionRule[], ...pwrRules as AdmissionRule[]];
 export const catalogue: Catalogue = {
-  version: '2026-11-02-politechnika-wroclawska',
+  version: '2026-11-09-baza-trzech-uczelni',
   checkedAt: '2026-11-02',
   scopeNote: 'Stacjonarne studia I stopnia i jednolite magisterskie we Wrocławiu, po polsku i angielsku. Oferta, programy studiów, zasady rekrutacji i progi historyczne mają odrębne roczniki. Opublikowane zasady 2027/28 nie potwierdzają uruchomienia każdego kierunku. Zakres i daty sprawdzenia podajemy na fiszkach uczelni oraz kartach kierunków.',
   universities: [...uwr.universities, ...uew.universities, ...pwr.universities],

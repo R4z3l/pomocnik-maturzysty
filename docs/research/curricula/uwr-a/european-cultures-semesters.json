@@ -1,0 +1,97 @@
+{
+  "I": {
+    "Zajęcia obowiązkowe": [
+      "Occupational Health and Safety",
+      "Historian as a priest or a craftsman? Historiography in Europe through centuries",
+      "Alexander the Great and the Hellenistic age: the first Western globalism",
+      "The Origins of Theatre Part I",
+      "Introduction to Methodology of Social Research",
+      "Introduction to Sociocultural Anthropology",
+      "Introduction to the History of European Art"
+    ],
+    "Język polski dla cudzoziemców — część I": ["Polish Language Part I"],
+    "Do wyboru — jeden z dwóch przedmiotów": [
+      "Warfare and Society in Ancient Greece and Rome",
+      "Health and Illness in Europe through centuries"
+    ]
+  },
+  "II": {
+    "Zajęcia obowiązkowe": [
+      "Introduction to Polish History and Culture",
+      "Introduction to Culture Studies – Film: American Prime Time Television. History and Theory",
+      "Introduction to Intercultural Education",
+      "Introduction to Classical Archeology",
+      "The origins of theatre Part II",
+      "\"The Polish School of Animation. History, meaning and impact of the Polish animated film from Lucanus Cervus to Tango and beyond.\"",
+      "Methodology of Art History"
+    ],
+    "Język polski dla cudzoziemców — część II": ["Polish Language Part II"]
+  },
+  "II, III, IV, V": {
+    "Wychowanie fizyczne — 60 godzin łącznie w podanym przedziale semestrów": ["Physical Education"]
+  },
+  "III": {
+    "Zajęcia obowiązkowe": [
+      "Postsocialism in Central/Eastern Europe",
+      "Multicultural Education: Theory and Practice",
+      "History of Nationalism",
+      "Work of Art and its Context",
+      "Cross-cultural psychology"
+    ],
+    "Do wyboru — dwa z czterech przedmiotów": [
+      "Warfare and Society in modern European History",
+      "European History of Travelling",
+      "Private life in Ancient Greece and Rome",
+      "Women in the European Public Sphere (18th-20th centuries)"
+    ]
+  },
+  "IV": {
+    "Zajęcia obowiązkowe": [
+      "BA Seminar",
+      "Qualitative methods in social sciences",
+      "Great Discoveries of Modern Archeology",
+      "Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and society",
+      "Polish Cinema – History, Culture, Industry",
+      "\"Performativity of art & science. History of performance art and its liaisons with new technologies in US and Europe in the Cold War era.\""
+    ],
+    "Do wyboru — trzy z sześciu przedmiotów": [
+      "Everyday life in Greek and Roman Antiquity",
+      "Shared or Separate Past(s)? Medieval East Central Europe",
+      "Communication strategies and means of persuasion in modern era. Case: The Polish-Lithuanian Commonwealth",
+      "Work of Art in Period of Transition. Art History around 1900 in Central Europe",
+      "Memory studies – history and practice",
+      "Work of Art in the Digital Era"
+    ]
+  },
+  "V": {
+    "Zajęcia obowiązkowe": [
+      "BA Seminar",
+      "Intercultural communication",
+      "Poland in the in the Era of Partitions (1772-1918)",
+      "Europe and the United States until WWII",
+      "Polish-Jewish relations in the 20th century",
+      "East Central Europe under the Soviet Domination (1945-1989)"
+    ],
+    "Do wyboru — dwa z czterech przedmiotów": [
+      "History of Contemporary Art",
+      "East Central Europe in the Time of Empires and in the Era of World Wars (1815-1945)",
+      "Anthropology of Europe",
+      "Multispecies Studies: Ethics and Aesthetics"
+    ]
+  },
+  "VI": {
+    "Zajęcia obowiązkowe": [
+      "BA Seminar",
+      "Poland in the Era of World Wars (1914-1945)",
+      "Propaganda of the communist regime in Poland (1944-1989)",
+      "\"From guerrillas to happenings\". History of the Democratic Opposition in Poland",
+      "Selected topics of psychology"
+    ],
+    "Do wyboru — dwa z czterech przedmiotów": [
+      "Polish Theatre",
+      "Americanization and anti-Americanism in Europe after 1945",
+      "\"Spring will be ours\". Poland in the Era of Communism (1944-1989)",
+      "Resistance, dissent & opposition in East-Central Europe. History and legacy"
+    ]
+  }
+}

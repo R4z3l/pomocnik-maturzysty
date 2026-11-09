@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-09",
+  "scope": [
+    "Uniwersytet Wrocławski",
+    "Uniwersytet Ekonomiczny we Wrocławiu",
+    "Politechnika Wrocławska"
+  ],
+  "offers": 171,
+  "planStatus": {
+    "full-plan": 88,
+    "listed-subjects": 83
+  },
+  "perUniversity": [
+    {
+      "id": "uwr",
+      "offers": 89,
+      "withDuration": 89,
+      "calculators": 77,
+      "withThresholds": 68,
+      "thresholdRecords": 138,
+      "planStatus": {
+        "listed-subjects": 83,
+        "full-plan": 6
+      }
+    },
+    {
+      "id": "uew",
+      "offers": 20,
+      "withDuration": 20,
+      "calculators": 20,
+      "withThresholds": 20,
+      "thresholdRecords": 79,
+      "planStatus": {
+        "full-plan": 20
+      }
+    },
+    {
+      "id": "pwr",
+      "offers": 62,
+      "withDuration": 62,
+      "calculators": 62,
+      "withThresholds": 61,
+      "thresholdRecords": 387,
+      "planStatus": {
+        "full-plan": 62
+      }
+    }
+  ]
+}

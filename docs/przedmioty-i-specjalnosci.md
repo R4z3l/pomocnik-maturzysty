@@ -1,5 +1,9 @@
 # Programy studiów i specjalności
 
+Aktualizacja **09.11.2026**: wszystkie 171 ofert ma spis zajęć. 88 rekordów to pełne plany wskazanego cyklu, 83 to jawne listy częściowe Uniwersytetu Wrocławskiego. Uzupełniono European Cultures na podstawie pełnego planu sześciu semestrów z uchwały Senatu 168/2023; nie zamieniano obszarów nauki z opisów rekrutacyjnych w przedmioty. Dla 62 ofert Politechniki Wrocławskiej sprawdzono wszystkie tabele i rozwijane koszyki oraz usunięto instrukcje wyboru z list przedmiotów. Pozostałe wcześniejsze liczby w tym dokumencie są historią audytu.
+
+Aktualizację planów Politechniki Wrocławskiej wykonuje `npm run data:refresh -- --university pwr`; parser: `scripts/pwr_curricula.py`. Plan European Cultures jest chroniony skrótem sprawdzonego PDF i transkrypcji, a zmiana dokumentu wymaga nowego przeglądu. Skrypt `scripts/build-pwr.py` zachowano jako checkpoint z 02.11.2026: nie odtwarza obecnego audytu pełnych planów i nie służy do nadpisywania kanonicznego pliku `curricula-pwr.json`.
+
 Źródło aplikacji: `src/data/curricula-uwr-a.json`, `curricula-uwr-b.json`, `curricula-uew.json`, `curricula-pwr.json`. Kontrakt: `src/curriculumTypes.ts`. Każda oferta ma osobny rekord; brak listy jest jawnym wynikiem sprawdzenia, nie dowodem braku przedmiotów/specjalności.
 
 ## Co uznajemy za spis

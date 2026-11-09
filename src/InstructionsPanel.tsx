@@ -6,10 +6,12 @@ import curriculum from '../docs/przedmioty-i-specjalnosci.md?raw';
 import publishing from '../docs/publikacja-prywatna.md?raw';
 import universityCards from '../docs/fiszki-uczelni.md?raw';
 import pwrAudit from '../docs/audyt-pwr.md?raw';
+import dataRefresh from '../docs/aktualizacja-bez-ai.md?raw';
 import './instructions.css';
 
 // Instrukcje są włączane podczas budowania aplikacji. Nowe instrukcje dodaj tutaj.
 const instructions = [
+  { id: 'baza', title: 'Aktualizacja bazy bez AI', text: dataRefresh },
   { id: 'fiszki', title: 'Uczelnie — fiszki i przegląd', text: universityCards },
   { id: 'politechnika', title: 'Politechnika Wrocławska — zakres danych', text: pwrAudit },
   { id: 'aktualizacja', title: 'Aktualizacja z pomocą AI', text: update },

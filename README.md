@@ -1,4 +1,4 @@
-Aktualny zakres historii: nabory **2024/25, 2025/26 i 2026/27** —217 rekordów źródłowych. Starszych lat nie badamy ani nie odświeżamy. Wcześniej zebrane progi2022–2023 zachowano wyłącznie w `docs/archive/progi-2022-2023.json`, poza aplikacją.
+Aktualny zakres historii: nabory **2024/25, 2025/26 i 2026/27** —604 rekordy źródłowe. Starszych lat nie badamy ani nie odświeżamy. Wcześniej zebrane progi2022–2023 zachowano wyłącznie w `docs/archive/progi-2022-2023.json`, poza aplikacją.
 
 # Akcja Studia 2027
 
@@ -31,18 +31,18 @@ npm run preview -- --port 4173
 
 ## Co jest podłączone do aplikacji
 
-- 109 ofert stacjonarnych I stopnia i jednolitych magisterskich we Wrocławiu: UWr 89 (12 EN), UEW 20 (5 EN). Dane z oficjalnych katalogów sprawdzone 24.10.2026. Filtry uczelni, języka, wyszukiwanie i ulubione.
-- Opisy, przykładowe zawody, źródła, roczniki i dostępne czasy studiów. UEW: czas studiów nie został potwierdzony dla poszczególnych ofert.
-- Kalkulator dla97 ofert:77 reguł Uniwersytetu Wrocławskiego i20 ofert Uniwersytetu Ekonomicznego we Wrocławiu. Pozostałe12 kart anglojęzycznych pierwszej uczelni ma opis procedury dokumentowej/B2 bez wymyślonego wzoru. Domyślne zasady2027/28; Ochrona środowiska2026/27. Dla drugiej uczelni można przełączyć zasady2026/27 i2027/28, zaś lista ofert pozostaje2026/27. Nowa matura pisemna; dodatkowe warunki i rozmowy jawnie obsługiwane.
-- 217 rekordów historii progów naborów2024–2026: Uniwersytet Ekonomiczny we Wrocławiu79, Uniwersytet Wrocławski138. Panel trzech roczników, jawne braki, filtr publikacji uczelni, rozbieżności i osobne definicje kwalifikacja/przyjęcie. Starsze progi są poza aktywnym katalogiem.
-- Profil rozszerzeń, podstawy i języków dwujęzycznych; preferencje i warunki, jawny zapis lokalny, import/eksport JSON, reset. Brak wyniku różni się od zera. UWr nie przelicza automatycznie matury dwujęzycznej.
-- Osiem rodzin zawodów: umiejętności, droga do zawodu, zgodności i konflikty z preferencjami. Scenariusze AI na 2031/2036/2041, jawne źródła i kontekst wypowiedzi ekspertów. Scenariusze są wspólne dla rodziny, nie osobną ekspertyzą każdej oferty. Dalsze horyzonty wykraczają poza opublikowane prognozy.
-- Datowana próbka 20 ogłoszeń pracy i staży, poziomy doświadczenia, wymagania, status aktywności, linki. To nie jest pomiar całego rynku. Dane ELA obejmują 70 kohort dopasowanych do 69 ofert; pozostałe braki są jawne.
-- Przedmioty i specjalności: 108 ofert ze spisem, z czego 25 na podstawie pełnych planów; pozostałe listy są częściowe lub niedostępne. Dostępność i rok źródła podano przy kierunku.
-- Porównanie do czterech ofert z ocenami osobno dla rodziny zawodów, wagami, przedziałem przy brakach i analizą wrażliwości wag. Stare oferty spoza zakresu można jawnie usunąć z porównania, zachowując notatki.
-- „Moje rekomendacje” porządkują oferty według jawnych wskazówek: wybranych rozszerzeń, słów z zainteresowań w opisach i zajęciach oraz preferowanego rodzaju pracy w sugerowanych rodzinach zawodów. Jest to proste porównanie słów, nie diagnoza ani prawdopodobieństwo przyjęcia; wyniki matur i wolny opis stylu pracy nie są uwzględniane w kolejności. Lista zajęć może być częściowa.
+Aktywny katalog obejmuje **171 ofert trzech uczelni**: Uniwersytetu Wrocławskiego, Uniwersytetu Ekonomicznego we Wrocławiu i Politechniki Wrocławskiej. Szczegółowe, wyliczane z danych pokrycie znajdziesz w aplikacji: „Źródła i pokrycie” → „Stan bazy wiedzy”. Wersje językowe, poziomy i roczniki zachowują osobne identyfikatory.
 
-Dawne pliki katalogu 17 ofert i tabel PWr zachowano jako materiał archiwalny; nie są importowane do bieżącego interfejsu.
+- Karty kierunków, wyszukiwanie i filtry; 159 kalkulatorów dla zweryfikowanych reguł oraz 12 opisanych procedur dokumentowych. Oferta, program, reguły i progi mogą dotyczyć odrębnych roczników.
+- 604 rekordy progów z naborów 2024/25, 2025/26 i 2026/27. Braki, konflikty, tury i nieustalona porównywalność pozostają jawne.
+- Programy: wszystkie 171 ofert ze spisem, w tym 88 pełnych planów wskazanych cykli i 83 listy częściowe. European Cultures ma pełny plan od cyklu 2023/24; Politechnika Wrocławska — 62 pełne opublikowane plany 2026/27 z odczytem koszyków wyboru. Specjalności, ścieżki i moduły są przypisane do źródła.
+- Dane Ekonomicznych Losów Absolwentów: 70 kohort dopasowanych do 69 ofert. Dla pozostałych brak danych jest pokazany wprost. Nie przypisujemy wyników podobnie nazwanych programów.
+- Profil, preferencje, lokalny zapis, import/eksport JSON, ulubione, notatki, porównanie czterech ofert, ręczne oceny, wagi oraz analiza wrażliwości.
+- Jawne rekomendacje według rozszerzeń, słów zainteresowań i rodzaju pracy. Nie są diagnozą ani prognozą przyjęcia.
+- Osiem rodzin zawodów, drogi do zawodu i scenariusze 2031/2036/2041; 20 datowanych przykładowych ogłoszeń. To częściowe materiały doradcze, bez reprezentatywnego pomiaru całego rynku i bez trendów.
+- Pobieranie tabel i kontrola zmian oficjalnych źródeł bez AI: `docs/aktualizacja-bez-ai.md`. Polecenia `data:refresh`, `data:monitor`, `data:apply` i `data:coverage`; szybki start na Windows: `Aktualizuj-baze.cmd`. Procedura jest dostępna również w aplikacji w „Instrukcjach”. Wymaga Pythona 3.12+ i zależności z `requirements-data.txt`.
+
+Bazę katalogową domknięto w zakresie trzech uczelni z jawnymi statusami jakości i lukami publikacyjnymi. Pełny plan rozwoju aplikacji pozostaje otwarty. Częściowych spisów nie uznajemy za pełne programy na nabór 2027/28, a sam skrypt nie zastępuje audytu nowego formatu dokumentu ani interpretacji zmienionej uchwały. Historyczne raporty w dokumentacji opisują stan na wskazane w nich daty.
 
 ## Priorytety i wykluczenia źródeł
 
