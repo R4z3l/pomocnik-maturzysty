@@ -11,8 +11,8 @@ import { sourceExclusion, claimRejection, sourcePolicy } from '../src/sources.ts
 import type { Catalogue } from '../src/types.ts';
 
 const read = (name: string) => JSON.parse(readFileSync(new URL('../src/data/' + name + '.json', import.meta.url), 'utf8'));
-const uwr = read('uwr'), uew = read('uew'), pwr = read('pwr');
-const data: Catalogue = {...uwr, universities: [...uwr.universities,...uew.universities,...pwr.universities], sources: [...uwr.sources,...uew.sources,...pwr.sources], programmes: [...uwr.programmes,...uew.programmes,...pwr.programmes]};
+const uwr = read('uwr'), uew = read('uew'), pwr = read('pwr'), upwr = read('upwr');
+const data: Catalogue = {...uwr, universities: [...uwr.universities,...uew.universities,...pwr.universities,...upwr.universities], sources: [...uwr.sources,...uew.sources,...pwr.sources,...upwr.sources], programmes: [...uwr.programmes,...uew.programmes,...pwr.programmes,...upwr.programmes]};
 const unique = (ids: string[]) => assert.equal(new Set(ids).size, ids.length, 'Duplikaty identyfikatorów');
 unique(data.universities.map(u=>u.id)); unique(data.programmes.map(p=>p.id)); unique(data.sources.map(s=>s.id));
 const sourceIds = new Set(data.sources.map(s=>s.id));
@@ -48,7 +48,7 @@ for (const p of data.programmes) {
   }
 }
 const uwrRules:AdmissionRule[] = read('uwr-rules');
-const rules:AdmissionRule[] = [...read('pwr-rules'), ...uwrRules, UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027];
+const rules:AdmissionRule[] = [...read('upwr-rules'), ...read('pwr-rules'), ...uwrRules, UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027];
 unique(rules.map((r: {id:string})=>r.id));
 for (const r of rules) {
   assert.equal(new URL(r.sourceUrl).protocol, 'https:');
@@ -76,9 +76,9 @@ for(const j of jobs.jobs) {
   assert.ok(j.checkedAt<=jobs.checkedAt,j.id);
   if(j.active==='confirmed'&&j.expiresAt)assert.ok(j.expiresAt>=j.checkedAt,j.id);
 }
-assert.equal(data.universities.length,3); assert.equal(data.programmes.length,171);
+assert.equal(data.universities.length,4); assert.equal(data.programmes.length,199);
 console.log(JSON.stringify({universities:data.universities.length,programmes:data.programmes.length,english:data.programmes.filter(p=>p.language==='en').length,sources:data.sources.length,thresholds:data.programmes.reduce((n,p)=>n+p.thresholds.length,0),uwrRules:uwrRules.length,jobs:jobs.jobs.length},null,2));
-console.log('OK: wszystkie rekordy bieżącego zakresu trzech uczelni, reguły i próbka ogłoszeń zwalidowane.');
+console.log('OK: wszystkie rekordy bieżącego zakresu czterech uczelni, reguły i próbka ogłoszeń zwalidowane.');
 
 assert.deepEqual(validateGraduateData(graduateData, data.programmes), []);
 console.log(`ELA: ${graduateData.matches.length} ofert, ${graduateData.cohorts.length} kohort; walidacja poprawna.`);

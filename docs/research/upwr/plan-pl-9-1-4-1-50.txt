@@ -1,0 +1,2306 @@
+zootechnika: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Biologii i Hodowli Zwierząt
+zootechnika
+Sylabus UPWr
+Kierunek
+zootechnika
+2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Lista przedmiotów - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+Bezpieczeństwo pracy i ergonomia
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Botanika
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Chemia organiczna z elementami chemii nieorganicznej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Fizyka z elementami biofizyki
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy ekonomii
+Dane przedmiotu
+Wykład e-learning: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy prawa i ochrona własności intelektualnej
+Dane przedmiotu
+Wykład e-learning: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Technologia informacyjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Zoologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 45
+5
+Egzamin
+Obowiązkowy
+Wprowadzenie do statystyki/Introduction to statistics
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+Student realizuje wybraną wersję językową przedmiotu.
+Wprowadzenie do statystyki
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+2
+Zaliczenie na ocenę
+Fakultatywny
+Introduction to statistics
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+2
+Zaliczenie na ocenę
+Fakultatywny
+Anatomia zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Mikrobiologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Biochemia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Genetyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Moduł: Ekologia i środowisko naturalne
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje dwa wybrane z modułu przedmioty.
+Ekologia ogólna
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 19 godz.
+Ćwiczenia terenowe: 6 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 19
+Ćwiczenia terenowe: 6
+3
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona środowiska
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Rolnictwo ekologiczne
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biometeorologia/ Biometeorology
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Biometeorologia
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biometeorology
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Toksykologia środowiska/ Environmental toxicology
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Toksykologia środowiska
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Environmental toxicology
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Moduł: Nauki biologiczne
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje dwa wybrane z modułu przedmioty.
+Zachowanie ptaków
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biologia psowatych dziko żyjących i udomowionych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Elementy ewolucjonizmu/ Elements of evolutionism
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Elementy ewolucjonizmu
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Elements of evolutionism
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Techniki obrazowania w naukach przyrodniczych/ Imaging techniques in life sciences
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Techniki obrazowania w naukach przyrodniczych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Ćwiczenia terenowe: 5 godz.
+Ćwiczenia projektowe/warsztatowe: 5 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 15
+Ćwiczenia terenowe: 5
+Ćwiczenia projektowe/warsztatowe: 5
+3
+Zaliczenie na ocenę
+Fakultatywny
+Imaging techniques in life sciences
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Ćwiczenia terenowe: 5 godz.
+Ćwiczenia projektowe/warsztatowe: 5 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 15
+Ćwiczenia terenowe: 5
+Ćwiczenia projektowe/warsztatowe: 5
+3
+Zaliczenie na ocenę
+Fakultatywny
+Parazytologia/ Parasitology
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Parazytologia
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Parasitology
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Statystyka matematyczna/Mathematical statistics
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+Student realizuje wybraną wersję językową przedmiotu.
+Statystyka matematyczna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Mathematical statistics
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z jednego przedmiotu społeczno-humanistycznego wybranego z puli przedmiotów ogólnouczelnianych.
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z wybranego języka obcego.
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Fizjologia zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Produkcja roślinna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 9 godz.
+Ćwiczenia terenowe: 6 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 9
+Ćwiczenia terenowe: 6
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy marketingu
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Biologia i gospodarowanie zwierzyną łowną/Biology and management of wild animals
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+Student realizuje wybraną wersję językową przedmiotu.
+Biologia i gospodarowanie zwierzyną łowną
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia terenowe: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 20 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia terenowe: 10
+Ćwiczenia projektowe/warsztatowe: 20
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biology and management of wild animals
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia terenowe: 8 godz.
+Ćwiczenia projektowe/warsztatowe: 22 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia terenowe: 8
+Ćwiczenia projektowe/warsztatowe: 22
+3
+Zaliczenie na ocenę
+Fakultatywny
+Podstawy żywienia zwierząt/ Fundamentals of animal nutrition
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student realizuje wybraną wersję językową przedmiotu.
+Podstawy żywienia zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Fakultatywny
+Fundamentals of animal nutrition
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z jednego przedmiotu społeczno-humanistycznego wybranego z puli przedmiotów ogólnouczelnianych.
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z wybranego języka obcego.
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Higiena i dobrostan zwierząt/ Animal hygiene and welfare
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Higiena i dobrostan zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Fakultatywny
+Animal hygiene and welfare
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Fakultatywny
+Gospodarka rybacka/ Fisheries management
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Gospodarka rybacka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Fisheries management
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Ogólna hodowla zwierząt/ General animal breeding
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Ogólna hodowla zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Fakultatywny
+General animal breeding
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Fakultatywny
+Moduł: Hodowla zwierząt
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+1
+Genetyka populacji zwierząt gospodarskich/ Population genetics of farm animals
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Genetyka populacji zwierząt gospodarskich
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Population genetics of farm animals
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zachowanie zwierząt/ Animal behaviour
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Zachowanie zwierząt
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 21 godz.
+Ćwiczenia projektowe/warsztatowe: 4 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 21
+Ćwiczenia projektowe/warsztatowe: 4
+3
+Zaliczenie na ocenę
+Fakultatywny
+Animal behaviour
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 21 godz.
+Ćwiczenia projektowe/warsztatowe: 4 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 21
+Ćwiczenia projektowe/warsztatowe: 4
+3
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Chów i hodowla małych przeżuwaczy
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia terenowe: 4 godz.
+Ćwiczenia projektowe/warsztatowe: 26 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia terenowe: 4
+Ćwiczenia projektowe/warsztatowe: 26
+4
+Egzamin
+Obowiązkowy
+Metody hodowlane
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Praktyka zawodowa agrotechniczna - 2 tyg.
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł: Biologia i uprawa roślin
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje dwa wybrane z modułu przedmioty.
+Przyrodnicze wykorzystanie odpadów pochodzenia zwierzęcego
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biologia ziół i roślin użytkowych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia audytoryjne: 21 godz.
+Ćwiczenia projektowe/warsztatowe: 4 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia audytoryjne: 21
+Ćwiczenia projektowe/warsztatowe: 4
+3
+Zaliczenie na ocenę
+Fakultatywny
+Uprawa łąk i pastwisk
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zastosowanie komputerowych analiz przestrzennych (GIS) w badaniach biologicznych
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 35 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 35
+3
+Zaliczenie na ocenę
+Fakultatywny
+Rośliny lecznicze i trujące
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 18 godz.
+Ćwiczenia terenowe: 7 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 18
+Ćwiczenia terenowe: 7
+3
+Zaliczenie na ocenę
+Fakultatywny
+Żywienie zwierząt i paszoznawstwo/ Animal nutrition and feed science
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student realizuje wybraną wersję językową przedmiotu.
+Żywienie zwierząt i paszoznawstwo
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 6 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 6
+Ćwiczenia projektowe/warsztatowe: 24
+4
+Egzamin
+Fakultatywny
+Animal nutrition and feed science
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 6 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 6
+Ćwiczenia projektowe/warsztatowe: 24
+4
+Egzamin
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z wybranego języka obcego.
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Chów i hodowla bydła/ Cattle breeding and husbandry
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Chów i hodowla bydła
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 2 godz.
+Ćwiczenia terenowe: 4 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia laboratoryjne: 2
+Ćwiczenia terenowe: 4
+Ćwiczenia projektowe/warsztatowe: 24
+4
+Egzamin
+Fakultatywny
+Cattle breeding and husbandry
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 2 godz.
+Ćwiczenia terenowe: 4 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia laboratoryjne: 2
+Ćwiczenia terenowe: 4
+Ćwiczenia projektowe/warsztatowe: 24
+4
+Egzamin
+Fakultatywny
+Chów i hodowla owadów użytkowych/ Raising and breeding of beneficial insects
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Chów i hodowla owadów użytkowych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 26 godz.
+Ćwiczenia terenowe: 4 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 26
+Ćwiczenia terenowe: 4
+3
+Zaliczenie na ocenę
+Fakultatywny
+Raising and breeding of beneficial insects
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 26 godz.
+Ćwiczenia terenowe: 4 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 26
+Ćwiczenia terenowe: 4
+3
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Chów i hodowla drobiu
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Chów i hodowla koni
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia terenowe: 7 godz.
+Ćwiczenia projektowe/warsztatowe: 23 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia terenowe: 7
+Ćwiczenia projektowe/warsztatowe: 23
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Chów i hodowla trzody chlewnej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Obowiązkowy
+Mechanizacja produkcji zwierzęcej z elementami budownictwa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy rozrodu zwierząt gospodarskich
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł: Żywienie zwierząt
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje dwa wybrane z modułu przedmioty.
+Żywienie ptaków użytkowych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Żywienie zwierząt monogastrycznych/ Nutrition of monogastric animals
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Żywienie zwierząt monogastrycznych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Nutrition of monogastric animals
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Żywienie zwierząt przeżuwających/ Nutrition of ruminant animals
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Żywienie zwierząt przeżuwających
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Nutrition of ruminant animals
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy (egzamin)
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z wybranego języka obcego kończące się egzaminem.
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język francuski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język chiński (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język włoski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Biologia, hodowla i użytkowanie królików oraz zwierząt futerkowych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 4 godz.
+Ćwiczenia projektowe: 26 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 4
+Ćwiczenia projektowe: 26
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie na ocenę
+Fakultatywny
+Seminarium inżynierskie
+Dane przedmiotu
+Seminarium/Konwersatorium: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł: Produkcja zwierzęca
+Dane przedmiotu
+Punkty ECTS: 8
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje cztery wybrane z modułu przedmioty.
+Użytkowanie małych przeżuwaczy (II)
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Użytkowanie koni (II)
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Hodowla i rozród ptaków użytkowych (II)
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 20 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 20
+2
+Zaliczenie na ocenę
+Fakultatywny
+Hodowla trzody chlewnej (II)
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Hodowla bydła II/ Cattle breeding II
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Hodowla bydła (II)
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia terenowe: 2 godz.
+Ćwiczenia projektowe/warsztatowe: 13 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia terenowe: 2
+Ćwiczenia projektowe/warsztatowe: 13
+2
+Zaliczenie na ocenę
+Fakultatywny
+Cattle breeding II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 13 godz.
+Ćwiczenia terenowe: 2 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 13
+Ćwiczenia terenowe: 2
+2
+Zaliczenie na ocenę
+Fakultatywny
+Gospodarka pasieczna (II)/ Apiary economy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Gospodarka pasieczna (II)
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 11 godz.
+Ćwiczenia terenowe: 4 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 11
+Ćwiczenia terenowe: 4
+2
+Zaliczenie na ocenę
+Fakultatywny
+Apiary economy
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 11 godz.
+Ćwiczenia terenowe: 4 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 11
+Ćwiczenia terenowe: 4
+2
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje co najmniej dwa bloki tematyczne
+Praktyka hodowlana - chów i hodowla bydła
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - zwierzęta ogrodów zoologicznych
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - produkcja i przygotowanie pasz
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - chów i hodowla drobiu
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - chów i hodowla małych przeżuwaczy
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - chów i hodowla trzody chlewnej
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - chów i hodowla zwierząt futerkowych
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - chów i hodowla owadów użytkowych
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - hodowla i użytkowanie koni
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - hodowla i użytkowanie zwierząt dziko żyjących
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka hodowlana - gospodarka rybacka
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Fakultatywny
+Kurs inseminatora krów i loch
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Precyzyjny chów zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 20 godz.
+Ćwiczenia terenowe: 10 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe: 20
+Ćwiczenia terenowe: 10
+4
+Egzamin
+Obowiązkowy
+Moduł: Higiena i dobrostan zwierząt
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera do realizacji jeden przedmiot
+Ochrona zdrowia zwierząt
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 10
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Neonatologia
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Ćwiczenia terenowe: 5 godz.
+Ćwiczenia projektowe/warsztatowe: 10 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 10
+Ćwiczenia terenowe: 5
+Ćwiczenia projektowe/warsztatowe: 10
+3
+Zaliczenie na ocenę
+Fakultatywny
+Choroby odzwierzęce
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 13 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 12
+Ćwiczenia projektowe/warsztatowe: 13
+3
+Zaliczenie na ocenę
+Fakultatywny
+Towaroznawstwo surowców i produktów pochodzenia zwierzęcego
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Praca inżynierska i przygotowanie do egzaminu inżynierskiego
+Dane przedmiotu
+Prace kontrolne i przejściowe: 5 godz.
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Prace kontrolne i przejściowe: 5
+10
+Zaliczenie na ocenę
+Obowiązkowy
+Profilaktyka weterynaryjna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Ćwiczenia terenowe: 6 godz.
+Ćwiczenia projektowe/warsztatowe: 12 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 12
+Ćwiczenia terenowe: 6
+Ćwiczenia projektowe/warsztatowe: 12
+3
+Egzamin
+Obowiązkowy
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł: Alternatywne użytkowanie zwierząt
+Dane przedmiotu
+Punkty ECTS: 9
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje trzy wybrane z modułu przedmioty.
+Podstawy hipoterapii
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 17 godz.
+Ćwiczenia projektowe/warsztatowe: 8 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 17
+Ćwiczenia projektowe/warsztatowe: 8
+3
+Zaliczenie na ocenę
+Fakultatywny
+Etologia i dobrostan koni
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia audytoryjne: 19 godz.
+Ćwiczenia terenowe: 6 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia audytoryjne: 19
+Ćwiczenia terenowe: 6
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zwierzęta laboratoryjne - hodowla i użytkowanie
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Ćwiczenia terenowe: 5 godz.
+Ćwiczenia projektowe/warsztatowe: 8 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 12
+Ćwiczenia terenowe: 5
+Ćwiczenia projektowe/warsztatowe: 8
+3
+Zaliczenie na ocenę
+Fakultatywny
+Alternatywne użytkowanie koni
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 13 godz.
+Ćwiczenia projektowe/warsztatowe: 12 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 13
+Ćwiczenia projektowe/warsztatowe: 12
+3
+Zaliczenie na ocenę
+Fakultatywny
+Hodowla zwierząt amatorskich/ Pets breeding
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Hodowla zwierząt amatorskich
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 13 godz.
+Ćwiczenia projektowe/warsztatowe: 12 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 13
+Ćwiczenia projektowe/warsztatowe: 12
+3
+Zaliczenie na ocenę
+Fakultatywny
+Pets breeding
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 13 godz.
+Ćwiczenia projektowe/warsztatowe: 12 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 13
+Ćwiczenia projektowe/warsztatowe: 12
+3
+Zaliczenie na ocenę
+Fakultatywny
+Dogoterapia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 13 godz.
+Ćwiczenia terenowe: 12 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 13
+Ćwiczenia terenowe: 12
+3
+Zaliczenie na ocenę
+Fakultatywny
+Moduł: Zarządzanie produkcją zwierzęcą
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje jeden wybrany z modułu przedmiot.
+Zagospodarowanie produktów ubocznych przemysłu rolno-spożywczego
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 5 godz.
+Ćwiczenia projektowe/warsztatowe: 20 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 5
+Ćwiczenia projektowe/warsztatowe: 20
+3
+Zaliczenie na ocenę
+Fakultatywny
+Podstawy zarządzania
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Produkcja pasz przemysłowych i premiksów
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia terenowe: 13 godz.
+Ćwiczenia projektowe/warsztatowe: 12 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia terenowe: 13
+Ćwiczenia projektowe/warsztatowe: 12
+3
+Zaliczenie na ocenę
+Fakultatywny
+Moduł: Nauki społeczno-humanistyczne
+Dane przedmiotu
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje jeden wybrany z modułu przedmiot.
+Społeczne życie zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+1
+Zaliczenie na ocenę
+Fakultatywny
+Gospodarcze i społeczne znaczenie zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+1
+Zaliczenie na ocenę
+Fakultatywny
+Moduł: Bezpieczeństwo i jakość produktów pochodzenia zwierzęcego
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera do realizacji jeden przedmiot
+Ocena surowców pochodzenia zwierzęcego
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 25
+3
+Zaliczenie na ocenę
+Fakultatywny
+Ekologiczne i tradycyjne przetwórstwo surowców zwierzęcych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 17 godz.
+Ćwiczenia projektowe/warsztatowe: 8 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 17
+Ćwiczenia projektowe/warsztatowe: 8
+3
+Zaliczenie na ocenę
+Fakultatywny
+Systemy kontroli i bezpieczeństwa w produkcji żywności
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 17 godz.
+Ćwiczenia projektowe/warsztatowe: 8 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 17
+Ćwiczenia projektowe/warsztatowe: 8
+3
+Zaliczenie na ocenę
+Fakultatywny

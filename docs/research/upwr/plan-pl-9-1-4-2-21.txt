@@ -1,0 +1,1779 @@
+biotechnologia: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Biotechnologii i Nauk o Żywności
+biotechnologia
+Sylabus UPWr
+Kierunek
+biotechnologia
+2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Lista przedmiotów - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Biologia komórki
+Dane przedmiotu
+Wykład: 28 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 28
+2
+Egzamin
+Obowiązkowy
+Chemia ogólna i nieorganiczna
+Dane przedmiotu
+Wykład: 42 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 10
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 42
+Ćwiczenia laboratoryjne: 60
+10
+Egzamin
+Obowiązkowy
+Matematyka z elementami statystyki I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia laboratoryjne: 30
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Grafika inżynierska
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 28 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 28
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Technologia informacyjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Ergonomia i BHP. Ochrona własności intelektualnej
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+Fizyka z elementami biofizyki I
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+Student wybiera wersje językową.
+The student chooses the language version.
+Fizyka z elementami biofizyki I
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Physics with elements of biophysics I
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Inżynieria i ochrona środowiska
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Ekologia i ochrona środowiska
+Dane przedmiotu
+Wykład e-learning: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład e-learning: 10
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Strategie zero waste
+Dane przedmiotu
+Wykład e-learning: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład e-learning: 10
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Biogospodarka
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Operacje jednostkowe w przemysłach biotechnologicznych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 36 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia laboratoryjne: 36
+5
+Egzamin
+Obowiązkowy
+Chemia organiczna
+Dane przedmiotu
+Wykład: 50 godz.
+Ćwiczenia laboratoryjne: 75 godz.
+Punkty ECTS: 12
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 50
+Ćwiczenia laboratoryjne: 75
+12
+Egzamin
+Obowiązkowy
+Matematyka z elementami statystyki II
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 28
+Ćwiczenia laboratoryjne: 28
+5
+Egzamin
+Obowiązkowy
+Fizyka z elementami biofizyki II
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową.
+The student chooses the language version.
+Fizyka z elementami biofizyki II
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+4
+Egzamin
+Fakultatywny
+Physics with elements of biophysics II
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+4
+Egzamin
+Fakultatywny
+Przedmiot humanistyczny I
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z dziedziny nauk humanistycznych lub społecznych, za które uzyskuje co najmniej 5 punktów ECTS, w tym co najmniej dwa przedmioty z oferty ogólnouczelnianej po 30 godzin i 2 punkty ECTS każdy oraz przedmiot kształtujący kompetencje społeczne z zakresu przedsiębiorczości w wymiarze 15 godzin – 1 punkt ECTS
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera określony język
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Biochemia
+Dane przedmiotu
+Wykład: 40 godz.
+Ćwiczenia laboratoryjne: 75 godz.
+Punkty ECTS: 10
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 40
+Ćwiczenia laboratoryjne: 75
+10
+Egzamin
+Obowiązkowy
+Chemia fizyczna
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 20
+Ćwiczenia laboratoryjne: 28
+4
+Egzamin
+Obowiązkowy
+Inżynieria bioprocesowa
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Procesy dyfuzyjno-cieplne w inżynierii bioprocesowej
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 28
+5
+Egzamin
+Fakultatywny
+Procesy mechaniczne w inżynierii bioprocesowej
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 28
+5
+Egzamin
+Fakultatywny
+Analiza żywności
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 36 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 14
+Ćwiczenia laboratoryjne: 36
+5
+Egzamin
+Obowiązkowy
+Ekonomia
+Dane przedmiotu
+Wykład: 4 godz.
+Wykład e-learning: 22 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 4
+Wykład e-learning: 22
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmiot humanistyczny I
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje zajęcia z dziedziny nauk humanistycznych lub społecznych, za które uzyskuje co najmniej 5 punktów ECTS, w tym co najmniej dwa przedmioty z oferty ogólnouczelnianej po 30 godzin i 2 punkty ECTS każdy oraz przedmiot kształtujący kompetencje społeczne z zakresu przedsiębiorczości w wymiarze 15 godzin – 1 punkt ECTS
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera określony język
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Zarządzanie jakością i bezpieczeństwem produktów biotechnologicznych
+Dane przedmiotu
+Wykład e-learning: 14 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 14
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Chemia związków naturalnych
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot i wersję językową.
+The student chooses the subject and the language version.
+Związki naturalne w farmacji i medycynie
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Natural compounds in pharmacy and medicine
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Chemia żywności
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Food chemistry
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Mikrobiologia ogólna
+Dane przedmiotu
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student wybiera wersję językową.
+The student chooses the language version.
+Mikrobiologia ogólna
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+General microbiology
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+Nowoczesne metody analityczne
+Dane przedmiotu
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera przedmiot i wersje językową.
+The student chooses the subject and the language version.
+Chemiczne i instrumentalne metody analityczne
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+Chemical and instrumental analytical methods
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+Chemia i analiza leków
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+Biofizyka w biologii i biotechnologii
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera przedmioty za 6 ECTS.
+* Indywidualny projekt studencki (6 ECTS) może być realizowany w ramach indywidualnej organizacji studiów (IOS).
+The student chooses subjects for 6 ECTS.
+* An individual student project (6 ECTS) may be carried out as part of an individual study organisation (IOS).
+Biofizyka układu krążenia
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 14
+2
+Zaliczenie na ocenę
+Fakultatywny
+Biofizyczne aspekty funkcjonowania narządów zmysłów
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 14
+2
+Zaliczenie na ocenę
+Fakultatywny
+Biofizyka w biologii i medycynie
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 14
+2
+Zaliczenie na ocenę
+Fakultatywny
+Spekstroskopia i mikroskopia fluorescencyjna
+Dane przedmiotu
+Wykład: 23 godz.
+Ćwiczenia laboratoryjne: 5 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 23
+Ćwiczenia laboratoryjne: 5
+2
+Zaliczenie na ocenę
+Fakultatywny
+Biologiczne skutki stresu oksydacyjnego
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 14
+2
+Zaliczenie na ocenę
+Fakultatywny
+Indywidualny projekt studencki*
+Dane przedmiotu
+Ćwiczenia projektowe: 84 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia projektowe: 84
+6
+Zaliczenie na ocenę
+Fakultatywny
+Individual student project*
+Dane przedmiotu
+Ćwiczenia projektowe: 84 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia projektowe: 84
+6
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera określony język
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Podstawy genetyki
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Aparatura przemysłów biotechnologicznych
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 14
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Mikrobiologia żywności
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+The student chooses one subject.
+Mikrobiologia żywności
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Food microbiology
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Patogeny w żywności
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 28
+3
+Egzamin
+Fakultatywny
+Podstawy biotransformacji
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student wybiera wersję językową.
+The student chooses the language version.
+Podstawy biotransformacji
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 42 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 42
+3
+Egzamin
+Fakultatywny
+Basics of biotransformation
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 42 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 42
+3
+Egzamin
+Fakultatywny
+Wybrane aspekty biotechnologii
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera dwa przedmioty.
+Bioetyka
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Biotechnologia medyczna
+Dane przedmiotu
+Seminarium/Konwersatorium: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Seminarium/Konwersatorium: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Substancje chemiczne w żywności a nowotwory
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Biotechnologia w sądownictwie
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Biotechnologia surowców zielarskich
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Niekonwencjonalne źródła białka
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Sensory i biosensory w kontroli jakości żywności
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Nowoczesne metody wykrywania zafałszowań i identyfikacja produktów GMO
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Terroryzm żywnościowy
+Dane przedmiotu
+Wykład: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+1
+Zaliczenie na ocenę
+Fakultatywny
+Nanotechnologia i chemia w biotechnologii
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Nanobiotechnologia
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Fakultatywny
+Elementy zielonej chemii w biotechnologii
+Dane przedmiotu
+Wykład: 28 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 28
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biotechnologie przemysłowe w żywności i farmacji
+Dane przedmiotu
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student wybiera wersję językową.
+The student chooses the language version.
+Biotechnologie przemysłowe w żywności i farmacji
+Dane przedmiotu
+Wykład: 40 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 40
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+Industrial Food and Pharmaceutical Biotechnologies
+Dane przedmiotu
+Wykład: 40 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 40
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Fakultatywny
+Technologia surowców roślinnych
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Technologia węglowodanów
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Fakultatywny
+Technologia owoców, warzyw i zbóż
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy (egzamin)
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera określony język
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język francuski (egzamin)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język chiński (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język włoski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Biologia molekularna
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student wybiera wersję językową.
+The student chooses the language version.
+Biologia molekularna
+Dane przedmiotu
+Wykład: 40 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 40
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Molecular biology
+Dane przedmiotu
+Wykład: 40 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 40
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Fakultatywny
+Enzymologia
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student wybiera wersję językową.
+The student chooses the language version.
+Enzymologia
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Fakultatywny
+Enzymology
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Fakultatywny
+Procesy fermentacyjne
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Drożdże w procesach fermentacyjnych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 60
+6
+Egzamin
+Fakultatywny
+Technologia przemysłów fermentacyjnych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 60
+6
+Egzamin
+Fakultatywny
+Technologia surowców zwierzęcych
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Zarys technologii produktów zwierzęcych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Fakultatywny
+Biotechnologiczne wykorzystanie surowców zwierzęcych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 28 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 28
+3
+Zaliczenie na ocenę
+Fakultatywny
+Metody biotechnologiczne w ochronie środowiska
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 14
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Optymalizacja procesów biotechnologicznych
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 14 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 14
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Projektowanie technologiczne
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 42 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 42
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera rodzaj praktyki.
+Praktyka technologiczna
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka laboratoryjna
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Inżynieria genetyczna
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 40 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia laboratoryjne: 40
+5
+Egzamin
+Obowiązkowy
+Podstawy metabolomiki
+Dane przedmiotu
+Wykład: 5 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 5
+Ćwiczenia laboratoryjne: 10
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Bioinformatyka
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia laboratoryjne: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 12
+Ćwiczenia laboratoryjne: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Biotechnologia roślin i zwierząt
+Dane przedmiotu
+Wykład: 12 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 12
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Techniki laboratoryjne w biotechnologii
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Immunologia w diagnostyce laboratoryjnej
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia laboratoryjne: 12
+2
+Zaliczenie na ocenę
+Fakultatywny
+Zwierzęta laboratoryjne i ich wykorzystanie w biotechnologii
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia laboratoryjne: 12
+2
+Zaliczenie na ocenę
+Fakultatywny
+Składniki bioaktywne w  żywności
+Dane przedmiotu
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Przeciwutleniacze w żywności
+Dane przedmiotu
+Wykład: 12 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+1
+Zaliczenie na ocenę
+Fakultatywny
+Zioła i suplementy diety
+Dane przedmiotu
+Wykład: 12 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+1
+Zaliczenie na ocenę
+Fakultatywny
+Pracownia inżynierska
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Pracownia inżynierska - biotechnologia drobnoustrojów
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 50 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia projektowe/warsztatowe: 50
+4
+Zaliczenie na ocenę
+Fakultatywny
+Pracownia inżynierska - biotransformacje
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 50 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia projektowe/warsztatowe: 50
+4
+Zaliczenie na ocenę
+Fakultatywny
+Seminarium inżynierskie
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Seminarium inżynierskie - biotechnologia drobnoustrojów
+Dane przedmiotu
+Seminarium/Konwersatorium: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Seminarium/Konwersatorium: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Seminarium inżynierskie - biotransformacje
+Dane przedmiotu
+Seminarium/Konwersatorium: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Seminarium/Konwersatorium: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Praca i egzamin inżynierski
+Dane przedmiotu
+Prace kontrolne i przejściowe: 5 godz.
+Punkty ECTS: 10
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Prace kontrolne i przejściowe: 5
+10
+Egzamin
+Obowiązkowy

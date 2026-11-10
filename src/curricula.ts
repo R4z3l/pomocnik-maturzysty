@@ -2,11 +2,12 @@ import a from './data/curricula-uwr-a.json' with { type: 'json' };
 import b from './data/curricula-uwr-b.json' with { type: 'json' };
 import uew from './data/curricula-uew.json' with { type: 'json' };
 import pwr from './data/curricula-pwr.json' with { type: 'json' };
+import upwr from './data/curricula-upwr.json' with { type: 'json' };
 import type { CurriculumRecord } from './curriculumTypes.ts';
 import type { Programme } from './types.ts';
 import { sourceExclusion } from './sources.ts';
 
-export const curricula = [...a, ...b, ...uew, ...pwr] as CurriculumRecord[];
+export const curricula = [...a, ...b, ...uew, ...pwr, ...upwr] as CurriculumRecord[];
 
 export function validateCurricula(records: CurriculumRecord[], programmes: Programme[]) {
   const errors: string[] = [];
@@ -25,7 +26,7 @@ export function validateCurricula(records: CurriculumRecord[], programmes: Progr
     if ((row.specializationStatus === 'listed') !== (row.specializations.length > 0)) errors.push(`Status specjalności: ${row.programmeId}`);
     for (const source of row.sources) {
       const host = new URL(source.url).hostname;
-      if (!['uwr.edu.pl','uni.wroc.pl','uew.pl','ue.wroc.pl','ue.e-sylabus.pl','pwr.edu.pl'].some(domain => host === domain || host.endsWith('.'+domain))) errors.push(`Nieoficjalne źródło programu: ${source.url}`);
+      if (!['uwr.edu.pl','uni.wroc.pl','uew.pl','ue.wroc.pl','ue.e-sylabus.pl','pwr.edu.pl','upwr.edu.pl'].some(domain => host === domain || host.endsWith('.'+domain))) errors.push(`Nieoficjalne źródło programu: ${source.url}`);
       if (sourceExclusion(source.url) || !source.title || !source.year || !source.note) errors.push(`Źródło programu: ${row.programmeId}/${source.url}`);
     }
     for (const group of row.groups) if (!urls.has(group.sourceUrl) || !group.title || group.subjects.some(s => !s.trim())) errors.push(`Przedmioty bez źródła: ${row.programmeId}`);

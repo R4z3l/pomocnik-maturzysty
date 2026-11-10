@@ -1,3 +1,5 @@
+Aktualizacja **10.11.2026**: na polecenie użytkownika rozszerzono katalog o Uniwersytet Przyrodniczy we Wrocławiu, do 199 ofert czterech uczelni. Zakres i ograniczenia opisuje `docs/audyt-upwr.md`. Aktualizator bez AI obejmuje także 28 planów tej uczelni. Poniższe wcześniejsze zapisy zachowują swoje daty.
+
 # Akcja Studia 2027 — zaktualizowany plan aplikacji
 
 Aktualizacja utrzymania bazy — 09.11.2026: aktywny katalog obejmuje Uniwersytet Wrocławski, Uniwersytet Ekonomiczny we Wrocławiu i Politechnikę Wrocławską. Dodano lokalne pobieranie tabel i kontrolę zmian oficjalnych źródeł bez AI (`docs/aktualizacja-bez-ai.md`). Wcześniejsze zapisy o aktualizacjach wyłącznie w rozmowie z agentem są w tym zakresie zastąpione skryptami. Pełna automatyzacja interpretacji dokumentów, publikacji i wszystkie uczelnie z pierwotnego planu nie są zakończone. Stan bazy jest wyliczany w aplikacji; część programów i danych absolwentów pozostaje niepełna.

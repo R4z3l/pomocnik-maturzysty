@@ -19,8 +19,8 @@ export const UEW_EN_2027: AdmissionRule = {...UEW_PL_2027,id:'uew-2027-en',title
 export interface AdmissionResult {total:number|null;maturaTotal:number|null;status:'missing'|'requirement'|'complete';rows:{subject:string;label:string;value:number|null;detail:string}[];issues:string[]}
 export function calculateAdmission(rule: AdmissionRule, p: Profile): AdmissionResult {
   if (rule.id.startsWith('pwr-')) return calculatePwrAdmission(rule, p);
-  if(rule.id.startsWith('uwr-') && Object.keys(p.bilingualScores??{}).length) {
-    return {total:null,maturaTotal:null,issues:[],status:'missing' as const,rows:[{subject:'',label:'Matura dwujęzyczna — Uniwersytet Wrocławski',value:null,detail:'Profil zawiera poziom dwujęzyczny. Ta reguła Uniwersytetu Wrocławskiego obsługuje tylko PP/PR; sprawdź odrębny przelicznik na oficjalnej karcie. Nie pomijamy tego wyniku w sumie.'}]};
+  if((rule.id.startsWith('uwr-') || rule.id.startsWith('upwr-')) && Object.keys(p.bilingualScores??{}).length) {
+    return {total:null,maturaTotal:null,issues:[],status:'missing' as const,rows:[{subject:'',label:'Matura dwujęzyczna — wymaga odrębnego sprawdzenia',value:null,detail:'Profil zawiera poziom dwujęzyczny. Ten wariant kalkulatora obsługuje tylko PP/PR; sprawdź odrębny przelicznik na oficjalnej karcie. Nie pomijamy tego wyniku w sumie.'}]};
   }
   const scores={basic:p.basicScores??{},extended:p.subjects,bilingual:p.bilingualScores??{}};
   const names={basic:'podst.',extended:'rozsz.',bilingual:'dwujęz.'};

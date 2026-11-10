@@ -1,3 +1,7 @@
+# Dodanie Uniwersytetu Przyrodniczego we Wrocławiu — 10.11.2026
+
+Dodano 28 ofert stacjonarnych, 28 pełnych spisów planów 2026/2027, reguły kalkulatorów 2027/2028 dla polskiej nowej matury PP/PR bez KZ i 53 nieoficjalne progi z portalu dla naborów 2025/2026 oraz 2026/2027. Tabela portalu 2024/2025 nie zawierała liczb. Brak ELA pozostaje jawny. Katalog: 199 ofert, 187 kalkulatorów, 116 pełnych planów i 83 listy częściowe. Adapter i monitor działają poza aplikacją, bez AI. Szczegóły: docs/audyt-upwr.md. Poniżej wcześniejsze stany audytu.
+
 # Domknięcie katalogowej bazy trzech uczelni — 09.11.2026
 
 Zakres potwierdzony przez użytkownika: Uniwersytet Wrocławski, Uniwersytet Ekonomiczny we Wrocławiu i Politechnika Wrocławska, 171 ofert stacjonarnych I stopnia i jednolitych we Wrocławiu, PL/EN. To zakres odbioru bazy katalogowej; nie jest to deklaracja ukończenia całego planu aplikacji ani potwierdzenie wszystkich ofert i warunków 2027/28.

@@ -31,7 +31,7 @@ Adaptery automatycznie odczytują:
 - Pełne opublikowane plany wszystkich 62 ofert Politechniki Wrocławskiej: wszystkie semestry, tabele i rozwijane koszyki, w tym zagnieżdżone. Nieznany układ, brak zakładki lub nieodczytany koszyk zatrzymuje propozycję. Nazwy grup są oddzielone od nazw zajęć; instrukcje wyboru są pomijane.
 - Plan European Cultures Uniwersytetu Wrocławskiego z uchwały 168/2023: wizualnie sprawdzono sześć semestrów i przypisy. Adapter korzysta z transkrypcji wyłącznie przy identycznych skrótach PDF i pliku sprawdzonych nazw. Zmieniony dokument wymaga nowego przeglądu.
 
-Domyślny przebieg obejmuje 66 adapterów: cztery wspólne źródła tabel, metryczek i planu European Cultures oraz 62 plany Politechniki Wrocławskiej. Może trwać dłużej niż samo sprawdzenie progów. Wszystkie propozycje są w jednym raporcie.
+Domyślny przebieg obejmuje 94 adaptery: cztery wspólne źródła tabel, metryczek i planu European Cultures oraz 62 plany Politechniki Wrocławskiej i 28 planów Uniwersytetu Przyrodniczego we Wrocławiu. Może trwać dłużej niż samo sprawdzenie progów. Wszystkie propozycje są w jednym raporcie.
 
 Znany dokument PDF ma sprawdzane konkretne strony metryczek. Gdy uczelnia zmieni układ lub zastąpi dokument, brak zgodności zatrzyma adapter zamiast zgadywania. Nowa uchwała lub zmiana wzoru punktacji wymaga sprawdzenia i ewentualnej zmiany parsera przez osobę utrzymującą projekt.
 
@@ -55,7 +55,7 @@ Zastosowanie danych nie przebudowuje aktywnego `dist` ani nie publikuje strony. 
 npm run data:monitor
 ```
 
-Monitor pobiera zarejestrowane oficjalne źródła trzech uczelni: karty, programy, dokumenty zasad i źródła historii. Obsługuje HTML, PDF, dokumenty Word, arkusze i archiwa ZIP. Dokumenty binarne porównuje po skrócie pliku; nie wykonuje makr ani nie rozpakowuje archiwów. Przestrzega wykluczeń, także przed przekierowaniem. Nie wyszukuje starszych progów. Nie pobiera portali niższego priorytetu i nie odkrywa samodzielnie całego internetu.
+Monitor pobiera zarejestrowane oficjalne źródła czterech uczelni: karty, programy, dokumenty zasad i źródła historii. Obsługuje HTML, PDF, dokumenty Word, arkusze i archiwa ZIP. Dokumenty binarne porównuje po skrócie pliku; nie wykonuje makr ani nie rozpakowuje archiwów. Przestrzega wykluczeń, także przed przekierowaniem. Nie wyszukuje starszych progów. Nie pobiera portali niższego priorytetu i nie odkrywa samodzielnie całego internetu.
 
 Pierwsze uruchomienie tworzy punkt odniesienia. Następne rozpoznają zmienioną treść albo link do dokumentu. Status `changed` oznacza potrzebę przeglądu, a nie automatyczne potwierdzenie nowej informacji. Status `baseline-created` nie potwierdza zgodności strony z bazą. Monitor nie podmienia list zajęć, zasad ani opisów kierunków. Pozwala zauważyć ich zmianę bez okresowego zlecania researchu AI.
 
@@ -89,3 +89,7 @@ npm run test:data-refresh
 ```
 
 Dotychczasowa procedura aktualizacji z pomocą AI pozostaje opcją dla zmian wymagających opracowania. Nie jest potrzebna do pobierania, monitorowania ani zastosowania propozycji z obsługiwanych adapterów.
+
+## Uniwersytet Przyrodniczy we Wrocławiu
+
+`npm run data:refresh -- --university upwr` przygotowuje propozycję dla 28 pełnych spisów planów cyklu 2026/2027, bez korzystania z AI. Parser zachowuje semestry i koszyki wyboru oraz sprawdza tożsamość kierunku, języka weterynarii, formę, poziom i liczbę semestrów. Nowy cykl wymaga przeglądu człowieka. Monitor obejmuje również oficjalne karty IRK i zasady 2027/2028. Nie pobiera portali z progami; 53 wartości portalu otouczelnie.pl z audytu 10.11.2026 mają odrębny status i rocznik. Więcej w instrukcji „Uniwersytet Przyrodniczy we Wrocławiu — zakres danych”.

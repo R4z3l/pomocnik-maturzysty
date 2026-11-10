@@ -1,3 +1,5 @@
+Aktualizacja **10.11.2026**: dodano 28 pełnych spisów planów 2026/2027 Uniwersytetu Przyrodniczego we Wrocławiu (wszystkie semestry i rozwijane koszyki). Katalog ma 199 ofert ze spisem: 116 pełnych planów i 83 listy częściowe. Źródło: `src/data/curricula-upwr.json`, adapter `scripts/upwr_curricula.py`, audyt `docs/audyt-upwr.md`. Brak osobnej potwierdzonej listy specjalności nie oznacza braku specjalności. Poniższe wcześniejsze liczby opisują stan historyczny.
+
 # Programy studiów i specjalności
 
 Aktualizacja **09.11.2026**: wszystkie 171 ofert ma spis zajęć. 88 rekordów to pełne plany wskazanego cyklu, 83 to jawne listy częściowe Uniwersytetu Wrocławskiego. Uzupełniono European Cultures na podstawie pełnego planu sześciu semestrów z uchwały Senatu 168/2023; nie zamieniano obszarów nauki z opisów rekrutacyjnych w przedmioty. Dla 62 ofert Politechniki Wrocławskiej sprawdzono wszystkie tabele i rozwijane koszyki oraz usunięto instrukcje wyboru z list przedmiotów. Pozostałe wcześniejsze liczby w tym dokumencie są historią audytu.

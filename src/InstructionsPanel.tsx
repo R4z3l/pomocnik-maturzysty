@@ -7,10 +7,16 @@ import publishing from '../docs/publikacja-prywatna.md?raw';
 import universityCards from '../docs/fiszki-uczelni.md?raw';
 import pwrAudit from '../docs/audyt-pwr.md?raw';
 import dataRefresh from '../docs/aktualizacja-bez-ai.md?raw';
+import bento from '../docs/wyglad-bento.md?raw';
+import upwrAudit from '../docs/audyt-upwr.md?raw';
+import maturaMatching from '../docs/dopasowanie-matury.md?raw';
 import './instructions.css';
 
 // Instrukcje są włączane podczas budowania aplikacji. Nowe instrukcje dodaj tutaj.
 const instructions = [
+  { id: 'matura', title: 'Dopasowanie matury — ranking i progi', text: maturaMatching },
+  { id: 'przyrodniczy', title: 'Uniwersytet Przyrodniczy we Wrocławiu — zakres danych', text: upwrAudit },
+  { id: 'bento', title: 'Nawigacja i pulpit bento', text: bento },
   { id: 'baza', title: 'Aktualizacja bazy bez AI', text: dataRefresh },
   { id: 'fiszki', title: 'Uczelnie — fiszki i przegląd', text: universityCards },
   { id: 'politechnika', title: 'Politechnika Wrocławska — zakres danych', text: pwrAudit },
