@@ -19,7 +19,15 @@ export default function CareerPanel({ programme, profile, update }: Props) {
   const [showArchive, setShowArchive] = useState(false);
   const suggested = suggestedFamilies(programme);
   const choice = profile.careerChoices?.[programme.id];
-  const family = families.find(f => f.id === choice) ?? suggested[0] ?? families[0];
+  const family = families.find(f => f.id === choice) ?? suggested[0];
+  if (!family) return <section className="career-advisor" aria-label="Ścieżki zawodowe i rynek pracy">
+    <h3>Brak dopasowanej analizy rodziny zawodów</h3>
+    <p>Nie opracowano jeszcze analizy rynku pracy odpowiadającej temu kierunkowi. Nie przypisujemy mu automatycznie danych innej branży. Przykładowe obszary pracy powyżej wynikają z programu studiów.</p>
+    <label className="advisor-family-label">Rozważana rodzina zawodów<select value="" onChange={event => update({ ...profile, careerChoices: { ...profile.careerChoices, [programme.id]: event.target.value } })}>
+      <option value="" disabled>Wybierz samodzielnie, jeśli chcesz zbadać inną ścieżkę</option>
+      {families.map(item => <option key={item.id} value={item.id}>{item.name}</option>)}
+    </select></label><p className="muted">Ręczny wybór rodziny nie potwierdza zgodności z kierunkiem ani uprawnień zawodowych.</p>
+  </section>;
   const today = localDate(new Date());
   const familyJobs = jobs.jobs.filter(job => job.familyId === family.id).map(job => ({ ...job, active: displayJobStatus(job, today) }));
   const visibleJobs = familyJobs.filter(job => showArchive || job.active !== 'expired');

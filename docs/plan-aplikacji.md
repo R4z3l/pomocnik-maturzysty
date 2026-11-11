@@ -1,4 +1,10 @@
+Aktualizacja **10.11.2026 — Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu**: katalog rozszerzono do 215 ofert pięciu uczelni. Zakres, historyczne porównanie punktów i jawne ograniczenia opisuje `docs/audyt-umw.md`. Adapter bez AI utrzymuje 16 częściowych spisów.
+
+Aktualizacja **10.11.2026**: na polecenie użytkownika rozszerzono katalog o Uniwersytet Przyrodniczy we Wrocławiu, do 199 ofert czterech uczelni. Zakres i ograniczenia opisuje `docs/audyt-upwr.md`. Aktualizator bez AI obejmuje także 28 planów tej uczelni. Poniższe wcześniejsze zapisy zachowują swoje daty.
+
 # Akcja Studia 2027 — zaktualizowany plan aplikacji
+
+Aktualizacja utrzymania bazy — 09.11.2026: aktywny katalog obejmuje Uniwersytet Wrocławski, Uniwersytet Ekonomiczny we Wrocławiu i Politechnikę Wrocławską. Dodano lokalne pobieranie tabel i kontrolę zmian oficjalnych źródeł bez AI (`docs/aktualizacja-bez-ai.md`). Wcześniejsze zapisy o aktualizacjach wyłącznie w rozmowie z agentem są w tym zakresie zastąpione skryptami. Pełna automatyzacja interpretacji dokumentów, publikacji i wszystkie uczelnie z pierwotnego planu nie są zakończone. Stan bazy jest wyliczany w aplikacji; część programów i danych absolwentów pozostaje niepełna.
 
 Wersja: 2026-10-24, wariant dla jednej osoby bez zewnętrznych API. Dokument zastępuje wcześniejsze plany z rozmowy. Stan: realizacja rozpoczęta; dostępny pierwszy lokalny przyrost, szczegóły i pozostały zakres w docs/postep.md. Zakres uwzględnia wybrane rozszerzenia doradcze 1, 2, 4 i 8 oraz analizę ofert pracy na dzień sprawdzenia. W tej wersji aktualizacje są wykonywane na żądanie podczas pracy nad projektem; wcześniejszy wymóg pełnej automatyzacji zostaje odłożony.
 
@@ -8,7 +14,7 @@ Pomóc jednej osobie wybrać studia na rok 2027/2028, łącząc informacje o rek
 
 - Publiczne uczelnie prowadzące studia we Wrocławiu: PWr, UWr, Uniwersytet Ekonomiczny, Przyrodniczy, Medyczny, AWF, AWL, ASP, Akademia Muzyczna i wrocławska filia AST. Zweryfikować aktualną listę oraz nazwy w oficjalnym rejestrze przed importem. Nie włączać automatycznie zamiejscowych ofert tych uczelni.
 - Studia stacjonarne I stopnia i jednolite magisterskie, po polsku i angielsku. Studia wojskowe oznaczać jako odrębną ścieżkę z dodatkowymi warunkami.
-- Historia rekrutacji od 2022/2023. Aktualna oferta i zasady docelowo na 2027/2028; starsze zasady z jawnym rokiem i statusem tymczasowego odniesienia.
+- Historia rekrutacji wyłącznie dla naborów 2024/2025, 2025/2026 i 2026/2027 zgodnie z późniejszą decyzją użytkownika. Aktualna oferta i zasady docelowo na 2027/2028; starsze zasady z jawnym rokiem i statusem tymczasowego odniesienia.
 - Dostęp przez otwarty link, interfejs po polsku, telefon i komputer. Bez abonamentów i kont w pierwszej wersji.
 - Profil matury, preferencje, ulubione, notatki i wagi decyzji zapisywane lokalnie w przeglądarce. Eksport/import wersjonowanego pliku JSON oraz możliwość usunięcia profilu. Brak automatycznej synchronizacji rodzinnej między urządzeniami.
 - Przy publikacji pod otwartym linkiem treść katalogu jest publiczna, mimo przeznaczenia portalu dla jednej osoby. Osobiste dane pozostają w przeglądarce; nie trafiają do publicznych plików ani adresu URL. Pierwszy podgląd działa lokalnie na komputerze.
@@ -128,6 +134,9 @@ Każdy moduł pokazuje datę sprawdzenia. Zestawienia ofert nazywać „Rynek pr
 Portal nie zbiera danych ani nie generuje analiz samodzielnie po zamknięciu rozmowy. Funkcje doradcze pozostają dostępne na ostatnim zapisanym zestawie. Ewentualna automatyzacja bez API, np. lokalne skrypty pobierania dostępnych stron, jest osobnym przyszłym rozszerzeniem i wymaga sprawdzenia wykonalności źródeł; nie obejmuje automatycznie nowych analiz AI.
 
 ## 9. Etapy i warunki przejścia
+
+Stan 09.11.2026: etap bazy katalogowej odebrano technicznie dla trzech uczelni potwierdzonych przez użytkownika (171 ofert, jawne roczniki, reguły/procedury, czas studiów, źródła, odnalezione progi i spisy zajęć). 88 spisów jest pełnymi planami wskazanego cyklu, 83 pozostają listami częściowymi. Pełny audyt wszystkich sylabusów i moduł doradczy nie są objęte tym potwierdzeniem. Nie uznaje się nieopublikowanych danych 2027/28 za uzupełnione. Szczegółowe kryteria i luki: docs/research/baza-trzy-uczelnie-2026-11-09.md.
+
 
 1. **Audyt źródeł i pierwsze zebranie danych.** Rejestr wszystkich uczelni, sprawdzenie dostępnych stron i dokumentów oraz ofert pracy. Wynik: macierz dostępności, rzeczywiste braki i datowane materiały do opracowania; bez zakładania dostępu przez API.
 2. **Baza wiedzy.** Katalog wszystkich zweryfikowanych ofert w zakresie, opisy, źródła, zasady i odnalezione progi. Kalkulatory aktywowane tylko dla sprawdzonych reguł. Braki pozostają jawne.

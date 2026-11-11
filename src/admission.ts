@@ -19,8 +19,8 @@ export const UEW_EN_2027: AdmissionRule = {...UEW_PL_2027,id:'uew-2027-en',title
 export interface AdmissionResult {total:number|null;maturaTotal:number|null;status:'missing'|'requirement'|'complete';rows:{subject:string;label:string;value:number|null;detail:string}[];issues:string[]}
 export function calculateAdmission(rule: AdmissionRule, p: Profile): AdmissionResult {
   if (rule.id.startsWith('pwr-')) return calculatePwrAdmission(rule, p);
-  if(rule.id.startsWith('uwr-') && Object.keys(p.bilingualScores??{}).length) {
-    return {total:null,maturaTotal:null,issues:[],status:'missing' as const,rows:[{subject:'',label:'Matura dwujęzyczna — Uniwersytet Wrocławski',value:null,detail:'Profil zawiera poziom dwujęzyczny. Ta reguła Uniwersytetu Wrocławskiego obsługuje tylko PP/PR; sprawdź odrębny przelicznik na oficjalnej karcie. Nie pomijamy tego wyniku w sumie.'}]};
+  if((rule.id.startsWith('uwr-') || rule.id.startsWith('upwr-') || rule.id.startsWith('umw-') && !rule.groups.some(g=>g.factors.bilingual>0)) && Object.keys(p.bilingualScores??{}).length) {
+    return {total:null,maturaTotal:null,issues:[],status:'missing' as const,rows:[{subject:'',label:'Matura dwujęzyczna — wymaga odrębnego sprawdzenia',value:null,detail:'Profil zawiera poziom dwujęzyczny. Ten wariant kalkulatora obsługuje tylko PP/PR; sprawdź odrębny przelicznik na oficjalnej karcie. Nie pomijamy tego wyniku w sumie.'}]};
   }
   const scores={basic:p.basicScores??{},extended:p.subjects,bilingual:p.bilingualScores??{}};
   const names={basic:'podst.',extended:'rozsz.',bilingual:'dwujęz.'};
@@ -36,11 +36,14 @@ export function calculateAdmission(rule: AdmissionRule, p: Profile): AdmissionRe
       if(value===null){pending=true;continue;}
       if(!Number.isFinite(value)||value<0||value>100)throw new Error('Wynik matury poza zakresem.');
       if(g.minPercent!==undefined && value<g.minPercent){below=true;continue;}
-      candidates.push({subject:option.subject,label:g.label,value:value*factor*g.weight,detail:option.subject+' '+names[level]+': '+value+'% × '+factor+' × '+g.weight});
+      const points=value*factor*g.weight;
+      const finalPoints=g.rounding==='integer'?Math.round(points):points;
+      if(g.minPoints!==undefined && finalPoints<g.minPoints){below=true;continue;}
+      candidates.push({subject:option.subject,label:g.label,value:finalPoints,detail:option.subject+' '+names[level]+': '+value+'% × '+factor+' × '+g.weight+(g.rounding==='integer'?' (zaokrąglenie do liczby całkowitej)':'')});
     }
     if(pending){missing=true;return [{subject:'',label:g.label,value:null,detail:'Zaznaczony przedmiot bez wyniku. Uzupełnij procent albo odznacz niezdawany poziom.'}];}
     if(g.optional)candidates.push({subject:'',label:g.label,value:0,detail:'Brak przedmiotu; reguła dopuszcza 0 punktów.'});
-    if(!candidates.length){if(below)requirement=true;else missing=true;return [{subject:'',label:g.label,value:null,detail:below?'Wynik poniżej minimum '+g.minPercent+'%.':'Brak wyniku dla tej grupy.'}];}
+    if(!candidates.length){if(below)requirement=true;else missing=true;return [{subject:'',label:g.label,value:null,detail:below?'Wynik poniżej minimum '+(g.minPoints!==undefined?g.minPoints+' pkt.':g.minPercent+'%.'):'Brak wyniku dla tej grupy.'}];}
     return candidates;
   });
   let best:Candidate[]|null=null, bestTotal=-Infinity;

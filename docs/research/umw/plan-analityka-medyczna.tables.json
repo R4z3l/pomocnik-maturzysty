@@ -1,0 +1,3343 @@
+[
+  [
+    [
+      "1.",
+      "Nazwa kierunku studiów: Adekwatna do zakładanych efektów uczenia się",
+      "Analityka medyczna"
+    ],
+    [
+      "2.",
+      "Poziom studiów: Studia pierwszego stopnia/ Studia drugiego stopnia/ Jednolite studia magisterskie",
+      "Jednolite studia magisterskie"
+    ],
+    [
+      "3.",
+      "Poziom Polskiej Ramy Kwalifikacji: 6 – studia pierwszego stopnia; 7 – studia drugiego stopnia i jednolite studia magisterskie;",
+      "7"
+    ],
+    [
+      "4.",
+      "Profil studiów: Ogólnoakademicki – ponad połowa punktów ECTS jest przypisana zajęciom związanym z prowadzoną w Uczelni działalnością naukową/ Praktyczny - ponad połowa punktów ECTS jest przypisana zajęciom kształtującym umiejętności praktyczne",
+      "Praktyczny"
+    ],
+    [
+      "5.",
+      "Forma/formy studiów: Stacjonarne – studia bezpłatne, w ramach których co najmniej połowa punktów ECTS jest uzyskiwana w ramach zajęć z bezpośrednim udziałem nauczycieli akademickich lub innych osób prowadzących zajęcia i studentów/ Niestacjonarne",
+      "Stacjonarne"
+    ],
+    [
+      "6.",
+      "Liczba semestrów:",
+      "10"
+    ],
+    [
+      "7.",
+      "Łączna liczba godzin zajęć konieczna do ukończenia studiów:",
+      "4806"
+    ],
+    [
+      "8.",
+      "Łączna liczba punktów ECTS konieczna do ukończenia studiów:",
+      "300"
+    ],
+    [
+      "9.",
+      "Tytuł zawodowy nadawany absolwentom:",
+      "magister"
+    ],
+    [
+      "10.",
+      "Język wykładowy:",
+      "polski"
+    ],
+    [
+      "11.",
+      "Wydział prowadzący kierunek studiów:",
+      "Wydział Farmaceutyczny"
+    ],
+    [
+      "12.",
+      "Specjalności/ specjalizacje realizowane  w ramach kierunku studiów",
+      "brak"
+    ]
+  ],
+  [
+    [
+      "13.",
+      "Przyporządkowanie kierunku studiów do dziedzin nauki i dyscyplin naukowych, w których prowadzony jest kierunek studiów zgodnie z klasyfikacją dziedzin i dyscyplin naukowych oraz dyscyplin artystycznych stanowiąca załącznik do Rozporządzenia MEiN z dn. 11.10.2022 r. (Dz.U. poz.2202)"
+    ]
+  ],
+  [
+    [
+      "Dziedzina nauki",
+      "Dyscyplina naukowa",
+      "Procentowy udział",
+      "Dyscyplina wiodąca  (TAK-ponad 50%; NIE-50% i mniej)"
+    ],
+    [
+      "Dziedzina nauk medycznych i nauk o zdrowiu",
+      "nauki medyczne nauki farmaceutyczne",
+      "75% 25%",
+      "TAK"
+    ],
+    [
+      "Razem:",
+      "100 %"
+    ]
+  ],
+  [
+    [
+      "Lp.",
+      "Określenie wskaźnika",
+      "Liczba punktów"
+    ],
+    [
+      "1.",
+      "Liczba punktów ECTS konieczna do ukończenia studiów według przepisów powszechnie obowiązujących (ustawy PoSWiN, Rozporządzenia w sprawie studiów, standardów)",
+      "300"
+    ],
+    [
+      "2.",
+      "Liczba punktów ECTS w ramach zajęć prowadzonych z bezpośrednim udziałem nauczycieli akademickich lub innych osób prowadzących zajęcia",
+      "184,93"
+    ],
+    [
+      "3.",
+      "Liczba punktów ECTS przypisana do zajęć prowadzonych z wykorzystaniem metod i technik kształcenia na odległość tj. synchronicznie lub asynchronicznie np. w formie e-learningu",
+      "71,33"
+    ],
+    [
+      "4.",
+      "Liczba punktów ECTS, którą student musi uzyskać w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych, nie mniejsza niż 5 punktów ECTS",
+      "5"
+    ],
+    [
+      "5.",
+      "Liczba punktów ECTS, którą student musi uzyskać w ramach zajęć z zakresu nauki języków obcych",
+      "6"
+    ],
+    [
+      "6.",
+      "A. W przypadku kierunku studiów objętego standardami kształcenia*",
+      "Liczba punktów ECTS, którą student musi uzyskać w ramach realizacji zajęć do wyboru w wymiarze określonym w standardzie kształcenia właściwym dla kierunku studiów",
+      "15"
+    ],
+    [
+      "",
+      "B. W przypadku kierunku studiów nieobjętego standardami kształcenia*",
+      "Liczba punktów ECTS, którą student musi uzyskać w ramach realizacji zajęć do wyboru, nie mniejsza niż 30% liczby punktów koniecznych do ukończenia studiów",
+      "Nie dotyczy"
+    ],
+    [
+      "7.",
+      "Liczba punktów ECTS, którą student musi uzyskać w ramach praktyk zawodowych",
+      "20"
+    ],
+    [
+      "8.",
+      "A. W przypadku programu studiów dla profilu praktycznego*",
+      "Liczba punktów ECTS przyporządkowana do zajęć kształtujących umiejętności praktyczne w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów",
+      "207,24"
+    ],
+    [
+      "",
+      "B. W przypadku programu studiów dla profilu ogólnoakademickiego*",
+      "Liczba punktów ECTS przyporządkowana zajęciom związanym z prowadzoną w uczelni działalnością naukową w dyscyplinie lub dyscyplinach, do których przyporządkowany jest kierunek studiów w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów",
+      "Nie dotyczy"
+    ]
+  ],
+  [
+    [
+      "Lp.",
+      "Określenie wskaźnika",
+      "Liczba godzin"
+    ],
+    [
+      "1.",
+      "Liczba godzin, którą student musi uzyskać w ramach zajęć z zakresu nauki języków obcych",
+      "120"
+    ],
+    [
+      "2.",
+      "Liczba godzin zajęć wychowania fizycznego (obowiązkowo tylko dla kierunku studiów prowadzonego w formie stacjonarnej)",
+      "60"
+    ],
+    [
+      "3.",
+      "Liczba godzin/ wymiar praktyk zawodowych",
+      "600"
+    ]
+  ],
+  [
+    [
+      "Zasady i forma odbywania praktyk zawodowych (2-3 zdania z uwzględnieniem obowiązujących regulacji na wydziale/ filii/ kierunku)",
+      "Praktyki zawodowe są realizowane w ramach współpracy z medycznymi laboratoriami diagnostycznymi"
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "wykład",
+      "seminarium",
+      "pozostałe formy",
+      "praktyka zawodowa",
+      "SUMA GODZIN",
+      "PUNKTY ECTS",
+      "forma weryfikacji końcowej ***"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "A",
+      "Anatomia",
+      "30",
+      "30",
+      "15",
+      "",
+      "75",
+      "6",
+      "egz"
+    ],
+    [
+      "A",
+      "Biofizyka medyczna",
+      "20",
+      "",
+      "25",
+      "",
+      "45",
+      "4",
+      "egz"
+    ],
+    [
+      "A",
+      "Biologia medyczna",
+      "15",
+      "15",
+      "30",
+      "",
+      "60",
+      "5",
+      "egz"
+    ],
+    [
+      "B",
+      "Chemia analityczna",
+      "30",
+      "15",
+      "30",
+      "",
+      "75",
+      "5",
+      "egz"
+    ],
+    [
+      "B",
+      "Chemia ogólna i nieorganiczna",
+      "30",
+      "15",
+      "30",
+      "",
+      "75",
+      "5",
+      "egz"
+    ],
+    [
+      "B",
+      "Chemia organiczna",
+      "30",
+      "15",
+      "30",
+      "",
+      "75",
+      "5",
+      "egz"
+    ],
+    [
+      "C",
+      "Higiena z epidemiologią",
+      "15",
+      "25",
+      "",
+      "",
+      "40",
+      "3",
+      "zal"
+    ],
+    [
+      "A",
+      "Histologia",
+      "15",
+      "15",
+      "30",
+      "",
+      "60",
+      "4",
+      "egz"
+    ],
+    [
+      "C",
+      "Historia medycyny i analityki medycznej",
+      "15",
+      "",
+      "",
+      "",
+      "15",
+      "1",
+      "zal"
+    ],
+    [
+      "A",
+      "Immunologia",
+      "15",
+      "",
+      "30",
+      "",
+      "45",
+      "3",
+      "egz"
+    ],
+    [
+      "C",
+      "Język angielski dla diagnostów laboratoryjnych",
+      "",
+      "",
+      "120",
+      "",
+      "120",
+      "6",
+      "egz"
+    ],
+    [
+      "C",
+      "Kwalifikowana pierwsza pomoc",
+      "15",
+      "",
+      "25",
+      "",
+      "40",
+      "3",
+      "zal"
+    ],
+    [
+      "przedmiot własny Wydziału/ D",
+      "Medycyna laboratoryjna w systemie ochrony zdrowia",
+      "",
+      "15",
+      "",
+      "",
+      "15",
+      "1",
+      "zal"
+    ],
+    [
+      "przedmiot własny Wydziału/ B",
+      "Podstawy obliczeń chemicznych",
+      "",
+      "",
+      "30",
+      "",
+      "30",
+      "2",
+      "zal"
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "",
+      "20",
+      "",
+      "",
+      "20",
+      "1",
+      "zal"
+    ],
+    [
+      "C",
+      "Psychologia",
+      "",
+      "15",
+      "",
+      "",
+      "15",
+      "1",
+      "zal"
+    ],
+    [
+      "C",
+      "Socjologia",
+      "",
+      "20",
+      "",
+      "",
+      "20",
+      "1",
+      "zal"
+    ],
+    [
+      "B",
+      "Statystyka z elementami matematyki",
+      "15",
+      "",
+      "15",
+      "",
+      "30",
+      "2",
+      "zal"
+    ],
+    [
+      "B",
+      "Technologia informacyjna",
+      "",
+      "",
+      "30",
+      "",
+      "30",
+      "2",
+      "zal"
+    ],
+    [
+      "",
+      "Szkolenie BHP i P.P.",
+      "",
+      "",
+      "4",
+      "",
+      "4",
+      "0",
+      "zal"
+    ],
+    [
+      "",
+      "Przysposobienie biblioteczne",
+      "",
+      "",
+      "2",
+      "",
+      "2",
+      "0",
+      "zal"
+    ],
+    [
+      "",
+      "Wychowanie fizyczne",
+      "",
+      "",
+      "60",
+      "",
+      "60",
+      "0",
+      "zal"
+    ],
+    [
+      "RAZEM",
+      "245",
+      "200",
+      "506",
+      "",
+      "951",
+      "60",
+      ""
+    ]
+  ],
+  [
+    [
+      "zal",
+      "zaliczenie"
+    ],
+    [
+      "zal/o",
+      "zaliczenie na ocenę"
+    ],
+    [
+      "egz",
+      "egzamin"
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "wykład",
+      "seminarium",
+      "pozostałe formy",
+      "praktyka zawodowa",
+      "SUMA GODZIN",
+      "PUNKTY ECTS",
+      "forma weryfikacji końcowej ***"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "B",
+      "Analiza instrumentalna",
+      "30",
+      "",
+      "30",
+      "",
+      "60",
+      "4",
+      "egz"
+    ],
+    [
+      "A",
+      "Biochemia",
+      "30",
+      "30",
+      "45",
+      "",
+      "105",
+      "7",
+      "egz"
+    ],
+    [
+      "E",
+      "Biologia molekularna",
+      "30",
+      "15",
+      "30",
+      "",
+      "75",
+      "5",
+      "egz."
+    ],
+    [
+      "B",
+      "Chemia fizyczna",
+      "15",
+      "15",
+      "30",
+      "",
+      "60",
+      "4",
+      "egz"
+    ],
+    [
+      "F",
+      "Diagnostyka izotopowa",
+      "30",
+      "",
+      "15",
+      "",
+      "45",
+      "3",
+      "zal"
+    ],
+    [
+      "F",
+      "Diagnostyka parazytologiczna",
+      "30",
+      "",
+      "30",
+      "",
+      "60",
+      "5",
+      "egz"
+    ],
+    [
+      "A",
+      "Fizjologia",
+      "30",
+      "15",
+      "30",
+      "",
+      "75",
+      "6",
+      "egz"
+    ],
+    [
+      "E",
+      "Immunopatologia z immunodiagnostyką",
+      "30",
+      "10",
+      "25",
+      "",
+      "65",
+      "5",
+      "egz"
+    ],
+    [
+      "A",
+      "Patofizjologia",
+      "30",
+      "30",
+      "30",
+      "",
+      "90",
+      "6",
+      "egz"
+    ],
+    [
+      "E",
+      "Patomorfologia",
+      "30",
+      "10",
+      "30",
+      "",
+      "70",
+      "5",
+      "egz"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie organizacji i systemów jakości w laboratorium",
+      "",
+      "",
+      "",
+      "60",
+      "60",
+      "2",
+      "zal"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie diagnostyki parazytologicznej",
+      "",
+      "",
+      "",
+      "30",
+      "30",
+      "1",
+      "zal"
+    ],
+    [
+      "D",
+      "Prawo medyczne",
+      "20",
+      "",
+      "",
+      "",
+      "20",
+      "1",
+      "zal"
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "",
+      "20",
+      "",
+      "",
+      "20",
+      "1",
+      "zal"
+    ],
+    [
+      "D",
+      "Systemy jakości i akredytacja laboratoriów",
+      "30",
+      "50",
+      "",
+      "",
+      "80",
+      "5",
+      "zal"
+    ],
+    [
+      "RAZEM",
+      "335",
+      "195",
+      "295",
+      "90",
+      "915",
+      "60",
+      ""
+    ]
+  ],
+  [
+    [
+      "zal",
+      "zaliczenie"
+    ],
+    [
+      "zal/o",
+      "zaliczenie na ocenę"
+    ],
+    [
+      "egz",
+      "egzamin"
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "wykład",
+      "seminarium",
+      "pozostałe formy",
+      "praktyka zawodowa",
+      "SUMA GODZIN",
+      "PUNKTY ECTS",
+      "forma weryfikacji końcowej ***"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "F",
+      "Analityka ogólna",
+      "35",
+      "",
+      "55",
+      "",
+      "90",
+      "5",
+      "egz"
+    ],
+    [
+      "F",
+      "Chemia kliniczna",
+      "60",
+      "",
+      "145",
+      "",
+      "205",
+      "14",
+      "egz"
+    ],
+    [
+      "E",
+      "Cytologia kliniczna",
+      "30",
+      "15",
+      "30",
+      "",
+      "75",
+      "5",
+      "egz"
+    ],
+    [
+      "F",
+      "Diagnostyka mikrobiologiczna",
+      "30",
+      "",
+      "60",
+      "",
+      "90",
+      "5",
+      "zal"
+    ],
+    [
+      "D",
+      "Etyka zawodowa",
+      "15",
+      "",
+      "",
+      "",
+      "15",
+      "1",
+      "zal"
+    ],
+    [
+      "F",
+      "Hematologia laboratoryjna",
+      "60",
+      "",
+      "130",
+      "",
+      "190",
+      "14",
+      "egz"
+    ],
+    [
+      "D",
+      "Organizacja medycznych laboratoriów diagnostycznych",
+      "20",
+      "15",
+      "",
+      "",
+      "35",
+      "2",
+      "zal"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie analityki ogólnej",
+      "",
+      "",
+      "",
+      "60",
+      "60",
+      "2",
+      "zal"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie chemii klinicznej",
+      "",
+      "",
+      "",
+      "90",
+      "90",
+      "3",
+      "zal"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie hematologii i koagulologii",
+      "",
+      "",
+      "",
+      "90",
+      "90",
+      "3",
+      "zal"
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "",
+      "80",
+      "",
+      "",
+      "80",
+      "4",
+      "zal"
+    ],
+    [
+      "F",
+      "Techniki pobierania materiału biologicznego",
+      "10",
+      "",
+      "10",
+      "",
+      "20",
+      "2",
+      "zal"
+    ],
+    [
+      "RAZEM",
+      "260",
+      "110",
+      "430",
+      "240",
+      "1040",
+      "60",
+      ""
+    ]
+  ],
+  [
+    [
+      "zal",
+      "zaliczenie"
+    ],
+    [
+      "zal/o",
+      "zaliczenie na ocenę"
+    ],
+    [
+      "egz",
+      "egzamin"
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "wykład",
+      "seminarium",
+      "pozostałe formy",
+      "praktyka zawodowa",
+      "SUMA GODZIN",
+      "PUNKTY ECTS",
+      "forma weryfikacji końcowej ***"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "E",
+      "Biochemia kliniczna",
+      "30",
+      "",
+      "60",
+      "",
+      "90",
+      "6",
+      "egz"
+    ],
+    [
+      "F",
+      "Diagnostyka mikrobiologiczna",
+      "30",
+      "",
+      "60",
+      "",
+      "90",
+      "7",
+      "egz"
+    ],
+    [
+      "E",
+      "Diagnostyka molekularna",
+      "15",
+      "20",
+      "30",
+      "",
+      "65",
+      "5",
+      "egz"
+    ],
+    [
+      "Przedmiot własny Wydziału/ F",
+      "Diagnostyka wirusologiczna",
+      "",
+      "15",
+      "",
+      "",
+      "15",
+      "2",
+      "zal"
+    ],
+    [
+      "A",
+      "Farmakologia",
+      "15",
+      "30",
+      "",
+      "",
+      "45",
+      "4",
+      "zal"
+    ],
+    [
+      "E",
+      "Genetyka medyczna",
+      "15",
+      "",
+      "30",
+      "",
+      "45",
+      "3",
+      "egz"
+    ],
+    [
+      "F",
+      "Praktyczna nauka zawodu",
+      "",
+      "",
+      "135",
+      "",
+      "135",
+      "9",
+      "egz"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie mikrobiologii",
+      "",
+      "",
+      "",
+      "90",
+      "90",
+      "3",
+      "zal"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie serologii grup krwi i trasfuzjologii",
+      "",
+      "",
+      "",
+      "60",
+      "60",
+      "2",
+      "zal"
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "",
+      "120",
+      "",
+      "",
+      "120",
+      "6",
+      "zal"
+    ],
+    [
+      "F",
+      "Serologia grup krwi i transfuzjologia",
+      "45",
+      "",
+      "30",
+      "",
+      "75",
+      "6",
+      "egz"
+    ],
+    [
+      "E",
+      "Toksykologia",
+      "30",
+      "15",
+      "60",
+      "",
+      "105",
+      "7",
+      "egz"
+    ],
+    [
+      "RAZEM",
+      "180",
+      "200",
+      "405",
+      "150",
+      "935",
+      "60",
+      ""
+    ]
+  ],
+  [
+    [
+      "zal",
+      "zaliczenie"
+    ],
+    [
+      "zal/o",
+      "zaliczenie na ocenę"
+    ],
+    [
+      "egz",
+      "egzamin"
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "wykład",
+      "seminarium",
+      "pozostałe formy",
+      "praktyka zawodowa",
+      "SUMA GODZIN",
+      "PUNKTY ECTS",
+      "forma weryfikacji końcowej ***"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "E",
+      "Diagnostyka laboratoryjna",
+      "30",
+      "30",
+      "50",
+      "",
+      "110",
+      "9",
+      "egz"
+    ],
+    [
+      "przedmiot własny Wydziału/ E",
+      "Laboratoryjna diagnostyka geriatryczna",
+      "15",
+      "15",
+      "",
+      "",
+      "30",
+      "3",
+      "zal"
+    ],
+    [
+      "przedmiot własny Wydziału/ E",
+      "Laboratoryjna diagnostyka pediatryczna",
+      "20",
+      "10",
+      "",
+      "",
+      "30",
+      "3",
+      "zal"
+    ],
+    [
+      "G",
+      "Metodologia badań naukowych- ćwiczenia specjalistyczne",
+      "",
+      "",
+      "450",
+      "",
+      "450",
+      "25",
+      "zal"
+    ],
+    [
+      "Przedmiot własny Wydziału/ D",
+      "Podstawy biobankowania",
+      "",
+      "20",
+      "",
+      "",
+      "20",
+      "2",
+      "zal"
+    ],
+    [
+      "H",
+      "Praktyka zawodowa",
+      "",
+      "",
+      "",
+      "120",
+      "120",
+      "4",
+      "zal"
+    ],
+    [
+      "D",
+      "Propedeutyka medycyny I",
+      "",
+      "",
+      "60",
+      "",
+      "60",
+      "4",
+      "zal"
+    ],
+    [
+      "D",
+      "Propedeutyka medycyny II",
+      "10",
+      "20",
+      "",
+      "",
+      "30",
+      "2",
+      "zal"
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "",
+      "60",
+      "",
+      "",
+      "60",
+      "3",
+      "zal"
+    ],
+    [
+      "B",
+      "Statystyka medyczna",
+      "10",
+      "",
+      "35",
+      "",
+      "45",
+      "3",
+      "zal"
+    ],
+    [
+      "Przedmiot władny Wydziału/C/D",
+      "Ochrona własności intelektualnej i komercjalizacja badań naukowych",
+      "10",
+      "",
+      "",
+      "",
+      "10",
+      "2",
+      ""
+    ],
+    [
+      "RAZEM",
+      "95",
+      "155",
+      "595",
+      "120",
+      "965",
+      "60",
+      ""
+    ]
+  ],
+  [
+    [
+      "zal",
+      "zaliczenie"
+    ],
+    [
+      "zal/o",
+      "zaliczenie na ocenę"
+    ],
+    [
+      "egz",
+      "egzamin"
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "efekty uczenia się  (wg matrycy)",
+      "treści programowe  (3-5 zdań)"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "A",
+      "Anatomia",
+      "A.W1.; A.W2.; A.W3.; A.U1.; A.U2.; A.U3.; K.2.",
+      "Podstawy anatomii prawidłowej człowieka. Elementy anatomii funkcjonalnej i rozwojowej oraz współzależności między budową i funkcją organizmu w warunkach zdrowia i choroby. Topografia narządów ciała ludzkiego, zgodna z nazewnictwem anatomicznym."
+    ],
+    [
+      "A",
+      "Biofizyka medyczna",
+      "A.W5.; A.W7.; A.W9.; A.W21.; A.W22.; A.U15.; A.U16.; K.1.; K.2.; K.3.",
+      "Fizyczne podstawy procesów fizjologicznych: krążenia, przewodnictwa nerwowego, wymiany gazowej, ruchu, wymiany substancji. Wpływ czynników fizycznych środowiska na organizmy żywe. Pomiary wielkości biofizycznych, wykonywania pomiarów i wyznaczania wielkości fizycznych w przypadku organizmów żywych i ich środowiska, opisywanie i interpretacja wybranych zjawisk biofizycznych. Biofizyczne aspekty diagnostyki i terapii. Analiza zjawisk i procesów fizycznych występujących w farmakoterapii i diagnostyce chorób."
+    ],
+    [
+      "A",
+      "Biologia medyczna",
+      "A.W1.; A.W3.; A.W4.; A.W7.; A.W8.; A.W10.; A.W22.; A.U4.; A.U5.; A.U13.; A.U16.; K.1.; K.2.; K.6.; K.7.",
+      "Rozwój, budowa i funkcje komórek, tkanek, narządów i układów organizmu ludzkiego oraz współzależność ich budowy i funkcji w warunkach zdrowia i choroby. Mechanizmy dziedziczenia i zaburzeń genetycznych oraz podstawy biologii molekularnej i inżynierii genetycznej."
+    ],
+    [
+      "B",
+      "Chemia analityczna",
+      "B.W1.; B.W4.; B.W5.; B.W6.; B.W10.; B.W13.; B.U1.; B.U2.; B.U3.; B.U8.; B.U10.; B.U14.; K.2.; K.7.; K.8.",
+      "Rola i zadania chemii analitycznej w badaniach naukowych i diagnostyce laboratoryjnej. Teoretyczne podstawy chemii analitycznej. Klasyczne metody analizy ilościowej, w tym analiza wagowa, analiza objętościowa. Obliczenia rachunkowe w klasycznej analizie ilościowej. Ocena przydatności metody analitycznej w kontekście celu analizy."
+    ],
+    [
+      "B",
+      "Chemia ogólna i nieorganiczna",
+      "B.W1.; B.W2.; B.W3.; B.W4.; B.W5.; B.W6.; B.W9.; B.U1.; B.U3.; B.U4.; B.U5.; B.U6.; B.U10.; B.U14.; K.2.; K.6.; K.8.",
+      "Aspekty chemii ogólnej i nieorganicznej w odniesieniu do układów biologicznych. Mechanizmy reakcji chemicznych i tworzenia wiązań chemicznych. Postawy związane z pracą w laboratorium chemicznym."
+    ],
+    [
+      "B",
+      "Chemia organiczna",
+      "B.W14.; B.W15.;B.W16.; B.W17.; B.W18.; B.U9.; B.U10.; B.U14.; K.7.; K.8.",
+      "Budowa atomu węgla jako podstawowego składnika związków organicznych. Zależności reaktywności związków organicznych od ich budowy, właściwości chemicznych i biologicznych poszczególnych grup związków organicznych. Analiza związków organicznych metodami chemicznymi i spektroskopowymi."
+    ],
+    [
+      "C",
+      "Higiena z epidemiologią",
+      "C.W6.; C.W7.; C.W8.; C.W10.; C.W11.; C.W12.; C.W13.; C.U1.; C.U2.; C.U3.; C.U4.; C.U5.; C.U6.; C.U7.; K.2.",
+      "Chorobotwórcze działanie czynników fizycznych, chemicznych i biologicznych. Wpływ uwarunkowań środowiskowych, stylu życia i sytuacji społeczno-ekonomicznej na zdrowie człowieka. Etiologia i rozpowszechnienie chorób zawodowych i cywilizacyjnych. Zasady bezpieczeństwa i higieny pracy w laboratorium medycznym, z materiałem biologicznym, potencjalnie zakaźnym. Podstawy epidemiologii, zapobiegania chorobom, nadzoru epidemiologicznego w społeczeństwie, stosowanych metod epidemiologicznych oraz zasad działań."
+    ],
+    [
+      "A",
+      "Histologia",
+      "A.W1.; A.W3.; A.W5.; A.W10.; A.W15.; A.U7.; A.U13.; A.U14.; K.1., K.6., K.8.",
+      "Podstawowe techniki stosowane w badaniach morfologicznych oraz w diagnostyce histopatologicznej – mikroskopia świetlna, histochemia, immunohistochemia, mikroskopia elektronowa. Organizacja komórki modelowej, jej budowa i funkcja. Budowa i funkcja organelli komórkowych oraz ważniejszych komórek wyspecjalizowanych. Klasyfikacja, pochodzenie, budowa oraz funkcje tkanek. Organizacja histologiczna wybranych narządów i układów, a także ich rola oraz podstawowe mechanizmy regulujących ich funkcję."
+    ],
+    [
+      "C",
+      "Historia medycyny i analityki medycznej",
+      "C.W1.; C.W2.; C.W3.; C.W4.; C.W5.; C.U1.; K.6.",
+      "Podstawowa problematyka historii medycyny i diagnostyki medycznej. Historia diagnostyki i terapii w cywilizacji grecko-rzymskiej, w medycynie średniowiecznej Europy, w europejskiej kulturze nowożytnej oraz od 1848r. do czasów współczesnych."
+    ],
+    [
+      "A",
+      "Immunologia",
+      "A.W1.; A.W3.; A.W5.; A.W9.; A.W15.; A.W16.; A.W17.; A.W18.; A.W19.; A.W20.; A.U07.; A.U8.; A.U9.; A.U10.; A.U11.; K1.; K.2.; K.7.",
+      "Budowa i funkcje układu immunologicznego. Badania laboratoryjne z zastosowaniem technik immunochemicznych.  Krytyczna ocena metod, ich czułości, swoistości i zastosowania w diagnostyce immunologicznej."
+    ],
+    [
+      "C",
+      "Język angielski dla diagnostów laboratoryjnych",
+      "C.U11.; C.U12.; C.U13.; K.1.; K.6.",
+      "Specjalistyczne słownictwo angielskie dotyczące anatomii organizmu ludzkiego oraz nomenklatura dotycząca poszczególnych układów ciała ludzkiego. Komunikacja z pacjentem w języku angielskim. Terminologia angielska z zakresu chemii nieorganicznej i organicznej. Słownictwo związane z pracą w laboratorium analitycznym."
+    ],
+    [
+      "C",
+      "Kwalifikowana pierwsza pomoc",
+      "C.W4.; C.W14.; C.W15.; C.U6.; C.U8.; C.U9.; C.U10.; K.1.; K.2.; K.6.",
+      "Patofizjologia stanów zagrożenia życia oraz sposoby przedszpitalnego udzielania pomocy w tych stanach. Podstawowe czynności resuscytacyjne u dzieci i dorosłych. Zasady udzielania pomocy przedmedycznej w przypadku urazów oparzeń, utonięć, zatruć i porażenia prądem. Objawy zawału mięśnia sercowego i anafilaksji, ich rozpoznawanie oraz udzielanie pierwszej pomocy w tych stanach."
+    ],
+    [
+      "przedmiot własny Wydziału/ D",
+      "Medycyna laboratoryjna w systemie ochrony zdrowia",
+      "D.W1.; D.W4.; D.W5.; D.W11.; D.U5.; D.U9.; K.4.; K.6.",
+      "Struktura i funkcjonowanie systemu opieki zdrowotnej w Polsce. Zasady finansowania świadczeń zdrowotnych. Rola diagnostyki laboratoryjnej w opiece zdrowotnej oraz perspektywy rozwoju diagnostyki laboratoryjnej jako działu medycyny. Podstawowe regulacje prawne dotyczące diagnostyki laboratoryjnej.  Model kształcenia pracowników medycznych laboratoriów diagnostycznych w Polsce i na świecie oraz perspektywy zatrudnienia i rozwoju zawodowego po ukończeniu studiów. Evidence Basement Medicine."
+    ],
+    [
+      "przedmiot własny Wydziału/ B",
+      "Podstawy obliczeń chemicznych",
+      "B.W6.; B.U3.; K.2.,",
+      "Stosowanie obliczeń chemicznych w celu określenia stechiometrii związków chemicznych oraz równowag w roztworach słabych i mocnych elektrolitów. Zagadnienia związane z buforami i ich działaniem. Wpływ pH na przebieg procesów chemicznych i biologicznych. Równowagi w roztworach nasyconych."
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "Efekty uczenia się będą stanowiły uzupełnienie dla efektów w kategorii wiedzy, umiejętności i kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne.",
+      "Treście programowe przedmiotów fakultatywnych, jako zajęć wybieralnych dla studentów, stanowią uzupełnienie efektów uczenia się z zakresu wiedzy, umiejętności oraz kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne. Treści programowe będą obejmowały zagadnienia związane z nowoczesnymi metodami diagnostycznymi, technologiami oraz innymi specjalistycznymi zagadnieniami.  Z ramach zajęć zostaną poruszone zagadnienia związane z komunikacją z personelem medycznym, pacjentem, klientem w sytuacjach zawodowych, adaptacją do zmieniających się technologii i wymagań rynku pracy, kształtowaniem postawy samorozwoju. Treści odniosą się do aktualnych osiągnięć naukowych i technologicznych oraz bieżących potrzeb rynku pracy. Informacje o katalogu przedmiotów zatwierdzonych i uruchomionych przez Dziekana na dany rok akademicki będą przekazywane studentom za pośrednictwem strony internetowej Wydziału. Minimalna liczba studentów niezbędna do uruchomienia przedmiotu fakultatywnego to 24 osoby."
+    ],
+    [
+      "C",
+      "Psychologia",
+      "C.W6.; C.W8.; C.W9.; C.U6.; C.U7.; C.U11.; K.1.; K.6.",
+      "Główne koncepcje psychologii. Podstawowe zasady komunikowania się w obszarze ochrony zdrowia. Zachowania w zdrowiu i chorobie z punktu widzenia psychologii."
+    ],
+    [
+      "C",
+      "Socjologia",
+      "C.W7.; C.W9.; C.W12.; C.U6.; C.U7.; K.1.; K.6.",
+      "Najważniejsze koncepcje socjologii medycyny oraz możliwości zastosowania tej wiedzy w pracy diagnosty laboratoryjnego. Podstawowe zasady społecznego komunikowania się w obszarze służby zdrowia. Zachowania w zdrowiu i chorobie w ujęciu społecznym."
+    ],
+    [
+      "B",
+      "Statystyka z elementami matematyki",
+      "B.W20.; B.U11.; B.U12.; K.1.; K.7.; K.8.",
+      "Podstawowe własności funkcji matematycznych. Statystyka opisowa i matematyczna. Rodzaje testów statystycznych. Zasady wyboru testu statystycznego, jego zastosowania i interpretacji wyniku."
+    ],
+    [
+      "B",
+      "Technologia informacyjna",
+      "B.W19.; B.U15.; K.1.; K.2.; K.8.",
+      "Obsługa programów biurowych. Nowe umiejętności informatyczne wspomagające działania konieczne do uzyskania tytułu zawodowego."
+    ],
+    [
+      "C",
+      "Wychowanie fizyczne",
+      "C.W12.; C.U6.; C.U7.; K.1.",
+      "Postawy wobec kultury fizycznej i promocji zdrowia. Zależności między aktywnością fizyczną, a zachowaniem zdrowia. Planowanie i realizacja zdrowego stylu życia.  Motywowanie siebie i innych do podejmowania zachowań prozdrowotnych."
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "efekty uczenia się  (wg matrycy)",
+      "treści programowe  (3-5 zdań)"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "B",
+      "Analiza instrumentalna",
+      "B.W11.; B.W12.; B.W13.; B.U2.; B.U3.; B.U6.; B.U8.; B.U10.; B.U14.; K.2.; K.7.",
+      "Podstawy teoretyczne i metodyczne instrumentalnych metod analitycznych oraz aplikacji metod: spektroskopowych, elektroanalitycznych, strukturalnych, termochemicznych, rozdzielczych, mikroskopowych. Zastosowanie instrumentalnych metod analitycznych w naukach medycznych i diagnostyce laboratoryjnej. Praktyczna obsługa analitycznej aparatury pomiarowej. Proces walidacji metody i dobór odpowiedniej metody do określonych potrzeb diagnostyki laboratoryjnej."
+    ],
+    [
+      "A",
+      "Biochemia",
+      "A.W4.; A.W6.; A.W7.; A.W8.; A.W9.; A.W22.; A.U4.; A.U5.; A.U6.; A.U12.; K.2.; K.7.",
+      "Budowa i funkcja: białek, węglowodanów, lipidów, kwasów nukleinowych, hormonów i witamin. Procesy biochemiczne zachodzące w organizmie człowieka w warunkach fizjologicznych oraz patologicznych. Biochemiczne i molekularne podstawy przemian biochemicznych zachodzących w żywym organizmie."
+    ],
+    [
+      "E",
+      "Biologia molekularna",
+      "E.W6; E.W7.; E.W8.; E.W32.; E.U12.; E.U16.; E.U27.; K2.; K.7.; K.8.",
+      "Podstawowe techniki biologii molekularnej: izolacja DNA oraz RNA, reakcja łańcuchowej polimerazy (PCR), PCR z analizą w czasie rzeczywistym, reakcja odwrotnej transkrypcji, metody sekwencjonowania DNA, elektroforeza kwasów nukleinowych, analiza restrykcyjna, ligacja. Metody klonowania i rekombinacji DNA z uwzględnieniem terapii genowej, szczepionek DNA oraz produkcji rekombinowanych białek. Bazy danych i programy do analizy restrykcyjnej DNA i projektowania starterów do PCR. Zasady dobrej praktyki laboratoryjnej w laboratorium biologii molekularnej."
+    ],
+    [
+      "B",
+      "Chemia fizyczna",
+      "B.W3.; B.W4.; B.W6.; B.W7.; B.W8.; B.W12.; B.U3.; B.U4.; B.U7.; B.U10.; B.U14.; K.1.; K.2.; K.6.; K7",
+      "Przyczyny i mechanizmy zjawisk oraz przemian fizykochemicznych i chemicznych. Zastosowanie metod analitycznych do wyznaczenia wartości parametrów fizykochemicznych. Podstawy metod badawczych w chemii fizycznej oraz zasady obliczeń matematycznych w tym zakresie. Statystyczna analiza danych."
+    ],
+    [
+      "F",
+      "Diagnostyka izotopowa",
+      "F.W6.; F.W12.; F.W13.; F.W14.; F.U1.; F.U2.; F.U6.; F.U11.; K.8.",
+      "Aktualne możliwości diagnostyki i terapii izotopowej oraz kierunki ich rozwoju. Wskazania i przeciwwskazania do wykonania badań z użyciem izotopów, miejsce badań w procesie diagnostycznym oraz ograniczeń wynikających z charakteru badań. Zasady ochrony radiologicznej. Wykorzystanie metod radioimmunologicznych w diagnostyce medycznej. Przeprowadzanie oznaczeń wybranych parametrów z zastosowaniem metod radioimmunologicznych, obsługa odpowiedniego sprzętu laboratoryjnego."
+    ],
+    [
+      "F",
+      "Diagnostyka parazytologiczna",
+      "F.W3.; F.W6.; F.W7.; F.W8.; F.W15.; F.W16.; F.U4.; F.U6.; F.U12.; K.1.; K.2.; K.6.",
+      "Morfologii pasożytów człowieka, ich cykle rozwojowe, rozpoznawanie podstawowych objawów chorobowych wywoływanych przez te pasożyty. Metody stosowane w diagnostyce parazytologicznej (makroskopowe, mikroskopowe, immunologiczne, biologii molekularnej). Epidemiologia chorób pasożytniczych i zapobieganie zarażeniom."
+    ],
+    [
+      "A",
+      "Fizjologia",
+      "A.W4.; A.W5.; A.W6.; A.W9.; A.U3.; A.U4.; A.U12.; K.1.",
+      "Mechanizmy prawidłowego funkcjonowania organizmu. Zasady fizjologicznych procesów regulujących działanie układów i narządów organizmu ludzkiego. Badania podstawowych funkcji życiowych organizmu."
+    ],
+    [
+      "E",
+      "Immunopatologia z immunodiagnostyką",
+      "E.W16.; E.W17.; E.W18.; E.W19.; E.W20.; E.W21.; E.W22.; E.W32.; E.U5.; E.U6.; E.U20; E.U21.; E.U27.; K.6.; K.7.",
+      "Podstawy i zaburzenia funkcjonowania układu immunologicznego (zapalenia; nowotwory, niedobory odporności, reakcje nadwrażliwości i choroby autoimmunizacyjne). Zastosowanie przeciwciał w diagnostyce, leczeniu i monitorowaniu terapii onkologicznych. Podstawy immunologii transplantacyjnej, zasady doboru dawcy i biorcy przeszczepów i komórek macierzystych oraz mechanizmy odrzucania przeszczepu allogenicznego. Nowoczesne metody oceniające komórkowe i humoralne składowe układu immunologicznego stosowane do rozpoznania i diagnostyki różnicowej chorób, monitorowania i oceny efektów leczenia w różnych stanach klinicznych."
+    ],
+    [
+      "A",
+      "Patofizjologia",
+      "A.W3.; A.W6.; A.W8.; A.W9.; A.W11.; A.U2.; A.U12.; K.1.; K.6.",
+      "Mechanizmy regulacji homeostazy i ich zaburzenia - powstawanie chorób. Mechanizmy zaburzeń czynnościowych funkcji narządów. Patofizjologiczne uwarunkowania wyboru określonych metod diagnostyki chorób."
+    ],
+    [
+      "E",
+      "Patomorfologia",
+      "E.W3.; E.W4.; E.W14.; E.W15.; E.U1.; E.U2.; E.U3.; E.U4., K.2.",
+      "Budowa i funkcja komórek, tkanek, narządów i układów organizmu ludzkiego oraz współzależności ich budowy i funkcji w warunkach zdrowia i choroby.  Techniki mikroskopowe, histopatologiczne, zabezpieczanie i opracowywanie materiału tkankowego i cytologicznego. Interpretacja uzyskiwanych wyników."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie organizacji i systemów jakości w laboratorium",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.U1.; H.U2.; H.U4.; K.2.; K.3.; K.4.",
+      "Wymagania dotyczące laboratorium medycznego: system informatyczny, procedury przedanalityczne i badawcze, sposób prowadzenia dokumentacji. Organizacja, struktura i zasady działania medycznych laboratoriów diagnostycznych. Podstawowe przepisy i zasady jakości, bezpieczeństwa pracy oraz certyfikacji medycznych laboratoriów diagnostycznych."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie diagnostyki parazytologicznej",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.2.; K.3.; K.5.",
+      "Zasady i metody pobierania, transportu, przygotowywania materiału do badań laboratoryjnych lub przechowywania materiału do późniejszej analizy z zakresu parazytologii. Wykonywanie badań parazytologicznych. Interpretacji wyników badań laboratoryjnych z zakresu parazytologii."
+    ],
+    [
+      "D",
+      "Prawo medyczne",
+      "D.W5.; D.W6.; D.W7.; D.W8.; D.W14.; D.W15.; D.U5.; D.U6.; D.U10.; K.4.; K.5.; K.9.",
+      "Organizacja i funkcjonowanie podmiotów świadczących usługi zdrowotne i jednostek świadczących usługi z zakresu medycyny sądowej w świetle aktualnie obowiązujących przepisów. Regulacje prawne dotyczące eksperymentów medycznych.  Regulacje prawne z zakresu prawa pracy, praw pacjenta i diagnostyki laboratoryjnej. Rodzaje odpowiedzialności prawnej osób wykonujących zawody medyczne. Podstawy prawa własności intelektualnej."
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "Efekty uczenia się będą stanowiły uzupełnienie dla efektów w kategorii wiedzy, umiejętności i kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne.",
+      "Treście programowe przedmiotów fakultatywnych, jako zajęć wybieralnych dla studentów, stanowią uzupełnienie efektów uczenia się z zakresu wiedzy, umiejętności oraz kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne. Treści programowe będą obejmowały zagadnienia związane z nowoczesnymi metodami diagnostycznymi, technologiami oraz innymi specjalistycznymi zagadnieniami.  Z ramach zajęć zostaną poruszone zagadnienia związane z komunikacją z personelem medycznym, pacjentem, klientem w sytuacjach zawodowych, adaptacją do zmieniających się technologii i wymagań rynku pracy, kształtowaniem postawy samorozwoju. Treści odniosą się do aktualnych osiągnięć naukowych i technologicznych oraz bieżących potrzeb rynku pracy. Informacje o katalogu przedmiotów zatwierdzonych i uruchomionych przez Dziekana na dany rok akademicki będą przekazywane studentom za pośrednictwem strony internetowej Wydziału. Minimalna liczba studentów niezbędna do uruchomienia przedmiotu fakultatywnego to 24 osoby."
+    ],
+    [
+      "D",
+      "Systemy jakości i akredytacja laboratoriów",
+      "D.W10.; D.W12.; D.U3.; D.U7.; D.U8.; D.U9.; K.1.; K.3.",
+      "Zasady i sposoby tworzenia, utrzymania i doskonalenia systemów jakości w medycznych laboratoriach diagnostycznych. Podstawowe przepisy i zasady akredytacji, certyfikacji medycznych laboratoriów diagnostycznych w Polsce i na świecie. Normy serii ISO 9000 i norma ISO 15189 jako podstawowe dokumenty akredytacyjne, dokumentacja procesów."
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "efekty uczenia się  (wg matrycy)",
+      "treści programowe  (3-5 zdań)"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "F",
+      "Analityka ogólna",
+      "F.W1.; F.W2.; F.W6.; F.W7.; F.W8.; F.U1.; F.U2.; F.U3.; F.U4.; F.U6.; F.U10.; F.U21.; F.U23.; K.1.; K.2.; K.7.; K.8.; K.9.",
+      "Organizacji stanowiska pracy w pracowni analitycznej. Zasady pracy z materiałem potencjalnie zakaźnym, w tym poznanie rodzajów i charakterystyki materiałów biologicznych wykorzystywanych do badań laboratoryjnych. Procesy fizjologiczne i zmiany patologicznych mających odzwierciedlenie w zmianach składu moczu, płynu mózgowo-rdzeniowego, płynów z jam ciała, płynu stawowego, kału, wydzielin przewodu pokarmowego, wymazu z kanału szyjki macicy, wydzieliny pochwowej, nasienia. Czynniki wpływające na wiarygodność wyników badań z zakresu analityki ogólnej (czynniki przedlaboratoryjne, analityczne, poanalityczne). Zakres rutynowo wykonywanych badań laboratoryjnych, metodologia w badaniu ogólnym moczu, badaniu ogólnym kału, badaniu płynu mózgowo-rdzeniowego, płynów z jam ciała i płynu stawowego, żółci i soku trzustkowego, nasienia, wydzieliny pochwowej. Zasady prowadzenia kontroli jakości badań z zakresu analityki ogólnej. Formułowanie i interpretacja wyników badań laboratoryjnych."
+    ],
+    [
+      "F",
+      "Chemia kliniczna",
+      "F.W1.; F.W2.; F.W3.; F.W5.; F.W9.; F.W10.; F.W11.; F.W21.; F.U4.; F.U5.; F.U6.; F.U7.; F.U8.; F.U9.; K.2.; K.6.; K.7.; K.8.; K.9.",
+      "Metodologia oznaczania składników biochemicznych z uwzględnieniem specyfiki i różnorodności materiału biologicznego, wskazań do oznaczania poszczególnych parametrów z uwzględnieniem aktualnych zaleceń praktyki klinicznej. Zasady przeprowadzania podstawowych prób czynnościowych. Kontrola jakości, interpretacja i dokumentacja otrzymanych wyników. Wiarygodne źródła informacji na temat współczesnych metod oznaczeń i przydatności klinicznej oznaczanych parametrów."
+    ],
+    [
+      "E",
+      "Cytologia kliniczna",
+      "E.W9.; E.W14.; E.U1.; E.U2.; E.U3.; E.U4.; E.U14.; K.2.",
+      "Metody diagnostyki cytologicznej, w szczególności technik przygotowania i barwienia oraz cytodiagnostycznych kryteriów rozpoznania i różnicowania chorób."
+    ],
+    [
+      "F",
+      "Diagnostyka mikrobiologiczna",
+      "F.W2., F.W3., F.W15., F.W16., F.U5., F.U6.,  F.U12., F.U13., F.U14., K.1., K.2., K.4., K.5., K.6., K.7., K.8., K.9.",
+      "Drobnoustroje odpowiedzialne za zakażenia, metody zapobiegania i zwalczania zakażeń oraz procedury diagnostyki mikrobiologicznej. Metodyka oznaczania wrażliwości drobnoustrojów na stosowane antybiotyki i chemioterapeutyki. Mechanizmy oporności drobnoustrojów na leki."
+    ],
+    [
+      "D",
+      "Etyka zawodowa",
+      "D.W6.; D.W7.; D.W8.;  D.W14.; D.W15.; D.U10.; K.4.",
+      "Podstawy etyki i deontologii w pracy z pacjentem.  Rozwiązania ustawowe regulujące wykonywanie zawodu. Powinności i zobowiązań wynikające z wykonywania zawodu diagnosty laboratoryjnego."
+    ],
+    [
+      "F",
+      "Hematologia laboratoryjna",
+      "F.W6.; F.W7.; F.W17.; F.W18.; F.U1.; F.U6.; F.U15.; F.U16.; F.U19.; F.U20.; F.U21.; F.U22.; K.1.; K.7.; K.8.",
+      "Hematologia laboratoryjna w diagnostyce nowotworowych i nienowotworowych chorób układu krwiotwórczego. Techniki wykonywania badań wykorzystywanych w diagnostyce i monitorowaniu leczenia chorób układu krwiotwórczego. Ocena cytomorfologiczna preparatów krwi obwodowej i szpiku kostnego oraz interpretacja uzyskanych wyników."
+    ],
+    [
+      "D",
+      "Organizacja medycznych laboratoriów diagnostycznych",
+      "D.W4.; D.W9.; D.W11.; D.W12.; D.U4.; D.U7.; D.U8.; D.U10.; K.2.; K.6.; K.9.",
+      "Zasady organizacji, struktury i funkcjonowania medycznych laboratoriów diagnostycznych. Wymagania dotyczące personelu laboratoryjnego, warunków lokalowych, środowiskowych, wyposażenia, systemu informatycznego, procedur przedanalitycznych i badawczych oraz sposobu prowadzenia dokumentacji laboratoryjnej. Zasady dobrej praktyki laboratoryjnej. Warunki zapewnienia jakości i bezpieczeństwa pracy."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie analityki ogólnej",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.2.; K.3.; K.5.",
+      "Poszerzenie i udoskonalenie umiejętności praktycznych w połączeniu z wiedzą teoretyczną z zakresu analityki ogólnej. Utrwalenie wiedzy i umiejętności z zakresu organizacji stanowiska pracy w pracowni analitycznej oraz wiedzy na temat zasad pracy z materiałem potencjalnie zakaźnym w pracowni analityki ogólnej. Zasady i metodyka pobierania, transportu, przygotowania materiału do badania laboratoryjnego lub przechowywania materiału do późniejszej analizy z zakresu analityki ogólnej. Rutynowo wykonywane badania laboratoryjne, metodologia w analizatorach automatycznych oraz oznaczeń manualnych, zasady formułowania i interpretacji wyników laboratoryjnych."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie chemii klinicznej",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.1.; K.2.; K.3.; K.5.",
+      "Doskonalenie umiejętności praktycznych z zakresu organizacji stanowiska, analityki ogólnej oraz pobierania, transportu i pracy z materiałem potencjalnie zakaźnym. Poprawna interpretacja wyników laboratoryjnych. Wnioskowanie na podstawie wyników badań."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie hematologii i koagulologii",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.1.; K.2.; K.3.; K.5.",
+      "Wiedza teoretyczna i umiejętności praktyczne z zakresu chemii klinicznej i diagnostyki laboratoryjnej, zasad i metodyki pobierania, transportu, przechowywania i badań materiału potencjalnie zakaźnego do badań diagnostycznych i analizy z zakresu chemii klinicznej. Praktyczne wykorzystanie wiedzy i interpretacji wyników badań laboratoryjnych z zakresu chemii klinicznej."
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "Efekty uczenia się będą stanowiły uzupełnienie dla efektów w kategorii wiedzy, umiejętności i kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne.",
+      "Treście programowe przedmiotów fakultatywnych, jako zajęć wybieralnych dla studentów, stanowią uzupełnienie efektów uczenia się z zakresu wiedzy, umiejętności oraz kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne. Treści programowe będą obejmowały zagadnienia związane z nowoczesnymi metodami diagnostycznymi, technologiami oraz innymi specjalistycznymi zagadnieniami.  Z ramach zajęć zostaną poruszone zagadnienia związane z komunikacją z personelem medycznym, pacjentem, klientem w sytuacjach zawodowych, adaptacją do zmieniających się technologii i wymagań rynku pracy,  kształtowaniem postawy samorozwoju. Treści odniosą się do aktualnych osiągnięć naukowych i technologicznych oraz bieżących potrzeb rynku pracy. Informacje o katalogu przedmiotów zatwierdzonych i uruchomionych przez Dziekana na dany rok akademicki będą przekazywane studentom za pośrednictwem strony internetowej Wydziału. Minimalna liczba studentów niezbędna do uruchomienia przedmiotu fakultatywnego to 24 osoby."
+    ],
+    [
+      "F",
+      "Techniki pobierania materiału biologicznego",
+      "F.W1.; F.W2.; F.W6.; F.W7.; F.W8.; F.U2.; F.U3.; F.U4.; K.2.; K.6.",
+      "Zasady i metodyka pobierania materiału biologicznego do badania laboratoryjnego z zakresu analityki ogólnej, przygotowania oraz przechowywania materiału do późniejszej analizy. Poznanie i zrozumienie czynników wpływających na wiarygodność wyników badań."
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "efekty uczenia się  (wg matrycy)",
+      "treści programowe  (3-5 zdań)"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "E",
+      "Biochemia kliniczna",
+      "E.W1.; E.W2.; E.W3.; E.W4.; E.W5.; E.U7.; E.U8.; E.U9.; E.U10.; E.U11.; K.2.; K.6., K.7.",
+      "Mechanizmy zaburzeń gospodarki wodno-elektrolitowej, kwasowo-zasadowej oraz gospodarki hormonalnej.  Biochemia kliniczna chorób nowotworowych, układu sercowo-naczyniowego, układu moczowo-płciowego, układu ruchu oraz wątroby. Zaburzenia funkcjonowania układu pokarmowego i czynności układu odpornościowego."
+    ],
+    [
+      "F",
+      "Diagnostyka mikrobiologiczna",
+      "F.W1.; F.W2.; F.W6.; F.W7.; F.W8.; F.U1.; F.U2.; F.U4.; F.U6.; F.U12.; F.U21.; F.U22.; K.1.; K.2.; K.4.; K.5.; K.6.; K.7.; K.8.; K.9.",
+      "Charakterystyka leków przeciwgrzybiczych. Diagnostyka grzybic. Zakażenia układu moczowego oraz ośrodkowego układu nerwowego. Zakażenia układu pokarmowego oraz górnych i dolnych dróg oddechowych. Zakażenia skóry i tkanek miękkich. Zakażenia szpitalne oraz pozaszpitalne."
+    ],
+    [
+      "E",
+      "Diagnostyka molekularna",
+      "E.W8., E.W10., E.W11., E.W12., E.W13., E.W31., E.W32.; E.U12., E.U13., E.U16., E.U19., E.U20., E.U27.; K.2., K.7.",
+      "Techniki analizy stopnia pokrewieństwa. Detekcja śladów biologicznych i techniki analizy DNA stosowane w medycynie sądowej. Diagnostyka chorób infekcyjnych i inwazyjnych. Diagnostyka genetycznie uwarunkowanej zmienności osobniczej w populacji oraz mutacji. Podstawy hodowli in vitro, metody zapłodnienia pozaustrojowego oraz genetyczna diagnostyka preimplantacyjna."
+    ],
+    [
+      "przedmiot własny Wydziału/ F",
+      "Diagnostyka wirusologiczna",
+      "F.W6.; F.W7.; F.W8.; F.W15.; F.W16.; F.U3.; F.U4.; F.U12.; F.U20.; K.5.; K.6.; K.9.",
+      "Charakterystyka i klasyfikacja wirusów oraz patogeneza zakażeń wirusowych. Pobieranie, transport i przechowywanie materiału biologicznego do badań wirusologicznych. Mikrobiologiczna i molekularna diagnostyka zakażeń wirusowych."
+    ],
+    [
+      "A",
+      "Farmakologia",
+      "A.W11., A.W12., A.W13., A.W14.; A.U4., A.U12., A.U17., A.U18.; K.2., K.3., K.4., K.6., K.9.",
+      "Podstawy farmakokinetyki klinicznej. Terapeutyczne monitorowanie leków. Metody analityczne wykorzystywane w terapii monitorowanej. Czynniki wpływające na interpretację oznaczanego stężenia leku w płynach biologicznych. Wpływ leków na wyniki laboratoryjnych badań diagnostycznych."
+    ],
+    [
+      "E",
+      "Genetyka medyczna",
+      "E.W8.; E.W10.; E.W11.; E.W12.; E.W13.; E.W31.; E.W32.; E.U12.; E.U13.; E.U15.; E.U16.; E.U17.; E.U19.; E.U27.; K.3.; K.5.; K.7.; K.8.; K.9.",
+      "Genetyczne podłoże chorób człowieka. Rodowód. Wskazania do wykonania badań genetycznych. Podstawowe zespoły chorobowe związane z aberracjami liczbowymi chromosomów. Diagnostyka prenatalna i preimplantacyjna. Algorytmy postępowania diagnostycznego w chorobach genetycznych."
+    ],
+    [
+      "F",
+      "Praktyczna nauka zawodu",
+      "F.W1.; F.W2.; F.W4.; F.W6.; F.W7.; F.W8.; F.U2.; F.U3.; F.U4.; F.U6.; F.U9.; F.U10.; F.U12.; F.U15.; F.U16.; F.U17.; F.U20.; F.U23.; K.1.; K.2.; K.3.; K.4.; K.5.; K.6.; K.7.; K.8.; K.9.",
+      "Pozyskiwanie materiału biologicznego. Hematologia – wykonanie i ocena preparatu mikroskopowego krwi obwodowej oraz wykonanie podstawowych badań hematologicznych metodami manualnymi. Wykonanie spektrofotometrycznych badań biochemicznych. Gazometria krwi tętniczej i równowaga kwasowo-zasadowa w praktyce laboratoryjnej. Wykonanie podstawowych badań serologicznych grup krwi."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie mikrobiologii",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.1.; K.2.; K.3.; K.5.",
+      "Poszerzenie i udoskonalenie umiejętności praktycznych w połączeniu z wiedzą teoretyczną z zakresu diagnostyki mikrobiologicznej. Utrwalenie zasad zapobiegania i zwalczania zakażeń (dezynfekcja, sterylizacja, antybiotykoterapia). Utrwalenie i poszerzenie wiedzy na temat procedur diagnostyki mikrobiologicznej w zakażeniach układowych: właściwe pobieranie i transport materiałów diagnostycznych, izolacja i identyfikacja drobnoustroju oraz prawidłowej interpretacji wyników badań mikrobiologicznych. Znajomość doboru racjonalnej antybiotykoterapii."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa w zakresie serologii grup krwi i trasfuzjologii",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.1.; K.2.; K.3.; K.5.",
+      "Poszerzenie i udoskonalenie umiejętności praktycznych z zakresu serologii grup krwi. Połączenie wiedzy teoretycznej z wiedzą praktyczną serologii grup krwi w diagnostyce laboratoryjnej w zakresie m.in. zasad otrzymywania i stosowania krwi i jej składników oraz produktów krwiopochodnych, zasad bezpieczeństwa w pracowni transfuzjologii z racji opracowywania materiału biologicznego potencjalnie zakaźnego."
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "Efekty uczenia się będą stanowiły uzupełnienie dla efektów w kategorii wiedzy, umiejętności i kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne.",
+      "Treście programowe przedmiotów fakultatywnych, jako zajęć wybieralnych dla studentów, stanowią uzupełnienie efektów uczenia się z zakresu wiedzy, umiejętności oraz kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne. Treści programowe będą obejmowały zagadnienia związane z nowoczesnymi metodami diagnostycznymi, technologiami oraz innymi specjalistycznymi zagadnieniami.  Z ramach zajęć zostaną poruszone zagadnienia związane z komunikacją z personelem medycznym, pacjentem, klientem w sytuacjach zawodowych, adaptacją do zmieniających się technologii i wymagań rynku pracy, kształtowaniem postawy samorozwoju. Treści odniosą się do aktualnych osiągnięć naukowych i technologicznych oraz bieżących potrzeb rynku pracy. Informacje o katalogu przedmiotów zatwierdzonych i uruchomionych przez Dziekana na dany rok akademicki będą przekazywane studentom za pośrednictwem strony internetowej Wydziału. Minimalna liczba studentów niezbędna do uruchomienia przedmiotu fakultatywnego to 24 osoby."
+    ],
+    [
+      "F",
+      "Serologia grup krwi i transfuzjologia",
+      "F.W1.; F.W2.; F.W4.; F.W5.; F.W6.; F.W8.; F.W19.; F.W20.; F.U1.; F.U4.; F.U8.; F.U17.; F.U18.; K.3.; K.7.; K.8.",
+      "Struktura organizacyjna i zadania publicznej służby krwi. Podstawy immunologiczne badań serologicznych. Układ grupowy Rh, układ HLA i inne układy grupowe swoiste dla leukocytów. Konflikt serologiczny matczyno-płodowy. Badania wykonywane przed przetoczeniem krwi. Niepożądane zdarzenie i reakcje. Powikłania po przetoczeniach składników krwi."
+    ],
+    [
+      "E",
+      "Toksykologia",
+      "E.W2.; E.W28.; E.W29.; E.W30.; E.U23.; E.U24.; E.U25.; E.U26.; K.6.; K.7.",
+      "Zadania i działy toksykologii. Czynniki warunkujące toksyczność ksenobiotyków. Toksykodynamika i toksykokinetyka. Toksykologia leków. Nefrotoksyczność i hepatotoksyczność ksenobiotyków. Dobór materiału biologicznego do badań toksykologicznych, zasady pobierania, przechowywania i transportu. Metody analityczne stosowane w diagnostyce toksykologicznej."
+    ]
+  ],
+  [
+    [
+      "lp bądź kod grupy**",
+      "przedmiot",
+      "efekty uczenia się  (wg matrycy)",
+      "treści programowe  (3-5 zdań)"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "przedmiot własny Wydziału/F",
+      "Diagnostyczna opieka medyczna",
+      "E.W23.; E.W24.; E.W25.; E.W26.; E.U20.; E.U21.; E.U22.; K.3.; K.4.",
+      "Udział diagnosty laboratoryjnego w opiece medycznej nad pacjentem, ze szczególnym uwzględnieniem racjonalnego postępowania diagnostycznego na zasadach współpracy z innym personelem medycznym oraz możliwości wspomagania lekarzy w procesie diagnostycznym."
+    ],
+    [
+      "E",
+      "Diagnostyka laboratoryjna",
+      "E.W3.; E.W19.; E.W23.; E.W24.; E.W25.; E.W26.; E.W27.; E.W32.; E.U7.; E.U8.; E.U9.; E.U10.; E.U11.;  E.U18.; E.U19.; E.U20.; E.U21.; E.U22.; E.U27.; K.1.; K.2.; K.3.; K.6.; K.7.",
+      "Diagnostyka laboratoryjna chorób o podłożu endokrynnym, narządowym, genetycznym, metabolicznym, nowotworowym i infekcyjnym. Analiza i interpretacja wyników badań laboratoryjnych. Profile, schematy i algorytmy postępowania w diagnozowaniu wybranych zaburzeń. Interpretacja kompleksowych wyników badań laboratoryjnych z zakresu analityki ogólnej, chemii klinicznej, hematologii i mikrobiologii, rkz itp. dla wykrywania i rozpoznania różnicowego stanów chorobowych oraz monitorowania choroby i procesu leczenia. Dobór badań w ramach paneli narządowych przydatnych w badaniach przesiewowych i diagnostycznych zaburzeń narządowych i układowych."
+    ],
+    [
+      "przedmiot własny Wydziału/ A",
+      "Diagnostyka laboratoryjna zdrowia reprodukcyjnego człowieka",
+      "A.W3.; A.W5.; A.W6.; A.W10.; A.W18.; A.W19.; A.W22.; A.U2.; A.U10.; A.U12.; A.U16.; K.1.; K.3.; K.4.; K.6.",
+      "Przyczyny obniżonej płodności lub niepłodności człowieka. Postępowanie diagnostyczne w zaburzeniach zdrowia reprodukcyjnego o różnej etiologii. Nowoczesne techniki diagnostyczne zdrowia reprodukcyjnego człowieka oraz zależności między metodami diagnostycznymi i metodami leczenia obniżonej płodności/niepłodności."
+    ],
+    [
+      "przedmiot własny Wydziału/ E",
+      "Laboratoryjna diagnostyka geriatryczna",
+      "E.W1.; E.W2.; E.W3.; E.W19.; E.W24.; E.W25.; E.W26.; E.W27.; E.U7.; E.U8.; E.U11.; E.U22.; K.1.; K.2.",
+      "Czynniki, patomechanizm oraz symptomatologia wybranych chorób wieku podeszłego. Analiza wyników badań laboratoryjnych w określonych jednostkach chorobowych w wieku starczym. Algorytmy postępowania i zasady doboru badań laboratoryjnych w diagnostyce chorób geriatrycznych."
+    ],
+    [
+      "przedmiot własny Wydziału/ E",
+      "Laboratoryjna diagnostyka pediatryczna",
+      "E.W1.; E.W2.; E.W3.; E.W19.; E.W24.; E.W25.; E.W26.; E.W27.; E.U7.; E.U8.; E.U11.; E.U18.; E.U21.; K.6.; K.9.",
+      "Czynniki, patomechanizm oraz symptomatologia wybranych chorób wieku dziecięcego. Analiza wyników badań laboratoryjnych w określonych jednostkach chorobowych w wieku dziecięcym. Algorytmy postępowania, zasady doboru badań laboratoryjnych w diagnostyce chorób pediatrycznych."
+    ],
+    [
+      "G",
+      "Metodologia badań naukowych- ćwiczenia specjalistyczne",
+      "G.W1.; G.U1.; G.U2.; G.U3.; G.U4.; G.U5.; K.1.; K.6.; K.7.",
+      "Metody i techniki badawcze stosowane w ramach realizowanego zadania badawczego. Planowanie badania naukowego. Przeprowadzenie badania naukowego, interpretacja uzyskanych wyników. Konfrontacja wyników badania naukowego z doniesieniami aktualnej literatury światowej. Konstruktywna krytyka wyników badania naukowego."
+    ],
+    [
+      "przedmiot własny Wydziału/ D",
+      "Podstawy biobankowania",
+      "D.W4.; D.W6.; D.W8.; D.W9.; D.W10.; D.W11.; D.W12.; D.W15.; D.U3.; D.U5.; D.U6.; D.U8.; D.U10.; K.5.",
+      "Zasady organizacyjno-prawne oraz znaczenie biobankowania w Polsce i na świecie. Zasady postępowania z materiałem biologicznych przeznaczonym do biobankowania. Społeczne aspekty biobankowania."
+    ],
+    [
+      "H",
+      "Praktyka zawodowa",
+      "H.W1.; H.W2.; H.W3.; H.W4.; H.W5.; H.W6.; H.W7.; H.W8.; H.U1.; H.U2.; H.U3.; H.U4.; K.1.; K.3.; K.7.",
+      "Kompleksowe doskonalenie i utrwalanie wiedzy i umiejętności praktycznych w warunkach rutynowej pracy medycznego laboratorium diagnostycznego. Wykonywanie i interpretacja wyników badań z zakresu: chemii klinicznej, analityki ogólnej, hematologii, koagulologii i mikrobiologii. Praktyczne stosowanie systemów kontroli jakości badań."
+    ],
+    [
+      "D",
+      "Propedeutyka medycyny I",
+      "D.W1.; D.W2.; D.W3.; D.W13.; D.U1.; D.U2.; K.2.; K.3.; K.5.; K.9.",
+      "Symptomatologia, zasady postępowania terapeutycznego, diagnostycznego i pielęgnacyjnego w ramach szeroko pojętej opieki zdrowotnej nad pacjentem oraz interpretacja wyników badań laboratoryjnych u pacjentów na oddziałach: interny, pediatrii, chirurgii, położnictwa i neonatologii, intensywnej terapii. Współpraca w interdyscyplinarnym zespole."
+    ],
+    [
+      "D",
+      "Propedeutyka medycyny II",
+      "D.W1.; D.W2.; D.W3.; D.W13.; D.U1.; D.U2.; K.1.; K.2.",
+      "Symptomatologia, podstawy diagnostyki, wielodyscyplinarnej terapii i opieki na pacjentem oddziału onkologicznego. Epidemiologia, programy walki z choroba nowotworową, społeczne i medyczne znaczenie chorób nowotworowych."
+    ],
+    [
+      "",
+      "Przedmioty fakultatywne",
+      "Efekty uczenia się będą stanowiły uzupełnienie dla efektów w kategorii wiedzy, umiejętności i kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne.",
+      "Treście programowe przedmiotów fakultatywnych, jako zajęć wybieralnych dla studentów, stanowią uzupełnienie efektów uczenia się z zakresu wiedzy, umiejętności oraz kompetencji społecznych w obszarze dziedziny nauk medycznych i nauk o zdrowiu, w dyscyplinie nauki medyczne i nauki farmaceutyczne. Treści programowe będą obejmowały zagadnienia związane z nowoczesnymi metodami diagnostycznymi, technologiami oraz innymi specjalistycznymi zagadnieniami.  Z ramach zajęć zostaną poruszone zagadnienia związane z komunikacją z personelem medycznym, pacjentem, klientem w sytuacjach zawodowych, adaptacją do zmieniających się technologii i wymagań rynku pracy, kształtowaniem postawy samorozwoju. Treści odniosą się do aktualnych osiągnięć naukowych i technologicznych oraz bieżących potrzeb rynku pracy. Informacje o katalogu przedmiotów zatwierdzonych i uruchomionych przez Dziekana na dany rok akademicki będą przekazywane studentom za pośrednictwem strony internetowej Wydziału. Minimalna liczba studentów niezbędna do uruchomienia przedmiotu fakultatywnego to 24 osoby."
+    ],
+    [
+      "B",
+      "Statystyka medyczna",
+      "B.W19.; B.W20.; B.W21.; B.U12.; B.U13.; K.1.; K.2.; K.8.",
+      "Statystyka opisowa i matematyczna oraz zasady oceny niepewności pomiaru. Dobór testów statystycznych w procesie diagnostycznym i w badaniach naukowych."
+    ],
+    [
+      "C/D",
+      "Ochrona własności intelektualnej i komercjalizacja badań naukowych",
+      "C.W3.; C.W4.; C.W5.;D.W14.; D.W15.;",
+      "Podstawy medycyny opartej na dowodach naukowych, nowe osiągnięcia medyczne i kierunki rozwoju diagnostyki laboratoryjnej, podstawy i zasady ochrony własności intelektualnej, patenty i inne formy ochrony wyników badań, zarządzanie własnością intelektualną na uczelniach i w instytucjach, komercjalizacja wyników badań naukowych, aspekty prawne, finansowe i etyczne komercjalizacji."
+    ]
+  ],
+  [
+    [
+      "Oznaczenie kategorii efektu1",
+      "Numer efektu uczenia się2",
+      "Efekty uczenia się po ukończeniu studiów absolwent:",
+      "PRK4"
+    ],
+    [
+      "",
+      "w zakresie WIEDZY zna i rozumie:"
+    ],
+    [
+      "Szczegółowy",
+      "A.W1.",
+      "mianownictwo anatomiczne, histologiczne i embriologiczne;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W2.",
+      "budowę ciała ludzkiego w podejściu topograficznym oraz czynnościowym (układ kostno-stawowy, układ mięśniowy, układ krążenia, układ oddechowy, układ pokarmowy, układ moczowy, układy płciowe, układ nerwowy, narządy zmysłów, powłoka wspólna);",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W3.",
+      "prawidłową budowę i funkcje komórek, tkanek, narządów i układów organizmu ludzkiego oraz rozumie współzależności ich budowy i funkcji w warunkach zdrowia i choroby;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W4.",
+      "etapy cyklu komórkowego, w tym molekularne aspekty jego regulacji;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W5.",
+      "mechanizmy regulacji funkcji narządów i układów organizmu człowieka;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W6.",
+      "mechanizmy działania hormonów oraz konsekwencje zaburzeń regulacji hormonalnej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W7.",
+      "budowę, właściwości fizykochemiczne i funkcje węglowodanów, lipidów, aminokwasów, białek, kwasów nukleinowych, hormonów i witamin;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W8.",
+      "procesy metaboliczne, mechanizmy ich regulacji oraz ich wzajemne powiązania na poziomie molekularnym, komórkowym, narządowym i ustrojowym;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W9.",
+      "sposoby komunikacji między komórkami, a także między komórką a macierzą pozakomórkową, oraz szlaki przekazywania sygnałów w komórce i przykłady zaburzeń w tych procesach;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W10.",
+      "metody diagnostyki cytologicznej (techniki przygotowania i barwienia preparatów) oraz automatyczne techniki fenotypowania, cytodiagnostyczne kryteria rozpoznania i różnicowania chorób nowotworowych i nienowotworowych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "A.W11.",
+      "mechanizmy działania poszczególnych grup leków;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W12.",
+      "wskazania, przeciwwskazania i działania niepożądane leków;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W13.",
+      "zasady monitorowania w płynach ustrojowych stężenia leków niezbędnego do uzyskania właściwego efektu terapeutycznego i minimalizowania działań niepożądanych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "A.W14.",
+      "wpływ leków na wyniki badań laboratoryjnych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "A.W15.",
+      "budowę i funkcje układu odpornościowego, w tym mechanizmy odporności nieswoistej i swoistej organizmu;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W16.",
+      "główny układ zgodności tkankowej (MHC, Major histocompatibility complex);",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W17.",
+      "zasady oceny serologicznej i molekularnego typowania antygenów ludzkich leukocytów (HLA, Human leukocyte antigen);",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "A.W18.",
+      "mechanizmy immunologii rozrodu;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W19.",
+      "rodzaje i charakterystykę materiału biologicznego, zasady i metodykę jego pobierania, transportu, przechowywania i przygotowania do badań immunologicznych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "A.W20.",
+      "testy służące do jakościowego i ilościowego oznaczania antygenów, przeciwciał i kompleksów immunologicznych;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "A.W21.",
+      "zjawiska biofizyczne zachodzące na poziomie komórek, tkanek i narządów;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "A.W22.",
+      "pozytywne i negatywne efekty oddziaływań zewnętrznych czynników fizycznych na organizm;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W1.",
+      "zagadnienia z zakresu chemii ogólnej i nieorganicznej w stopniu niezbędnym do głębszego zrozumienia zagadnień z dyscypliny nauk chemicznych oraz dyscypliny nauki biologiczne, a także zasady oznaczania związków nieorganicznych i metody postępowania analitycznego stosowane w laboratoriach medycznych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W2.",
+      "właściwości chemiczne pierwiastków i ich związków;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W3.",
+      "podstawy budowy jądra atomowego i reakcji jądrowej, zwłaszcza rozpadu promieniotwórczego, oraz zasady obliczeń szybkości rozpadu radionuklidów;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W4.",
+      "mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań międzycząsteczkowych w różnych stanach skupienia materii;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W5.",
+      "analityczne metody jakościowej i ilościowej oceny związków nieorganicznych i organicznych oraz celowość stosowania tych metod w analizie medycznej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W6.",
+      "zasady obliczeń chemicznych niezbędnych w medycynie laboratoryjnej, obliczeń związanych ze sporządzaniem, rozcieńczaniem i przeliczaniem stężeń wyrażonych w standardowych i niestandardowych jednostkach;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W7.",
+      "podstawy kinetyki reakcji chemicznych oraz podstawowe prawa termochemii, elektrochemii i zjawisk powierzchniowych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W8.",
+      "rolę zjawisk fizykochemicznych w przebiegu procesów zachodzących w warunkach in vivo oraz in vitro z punktu widzenia kierunku ich przebiegu, wydajności, szybkości i mechanizmu;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W9.",
+      "nomenklaturę, właściwości oraz metody identyfikacji związków nieorganicznych oraz kompleksowych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W10.",
+      "klasyczne metody analizy ilościowej- analizę wagową, analizę objętościową i analizę gazową;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W11.",
+      "klasyfikację instrumentalnych technik analitycznych oraz podstawy teoretyczne i metodyczne technik spektroskopowych, elektroanalitycznych, chromatograficznych i spektrometrii mas oraz ich zastosowanie w medycznej diagnostyce laboratoryjnej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W12.",
+      "zasady funkcjonowania aparatów stosowanych w spektrofotometrii w zakresie nadfioletu i promieniowania widzialnego, spektrofluorymetrii, absorpcyjnej i emisyjnej spektrometrii atomowej, potencjometrii, konduktometrii, chromatografii gazowej, wysokosprawnej chromatografii cieczowej i spektrometrii mas;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W13.",
+      "kryteria wyboru metody analitycznej oraz statystyczne podstawy jej walidacji;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W14.",
+      "podział związków węgla i zasady nomenklatury związków organicznych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W15.",
+      "strukturę związków organicznych w ujęciu teorii orbitali atomowych i molekularnych oraz efekt mezomeryczny i indukcyjny;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W16.",
+      "rodzaje i mechanizmy reakcji chemicznych związków organicznych (substytucja, addycja, eliminacja);",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W17.",
+      "właściwości węglowodorów, fluorowcowęglowodorów, związków metaloorganicznych, amin, nitrozwiązków, alkoholi, fenoli, eterów, aldehydów, ketonów, kwasów karboksylowych, funkcyjnych i szkieletowych pochodnych kwasów karboksylowych oraz pochodnych kwasu węglowego;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W18.",
+      "budowę i właściwości związków heterocyklicznych pięcio- i sześcioczłonowych z atomami azotu, tlenu i siarki oraz budowę i właściwości związków pochodzenia naturalnego: alkaloidów, węglowodanów, peptydów, białek oraz lipidów, w tym steroidów i terpenów;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W19.",
+      "podstawowe narzędzia informatyczne wykorzystywane w medycynie laboratoryjnej, w tym medyczne bazy danych, arkusze kalkulacyjne i podstawy grafiki komputerowej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "B.W20.",
+      "podstawowe metody analizy statystycznej wykorzystywane w badaniach populacyjnych i diagnostycznych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "B.W21.",
+      "zasady prowadzenia badań obserwacyjnych, doświadczalnych oraz in vitro, służących rozwojowi medycyny laboratoryjnej.",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W1.",
+      "historyczny postęp myśli lekarskiej oparty na doskonaleniu technik diagnostycznych;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W2.",
+      "istotne odkrycia naukowe dotyczące diagnostyki, leczenia oraz profilaktyki chorób w różnych okresach historycznych;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W3.",
+      "nowe osiągnięcia medyczne i procesy je kształtujące oraz czołowych przedstawicieli medycyny polskiej i światowej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "C.W4.",
+      "podstawy medycyny opartej na dowodach;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W5.",
+      "kierunki rozwoju diagnostyki laboratoryjnej, a także rozwoju historycznej myśli filozoficznej oraz etycznych podstaw rozstrzygania dylematów moralnych, związanych z wykonywaniem zawodu diagnosty laboratoryjnego i innych zawodów medycznych;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W6.",
+      "fizyczne, biologiczne i psychologiczne uwarunkowania stanu zdrowia oraz metody oceny stanu zdrowia jednostki i populacji;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W7.",
+      "zależności pomiędzy stylem życia a zdrowiem i chorobą oraz społeczne uwarunkowania i ograniczenia wynikające z choroby;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W8.",
+      "rolę stresu w etiopatogenezie i przebiegu chorób oraz sposoby radzenia sobie ze stresem",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W9.",
+      "psychologiczne i socjologiczne uwarunkowania funkcjonowania jednostki w społeczeństwie;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W10.",
+      "sposoby identyfikacji czynników ryzyka rozwoju chorób oraz działań profilaktycznych;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W11.",
+      "metody badań epidemiologicznych oraz zadania systemu nadzoru sanitarno-epidemiologicznego;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W12.",
+      "zasady, zadania oraz główne kierunki działań w zakresie promocji zdrowia, ze szczególnym uwzględnieniem znajomości roli elementów zdrowego stylu życia;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W13.",
+      "zasady interpretowania częstości występowania chorób i niepełnosprawności oraz zasady oceny epidemiologicznej chorób cywilizacyjnych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "C.W14.",
+      "metody oceny podstawowych funkcji życiowych człowieka w stanie zagrożenia oraz zasady udzielania kwalifikowanej pierwszej pomocy w chorobach układu sercowo-naczyniowego, oddechowego, nerwowego i w zatruciach;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "C.W15.",
+      "zasady dotyczące bezpieczeństwa poszkodowanego oraz osoby ratującej w trakcie udzielania pierwszej pomocy, możliwe zagrożenia biologiczne i środowiskowe;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W1.",
+      "pojęcie choroby jako następstwa zmiany struktury i funkcji komórek, tkanek i narządów;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W2.",
+      "wybrane choroby, ich symptomatologię i etiopatogenezę;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W3.",
+      "rolę laboratoryjnych badań diagnostycznych w rozpoznawaniu schorzeń i rokowaniu oraz monitorowaniu terapii;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W4.",
+      "strukturę organizacyjną oraz zasady działania medycznych laboratoriów diagnostycznych i innych podmiotów systemu ochrony zdrowia w Rzeczypospolitej Polskiej;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W5.",
+      "przepisy prawa dotyczące wykonywania zawodu diagnosty laboratoryjnego, a także obowiązki i prawa diagnosty laboratoryjnego;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W6.",
+      "prawa pacjenta i konsekwencje prawne ich naruszenia;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W7.",
+      "zasady doboru badań laboratoryjnych w medycynie sądowej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W8.",
+      "podstawowe pojęcia z zakresu prawa oraz miejsce prawa w życiu społeczeństwa, ze szczególnym uwzględnieniem praw człowieka i prawa pracy;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W9.",
+      "wpływ czynników przedlaboratoryjnych, laboratoryjnych i pozalaboratoryjnych na jakość wyników badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W10",
+      "zasady kontroli jakości badań laboratoryjnych oraz sposoby jej dokumentacji;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W11.",
+      "zasady organizacji i zarządzania laboratorium, z uwzględnieniem organizacji pracy, obiegu informacji, rejestracji i archiwizacji wyników, wyliczania kosztów badań, zasady ergonomii oraz bezpieczeństwa i higieny pracy;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W12.",
+      "zasady organizacji i wdrażania systemu jakości w medycznych laboratoriach diagnostycznych zgodnie z normami ISO (International Organization for Standardization) oraz obowiązującymi procedurami akredytacji i certyfikacji;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W13.",
+      "zasady komunikowania interpersonalnego w relacjach diagnosta laboratoryjny – odbiorca wyniku oraz diagnosta laboratoryjny – pracownicy systemu ochrony zdrowia;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W14.",
+      "zasady ochrony własności intelektualnej;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "D.W15.",
+      "zasady badań biomedycznych prowadzonych z udziałem ludzi oraz badań z udziałem zwierząt.",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W1.",
+      "zaburzenia ustrojowych przemian metabolicznych, charakteryzujących przebieg różnych chorób;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W2.",
+      "czynniki chorobotwórcze zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W3.",
+      "patogenezę i symptomatologię chorób układów: sercowo-naczyniowego, moczowego, pokarmowego i ruchu, a także chorób metabolicznych, endokrynnych, nowotworowych i neurodegeneracyjnych oraz zaburzeń gospodarki wodno-elektrolitowej i kwasowo-zasadowej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W4.",
+      "procesy regeneracji oraz naprawy tkanek i narządów;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W5.",
+      "metody oceny procesów biochemicznych w warunkach fizjologicznych i patologicznych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W6.",
+      "funkcje genomu, transkryptomu i proteomu człowieka oraz procesy replikacji, naprawy i rekombinacji kwasu deoksyrybonukleinowego (DNA), transkrypcji i translacji oraz degradacji DNA, kwasu rybonukleinowego (RNA) i białek;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W7.",
+      "mechanizmy regulacji ekspresji genów, aspekty transdukcji sygnału, aspekty regulacji procesów wewnątrzkomórkowych oraz problematykę rekombinacji i klonowania DNA;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W8.",
+      "zasady i zastosowanie technik biologii molekularnej oraz cytogenetyki klasycznej i cytogenetyki molekularnej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W9.",
+      "tradycyjne metody diagnostyki cytologicznej, w tym techniki przygotowania i barwienia preparatów, a także automatyczne techniki fenotypowania oraz cytodiagnostyczne kryteria rozpoznawania i różnicowania chorób;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W10.",
+      "podstawy genetyki klasycznej, populacyjnej i molekularnej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W11.",
+      "mechanizmy zaburzeń genetycznych u człowieka;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W12.",
+      "wskazania oraz metody laboratoryjne używane do genetycznej diagnostyki niepełnosprawności intelektualnej, dysmorfii, zaburzeń rozwoju, zaburzeń cielesno-płciowych, niepowodzeń rozrodu, predyspozycji do nowotworów oraz genetycznej diagnostyki prenatalnej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W13.",
+      "podstawy genetyczne różnych chorób oraz genetyczne mechanizmy nabywania lekooporności;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W14.",
+      "nazewnictwo patomorfologiczne;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W15.",
+      "metody diagnostyczne wykorzystywane w patomorfologii;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W16.",
+      "mechanizmy rozwoju procesu zapalnego oraz techniki immunologiczne pozwalające na ocenę przebiegu tego procesu;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W17.",
+      "metody otrzymywania i stosowania przeciwciał monoklonalnych i poliklonalnych w diagnostyce, leczeniu i monitorowaniu terapii;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W18.",
+      "rolę badań immunologicznych w rozpoznawaniu i monitorowaniu zaburzeń odporności oraz kryteria doboru tych badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W19.",
+      "mechanizmy powstawania oraz możliwości diagnostyczne i terapeutyczne chorób autoimmunizacyjnych, reakcji nadwrażliwości, wrodzonych i nabytych niedoborów odporności;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W20.",
+      "problematykę z zakresu immunologii nowotworów;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W21.",
+      "problematykę z zakresu immunologii transplantacyjnej, zasady doboru dawcy i biorcy przeszczepów narządów oraz komórek macierzystych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W22.",
+      "rodzaje przeszczepów i mechanizmy immunologiczne odrzucania przeszczepu allogenicznego;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W23.",
+      "rolę badań laboratoryjnych w rozpoznaniu, monitorowaniu, przewidywaniu i profilaktyce zaburzeń narządowych i układowych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W24.",
+      "zasady doboru, wykonywania i organizowania badań przesiewowych w diagnostyce chorób;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W25.",
+      "profile badań laboratoryjnych oraz schematy i algorytmy diagnostyczne w różnych stanach klinicznych, w tym w chorobach układów: krążenia, moczowo-płciowego, oddechowego, pokarmowego i ruchu, a także w chorobach metabolicznych, endokrynologicznych i neurologicznych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W26.",
+      "wskazania do poszerzenia diagnostyki laboratoryjnej w wybranych stanach chorobowych oraz zalecane testy specjalistyczne;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W27.",
+      "zasady interpretacji wyników badań laboratoryjnych w celu zróżnicowania stanów fizjologicznych i patologicznych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W28.",
+      "zagadnienia z zakresu toksykologii ogólnej i szczegółowej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W29.",
+      "właściwości fizyczne i chemiczne ksenobiotyków oraz zależności między strukturą związków chemicznych a reakcjami zachodzącymi w organizmach żywych i działaniem szkodliwym lub toksycznym ksenobiotyków;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W30.",
+      "zasady pobierania materiału biologicznego do badań toksykologicznych, jego transportu, przechowywania i przygotowania do analizy;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "E.W31.",
+      "podstawy metody zapłodnienia pozaustrojowego (in vitro) i genetycznej diagnostyki preimplantacyjnej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "E.W32.",
+      "nowe osiągnięcia medycyny laboratoryjnej.",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W1.",
+      "podstawowe problemy przedanalitycznej, analitycznej i poanalitycznej fazy wykonywania badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W2.",
+      "czynniki wpływające na wiarygodność wyników badań laboratoryjnych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W3.",
+      "elementy diagnostycznej charakterystyki badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W4.",
+      "zasady zlecania badań laboratoryjnych, przyjmowania zleceń na wykonanie badań oraz zasady dokumentacji zleceń;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W5.",
+      "zasady kontroli jakości badań laboratoryjnych i sposoby jej dokumentowania;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W6.",
+      "rodzaje i charakterystykę materiału biologicznego wykorzystywanego do badań hematologicznych, serologicznych, koagulologicznych, immunologicznych, biochemicznych, wirusologicznych, mikrobiologicznych, parazytologicznych, toksykologicznych, genetycznych oraz medycyny nuklearnej i sądowej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W7.",
+      "zasady i techniki pobierania materiału biologicznego, w tym krwi, moczu, kału, płynu mózgowo-rdzeniowego i stawowego, płynów z jam ciała, treści żołądkowej i dwunastniczej oraz wymazów, popłuczyn i zeskrobin;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W8.",
+      "wytyczne dotyczące transportu, przechowywania i przygotowywania do analizy materiału biologicznego;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W9.",
+      "teoretyczne i praktyczne aspekty metodyki jakościowego i ilościowego oznaczania stężeń węglowodanów, lipidów, białek i metabolitów tych związków w płynach ustrojowych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W10.",
+      "teoretyczne i praktyczne aspekty metodyki oznaczania parametrów równowagi kwasowo-zasadowej i wodno-elektrolitowej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W11.",
+      "teoretyczne i praktyczne aspekty wykonywania prób czynnościowych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W12.",
+      "działanie promieniowania jonizującego na organizmy żywe oraz wybrane zagadnienia z zakresu ochrony radiologicznej;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "F.W13.",
+      "bezpieczne parametry fal mechanicznych, promieniowania jonizującego oraz pól elektrycznych i magnetycznych, stosowanych w diagnostyce i terapii medycznej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W14.",
+      "problematykę badań radioizotopowych wykorzystywanych w diagnostyce laboratoryjnej;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W15.",
+      "morfologię, fizjologię, metabolizm, genetykę, mechanizmy chorobotwórczości oraz ogólne zasady taksonomii wirusów, bakterii, grzybów i pasożytów;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "F.W16.",
+      "zasady diagnostyki poszczególnych rodzajów drobnoustrojów, w tym zasady doboru odpowiednich podłóż i metod diagnostycznych do identyfikacji gatunkowej drobnoustrojów i pasożytów;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W17.",
+      "budowę i funkcje komórek układu krwiotwórczego oraz współzależność ich budowy i funkcji w warunkach fizjologicznych i patologicznych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "F.W18.",
+      "metody laboratoryjnej oceny zaburzeń hematopoezy w aspekcie zmian morfologicznych i czynnościowych oraz mechanizmów rozwoju choroby;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W19.",
+      "istotne klinicznie układy grupowe składników komórkowych krwi i białek osocza oraz ich znaczenie w transfuzjologii;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "F.W20",
+      "zasady doboru krwi do przetoczeń oraz patomechanizm i diagnostykę odczynów poprzetoczeniowych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "F.W21.",
+      "wytyczne dotyczące organizacji i zarządzania badaniami laboratoryjnymi w miejscu opieki nad pacjentem (Point of care testing, POCT).",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "G.W1.",
+      "metody i techniki badawcze stosowane w ramach realizowanego badania naukowego;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W1.",
+      "zasady bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, a także regulamin pracy obowiązujący w podmiocie, w którym odbył praktykę zawodową;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "H.W2.",
+      "strukturę organizacyjną laboratorium, w którym odbył praktykę zawodową oraz zasady współpracy laboratorium z oddziałami szpitala, poradniami przyszpitalnymi i pozaszpitalnymi jednostkami, dla których laboratorium wykonuje badania;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W3.",
+      "zasady pobierania materiału biologicznego, jego transportu oraz przygotowania do badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W4.",
+      "zasady obiegu informacji, w tym rejestrację i archiwizację wyników badań oraz koszty badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W5.",
+      "laboratoryjne systemy informatyczne w laboratorium, w którym odbył praktykę zawodową;",
+      "P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W6.",
+      "zasady mechanizacji i automatyzacji badań laboratoryjnych;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W7.",
+      "zasady prowadzenia wewnątrz- i zewnątrzlaboratoryjnej kontroli jakości badań;",
+      "P7S_WG P7S_WK"
+    ],
+    [
+      "Szczegółowy",
+      "H.W8.",
+      "metody oznaczania laboratoryjnych parametrów diagnostycznych;",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "P.W1",
+      "zasoby i usługi biblioteczne, w tym bazy danych, katalogi oraz narzędzia wyszukiwania informacji naukowej na poziomie zaawansowanym.",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "P.W2",
+      "zasady etycznego korzystania z informacji, w tym prawa autorskiego i zasady cytowania źródeł.",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "P.W3",
+      "metody wyszukiwania, selekcji i oceny wiarygodności źródeł informacji naukowej.",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "S.W1",
+      "podstawowe zagrożenia dla zdrowia i życia, które mogą wystąpić w środowisku nauki i pracy, w tym zagrożeń pożarowych, chemicznych, fizycznych i biologicznych,",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "S.W2",
+      "zasady zapobiegania tym zagrożeniom oraz procedur postępowania w sytuacjach niebezpiecznych,",
+      "P7S_WG"
+    ],
+    [
+      "Szczegółowy",
+      "S.W3",
+      "podstawowe zasady udzielania pierwszej pomocy przedmedycznej w nagłych wypadkach.",
+      "P7S_WG"
+    ],
+    [
+      "",
+      "w zakresie UMIEJĘTNOŚCI potrafi:"
+    ],
+    [
+      "Szczegółowy",
+      "A.U1.",
+      "przedstawiać topografię narządów ciała ludzkiego, posługując się nazewnictwem anatomicznym;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U2.",
+      "stosować nazewnictwo anatomiczne do opisu stanu zdrowia i choroby;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U3.",
+      "wskazywać różnice w budowie i funkcjonowaniu organizmu na poszczególnych etapach rozwoju osobniczego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U4.",
+      "wykorzystywać wiedzę biochemiczną do analizy i oceny procesów fizjologicznych i patologicznych, w tym do oceny wpływu leków i substancji toksycznych na te procesy;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U5.",
+      "wykrywać i oznaczać aminokwasy, białka, węglowodany, lipidy, hormony i witaminy w materiale biologicznym oraz izolować i oceniać jakość i stężenie kwasów nukleinowych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U6.",
+      "wykonywać badania kinetyki reakcji enzymatycznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U7.",
+      "dobierać i wykonywać testy diagnostyczne do oznaczania antygenów i przeciwciał w celu uzyskania wiarygodnych wyników;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U8.",
+      "wyizolować komórki układu odpornościowego z materiału biologicznego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U9.",
+      "różnicować komórki układu odpornościowego w warunkach in vitro;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U10.",
+      "wybierać i przeprowadzać badania laboratoryjne oceniające funkcjonowanie układu odpornościowego oraz zinterpretować wyniki tych badań;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U11.",
+      "wykonywać testy immunologiczne oceniające mechanizmy odporności nieswoistej i swoistej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U12.",
+      "stosować wiedzę biochemiczną do analizy procesów fizjologicznych i patologicznych, w tym do oceny wpływu leków na te procesy;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U13.",
+      "identyfikować i opisywać składniki strukturalne komórek, tkanek i narządów metodami mikroskopowymi oraz histochemicznymi;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U14.",
+      "stosować techniki histologiczne w celu opisu cech morfologicznych komórek i tkanek patologiczne zmienionych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U15.",
+      "identyfikować i opisywać biofizyczne podstawy funkcjonowania organizmu ludzkiego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U16.",
+      "wyjaśniać wpływ czynników środowiskowych, w tym temperatury, przyspieszenia ziemskiego, ciśnienia atmosferycznego, pola elektromagnetycznego oraz promieniowania jonizującego na organizm;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "A.U17.",
+      "przypisywać leki do poszczególnych grup leków oraz określać główne mechanizmy ich działania, przemiany w ustroju i działania uboczne;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "A.U18.",
+      "wyjaśniać wpływ leków na wyniki laboratoryjnych badań diagnostycznych.",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U1.",
+      "stosować podstawowe techniki laboratoryjne, w tym chemiczną analizę jakościową;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U2.",
+      "dokonywać doboru metody analitycznej oraz oceniać jej przydatność w kontekście celu analizy, kalibracji metody, precyzji wykonania i obliczania wyników, z uwzględnieniem ich wiarygodności i analizy statystycznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U3.",
+      "wykonywać obliczenia chemiczne;",
+      "P7S_UW"
+    ],
+    [
+      "Szczegółowy",
+      "B.U4.",
+      "sporządzać roztwory o określonych stężeniach, a także roztwory o określonym pH, zwłaszcza roztwory buforowe;",
+      "P7S_UW"
+    ],
+    [
+      "Szczegółowy",
+      "B.U5.",
+      "opisywać właściwości chemiczne pierwiastków i związków nieorganicznych, oceniać trwałość wiązań oraz reaktywność związków nieorganicznych na podstawie ich budowy;",
+      "P7S_UW"
+    ],
+    [
+      "Szczegółowy",
+      "B.U6.",
+      "identyfikować substancje nieorganiczne;",
+      "P7S_UW"
+    ],
+    [
+      "Szczegółowy",
+      "B.U7.",
+      "mierzyć lub wyznaczać wielkości fizykochemiczne oraz opisywać i analizować właściwości i procesy fizykochemiczne, stanowiące podstawę farmakokinetyki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U8.",
+      "dobierać metodę analityczną służącą do rozwiązania konkretnego zadania analitycznego oraz przeprowadzać jej walidację;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U9.",
+      "określać budowę i właściwości związków organicznych oraz relacje pomiędzy strukturą tych związków a ich reaktywnością;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U10.",
+      "wykonywać wszystkie czynności laboratoryjne z dbałością pozwalającą na zachowanie pełnego bezpieczeństwa swojego i osób współpracujących;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "B.U11.",
+      "oceniać rozkład zmiennych losowych, wyznaczać średnią, medianę, przedział ufności, wariancje i odchylenia standardowe, formułować i testować hipotezy statystyczne;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U12.",
+      "dobierać metody statystyczne w opracowywaniu wyników obserwacji i pomiarów;",
+      "P7S_UW"
+    ],
+    [
+      "Szczegółowy",
+      "B.U13.",
+      "wyjaśniać różnice między badaniami prospektywnymi i retrospektywnymi, randomizowanymi i kliniczno-kontrolnymi, opisami przypadków i badaniami eksperymentalnymi oraz szeregować je według wiarygodności i jakości dowodów naukowych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U14.",
+      "planować i wykonywać analizy chemiczne oraz interpretować ich wyniki, a także wyciągać wnioski;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "B.U15.",
+      "posługiwać się programami komputerowymi w zakresie edycji tekstu, grafiki, analizy statystycznej, przygotowania prezentacji oraz gromadzenia i wyszukiwania potrzebnych informacji, pozwalających na konstruktywne rozwiązywanie problemów;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "C.U1.",
+      "stosować wiedzę z zakresu medycyny laboratoryjnej opartej na dowodach naukowych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "C.U2.",
+      "opisywać strukturę demograficzną ludności i na tej podstawie oceniać problemy zdrowotne populacji;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "C.U3.",
+      "stosować metody epidemiologiczne w rozwiązywaniu wieloczynnikowej etiologii zjawisk zdrowotnych, problemów prawdopodobieństwa i zmienności mierzonych cech zdrowotnych;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "C.U4.",
+      "zebrać informacje na temat obecności czynników ryzyka chorób zakaźnych i przewlekłych oraz zaplanować działania profilaktyczne na różnych poziomach zapobiegania tym chorobom;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "C.U5.",
+      "dobierać, organizować i wykonywać badania przesiewowe w profilaktyce chorób cywilizacyjnych;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "C.U6.",
+      "wpływać na kształtowanie właściwych postaw oraz działań pomocowych i zaradczych, a także stosować metody kierowania zespołem i motywować innych do osiągania celu;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "C.U7.",
+      "motywować innych do zachowań prozdrowotnych;",
+      "P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "C.U8.",
+      "rozpoznawać stany zagrożenia życia z zastosowaniem praktycznych sposobów oceny układu oddechowego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "C.U9.",
+      "rozpoznawać nagłe zatrzymanie krążenia i stosować uniwersalny algorytm postępowania w zakresie podstawowych czynności reanimacyjnych u dorosłych i dzieci, w tym z użyciem automatycznego defibrylatora zewnętrznego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "C.U10.",
+      "udzielać pomocy poszkodowanemu w przypadku urazu, krwotoku lub zatrucia;",
+      "P7S_UW P7S_UK P7S_UU"
+    ],
+    [
+      "Szczegółowy",
+      "C.U11.",
+      "rozpoznawać własne ograniczenia, dokonywać samooceny deficytów i potrzeb rozwojowych oraz planować aktywność edukacyjną;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "C.U12.",
+      "analizować piśmiennictwo medyczne, w tym w języku obcym, oraz wyciągać wnioski w oparciu o dostępną literaturę;",
+      "P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "C.U13.",
+      "porozumiewać się z pacjentem w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego;",
+      "P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "D.U1.",
+      "wyjaśniać związki pomiędzy nieprawidłowymi funkcjami tkanek, narządów i układów a objawami klinicznymi;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "D.U2.",
+      "opisywać symptomatologię chorób oraz proponować model postępowania diagnostyczno-farmakologicznego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "D.U3.",
+      "stosować zasady kontroli jakości, bezpieczeństwa i higieny pracy oraz Dobrej Praktyki Laboratoryjnej określonej w przepisach wydanych na podstawie art. 16 ust. 15 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289), zwanej dalej „Dobrą Praktyką Laboratoryjną”;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "D.U4.",
+      "organizować stanowisko pracy zgodnie z obowiązującymi wymaganiami ergonomii, przepisami w zakresie bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "D.U5.",
+      "Stosować podstawowe regulacje prawne dotyczące organizacji medycznych laboratoriów diagnostycznych;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "D.U6.",
+      "przestrzegać praw pacjenta, w tym w szczególności prawa do informacji o stanie zdrowia, prawa do zachowania w tajemnicy informacji związanych z pacjentem, prawa do poszanowania intymności i godności oraz prawa do dokumentacji medycznej;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "D.U7.",
+      "przeprowadzać walidację metod analitycznych zgodną z zasadami kontroli jakości w medycznych laboratoriach diagnostycznych oraz zasadami Dobrej Praktyki Laboratoryjnej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "D.U8.",
+      "prowadzić dokumentację zarządzania jakością w medycznym laboratorium diagnostycznym;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "D.U9.",
+      "określić kwalifikacje personelu laboratoryjnego;",
+      "P7S_UW P7S_UK PS7_O P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "D.U10.",
+      "rozwiązywać problemy związane z kierowaniem oraz zarządzaniem medycznym laboratorium diagnostycznym zgodnie z zasadami etyki, przepisami prawa oraz zasadami Dobrej Praktyki Laboratoryjnej;",
+      "P7S_UW P7S_UK P7S_UO"
+    ],
+    [
+      "Szczegółowy",
+      "E.U1.",
+      "wskazywać zależności pomiędzy nieprawidłowościami morfologicznymi a funkcjami tkanek, narządów i układów, objawami klinicznymi oraz strategią diagnostyczną;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U2.",
+      "posługiwać się laboratoryjnymi technikami mikroskopowania oraz technikami patomorfologicznymi, pozwalającymi na ocenę wykładników morfologicznych zjawisk chorobowych w preparatach komórek i tkanek pobranych za życia pacjenta albo pośmiertnie;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U3.",
+      "rozpoznawać zmiany morfologiczne charakterystyczne dla określonej jednostki chorobowej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U4.",
+      "zinterpretować wyniki badań patomorfologicznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U5.",
+      "oceniać aktywność komórek układu odpornościowego zaangażowanych w odpowiedź przeciwnowotworową;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U6.",
+      "dobierać i przeprowadzać badania laboratoryjne oparte na technikach immunochemicznych oraz zinterpretować uzyskane wyniki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U7.",
+      "wskazywać zależności pomiędzy zaburzeniami przemian metabolicznych, jednostką chorobową, stylem życia, płcią i wiekiem pacjenta a wynikami laboratoryjnych badań diagnostycznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U8.",
+      "dobierać testy biochemiczne odpowiednie do rozpoznania, diagnostyki różnicowej i monitorowania przebiegu wybranych chorób;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U9.",
+      "wykonywać jakościowe i ilościowe badania biochemiczne niezbędne do oceny zaburzeń szlaków metabolicznych w różnych stanach klinicznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U10.",
+      "wykonywać oznaczenia parametrów równowagi kwasowo-zasadowej i wodno-elektrolitowej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U11.",
+      "przewidywać wpływ przebiegu choroby i postępowania terapeutycznego na wyniki badań laboratoryjnych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U12.",
+      "posługiwać się technikami biologii molekularnej oraz technikami cytogenetyki klasycznej i molekularnej, a także zinterpretować uzyskane wyniki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U13.",
+      "korzystać z genetycznych baz danych, w tym internetowych, i wyszukiwać potrzebne informacje za pomocą dostępnych narzędzi;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U14.",
+      "uzyskiwać wiarygodne wyniki laboratoryjnych badań cytologicznych oraz zinterpretować uzyskane wyniki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U15.",
+      "oszacować ryzyko ujawnienia się chorób o podłożu genetycznym u potomstwa w oparciu o predyspozycje rodzinne i wpływ czynników środowiskowych oraz ocenić ryzyko urodzenia się dziecka z aberracjami chromosomowymi;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U16.",
+      "zinterpretować wyniki badań genetycznych molekularnych i cytogenetycznych oraz zapisać je, używając obowiązującej międzynarodowej nomenklatury;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U17.",
+      "ustalić algorytm diagnostyczny i zaproponować badania genetyczne dla pacjentów poradni genetycznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U18.",
+      "tworzyć, weryfikować i interpretować przedziały referencyjne oraz oceniać dynamikę zmian parametrów laboratoryjnych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U19.",
+      "oceniać wartość diagnostyczną badań i ich przydatność w procesie diagnostycznym;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U20.",
+      "zaproponować optymalny, ułatwiający postawienie właściwej diagnozy, dobór badań w oparciu o elementy diagnostycznej charakterystyki testów oraz zgodnie z zasadami medycyny laboratoryjnej opartej na dowodach naukowych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U21.",
+      "zinterpretować wyniki badań laboratoryjnych celem wykluczenia bądź rozpoznania schorzenia, diagnostyki różnicowej chorób, monitorowania przebiegu schorzenia i oceny efektów leczenia w różnych stanach klinicznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U22.",
+      "oceniać spójność zbiorczych wyników badań, w tym badań biochemicznych i hematologicznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U23.",
+      "oceniać skutki działania substancji toksycznych w organizmie oraz opisywać zaburzenia metaboliczne i morfologiczne wywołane przez ksenobiotyki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U24.",
+      "dobierać materiał biologiczny do badań toksykologicznych oraz stosować odpowiednie analizy toksykologiczne;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U25.",
+      "wykonywać jakościowe i ilościowe badania parametrów toksykologicznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U26.",
+      "zinterpretować wyniki badań toksykologicznych w aspekcie rozpoznania zatrucia określonym ksenobiotykiem;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "E.U27.",
+      "przeprowadzać krytyczną analizę informacji zawartych w publikacjach naukowych dotyczących zagadnień medycyny laboratoryjnej.",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U1.",
+      "wyjaśniać pacjentowi lub zleceniodawcy wpływ czynników przedlaboratoryjnych na jakość wyniku badania laboratoryjnego, w tym konieczność powtórzenia badania laboratoryjnego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U2.",
+      "poinstruować pacjenta przed pobraniem materiału biologicznego do badań laboratoryjnych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U3.",
+      "pobierać materiał biologiczny do badań laboratoryjnych z zachowaniem zasad bezpieczeństwa i higieny pracy oraz w razie potrzeby udzielić pierwszej pomocy przedmedycznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U4.",
+      "oceniać przydatność materiału biologicznego do badań, przechowywać go i przygotowywać do analizy, kierując się zasadami Dobrej Praktyki Laboratoryjnej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U5.",
+      "dobierać metodę analityczną odpowiednią do celu analizy, mając na uwadze sposób kalibracji, obliczania wyników, wymaganą dokładność wykonania oznaczenia i analizę statystyczną z uwzględnieniem wiarygodności analitycznej wyników i ich przydatności diagnostycznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U6.",
+      "posługiwać się prostym i zaawansowanym technicznie sprzętem i aparaturą medyczną, stosując się do zasad ich użytkowania i konserwacji;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U7.",
+      "stosować procedury walidacji aparatury pomiarowej i metod badawczych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U8.",
+      "prowadzić i dokumentować wewnątrzlaboratoryjną i zewnątrzlaboratoryjną kontrolę jakości badań laboratoryjnych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U9.",
+      "wykonywać badania jakościowe i ilościowe parametrów gospodarki węglowodanowej, lipidowej, białkowej, elektrolitowej i kwasowo-zasadowej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U10.",
+      "uzyskiwać wiarygodne wyniki jakościowych i ilościowych badań płynów ustrojowych, wydalin i wydzielin, w tym płynu mózgowo-rdzeniowego i stawowego, płynów z jam ciała, treści żołądkowej i dwunastniczej oraz wymazów, popłuczyn i zeskrobin;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U11.",
+      "dobierać i stosować właściwe izotopy promieniotwórcze w celach diagnostycznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U12.",
+      "zaplanować i wykonywać badania laboratoryjne z zakresu diagnostyki wirusologicznej, bakteriologicznej, mykologicznej i parazytologicznej, z uwzględnieniem metod mikroskopowych, hodowlanych, biochemicznych, serologicznych, biologicznych i molekularnych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U13.",
+      "stosować metody oznaczania wrażliwości drobnoustrojów na antybiotyki i chemioterapeutyki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U14.",
+      "stosować metody wykrywania oporności drobnoustrojów na antybiotyki i chemioterapeutyki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U15.",
+      "wykonywać – z zastosowaniem metod manualnych i automatycznych – badania hematologiczne i koagulologiczne;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U16.",
+      "dokonywać oceny cytomorfologicznej preparatów mikroskopowych krwi obwodowej i szpiku kostnego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U17.",
+      "oznaczać grupę krwi w układach grupowych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U18.",
+      "wykonywać pośrednie i bezpośrednie testy antyglobulinowe oraz próby zgodności serologicznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U19.",
+      "uzyskiwać wiarygodne wyniki badań cytomorfologicznych, cytochemicznych, cytoenzymatycznych i cytofluorymetrycznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U20.",
+      "oceniać poprawność i zinterpretować poszczególne oraz zbiorcze wyniki badań w aspekcie rozpoznawania określonej patologii;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U21.",
+      "proponować algorytmy, profile i schematy postępowania diagnostycznego w różnych stanach klinicznych zgodne z zasadami etyki zawodowej, wymogami Dobrej Praktyki Laboratoryjnej i medycyny laboratoryjnej opartej na dowodach naukowych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U22.",
+      "dokonywać krytycznej analizy, syntezy i oceny problemów diagnostycznych, formułując na ich podstawie wnioski przydatne lekarzowi w stawianiu właściwej diagnozy, zgodnej z postępem wiedzy i rachunkiem ekonomicznym;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "F.U23.",
+      "stosować przepisy prawa, wytyczne oraz rekomendacje w zakresie wykonywania badań laboratoryjnych i badań w miejscu opieki nad pacjentem (Point of care testing, POCT);",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "G.U1.",
+      "zaplanować badanie naukowe i omówić jego cel oraz spodziewane wyniki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "G.U2.",
+      "zinterpretować badanie naukowe i odnieść je do aktualnego stanu wiedzy;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "G.U3.",
+      "korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "G.U4.",
+      "przeprowadzić badanie naukowe, zinterpretować i dokumentować jego wyniki;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "G.U5.",
+      "zaprezentować wyniki badania naukowego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "H.U1.",
+      "organizować pracę w poszczególnych pracowniach laboratorium diagnostycznego;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "H.U2.",
+      "pobierać, przyjmować, dokumentować i wstępnie przygotowywać materiał biologiczny do badań diagnostycznych;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "H.U3.",
+      "przeprowadzać badania diagnostyczne z zakresu analityki ogólnej, chemii klinicznej, biochemii klinicznej, hematologii i koagulologii, serologii grup krwi i transfuzjologii, immunologii, diagnostyki mikrobiologicznej i parazytologicznej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "Szczegółowy",
+      "H.U4.",
+      "prowadzić kontrolę jakości badań i dokumentację laboratoryjną zgodnie z obowiązującymi przepisami oraz zasadami Dobrej Praktyki Laboratoryjnej i etyki zawodowej;",
+      "P7S_UW P7S_UK"
+    ],
+    [
+      "",
+      "w zakresie KOMPETENCJI SPOŁECZNYCH jest gotów do:"
+    ],
+    [
+      "Ogólny",
+      "K.1.",
+      "dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;",
+      "P7S_KK"
+    ],
+    [
+      "Ogólny",
+      "K.2.",
+      "pracy w zespole, przyjmując w nim różne role, ustalając priorytety, dbając o bezpieczeństwo własne, współpracowników i otoczenia;",
+      "P7S_KK P7S_KO P7S_KR"
+    ],
+    [
+      "Ogólny",
+      "K.3.",
+      "wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;",
+      "P7S_KK P7S_KO P7S_KR"
+    ],
+    [
+      "Ogólny",
+      "K.4.",
+      "identyfikacji i rozstrzygania dylematów związanych z wykonywaniem zawodu diagnosty laboratoryjnego w oparciu o zasady etyczne oraz formułowania opinii",
+      "P7S_KK P7S_KR"
+    ],
+    [
+      "Ogólny",
+      "K.5.",
+      "przestrzegania tajemnicy zawodowej  i praw pacjenta;",
+      "P7S_KK P7S_KR"
+    ],
+    [
+      "Ogólny",
+      "K.6.",
+      "korzystania z obiektywnych źródeł informacji;",
+      "P7S_KK"
+    ],
+    [
+      "Ogólny",
+      "K.7.",
+      "formułowania wniosków z własnych pomiarów lub obserwacji;",
+      "P7S_KK"
+    ],
+    [
+      "Ogólny",
+      "K.8.",
+      "podejmowania działań zawodowych z szacunkiem do pracy własnej i innych ludzi oraz dbania o powierzony sprzęt;",
+      "P7S_KK P7S_KO P7S_KR"
+    ],
+    [
+      "Ogólny",
+      "K.9.",
+      "przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób;",
+      "P7S_KK P7S_KO P7S_KR"
+    ]
+  ],
+  [
+    [
+      "Lp.",
+      "Kategoria efektów",
+      "Formy weryfikacji"
+    ],
+    [
+      "1.",
+      "Wiedza",
+      "egzaminy ustne: pytania teoretyczne pytania problemowe  egzaminy pisemne: esej raporty krótkie ustrukturyzowane pytania testy wielokrotnego wyboru (Multiple Choice Questions, MCQ) testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ) testy wyboru Tak/Nie testy dopasowania odpowiedzi pytania teoretyczne pytania problemowe"
+    ],
+    [
+      "2.",
+      "Umiejętności: umiejętności proceduralne/ manualne        w zakresie profesjonalnego komunikowania się z pacjentem",
+      "obserwacja umiejętności demonstrowanych przez studenta z użyciem kart obserwacji lub list kontrolnych         obserwacja umiejętności demonstrowanych przez studenta z użyciem kart obserwacji lub list kontrolnych"
+    ],
+    [
+      "3.",
+      "Kompetencje społeczne",
+      "obserwacja przez prowadzącego i współuczestników samoobserwacja"
+    ]
+  ]
+]

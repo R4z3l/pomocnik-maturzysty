@@ -1,0 +1,2160 @@
+weterynaria: 2026/27, jednolite studia magisterskie, stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Medycyny Weterynaryjnej
+weterynaria
+Sylabus UPWr
+Kierunek
+weterynaria
+2026/27, jednolite studia magisterskie, stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Semestr 8
+Semestr 9
+Semestr 10
+Semestr 11
+Lista przedmiotów - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Agronomia
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Anatomia zwierząt I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 75 godz.
+Punkty ECTS: 9
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 75
+9
+Zaliczenie na ocenę
+Obowiązkowy
+Biofizyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+3
+Egzamin
+Obowiązkowy
+Biologia komórki
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+3
+Egzamin
+Obowiązkowy
+Biostatystyka i metody dokumentacji
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Chemia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Histologia i embriologia I
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Język łaciński
+Dane przedmiotu
+Język obcy (lektorat): 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Język obcy (lektorat): 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Ochrona środowiska
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 20 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 10
+Ćwiczenia laboratoryjne: 20
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Ochrona własności intelektualnej, BHP i ergonomia
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Anatomia zwierząt II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 60 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 60
+8
+Egzamin
+Obowiązkowy
+Biochemia I
+Dane przedmiotu
+Wykład: 45 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 45
+Ćwiczenia laboratoryjne: 45
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Biologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Genetyka ogólna i weterynaryjna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Histologia i embriologia II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Historia weterynarii i deontologia
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Weterynaria; English Medical, German Medical, Spanish Medical
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje jeden przedmiot z oferty ogólnouczelnianej
+Coaching
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja w biznesie
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Technologia informacyjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Zwierzęta w nauce i edukacji
+Dane przedmiotu
+Wykład: 16 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 16
+Ćwiczenia laboratoryjne: 14
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Anatomia topograficzna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Biochemia II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Chów i hodowla zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 4 godz.
+Ćwiczenia audytoryjne: 26 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 4
+Ćwiczenia audytoryjne: 26
+4
+Egzamin
+Obowiązkowy
+Etologia, dobrostan i ochrona zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Fizjologia zwierząt I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Higiena zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Mikrobiologia weterynaryjna I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Weterynaria; English Medical, German Medical, Spanish Medical
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje jeden przedmiot z oferty ogólnouczelnianej
+Coaching
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja w biznesie
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Ekologia zwierząt łownych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia audytoryjne: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Fizjologia zwierząt II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+5
+Egzamin
+Obowiązkowy
+Immunologia weterynaryjna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Mikrobiologia weterynaryjna II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Patofizjologia I
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Praktyka hodowlana
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Technologie w produkcji zwierzęcej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Żywienie zwierząt i paszoznawstwo
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+5
+Egzamin
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Weterynaria; English Medical, German Medical, Spanish Medical
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Ekonomia weterynaryjna
+Dane przedmiotu
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia audytoryjne: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Diagnostyka kliniczna i laboratoryjna I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia kliniczne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia kliniczne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Epidemiologia weterynaryjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Farmacja weterynaryjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Farmakologia weterynaryjna I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Higiena środków żywienia zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Patofizjologia II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+6
+Egzamin
+Obowiązkowy
+Patomorfologia I
+Dane przedmiotu
+Wykład: 45 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 7
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 45
+Ćwiczenia laboratoryjne: 45
+7
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy (egzamin)
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Weterynaria; English Medical, German Medical, Spanish Medical
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Chirurgia ogólna i anestezjologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 16 godz.
+Ćwiczenia kliniczne: 14 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 16
+Ćwiczenia kliniczne: 14
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Choroby owadów użytkowych
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Ćwiczenia kliniczne: 6 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 10
+Ćwiczenia laboratoryjne: 14
+Ćwiczenia kliniczne: 6
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Diagnostyka kliniczna i laboratoryjna II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia kliniczne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia kliniczne: 30
+4
+Egzamin
+Obowiązkowy
+Diagnostyka obrazowa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 45
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Farmakologia weterynaryjna II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 45
+6
+Egzamin
+Obowiązkowy
+Ochrona zdrowia publicznego w stanach zagrożeń
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Parazytologia i inwazjologia I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Patomorfologia II
+Dane przedmiotu
+Wykład: 45 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 45
+Ćwiczenia laboratoryjne: 45
+6
+Egzamin
+Obowiązkowy
+Choroby małych ssaków
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Choroby ryb
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 10
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Choroby zwierząt gospodarskich
+Dane przedmiotu
+Wykład: 125 godz.
+Ćwiczenia laboratoryjne: 50 godz.
+Ćwiczenia kliniczne: 75 godz.
+Punkty ECTS: 18
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 125
+Ćwiczenia laboratoryjne: 50
+Ćwiczenia kliniczne: 75
+18
+Egzamin
+Obowiązkowy
+Higiena zwierząt rzeźnych i mięsa I
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Parazytologia i inwazjologia II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Prawo sanitarno-żywnościowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmioty fakultatywne realizowane na 7 semestrze
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Studenci wybierają przedmioty o łącznej wartości 4 ECTS i 60 godzin
+Anatomia narządu stomatognatycznego
+Dane przedmiotu
+Wykład: 8 godz.
+Ćwiczenia laboratoryjne: 7 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 8
+Ćwiczenia laboratoryjne: 7
+1
+Zaliczenie na ocenę
+Fakultatywny
+Badania biomedyczne in vivo
+Dane przedmiotu
+Wykład: 11 godz.
+Ćwiczenia kliniczne: 4 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Fakultatywny
+Wykład: 11
+Ćwiczenia kliniczne: 4
+1
+Zaliczenie
+Fakultatywny
+Fizjologiczne podstawy nefrologii i terapii nerkozastępczych
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 6 godz.
+Ćwiczenia audytoryjne: 9 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 6
+Ćwiczenia audytoryjne: 9
+1
+Zaliczenie na ocenę
+Fakultatywny
+Hodowla zwierząt egzotycznych
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Immunohistochemia w patomorfologii i diagnostyce nowotworów
+Dane przedmiotu
+Wykład: 4 godz.
+Ćwiczenia laboratoryjne: 11 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 4
+Ćwiczenia laboratoryjne: 11
+1
+Zaliczenie na ocenę
+Fakultatywny
+Metodyka pisania tekstów naukowych
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Neonatologia weterynaryjna
+Dane przedmiotu
+Wykład: 16 godz.
+Ćwiczenia laboratoryjne: 14 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 16
+Ćwiczenia laboratoryjne: 14
+2
+Zaliczenie na ocenę
+Fakultatywny
+Podstawy archeozoologii z paleopatologią
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Praktyczna diagnostyka parazytologiczna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 15
+1
+Zaliczenie na ocenę
+Fakultatywny
+Praktyczne aspekty kontroli rozrodu świń w wielkotowarowej i zarodowej fermie trzody chlewnej
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia laboratoryjne: 2 godz.
+Ćwiczenia kliniczne: 8 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia laboratoryjne: 2
+Ćwiczenia kliniczne: 8
+2
+Zaliczenie na ocenę
+Fakultatywny
+Zachowanie się psów i kotów
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 16 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 14
+Ćwiczenia laboratoryjne: 16
+2
+Zaliczenie na ocenę
+Fakultatywny
+Praktyczna diagnostyka i terapia chorób pasożytniczych psów i kotów
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia laboratoryjne: 18 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia laboratoryjne: 18
+2
+Zaliczenie na ocenę
+Fakultatywny
+Szczegółowa patogeneza chorób
+Dane przedmiotu
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przestępstwa i wykroczenia przeciwko zwierzętom. Ochrona zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Fizjologia małych przeżuwaczy
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Andrologia i sztuczne unasiennianie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Ćwiczenia kliniczne: 18 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 12
+Ćwiczenia kliniczne: 18
+3
+Egzamin
+Obowiązkowy
+Choroby koni
+Dane przedmiotu
+Wykład: 90 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Ćwiczenia kliniczne: 85 godz.
+Punkty ECTS: 15
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 90
+Ćwiczenia laboratoryjne: 45
+Ćwiczenia kliniczne: 85
+15
+Egzamin
+Obowiązkowy
+Dietetyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Higiena mleka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 24 godz.
+Ćwiczenia kliniczne: 6 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 24
+Ćwiczenia kliniczne: 6
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Higiena zwierząt rzeźnych i mięsa II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Ćwiczenia kliniczne: 20 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 10
+Ćwiczenia kliniczne: 20
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Praktyka kliniczna I
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Praktyka w inspekcji weterynaryjnej I
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Toksykologia weterynaryjna
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Zoonozy
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 3 godz.
+Ćwiczenia audytoryjne: 12 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 3
+Ćwiczenia audytoryjne: 12
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2030/31
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Choroby psów i kotów
+Dane przedmiotu
+Wykład: 125 godz.
+Ćwiczenia kliniczne: 115 godz.
+Punkty ECTS: 17
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 125
+Ćwiczenia kliniczne: 115
+17
+Egzamin
+Obowiązkowy
+Choroby ptaków
+Dane przedmiotu
+Wykład: 40 godz.
+Ćwiczenia laboratoryjne: 16 godz.
+Ćwiczenia kliniczne: 24 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 40
+Ćwiczenia laboratoryjne: 16
+Ćwiczenia kliniczne: 24
+5
+Egzamin
+Obowiązkowy
+Higiena produktów pochodzenia zwierzęcego I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Higiena zwierząt rzeźnych i mięsa III
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 25
+3
+Egzamin
+Obowiązkowy
+Immunologia kliniczna
+Dane przedmiotu
+Wykład: 14 godz.
+Ćwiczenia laboratoryjne: 16 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 14
+Ćwiczenia laboratoryjne: 16
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Prewencja weterynaryjna I
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2030/31
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Administracja i akty prawne dotyczące weterynarii
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+2
+Egzamin
+Obowiązkowy
+Bezpieczeństwo pasz
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 20 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 10
+Ćwiczenia laboratoryjne: 20
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie na ocenę
+Fakultatywny
+Higiena produktów pochodzenia zwierzęcego II
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Ćwiczenia kliniczne: 18 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 12
+Ćwiczenia kliniczne: 18
+4
+Egzamin
+Obowiązkowy
+Praktyka kliniczna II
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Praktyka w inspekcji weterynaryjnej II
+Dane przedmiotu
+Praktyka: 80 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 80
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Prewencja weterynaryjna II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 26 godz.
+Ćwiczenia kliniczne: 4 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 26
+Ćwiczenia kliniczne: 4
+3
+Egzamin
+Obowiązkowy
+Staż kliniczny - choroby koni I
+Dane przedmiotu
+Ćwiczenia kliniczne: 40 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia kliniczne: 40
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Staż kliniczny – choroby psów i kotów I
+Dane przedmiotu
+Ćwiczenia kliniczne: 60 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia kliniczne: 60
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Staż kliniczny – choroby ptaków
+Dane przedmiotu
+Ćwiczenia kliniczne: 40 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia kliniczne: 40
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Staż kliniczny – choroby zwierząt gospodarskich I
+Dane przedmiotu
+Ćwiczenia kliniczne: 60 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia kliniczne: 60
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Weterynaria sądowa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmioty fakultatywne realizowane na 10 semestrze
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Studenci wybierają przedmioty o łącznej wartości 4 ECTS i 60 godzin
+Biotechniki stosowane w rozrodzie bydła
+Dane przedmiotu
+Wykład: 6 godz.
+Ćwiczenia kliniczne: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 6
+Ćwiczenia kliniczne: 24
+2
+Zaliczenie na ocenę
+Fakultatywny
+Chirurgia onkologiczna
+Dane przedmiotu
+Wykład: 8 godz.
+Ćwiczenia kliniczne: 7 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 8
+Ćwiczenia kliniczne: 7
+1
+Zaliczenie na ocenę
+Fakultatywny
+Choroby ryb ozdobnych
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Choroby świń
+Dane przedmiotu
+Ćwiczenia audytoryjne: 13 godz.
+Ćwiczenia kliniczne: 17 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 13
+Ćwiczenia kliniczne: 17
+2
+Zaliczenie na ocenę
+Fakultatywny
+Choroby zwierząt egzotycznych
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Dermatologia zwierząt
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia kliniczne: 10 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia kliniczne: 10
+2
+Zaliczenie na ocenę
+Fakultatywny
+Diagnostyka laboratoryjna zakażeń wirusowych koni
+Dane przedmiotu
+Ćwiczenia kliniczne: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia kliniczne: 15
+1
+Zaliczenie na ocenę
+Fakultatywny
+Doradztwo weterynaryjne w fermach zwierząt gospodarskich
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Ćwiczenia kliniczne: 8 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia laboratoryjne: 10
+Ćwiczenia kliniczne: 8
+2
+Zaliczenie na ocenę
+Fakultatywny
+Marketing w praktyce lekarza weterynarii
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Onkologia psów i kotów
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia kliniczne: 10 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia kliniczne: 10
+2
+Zaliczenie na ocenę
+Fakultatywny
+Podstawy hematologii weterynaryjnej
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia laboratoryjne: 10
+2
+Zaliczenie na ocenę
+Fakultatywny
+Praktyczne aspekty kynologii
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Racjonalna terapia przeciwdrobnoustrojowa u zwierząt - praktyczne aspekty
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Stomatologia weterynaryjna zachowawcza
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia kliniczne: 10 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia kliniczne: 10
+2
+Zaliczenie na ocenę
+Fakultatywny
+Terapie komórkowe  w medycynie weterynaryjnej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie zakładem leczniczym dla zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Badania biomedyczne w medycynie weterynaryjnej - modele in vitro w praktyce
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia kliniczne: 20 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia kliniczne: 20
+2
+Zaliczenie na ocenę
+Fakultatywny
+Neurologia weterynaryjna z elementami geriatrii
+Dane przedmiotu
+Wykład: 18 godz.
+Ćwiczenia kliniczne: 12 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 18
+Ćwiczenia kliniczne: 12
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Analityka laboratoryjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 25 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 25
+2
+Egzamin
+Obowiązkowy
+Etyka zawodowa lekarza weterynarii
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Staż kliniczny - choroby koni II
+Dane przedmiotu
+Staż kliniczny: 40 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Staż kliniczny: 40
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Staż kliniczny – choroby psów i kotów II
+Dane przedmiotu
+Staż kliniczny: 60 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Staż kliniczny: 60
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Staż kliniczny – choroby zwierząt gospodarskich II
+Dane przedmiotu
+Staż kliniczny: 60 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Staż kliniczny: 60
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Zarządzanie zdrowiem stada
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia laboratoryjne: 18 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 12
+Ćwiczenia laboratoryjne: 18
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmioty fakultatywne realizowane na 11 semestrze
+Dane przedmiotu
+Punkty ECTS: 14
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Studenci wybierają przedmioty o łącznej wartości 14 ECTS i 105 godzin
+Anestezjologia praktyczna psów i kotów
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia kliniczne: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia kliniczne: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Audytowanie systemów zarządzania jakością w przemyśle spożywczym
+Dane przedmiotu
+Wykład: 3 godz.
+Ćwiczenia laboratoryjne: 12 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 3
+Ćwiczenia laboratoryjne: 12
+2
+Zaliczenie na ocenę
+Fakultatywny
+Choroby gołębi
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 10 godz.
+Ćwiczenia kliniczne: 20 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 10
+Ćwiczenia kliniczne: 20
+4
+Zaliczenie na ocenę
+Fakultatywny
+Diagnostyka i leczenie chorób przeżuwaczy
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia kliniczne: 5 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia kliniczne: 5
+2
+Zaliczenie na ocenę
+Fakultatywny
+Farmakologia kliniczna psów i kotów
+Dane przedmiotu
+Wykład: 6 godz.
+Ćwiczenia laboratoryjne: 24 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 6
+Ćwiczenia laboratoryjne: 24
+4
+Zaliczenie na ocenę
+Fakultatywny
+Farmakoterapia nowotworów
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Fizjologia na przypadkach
+Dane przedmiotu
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 15
+2
+Zaliczenie na ocenę
+Fakultatywny
+Kardiologia psów i kotów
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia kliniczne: 10 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia kliniczne: 10
+4
+Zaliczenie na ocenę
+Fakultatywny
+Nefrologia i urologia psów i kotów
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia laboratoryjne: 10
+4
+Zaliczenie na ocenę
+Fakultatywny
+Oftalmologia weterynaryjna
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia audytoryjne: 5
+2
+Zaliczenie na ocenę
+Fakultatywny
+Opieka weterynaryjna nad rozrodem w hodowli psów i kotów
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia laboratoryjne: 2 godz.
+Ćwiczenia kliniczne: 8 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia laboratoryjne: 2
+Ćwiczenia kliniczne: 8
+4
+Zaliczenie na ocenę
+Fakultatywny
+Ortopedia psów i kotów
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia kliniczne: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia kliniczne: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Patomorfologia kliniczna psów i kotów
+Dane przedmiotu
+Ćwiczenia kliniczne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia kliniczne: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Ultrasonografia małych zwierząt
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Wybrane zagadnienia z gastroenterologii psów i kotów
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia kliniczne: 10 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia kliniczne: 10
+4
+Zaliczenie na ocenę
+Fakultatywny
+Wybrane zagadnienia z pulmonologii psów i kotów
+Dane przedmiotu
+Wykład: 18 godz.
+Ćwiczenia kliniczne: 12 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 18
+Ćwiczenia kliniczne: 12
+4
+Zaliczenie na ocenę
+Fakultatywny
+Biotechnologia medyczna w immunoterapii
+Dane przedmiotu
+Wykład: 20 godz.
+Ćwiczenia laboratoryjne: 10 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 20
+Ćwiczenia laboratoryjne: 10
+4
+Zaliczenie na ocenę
+Fakultatywny
+Diagnostyka laboratoryjna chorób koni
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 20 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 10
+Ćwiczenia laboratoryjne: 20
+4
+Zaliczenie na ocenę
+Fakultatywny
+Wirusowe choroby skóry i błon śluzowych u psów i kotów
+Dane przedmiotu
+Wykład: 9 godz.
+Ćwiczenia laboratoryjne: 6 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 9
+Ćwiczenia laboratoryjne: 6
+2
+Zaliczenie na ocenę
+Fakultatywny

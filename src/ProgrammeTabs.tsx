@@ -6,9 +6,11 @@ import ThresholdPanel from './ThresholdPanel';
 import CareerPanel from './CareerPanel';
 import GraduateOutcomesPanel from './GraduateOutcomesPanel';
 import CurriculumPanel from './CurriculumPanel';
+import ProgrammeDescriptionPanel from './ProgrammeDescriptionPanel';
 import './programme-tabs.css';
 
 const tabs = [
+  { id: 'description', label: 'Opis kierunku' },
   { id: 'programme', label: 'Program i specjalności' },
   { id: 'admission', label: 'Rekrutacja' },
   { id: 'history', label: 'Progi przyjęć' },
@@ -21,7 +23,7 @@ export default function ProgrammeTabs({ programme, profile, update, rule, source
   programme: Programme; profile: Profile; update: (profile: Profile) => void;
   rule?: AdmissionRule; sources: ReactNode;
 }) {
-  const [active, setActive] = useState('programme');
+  const [active, setActive] = useState('description');
   const prefix = `programme-${programme.id}`;
   function move(event: KeyboardEvent<HTMLButtonElement>, index: number) {
     let next: number;
@@ -35,6 +37,7 @@ export default function ProgrammeTabs({ programme, profile, update, rule, source
     document.getElementById(`${prefix}-tab-${tabs[next].id}`)?.focus();
   }
   const content: Record<string, ReactNode> = {
+    description: <ProgrammeDescriptionPanel programme={programme}/>,
     programme: <CurriculumPanel programme={programme}/>,
     admission: <><AdmissionPanel programme={programme} profile={profile} update={update} rule={rule}/><details><summary>Pełna uwaga o zasadach rekrutacji</summary><p>{programme.admissionNote}</p><p><strong>Przedmioty maturalne:</strong> {programme.subjects.join(', ') || 'Sprawdź kartę źródłową'}</p></details></>,
     history: <ThresholdPanel programme={programme}/>,

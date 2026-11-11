@@ -1,4 +1,5 @@
 import { curricula, validateCurricula } from '../src/curricula.ts';
+import { programmeDescriptions, validateProgrammeDescriptions } from '../src/descriptions.ts';
 import { graduateData, validateGraduateData } from '../src/graduates.ts';
 import { readFileSync } from 'node:fs';
 import assert from 'node:assert/strict';
@@ -11,8 +12,8 @@ import { sourceExclusion, claimRejection, sourcePolicy } from '../src/sources.ts
 import type { Catalogue } from '../src/types.ts';
 
 const read = (name: string) => JSON.parse(readFileSync(new URL('../src/data/' + name + '.json', import.meta.url), 'utf8'));
-const uwr = read('uwr'), uew = read('uew'), pwr = read('pwr');
-const data: Catalogue = {...uwr, universities: [...uwr.universities,...uew.universities,...pwr.universities], sources: [...uwr.sources,...uew.sources,...pwr.sources], programmes: [...uwr.programmes,...uew.programmes,...pwr.programmes]};
+const uwr = read('uwr'), uew = read('uew'), pwr = read('pwr'), upwr = read('upwr'), umw = read('umw');
+const data: Catalogue = {...uwr, universities: [...uwr.universities,...uew.universities,...pwr.universities,...upwr.universities,...umw.universities], sources: [...uwr.sources,...uew.sources,...pwr.sources,...upwr.sources,...umw.sources], programmes: [...uwr.programmes,...uew.programmes,...pwr.programmes,...upwr.programmes,...umw.programmes]};
 const unique = (ids: string[]) => assert.equal(new Set(ids).size, ids.length, 'Duplikaty identyfikatorów');
 unique(data.universities.map(u=>u.id)); unique(data.programmes.map(p=>p.id)); unique(data.sources.map(s=>s.id));
 const sourceIds = new Set(data.sources.map(s=>s.id));
@@ -48,11 +49,19 @@ for (const p of data.programmes) {
   }
 }
 const uwrRules:AdmissionRule[] = read('uwr-rules');
-const rules:AdmissionRule[] = [...read('pwr-rules'), ...uwrRules, UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027];
+const rules:AdmissionRule[] = [...read('umw-rules'), ...read('upwr-rules'), ...read('pwr-rules'), ...uwrRules, UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027];
 unique(rules.map((r: {id:string})=>r.id));
+for(const p of data.programmes) {
+  if(p.admissionRuleId) assert.ok(rules.some(r=>r.id===p.admissionRuleId),p.id);
+  if(p.historicalAdmissionRuleId) assert.ok(rules.some(r=>r.id===p.historicalAdmissionRuleId&&r.year==='2026/2027'),p.id);
+}
 for (const r of rules) {
   assert.equal(new URL(r.sourceUrl).protocol, 'https:');
   assert.ok(r.groups.length);
+  for(const g of r.groups) {
+    assert.ok(g.rounding===undefined||g.rounding==='integer',r.id);
+    if(g.minPoints!==undefined)assert.ok(Number.isFinite(g.minPoints)&&g.minPoints>=0,r.id);
+  }
   if(r.extraExam){const e=r.extraExam;assert.ok(e.min>=0&&e.min<=e.passMin&&e.passMin<=e.max,r.id);assert.ok(!e.allowedValues||e.allowedValues.every(v=>v>=e.min&&v<=e.max),r.id);}
   for(const req of r.requirements??[]){assert.ok(req.options.length,r.id);for(const o of req.options){assert.ok(SUBJECTS.includes(o.subject as typeof SUBJECTS[number]),r.id);assert.ok(o.minPercent>=0&&o.minPercent<=100,r.id);}}
   const maxProfile=emptyProfile();maxProfile.subjects=Object.fromEntries(SUBJECTS.map(s=>[s,100]));maxProfile.basicScores={...maxProfile.subjects};
@@ -76,12 +85,14 @@ for(const j of jobs.jobs) {
   assert.ok(j.checkedAt<=jobs.checkedAt,j.id);
   if(j.active==='confirmed'&&j.expiresAt)assert.ok(j.expiresAt>=j.checkedAt,j.id);
 }
-assert.equal(data.universities.length,3); assert.equal(data.programmes.length,171);
+assert.equal(data.universities.length,5); assert.equal(data.programmes.length,215);
 console.log(JSON.stringify({universities:data.universities.length,programmes:data.programmes.length,english:data.programmes.filter(p=>p.language==='en').length,sources:data.sources.length,thresholds:data.programmes.reduce((n,p)=>n+p.thresholds.length,0),uwrRules:uwrRules.length,jobs:jobs.jobs.length},null,2));
-console.log('OK: wszystkie rekordy bieżącego zakresu trzech uczelni, reguły i próbka ogłoszeń zwalidowane.');
+console.log('OK: wszystkie rekordy bieżącego zakresu pięciu uczelni, reguły i próbka ogłoszeń zwalidowane.');
 
 assert.deepEqual(validateGraduateData(graduateData, data.programmes), []);
 console.log(`ELA: ${graduateData.matches.length} ofert, ${graduateData.cohorts.length} kohort; walidacja poprawna.`);
 
 assert.deepEqual(validateCurricula(curricula, data.programmes), []);
 console.log(`Programy: ${curricula.length} ofert, ${curricula.filter(r=>r.groups.some(g=>g.subjects.length)).length} ze spisem, ${curricula.filter(r=>r.completeness==='full-plan').length} pełnych planów.`);
+assert.deepEqual(validateProgrammeDescriptions(programmeDescriptions, data.programmes), []);
+console.log(`Opisy: ${programmeDescriptions.length} ofert, ${programmeDescriptions.filter(r=>r.status==='limited-source').length} z ograniczonym opisem źródłowym.`);

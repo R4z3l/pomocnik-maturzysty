@@ -17,7 +17,7 @@ Architekturę uwzględniono na podstawie metryczki. Uczelnia oznacza ją jako �
 
 Dla wszystkich 62 ofert sprawdzono oficjalny program **2026/2027**, wskazany z indywidualnej karty kierunku. Odczytano 7104 pozycje w grupach i semestrach, w tym powtórzenia między wariantami. 31 ofert ma nazwane specjalności, ścieżki lub moduły. Są to warianty programu, a nie suma obowiązkowych zajęć jednej osoby.
 
-Spisy mają status **lista częściowa**: pochodzą z tabel oficjalnego serwisu sylabusów, ale nie deklarujemy pełnego audytu wszystkich rozwijanych koszyków do wyboru ani szczegółowych kart zajęć. Wskazany cykl nie gwarantuje niezmienionego programu osobom rozpoczynającym studia w 2027 roku.
+Aktualizacja audytu **09.11.2026**: wszystkie 62 spisy mają status **pełnego opublikowanego planu 2026/2027**. Odczyt obejmuje 644 tabele wszystkich semestrów i 763 rozwijane grupy, także zagnieżdżone. Nie ma pominiętych tabel ani nierozwiązanych odsyłaczy do koszyków. Nazwy grup są osobnymi tytułami, a instrukcje wyboru nie są nazwami zajęć. Kontrola objęła 5788 wierszy rzeczywistych zajęć; wcześniejsze 7104 pozycje obejmowały także nagłówki grup i instrukcje. Ogólne pozycje WF i lektoratów pozostają ogólne, gdy plan odsyła do oferty Studium. Pełny plan nie oznacza szczegółowych sylabusów każdego zajęcia ani gwarancji niezmienionego programu osobom rozpoczynającym studia w 2027 roku.
 
 Nie traktujemy efektów uczenia się, godzin, sum ECTS i przedmiotów maturalnych jako nazw zajęć. Nazwy zajęć po angielsku zachowują język dokumentu. Ścieżki na kierunku lekarskim i moduły na mechanice i budowie maszyn energetycznych zachowują własną kategorię.
 
@@ -46,7 +46,7 @@ Nie przenoszono progów filii, wartości z podobnie nazwanych kierunków ani sta
 
 ## Pozostałe ograniczenia
 
-Nie dodano jeszcze dopasowanych kohort Ekonomicznych Losów Absolwentów ani zweryfikowanych ścieżek zawodowych dla nowych ofert. Aplikacja pokazuje brak takich danych. Opublikowane zasady na 2027/28 nie dowodzą uruchomienia każdej oferty w tym naborze.
+Nie dodano jeszcze dopasowanych kohort Ekonomicznych Losów Absolwentów ani zweryfikowanych ścieżek zawodowych dla nowych ofert. Aplikacja pokazuje brak takich danych. To dalszy zakres modułu doradczego, odrębny od katalogu i planów zajęć. Opublikowane zasady na 2027/28 nie dowodzą uruchomienia każdej oferty w tym naborze.
 
 ## Źródła i odtwarzanie
 
