@@ -21,6 +21,7 @@ from source_policy import canonical, ensure_source_allowed, guarded_get
 from refresh_parsers import clean, history_tables, name_key, uew_durations
 from pwr_curricula import parse_pwr_curriculum
 from upwr_curricula import parse_upwr_curriculum
+from umw_curricula import parse_umw_curriculum
 from european_cultures import reviewed_plan, DOCUMENT_URL, PROGRAMME_ID, SOURCE_ID
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,7 +37,10 @@ for _plan in json.loads((ROOT / 'src/data/curricula-pwr.json').read_text(encodin
 for _plan in json.loads((ROOT / 'src/data/curricula-upwr.json').read_text(encoding='utf-8')):
     _url = _plan['sources'][0]['url']
     CORE['upwr-curriculum:' + _plan['programmeId']] = ('upwr', _url, 'current')
+for _plan in json.loads((ROOT / 'src/data/curricula-umw.json').read_text(encoding='utf-8')):
+    CORE['umw-curriculum:' + _plan['programmeId']] = ('umw', _plan['sources'][0]['url'], 'current')
 ALLOWED_OUTPUTS = {
+    'src/data/curricula-umw.json',
     'src/data/pwr.json', 'src/data/uew.json', 'src/data/uwr.json',
     'docs/research/pwr/thresholds-active.json', 'docs/research/pwr/thresholds-parsed.json',
     'src/data/curricula-pwr.json', 'src/data/curricula-uwr-a.json', 'src/data/curricula-upwr.json',
@@ -69,7 +73,7 @@ def atomic_write(path, data):
 
 def input_hashes(root):
     files = list((root / 'src/data').glob('*.json'))
-    files += [root / 'scripts' / name for name in ['refresh_data.py', 'refresh_parsers.py', 'source_policy.py', 'parse-history.ts', 'pwr_curricula.py', 'european_cultures.py', 'upwr_curricula.py']]
+    files += [root / 'scripts' / name for name in ['refresh_data.py', 'refresh_parsers.py', 'source_policy.py', 'parse-history.ts', 'pwr_curricula.py', 'european_cultures.py', 'upwr_curricula.py', 'umw_curricula.py']]
     files += [root / 'docs/research/curricula/uwr-a/european-cultures-semesters.json']
     files += [root / 'src/thresholds.ts']
     return {p.relative_to(root).as_posix(): digest(p.read_bytes()) for p in files}
@@ -83,7 +87,7 @@ def inventory(root):
         key = (canonical(url), purpose)
         if key not in found:
             found[key] = dict(id=digest((url + purpose).encode())[:16], university=university, url=url, purpose=purpose, title=label)
-    for university in ['uwr', 'uew', 'pwr', 'upwr']:
+    for university in ['uwr', 'uew', 'pwr', 'upwr', 'umw']:
         data = read_json(root / f'src/data/{university}.json')
         history_ids = {t['sourceId'] for p in data['programmes'] for t in p['thresholds']}
         current_ids = {sid for p in data['programmes'] for sid in p['sourceIds']}
@@ -102,6 +106,10 @@ def inventory(root):
     for path in (root / 'src/data').glob('*-rules.json'):
         for rule in read_json(path):
             add(rule['sourceUrl'], path.stem.split('-')[0], 'current', rule['title'])
+    descriptions_path = root / 'src/data/programme-descriptions.json'
+    if descriptions_path.exists():
+        for row in read_json(descriptions_path):
+            add(row['sourceUrl'], row['programmeId'].split('-')[0], 'current', row['sourceTitle'])
     for id, (university, url, purpose) in CORE.items():
         add(url, university, purpose, id)
     return sorted(found.values(), key=lambda row: (row['university'], row['url'], row['purpose']))
@@ -223,6 +231,16 @@ def core_proposal(id, content, root, policy, date, datasets):
         if SOURCE_ID not in programme['sourceIds']:
             programme['sourceIds'].append(SOURCE_ID)
         return detail
+    elif id.startswith('umw-curriculum:'):
+        pid = id.split(':', 1)[1]
+        programme = next(p for p in data['programmes'] if p['id'] == pid)
+        path = 'src/data/curricula-umw.json'
+        rows = datasets.setdefault(path, read_json(root / path))
+        original = next(r for r in rows if r['programmeId'] == pid)
+        parsed, audit = parse_umw_curriculum(content, programme, url)
+        rows[rows.index(original)] = {**parsed, 'checkedAt': date}
+        detail.update(parsed=audit['rows'], added=0, planAudit=audit)
+        return detail
     elif id.startswith('upwr-curriculum:'):
         pid = id.split(':', 1)[1]
         programme = next(p for p in data['programmes'] if p['id'] == pid)
@@ -319,7 +337,7 @@ def core_proposal(id, content, root, policy, date, datasets):
 
 
 def coverage(root):
-    programmes = [p for u in ['uwr', 'uew', 'pwr', 'upwr'] for p in read_json(root / f'src/data/{u}.json')['programmes']]
+    programmes = [p for u in ['uwr', 'uew', 'pwr', 'upwr', 'umw'] for p in read_json(root / f'src/data/{u}.json')['programmes']]
     curricula = [r for path in (root / 'src/data').glob('curricula-*.json') for r in read_json(path)]
     matches = {r['programmeId'] for r in read_json(root / 'src/data/graduates.json')['matches']}
     return dict(offers=len(programmes), durationMissing=[p['id'] for p in programmes if not p['duration']],
@@ -491,7 +509,7 @@ def main():
     parser.add_argument('command', choices=['sources', 'run', 'apply', 'coverage'])
     parser.add_argument('folder', nargs='?')
     parser.add_argument('--mode', choices=['core', 'monitor'], default='core')
-    parser.add_argument('--university', choices=['uwr', 'uew', 'pwr', 'upwr'])
+    parser.add_argument('--university', choices=['uwr', 'uew', 'pwr', 'upwr', 'umw'])
     parser.add_argument('--source', action='append')
     parser.add_argument('--force', action='store_true', help='Sprawdź sieć także przed upływem 24 godzin')
     args = parser.parse_args()

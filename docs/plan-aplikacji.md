@@ -1,3 +1,5 @@
+Aktualizacja **10.11.2026 — Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu**: katalog rozszerzono do 215 ofert pięciu uczelni. Zakres, historyczne porównanie punktów i jawne ograniczenia opisuje `docs/audyt-umw.md`. Adapter bez AI utrzymuje 16 częściowych spisów.
+
 Aktualizacja **10.11.2026**: na polecenie użytkownika rozszerzono katalog o Uniwersytet Przyrodniczy we Wrocławiu, do 199 ofert czterech uczelni. Zakres i ograniczenia opisuje `docs/audyt-upwr.md`. Aktualizator bez AI obejmuje także 28 planów tej uczelni. Poniższe wcześniejsze zapisy zachowują swoje daty.
 
 # Akcja Studia 2027 — zaktualizowany plan aplikacji

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { curricula, validateCurricula } from '../src/curricula.ts';
 import { presentCurriculum } from '../src/curriculumPresentation.ts';
-const programmes = ['uwr', 'uew', 'pwr', 'upwr'].flatMap(id => JSON.parse(readFileSync(new URL(`../src/data/${id}.json`, import.meta.url), 'utf8')).programmes);
+const programmes = ['uwr', 'uew', 'pwr', 'upwr', 'umw'].flatMap(id => JSON.parse(readFileSync(new URL(`../src/data/${id}.json`, import.meta.url), 'utf8')).programmes);
 
 test('widok łączy grupy według semestrów i zachowuje przedmioty bez przypisanego semestru', () => {
   const group = (title: string, semester: string | null, subjects: string[]) => ({ title, semester, subjects, sourceUrl: 'https://example.com' });

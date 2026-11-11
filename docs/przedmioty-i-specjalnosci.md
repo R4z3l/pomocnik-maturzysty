@@ -1,3 +1,5 @@
+Aktualizacja **10.11.2026 — Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu**: dodano 16 częściowych spisów zajęć z dokumentów BIP 2026/2027. Odczyt 1244 pozycji z tabel godzinowych obejmuje powtórzenia; nie potwierdza kompletności koszyków ani przypisania semestrów. Katalog: 215 spisów, 116 pełnych i 99 częściowych. Parser: `scripts/umw_curricula.py`, audyt: `docs/audyt-umw.md`.
+
 Aktualizacja **10.11.2026**: dodano 28 pełnych spisów planów 2026/2027 Uniwersytetu Przyrodniczego we Wrocławiu (wszystkie semestry i rozwijane koszyki). Katalog ma 199 ofert ze spisem: 116 pełnych planów i 83 listy częściowe. Źródło: `src/data/curricula-upwr.json`, adapter `scripts/upwr_curricula.py`, audyt `docs/audyt-upwr.md`. Brak osobnej potwierdzonej listy specjalności nie oznacza braku specjalności. Poniższe wcześniejsze liczby opisują stan historyczny.
 
 # Programy studiów i specjalności

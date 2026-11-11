@@ -9,7 +9,10 @@ export function extensionFit(rule: AdmissionRule, selected: string[]) {
   const subjects = [...new Set(rule.groups.flatMap(g => (g.options ?? g.subjects.map(subject => ({ subject }))).map(o => o.subject)))];
   const rewarded = [...new Set(rule.groups.flatMap(g => (g.options ?? g.subjects.map(subject => ({ subject, ...g.factors })))
     .filter(o => o.extended * g.weight > 0 && selected.includes(o.subject)).map(o => o.subject)))];
-  const simulate = (enabled: string[]) => calculateAdmission(rule, {
+  // Minima concern eligibility, not subject capacity: zeros must remain valid
+  // alternatives so that one selected subject cannot fill two excluded slots.
+  const capacityRule={...rule,groups:rule.groups.map(g=>({...g,minPercent:undefined,minPoints:undefined}))};
+  const simulate = (enabled: string[]) => calculateAdmission(capacityRule, {
     version: 1, subjects: Object.fromEntries(subjects.map(s => [s, enabled.includes(s) ? 100 : 0])),
     interests: '', workStyle: '', favorites: [], comparison: [], notes: {}, weights: [], ratings: {},
   }).rows.filter(row => row.subject && row.value !== null);
@@ -26,8 +29,9 @@ export function matchMatura(programmes: Programme[], rules: AdmissionRule[], pro
     const score = rule ? calculateAdmission(rule, profile) : null;
     // A threshold's year is not evidence that the current formula applied then.
     // UEW has separately verified 2026 rules; other universities remain explicit gaps.
-    const historicalRule = rule?.year === MATCHING_HISTORY_YEAR ? rule
-      : rule?.id === 'uew-2027-pl' ? UEW_PL : rule?.id === 'uew-2027-en' ? UEW_EN : null;
+    const explicitHistory = rules.find(r=>r.id===programme.historicalAdmissionRuleId && r.year===MATCHING_HISTORY_YEAR);
+    const historicalRule = explicitHistory ?? (rule?.year === MATCHING_HISTORY_YEAR ? rule
+      : rule?.id === 'uew-2027-pl' ? UEW_PL : rule?.id === 'uew-2027-en' ? UEW_EN : null);
     const historicalScore = historicalRule ? calculateAdmission(historicalRule, profile) : null;
     const thresholds = programme.thresholds.filter(t => t.year === MATCHING_HISTORY_YEAR).map(threshold => {
       const comparable = threshold.status === 'official' && historicalScore?.status === 'complete' && historicalScore.total !== null;

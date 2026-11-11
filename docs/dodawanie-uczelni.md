@@ -2,7 +2,7 @@ Aktualny zakres historii: nabory2024/25,2025/26,2026/27. Starszych lat nie wyszu
 
 # Dodawanie uczelni — procedura i prompt
 
-Rekomendacja: dodawać uczelnie kolejno. Proces obejmuje obecnie cztery uczelnie; zakres Uniwersytetu Przyrodniczego we Wrocławiu opisuje docs/audyt-upwr.md, a zakres Politechniki Wrocławskiej i ograniczenia jej danych opisuje docs/audyt-pwr.md. Zdefiniować wspólny zakres dla wszystkich, lecz research, kontrolę i publikację wykonywać małymi pakietami. Nie utożsamiać pełnego spisu ofert z kompletem dostępnych historycznych progów.
+Rekomendacja: dodawać uczelnie kolejno. Proces obejmuje obecnie pięć uczelni; zakres Uniwersytetu Medycznego im. Piastów Śląskich we Wrocławiu opisuje docs/audyt-umw.md; zakres Uniwersytetu Przyrodniczego we Wrocławiu opisuje docs/audyt-upwr.md, a zakres Politechniki Wrocławskiej i ograniczenia jej danych opisuje docs/audyt-pwr.md. Zdefiniować wspólny zakres dla wszystkich, lecz research, kontrolę i publikację wykonywać małymi pakietami. Nie utożsamiać pełnego spisu ofert z kompletem dostępnych historycznych progów.
 
 Przed każdym odczytem sprawdzaj `src/data/source-policy.json` i stosuj `docs/hierarchia-zrodel.md`: oficjalne uczelnie → otouczelnie.pl → pozostałe portale → prasa → społeczność. Adresów wykluczonych nie pobieraj ponownie; odrzuconych informacji nie importuj.
 

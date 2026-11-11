@@ -1,3 +1,7 @@
+# Dodanie Uniwersytetu Medycznego im. Piastów Śląskich we Wrocławiu — 10.11.2026
+
+Dodano 16 ofert (13 PL, 3 EN), 26 wersji reguł dla 13 ofert PL, 35 oficjalnych progów 2024–2026 i 16 częściowych spisów zajęć. Osobne zasady 2026/27 służą dopasowaniu matury i porównaniu progów; uwzględniono zmiany farmacji, psychologii i minimów. English Division bez automatycznej sumy z powodu nierozstrzygniętego zakresu zapisów w dokumencie. ELA pozostaje luką. Parser i adapter działają bez AI. Katalog: 215 ofert pięciu uczelni, 200 kalkulatorów, 116 pełnych i 99 częściowych spisów. Audyt: docs/audyt-umw.md.
+
 # Dodanie Uniwersytetu Przyrodniczego we Wrocławiu — 10.11.2026
 
 Dodano 28 ofert stacjonarnych, 28 pełnych spisów planów 2026/2027, reguły kalkulatorów 2027/2028 dla polskiej nowej matury PP/PR bez KZ i 53 nieoficjalne progi z portalu dla naborów 2025/2026 oraz 2026/2027. Tabela portalu 2024/2025 nie zawierała liczb. Brak ELA pozostaje jawny. Katalog: 199 ofert, 187 kalkulatorów, 116 pełnych planów i 83 listy częściowe. Adapter i monitor działają poza aplikacją, bez AI. Szczegóły: docs/audyt-upwr.md. Poniżej wcześniejsze stany audytu.

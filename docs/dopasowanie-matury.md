@@ -18,7 +18,7 @@ Mierzymy zestaw rozszerzeń, nie liczbę wspólnych nazw przedmiotów. Dla każd
 
 ## Porównanie z poprzednim naborem
 
-Wynik do progu obliczamy według zweryfikowanej reguły tego samego naboru. Obecnie takie osobne zasady są w bazie dla Uniwersytetu Ekonomicznego we Wrocławiu na 2026/2027. Zasady 2027/2028 dodają biznes i zarządzanie; jego punktów nie przenosimy do historycznego porównania. Pokazujemy obydwa wyniki oraz różnicę historyczny wynik minus próg, osobno przy każdym ustaleniu. Filtr wymaga kompletnego wyniku i spełnienia warunków objętych obydwoma kalkulatorami.
+Wynik do progu obliczamy według zweryfikowanej reguły tego samego naboru. Obecnie takie osobne zasady są w bazie dla Uniwersytetu Ekonomicznego we Wrocławiu oraz 13 polskojęzycznych ofert Uniwersytetu Medycznego im. Piastów Śląskich we Wrocławiu na 2026/2027. Zasady 2027/2028 Uniwersytetu Ekonomicznego we Wrocławiu dodają biznes i zarządzanie; jego punktów nie przenosimy do historycznego porównania. Dla Uniwersytetu Medycznego im. Piastów Śląskich we Wrocławiu nie przenosimy zmian farmacji, psychologii i jednostek minimów z 2027/2028 do 2026/2027. Pokazujemy obydwa wyniki oraz różnicę historyczny wynik minus próg, osobno przy każdym ustaleniu. Filtr wymaga kompletnego wyniku i spełnienia warunków objętych obydwoma kalkulatorami.
 
 Dla Uniwersytetu Wrocławskiego, Politechniki Wrocławskiej i Uniwersytetu Przyrodniczego we Wrocławiu pokazujemy dostępne progi 2026/2027, ale nie obliczamy różnicy bez potwierdzonego wzoru historycznego. Progi zewnętrzne nie włączają oferty do filtra. Brak progu, nieznana porównywalność i niepełny profil nie są interpretowane jako wynik poniżej progu.
 
