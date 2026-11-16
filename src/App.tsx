@@ -24,10 +24,16 @@ import AppIcon from './AppIcon';
 import './bento.css';
 
 const STORAGE_KEY = 'akcja-studia-profile-v1';
-function selectedFromAddress():string|null {
- try {const hash=decodeURIComponent(window.location.hash);const id=hash.startsWith('#kierunek/')?hash.slice(10):null;return catalogue.programmes.some(p=>p.id===id)?id:null;}catch{return null;}
-}
 type Page = 'matching' | 'universities' | 'catalogue' | 'profile' | 'recommendations' | 'compare' | 'sources' | 'instructions';
+// Adres odzwierciedla widok (#widok/profile) i otwartą kartę (#kierunek/id), dzięki czemu działa przycisk Wstecz.
+function stateFromAddress():{page:Page;selectedId:string|null} {
+ try {
+  const hash=decodeURIComponent(window.location.hash);
+  if(hash.startsWith('#kierunek/')){const id=hash.slice(10);return {page:'catalogue',selectedId:catalogue.programmes.some(p=>p.id===id)?id:null};}
+  if(hash.startsWith('#widok/')){const page=hash.slice(7);if(pages.some(p=>p.id===page))return {page:page as Page,selectedId:null};}
+ } catch {}
+ return {page:'catalogue',selectedId:null};
+}
 const pages: { id: Page; icon: string; label: string }[] = [{ id: 'matching', icon: '◎', label: 'Dopasowanie matury' }, { id: 'universities', icon: '⌂', label: 'Uczelnie' }, { id: 'catalogue', icon: '▦', label: 'Katalog kierunków' }, { id: 'profile', icon: '◎', label: 'Mój profil' }, { id: 'recommendations', icon: '✧', label: 'Moje rekomendacje' }, { id: 'compare', icon: '⇄', label: 'Porównanie' }, { id: 'sources', icon: '≡', label: 'Źródła i pokrycie' }, { id: 'instructions', icon: '☰', label: 'Instrukcje' }];
 function loadProfile(): { profile: Profile; error: string } {
   try { const text = localStorage.getItem(STORAGE_KEY); return { profile: text ? parseProfile(text) : emptyProfile(), error: '' }; }
@@ -45,26 +51,27 @@ export default function App() {
   const [profile, setProfile] = useState<Profile>(initial.profile);
   const [message, setMessage] = useState(initial.error);
   const [dirty, setDirty] = useState(false);
-  const [page, setPage] = useState<Page>('catalogue');
+  const [page, setPage] = useState<Page>(()=>stateFromAddress().page);
   const [query, setQuery] = useState('');
   const [university, setUniversity] = useState('');
   const [language, setLanguage] = useState('');
   const [favoritesOnly, setFavoritesOnly] = useState(false);
-  const [selectedId, setSelectedId] = useState<string | null>(selectedFromAddress);
+  const [selectedId, setSelectedId] = useState<string | null>(()=>stateFromAddress().selectedId);
   const [resetOpen, setResetOpen] = useState(false);
   const resultsRef = useRef<HTMLDivElement>(null);
   const detailRef = useRef<HTMLElement>(null);
   const openerRef = useRef<HTMLButtonElement | null>(null);
-  useEffect(()=>{const sync=()=>{setSelectedId(selectedFromAddress());setPage('catalogue');};window.addEventListener('popstate',sync);window.addEventListener('hashchange',sync);return()=>{window.removeEventListener('popstate',sync);window.removeEventListener('hashchange',sync);};},[]);
+  useEffect(()=>{const sync=()=>{const next=stateFromAddress();setSelectedId(next.selectedId);setPage(next.page);};window.addEventListener('popstate',sync);window.addEventListener('hashchange',sync);return()=>{window.removeEventListener('popstate',sync);window.removeEventListener('hashchange',sync);};},[]);
   useEffect(()=>{if(selectedId){detailRef.current?.focus({preventScroll:true});detailRef.current?.scrollIntoView({block:'start'});}},[selectedId]);
-  function navigatePage(next:Page){setPage(next);setSelectedId(null);if(window.location.hash.startsWith('#kierunek/'))window.history.pushState(null,'',window.location.pathname+window.location.search);}
+  useEffect(()=>{if(!dirty)return;const warn=(event:BeforeUnloadEvent)=>{event.preventDefault();event.returnValue='';};window.addEventListener('beforeunload',warn);return()=>window.removeEventListener('beforeunload',warn);},[dirty]);
+  function navigatePage(next:Page){setPage(next);setSelectedId(null);const hash=next==='catalogue'?'':`#widok/${next}`;if(window.location.hash!==hash)window.history.pushState(null,'',window.location.pathname+window.location.search+hash);}
   function openDetails(id:string,button:HTMLButtonElement){openerRef.current=button;if(selectedId!==id)window.history.pushState(null,'',`#kierunek/${encodeURIComponent(id)}`);setSelectedId(id);}
   function closeDetails(){const previous=selectedId;setSelectedId(null);window.history.pushState(null,'',window.location.pathname+window.location.search);requestAnimationFrame(()=>{if(openerRef.current?.isConnected)openerRef.current.focus();else if(previous)document.querySelector<HTMLButtonElement>(`button[data-programme-open="${CSS.escape(previous)}"]`)?.focus();});}
   function update(next: Profile) { setProfile(next); setDirty(true); setMessage(''); }
   function save() { try { localStorage.setItem(STORAGE_KEY, serializeProfile(profile)); setDirty(false); setMessage('Profil zapisany w tej przeglądarce.'); } catch { setMessage('Zapis nie powiódł się. Poprzednia kopia pozostaje bez zmian. Sprawdź dostęp do pamięci oraz limity: preferencje 10 000 znaków, notatka 20 000 znaków.'); } }
   function toggleFavorite(id: string) { update({ ...profile, favorites: profile.favorites.includes(id) ? profile.favorites.filter(x => x !== id) : [...profile.favorites, id] }); }
   function toggleComparison(id: string) { if (!profile.comparison.includes(id) && profile.comparison.length >= 4) { setMessage('Możesz porównać maksymalnie 4 oferty. Najpierw usuń jedną z porównania.'); return; } update({ ...profile, comparison: profile.comparison.includes(id) ? profile.comparison.filter(x => x !== id) : [...profile.comparison, id] }); }
-  function exportProfile() { try { const url = URL.createObjectURL(new Blob([serializeProfile(profile)], { type: 'application/json' })); const link = document.createElement('a'); link.href = url; link.download = 'akcja-studia-profil.json'; link.click(); URL.revokeObjectURL(url); } catch { setMessage('Eksport odrzucony: profil przekracza dozwolone limity tekstu lub wielkości. Skróć notatki i spróbuj ponownie.'); } }
+  function exportProfile() { try { const url = URL.createObjectURL(new Blob([serializeProfile(profile)], { type: 'application/json' })); const link = document.createElement('a'); link.href = url; link.download = 'akcja-studia-profil.json'; document.body.append(link); link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 1000); } catch { setMessage('Eksport odrzucony: profil przekracza dozwolone limity tekstu lub wielkości. Skróć notatki i spróbuj ponownie.'); } }
   async function importProfile(event: ChangeEvent<HTMLInputElement>) { const file = event.target.files?.[0]; if (!file) return; try { const validated = parseProfile(await file.text()); update(validated); setMessage('Poprawny profil zaimportowany. Wybierz „Zapisz profil”, aby zachować go w przeglądarce.'); } catch (error) { setMessage(`Import odrzucony. Bieżący profil zachowano. ${error instanceof Error ? error.message : 'Nieprawidłowy plik.'}`); } event.target.value = ''; }
   const filtered = filterProgrammes(catalogue.programmes, query, university, language).filter(p => !favoritesOnly || profile.favorites.includes(p.id));
   const selected = catalogue.programmes.find(p => p.id === selectedId);

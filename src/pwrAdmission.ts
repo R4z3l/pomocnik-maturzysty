@@ -32,12 +32,16 @@ export function calculatePwrAdmission(rule: AdmissionRule, profile: Profile): Ad
     if (pending) missing = true;
     return { label: group.label, subject, value: pending ? null : best, detail: pending ? 'Zaznaczony poziom bez wyniku. Uzupełnij procent albo odznacz niezdawany poziom.' : detail };
   });
-  const medical = rule.groups[0].label === 'Biologia rozszerzona';
-  if (!missing && !medical && rows[0].value === 0 && rows[1].value === 0) {
-    for (const row of rows.slice(2)) { row.value = 0; row.detail += ' Przy M = 0 i PD = 0 składniki językowe wynoszą 0.'; }
+  // Grupy wskazujemy po etykiecie, nie po pozycji: zmiana kolejności w danych nie może po cichu zmienić wzoru.
+  const row = (label: string) => rows.find(r => r.label === label);
+  const biology = row('Biologia rozszerzona'), maths = row('Matematyka'), additional = row('Przedmiot dodatkowy');
+  if (!maths || (!biology && !additional)) throw new Error(`Reguła ${rule.id} nie ma wymaganych grup Politechniki Wrocławskiej.`);
+  const medical = Boolean(biology);
+  if (!missing && !medical && maths.value === 0 && additional!.value === 0) {
+    for (const r of rows) if (r !== maths && r !== additional) { r.value = 0; r.detail += ' Przy M = 0 i PD = 0 składniki językowe wynoszą 0.'; }
   }
-  let maturaTotal = missing ? null : rows.reduce((sum, row) => sum + (row.value ?? 0), 0);
-  if (!missing && medical && (rows[0].value === 0 || rows[1].value === 0)) {
+  let maturaTotal = missing ? null : rows.reduce((sum, r) => sum + (r.value ?? 0), 0);
+  if (!missing && medical && (biology!.value === 0 || maths.value === 0)) {
     maturaTotal = 0; requirement = true;
     issues.push('Biologia rozszerzona i matematyka muszą dać wynik większy od 0. Przy B = 0 lub M = 0 cały WM wynosi 0.');
   }

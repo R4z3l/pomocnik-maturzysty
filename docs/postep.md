@@ -1,3 +1,11 @@
+# Konfiguracja Vercel i poprawki jakości kodu — 16.11.2026
+
+Aplikacja działa z serwera: lokalnie (`Uruchom-aplikacje.cmd` lub `npm run dev`) albo online. Dodano konfigurację Vercel (`vercel.json`) i instrukcję `docs/publikacja-vercel.md`, widoczną w „Instrukcjach”. `Uruchom-aplikacje.cmd` znajduje Node.js zainstalowany w systemie albo w folderze `Node`/`nodejs` obok projektu. Wersję przenośną (jeden plik HTML otwierany z dysku) sprawdzono i porzucono decyzją użytkownika: działała gorzej niż wersja z serwera.
+
+Poprawki jakości kodu: bezpieczne obliczanie punktów bez wywracania widoku, ErrorBoundary, historia nawigacji z przyciskiem Wstecz, ostrzeżenie o niezapisanych zmianach, poprawka eksportu JSON, wspólna normalizacja tekstu oraz kalkulator Politechniki Wrocławskiej wskazujący grupy po etykietach.
+
+---
+
 # Dodanie Uniwersytetu Medycznego im. Piastów Śląskich we Wrocławiu — 10.11.2026
 
 Dodano 16 ofert (13 PL, 3 EN), 26 wersji reguł dla 13 ofert PL, 35 oficjalnych progów 2024–2026 i 16 częściowych spisów zajęć. Osobne zasady 2026/27 służą dopasowaniu matury i porównaniu progów; uwzględniono zmiany farmacji, psychologii i minimów. English Division bez automatycznej sumy z powodu nierozstrzygniętego zakresu zapisów w dokumencie. ELA pozostaje luką. Parser i adapter działają bez AI. Katalog: 215 ofert pięciu uczelni, 200 kalkulatorów, 116 pełnych i 99 częściowych spisów. Audyt: docs/audyt-umw.md.

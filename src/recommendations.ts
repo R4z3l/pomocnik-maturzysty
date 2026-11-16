@@ -2,9 +2,9 @@ import type { CurriculumRecord } from './curriculumTypes.ts';
 import type { Programme, Profile } from './types.ts';
 import { suggestedFamilies } from './careers.ts';
 
-const normalize = (s: string) => s.toLocaleLowerCase('pl').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l');
+import { normalizeText as normalize } from './text.ts';
 const words = (s: string) => normalize(s).match(/[a-z0-9]+/g) ?? [];
-const ignored = new Set(['oraz', 'jest', 'lubię', 'lubie', 'interesuje', 'interesuja', 'moje', 'chce', 'studiow', 'studia', 'praca', 'pracy', 'kierunek', 'jestem', 'bardzo', 'ktore', 'ktorych']);
+const ignored = new Set(['oraz', 'jest', 'lubie', 'interesuje', 'interesuja', 'moje', 'chce', 'studiow', 'studia', 'praca', 'pracy', 'kierunek', 'jestem', 'bardzo', 'ktore', 'ktorych']);
 
 export function recommend(programmes: Programme[], curricula: CurriculumRecord[], profile: Profile) {
   // Nie próbujemy interpretować zaprzeczeń i długich zdań jak deklaracji zainteresowań.
