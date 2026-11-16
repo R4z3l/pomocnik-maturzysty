@@ -14,3 +14,6 @@
 # Dowody HTML mają skróty SHA-256 liczone z oryginalnych bajtów lokalnej kopii.
 # Konwersja LF/CRLF podczas dodawania lub checkoutu unieważniałaby audyt.
 docs/research/descriptions/*.html -text
+
+# Kopie źródeł (materiał dowodowy): przechowywane bajt w bajt, bez konwersji końców linii.
+docs/research/** -text
