@@ -1,5 +1,9 @@
 # Zasady aktualizacji katalogu
 
+Aktualizacja bez AI: `docs/aktualizacja-bez-ai.md`, `npm run data:refresh` (propozycja), `npm run data:monitor` (wykrywanie zmian), `npm run data:apply -- "folder"` (walidacja i zastosowanie). Nie uruchamiaj historycznych ekstraktorów na kanonicznych listach. Monitor nie potwierdza semantyki źródła ani kompletności planu; pełne i częściowe spisy zachowują status.
+
+Pełne plany Politechniki Wrocławskiej odtwarza adapter `scripts/pwr_curricula.py` w procesie `data:refresh`. `scripts/build-pwr.py` jest checkpointem wcześniejszego audytu i nie odtwarza obecnego podziału koszyków; nie nadpisuj nim kanonicznego `curricula-pwr.json`. European Cultures ma sprawdzony plan od 2023/24, chroniony skrótami w `scripts/european_cultures.py`; nie przywracaj dawnego statusu unavailable z historycznych skryptów.
+
 Przed każdym researchem i dodaniem źródła przeczytaj `src/data/source-policy.json` oraz `docs/hierarchia-zrodel.md`.
 
 - Priorytet1: oficjalne strony uczelni, instytutów i BIP. Priorytet2: otouczelnie.pl. Priorytet3: pozostałe portale, w tym uczelnie.pl i opinieouczelniach.pl. Priorytet4: prasa. Priorytet5: społeczności/komentarze.

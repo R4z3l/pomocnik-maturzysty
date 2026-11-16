@@ -12,6 +12,7 @@ test('izolowana aktualizacja pokazuje zmiany i wykrywa uszkodzenie punktu odnies
     for (const dir of ['src/data', 'scripts', 'tests', 'public', 'docs']) mkdirSync(join(root, dir), { recursive: true });
     for (const name of ['AGENTS.md', 'README.md', 'package.json', 'package-lock.json', 'tsconfig.json', 'index.html']) writeFileSync(join(root, name), '{}');
     copyFileSync(new URL('../scripts/update-workspace.mjs', import.meta.url), join(root, 'scripts/update-workspace.mjs'));
+    writeFileSync(join(root, 'requirements-data.txt'), 'requests==2.32.5\n');
     writeFileSync(join(root, 'src/data/example.json'), JSON.stringify([{ id: 'a', value: 1 }]));
     const run = (...args: string[]) => spawnSync(process.execPath, [join(root, 'scripts/update-workspace.mjs'), ...args], { cwd: root, encoding: 'utf8' });
     const start = run('start');
@@ -19,6 +20,7 @@ test('izolowana aktualizacja pokazuje zmiany i wykrywa uszkodzenie punktu odnies
     const updates = join(root, 'output/aktualizacje-ai');
     const session = start.stdout.match(/Folder aktualizacji: (.+)/)?.[1]?.trim();
     assert.ok(session && basename(session).startsWith('aktualizacja-') && resolve(session).startsWith(resolve(updates) + requireSeparator()));
+    assert.equal(readFileSync(join(session, 'propozycja/requirements-data.txt'), 'utf8'), 'requests==2.32.5\n');
     writeFileSync(join(session, 'propozycja/src/data/example.json'), JSON.stringify([{ id: 'a', value: 2 }]));
     writeFileSync(join(root, 'src/data/example.json'), JSON.stringify([{ id: 'a', value: 3 }]));
     const report = run('report', session);

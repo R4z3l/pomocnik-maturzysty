@@ -1,0 +1,1307 @@
+{
+  "universities": [
+    {
+      "id": "umw",
+      "name": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "shortName": "UMW",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-english",
+        "umw-bip-2027",
+        "umw-thresholds"
+      ],
+      "coverage": "16 ofert stacjonarnych we Wrocławiu: 13 po polsku i 3 po angielsku, I stopień i jednolite. Oferta i częściowe spisy zajęć 2026/27; 13 kalkulatorów PL 2027/28 oraz osobne 2026/27, 35 oficjalnych progów PL 2024–2026. English Division bez automatycznej sumy i bez przypisanych progów polskich. Optometria II stopnia oraz filie wyłączone. Brak dopasowanych danych ELA i potwierdzonej kompletności spisów zajęć."
+    }
+  ],
+  "sources": [
+    {
+      "id": "umw-oferta",
+      "title": "Oficjalna oferta studiów",
+      "url": "https://rekrutacja.umw.edu.pl/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oferta 2026/2027; poszczególne karty rozdzielają poziomy i formy studiów."
+    },
+    {
+      "id": "umw-english",
+      "title": "English Division — oferta",
+      "url": "https://admission.umw.edu.pl/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Medicine, Dentistry i Nursing; odrębne wersje językowe."
+    },
+    {
+      "id": "umw-bip-2027",
+      "title": "Uchwały rekrutacyjne 2027/2028",
+      "url": "https://bip.umw.edu.pl/artykul/195/7547/zasady-i-tryb-przyjmowania-na-studia-2027-2028",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "2918/2026 oraz 2957/2026 (psychologia). Sprawdzono załączniki właściwych procedur."
+    },
+    {
+      "id": "umw-bip-2026",
+      "title": "Uchwały rekrutacyjne 2026/2027",
+      "url": "https://bip.umw.edu.pl/artykul/195/6850/zasady-i-tryb-przyjmowania-na-studia-2026-2027",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Osobne reguły historyczne; nie przenosić zmian 2027/28 do 2026/27."
+    },
+    {
+      "id": "umw-thresholds",
+      "title": "Oficjalne zestawienie statystyczne po rekrutacji — nabory 2024–2026",
+      "url": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/11/statystyki-2023-2026-2.pdf",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Odczyt wyłącznie kolumn 2026/2027, 2025/2026, 2024/2025 i części stacjonarnej. Filia, II stopień i niestacjonarne poza zakresem; dokument nie wyodrębnia progów English Division."
+    },
+    {
+      "id": "umw-card-lekarski",
+      "title": "Kierunek lekarski",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-lekarski",
+      "title": "Program studiów 2026/2027 — Kierunek lekarski",
+      "url": "https://bip.umw.edu.pl/attachments/download/18401",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-lekarski-en",
+      "title": "Kierunek lekarski — English Division",
+      "url": "https://admission.umw.edu.pl/oferta-kierunek-lekarski/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-lekarski-en",
+      "title": "Program studiów 2026/2027 — Kierunek lekarski",
+      "url": "https://bip.umw.edu.pl/attachments/download/18402",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-lekarsko-dentystyczny",
+      "title": "Kierunek lekarsko-dentystyczny",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarsko-dentystyczny/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-lekarsko-dentystyczny",
+      "title": "Program studiów 2026/2027 — Kierunek lekarsko-dentystyczny",
+      "url": "https://bip.umw.edu.pl/attachments/download/18777",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-lekarsko-dentystyczny-en",
+      "title": "Kierunek lekarsko-dentystyczny — English Division",
+      "url": "https://admission.umw.edu.pl/oferta-kierunek-lekarsko-dentystyczny/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-lekarsko-dentystyczny-en",
+      "title": "Program studiów 2026/2027 — Kierunek lekarsko-dentystyczny",
+      "url": "https://bip.umw.edu.pl/attachments/download/18778",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-farmacja",
+      "title": "Farmacja",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-farmacja/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-farmacja",
+      "title": "Program studiów 2026/2027 — Farmacja",
+      "url": "https://bip.umw.edu.pl/attachments/download/19570",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-analityka-medyczna",
+      "title": "Analityka medyczna",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-analityka-medyczna/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-analityka-medyczna",
+      "title": "Program studiów 2026/2027 — Analityka medyczna",
+      "url": "https://bip.umw.edu.pl/attachments/download/18775",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-fizjoterapia",
+      "title": "Fizjoterapia",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-fizjoterapia/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-fizjoterapia",
+      "title": "Program studiów 2026/2027 — Fizjoterapia",
+      "url": "https://bip.umw.edu.pl/attachments/download/19568",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-psychologia",
+      "title": "Psychologia",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-psychologia/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-psychologia",
+      "title": "Program studiów 2026/2027 — Psychologia",
+      "url": "https://bip.umw.edu.pl/attachments/download/18479",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-pielegniarstwo",
+      "title": "Pielęgniarstwo",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-pielegniarstwo/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-pielegniarstwo",
+      "title": "Program studiów 2026/2027 — Pielęgniarstwo",
+      "url": "https://bip.umw.edu.pl/attachments/download/18988",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-pielegniarstwo-en",
+      "title": "Pielęgniarstwo — English Division",
+      "url": "https://admission.umw.edu.pl/admission.umw.edu.pl/nursing/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-pielegniarstwo-en",
+      "title": "Program studiów 2026/2027 — Pielęgniarstwo",
+      "url": "https://bip.umw.edu.pl/attachments/download/18989",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-poloznictwo",
+      "title": "Położnictwo",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-poloznictwo/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-poloznictwo",
+      "title": "Program studiów 2026/2027 — Położnictwo",
+      "url": "https://bip.umw.edu.pl/attachments/download/18992",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-ratownictwo-medyczne",
+      "title": "Ratownictwo medyczne",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-ratownictwo-medyczne/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-ratownictwo-medyczne",
+      "title": "Program studiów 2026/2027 — Ratownictwo medyczne",
+      "url": "https://bip.umw.edu.pl/attachments/download/19578",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-zdrowie-publiczne",
+      "title": "Zdrowie publiczne",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-zdrowie-publiczne/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-zdrowie-publiczne",
+      "title": "Program studiów 2026/2027 — Zdrowie publiczne",
+      "url": "https://bip.umw.edu.pl/attachments/download/18449",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-dietetyka",
+      "title": "Dietetyka",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-dietetyka/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-dietetyka",
+      "title": "Program studiów 2026/2027 — Dietetyka",
+      "url": "https://bip.umw.edu.pl/attachments/download/19153",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-elektroradiologia",
+      "title": "Elektroradiologia",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-elektroradiologia/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-elektroradiologia",
+      "title": "Program studiów 2026/2027 — Elektroradiologia",
+      "url": "https://bip.umw.edu.pl/attachments/download/19560",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    },
+    {
+      "id": "umw-card-biologia-medyczna",
+      "title": "Biologia medyczna",
+      "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-biologia-medyczna/",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna oficjalna karta oferty 2026/2027. Opisy i wzmianki o historii mają własne roczniki; wzór bierze pierwszeństwo z uchwały."
+    },
+    {
+      "id": "umw-plan-biologia-medyczna",
+      "title": "Program studiów 2026/2027 — Biologia medyczna",
+      "url": "https://bip.umw.edu.pl/attachments/download/19573",
+      "publisher": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny dokument BIP; sprawdzono metryczkę kierunku, formę, poziom i język. Nazwy zajęć odczytane częściowo."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "umw-lekarski",
+      "universityId": "umw",
+      "name": "Kierunek lekarski",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "6 lat (12 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Kształcenie w naukach podstawowych i klinicznych, diagnostyce oraz leczeniu pacjentów.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-lekarski",
+        "umw-plan-lekarski",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 165,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 165,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 159,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-lekarski-2027",
+      "historicalAdmissionRuleId": "umw-lekarski-2026"
+    },
+    {
+      "id": "umw-lekarski-en",
+      "universityId": "umw",
+      "name": "Kierunek lekarski w języku angielskim",
+      "language": "en",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "6 lat (12 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Kształcenie w naukach podstawowych i klinicznych, diagnostyce oraz leczeniu pacjentów.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Załącznik 5 do uchwały 2918/2026: biologia oraz chemia lub matematyka lub fizyka; minimum sumy 100 punktów i po 30% z przedmiotów dla polskiej matury. Wymagana osobna weryfikacja języka angielskiego co najmniej B2. Tabela podaje przeliczniki PP ×1 i PR ×1,5, natomiast §3 ust.3 odrębnie opisuje polską nową maturę jako 1%=1 punkt; bez rozstrzygnięcia zakresu tych zapisów nie udostępniamy automatycznej sumy. Sprawdź punktację i dokumenty w Biurze Rekrutacji. Brak osobnego potwierdzonego progu English Division.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-lekarski-en",
+        "umw-plan-lekarski-en",
+        "umw-bip-2027",
+        "umw-english"
+      ],
+      "thresholds": [],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy."
+    },
+    {
+      "id": "umw-lekarsko-dentystyczny",
+      "universityId": "umw",
+      "name": "Kierunek lekarsko-dentystyczny",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat (10 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Kształcenie w diagnostyce i leczeniu chorób jamy ustnej oraz profilaktyce stomatologicznej.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-lekarsko-dentystyczny",
+        "umw-plan-lekarsko-dentystyczny",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 165,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 158,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 158,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-lekarsko-dentystyczny-2027",
+      "historicalAdmissionRuleId": "umw-lekarsko-dentystyczny-2026"
+    },
+    {
+      "id": "umw-lekarsko-dentystyczny-en",
+      "universityId": "umw",
+      "name": "Kierunek lekarsko-dentystyczny w języku angielskim",
+      "language": "en",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat (10 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Kształcenie w diagnostyce i leczeniu chorób jamy ustnej oraz profilaktyce stomatologicznej.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Załącznik 5 do uchwały 2918/2026: biologia oraz chemia lub matematyka lub fizyka; minimum sumy 100 punktów i po 30% z przedmiotów dla polskiej matury. Wymagana osobna weryfikacja języka angielskiego co najmniej B2. Tabela podaje przeliczniki PP ×1 i PR ×1,5, natomiast §3 ust.3 odrębnie opisuje polską nową maturę jako 1%=1 punkt; bez rozstrzygnięcia zakresu tych zapisów nie udostępniamy automatycznej sumy. Sprawdź punktację i dokumenty w Biurze Rekrutacji. Brak osobnego potwierdzonego progu English Division.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-lekarsko-dentystyczny-en",
+        "umw-plan-lekarsko-dentystyczny-en",
+        "umw-bip-2027",
+        "umw-english"
+      ],
+      "thresholds": [],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy."
+    },
+    {
+      "id": "umw-farmacja",
+      "universityId": "umw",
+      "name": "Farmacja",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5,5 roku według karty; 10 semestrów w programie",
+      "referenceYear": "2026/2027",
+      "description": "Projektowanie, wytwarzanie i analiza leków, farmakologia oraz opieka farmaceutyczna.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "chemia",
+        "biologia",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Karta oferty podaje 5,5 roku; metryczka programu 2026/27 wskazuje 10 semestrów i obejmuje praktykę w aptece. Zachowano obydwa zapisy. Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia. W 2026/27 chemia PR obowiązkowa; w 2027/28 dwa różne przedmioty spośród chemii, biologii i matematyki.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-farmacja",
+        "umw-plan-farmacja",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 68,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 79,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 70,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-farmacja-2027",
+      "historicalAdmissionRuleId": "umw-farmacja-2026"
+    },
+    {
+      "id": "umw-analityka-medyczna",
+      "universityId": "umw",
+      "name": "Analityka medyczna",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat (10 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Diagnostyka laboratoryjna, analiza materiału biologicznego i interpretacja wyników badań.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-analityka-medyczna",
+        "umw-plan-analityka-medyczna",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 129,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 117,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 89,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-analityka-medyczna-2027",
+      "historicalAdmissionRuleId": "umw-analityka-medyczna-2026"
+    },
+    {
+      "id": "umw-fizjoterapia",
+      "universityId": "umw",
+      "name": "Fizjoterapia",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat (10 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Diagnostyka funkcjonalna, rehabilitacja i usprawnianie pacjentów w różnych obszarach klinicznych.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-fizjoterapia",
+        "umw-plan-fizjoterapia",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 123,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 132,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 135,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-fizjoterapia-2027",
+      "historicalAdmissionRuleId": "umw-fizjoterapia-2026"
+    },
+    {
+      "id": "umw-psychologia",
+      "universityId": "umw",
+      "name": "Psychologia",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5 lat (10 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Procesy psychiczne, diagnoza psychologiczna, zdrowie psychiczne oraz kontekst kliniczny i społeczny.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "język polski",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "informatyka",
+        "historia",
+        "WOS"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia. Podstawa ×0,7; rozszerzenie ×1. W 2026/27 wymagany angielski, w 2027/28 dopuszczone języki z tabeli uchwały.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-psychologia",
+        "umw-plan-psychologia",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 230,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-psychologia-2027",
+      "historicalAdmissionRuleId": "umw-psychologia-2026"
+    },
+    {
+      "id": "umw-pielegniarstwo",
+      "universityId": "umw",
+      "name": "Pielęgniarstwo",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Opieka pielęgniarska, nauki medyczne, procedury kliniczne oraz praktyki z pacjentem.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-pielegniarstwo",
+        "umw-plan-pielegniarstwo",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 159,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 89,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 80,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-pielegniarstwo-2027",
+      "historicalAdmissionRuleId": "umw-pielegniarstwo-2026"
+    },
+    {
+      "id": "umw-pielegniarstwo-en",
+      "universityId": "umw",
+      "name": "Pielęgniarstwo w języku angielskim",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Opieka pielęgniarska, nauki medyczne, procedury kliniczne oraz praktyki z pacjentem.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Załącznik 5 do uchwały 2918/2026: jeden przedmiot spośród biologii, chemii, matematyki i fizyki. Wymagana osobna weryfikacja języka angielskiego co najmniej B2. Tabela podaje przeliczniki PP ×1 i PR ×1,5, natomiast §3 ust.3 odrębnie opisuje polską nową maturę jako 1%=1 punkt; bez rozstrzygnięcia zakresu tych zapisów nie udostępniamy automatycznej sumy. Sprawdź punktację i dokumenty w Biurze Rekrutacji. Brak osobnego potwierdzonego progu English Division.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-pielegniarstwo-en",
+        "umw-plan-pielegniarstwo-en",
+        "umw-bip-2027",
+        "umw-english"
+      ],
+      "thresholds": [],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy."
+    },
+    {
+      "id": "umw-poloznictwo",
+      "universityId": "umw",
+      "name": "Położnictwo",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Opieka nad kobietą, ciężarną, rodzącą i noworodkiem oraz praktyka położnicza.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-poloznictwo",
+        "umw-plan-poloznictwo",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 144,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 72,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 74,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-poloznictwo-2027",
+      "historicalAdmissionRuleId": "umw-poloznictwo-2026"
+    },
+    {
+      "id": "umw-ratownictwo-medyczne",
+      "universityId": "umw",
+      "name": "Ratownictwo medyczne",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Medycyna ratunkowa, postępowanie w stanach nagłych i medyczne czynności ratunkowe.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-ratownictwo-medyczne",
+        "umw-plan-ratownictwo-medyczne",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 144,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 66,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 74,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-ratownictwo-medyczne-2027",
+      "historicalAdmissionRuleId": "umw-ratownictwo-medyczne-2026"
+    },
+    {
+      "id": "umw-zdrowie-publiczne",
+      "universityId": "umw",
+      "name": "Zdrowie publiczne",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Promocja zdrowia, epidemiologia, profilaktyka oraz organizacja systemu ochrony zdrowia.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "geografia"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-zdrowie-publiczne",
+        "umw-plan-zdrowie-publiczne",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 64,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 30,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 33,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-zdrowie-publiczne-2027",
+      "historicalAdmissionRuleId": "umw-zdrowie-publiczne-2026"
+    },
+    {
+      "id": "umw-dietetyka",
+      "universityId": "umw",
+      "name": "Dietetyka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Żywienie człowieka, dietoterapia, ocena stanu odżywienia oraz jakość i bezpieczeństwo żywności.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-dietetyka",
+        "umw-plan-dietetyka",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 136,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 37,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2024/2025",
+          "round": null,
+          "value": 54,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-dietetyka-2027",
+      "historicalAdmissionRuleId": "umw-dietetyka-2026"
+    },
+    {
+      "id": "umw-elektroradiologia",
+      "universityId": "umw",
+      "name": "Elektroradiologia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Techniki obrazowania medycznego, radioterapia, elektrofizjologia i ochrona radiologiczna.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "informatyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-elektroradiologia",
+        "umw-plan-elektroradiologia",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 158,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 70,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-elektroradiologia-2027",
+      "historicalAdmissionRuleId": "umw-elektroradiologia-2026"
+    },
+    {
+      "id": "umw-biologia-medyczna",
+      "universityId": "umw",
+      "name": "Biologia medyczna",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lat (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Biologia komórkowa i molekularna, biotechnologia oraz metody laboratoryjne stosowane w badaniach medycznych.",
+      "fields": [
+        "zdrowie",
+        "nauki medyczne"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Zasady 2027/2028 z właściwego załącznika uchwały 2918/2026 lub 2957/2026. Osobny kalkulator 2026/2027 służy porównaniu historycznemu. Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+      "sourceIds": [
+        "umw-oferta",
+        "umw-card-biologia-medyczna",
+        "umw-plan-biologia-medyczna",
+        "umw-bip-2027",
+        "umw-bip-2026",
+        "umw-thresholds"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 149,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 113,
+          "status": "official",
+          "sourceId": "umw-thresholds",
+          "basis": "unspecified",
+          "note": "Zbiorczy próg punktowy w oficjalnym zestawieniu po rekrutacji, część stacjonarna, Wrocław. Nie podano tury ani rozróżnienia kwalifikacja/przyjęcie. Nie dotyczy filii ani English Division; nie jest minimum formalnym."
+        }
+      ],
+      "careers": [],
+      "careerNote": "Obszary pracy opisuje oficjalna karta. W zawodach regulowanych dyplom nie zastępuje wymaganych uprawnień; nie przypisano danych ELA ani odrębnej analizy rynku pracy.",
+      "admissionRuleId": "umw-biologia-medyczna-2027",
+      "historicalAdmissionRuleId": "umw-biologia-medyczna-2026"
+    }
+  ]
+}

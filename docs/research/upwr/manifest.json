@@ -1,0 +1,574 @@
+{
+  "checkedAt": "2026-11-10",
+  "offerYear": "2026/2027",
+  "rulesYear": "2027/2028",
+  "officialList": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/",
+  "expectedOffers": 28,
+  "excluded": [],
+  "offers": [
+    {
+      "programmeId": "upwr-applied-bioeconomy",
+      "irkCode": "IAB-AI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IAB-AI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/62",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "en",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        24,
+        20,
+        20,
+        20,
+        12,
+        10
+      ],
+      "subjectRows": 116,
+      "title": "Applied Bioeconomy: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-adaptacje-do-zmiany-klimatu",
+      "irkCode": "IAZ-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IAZ-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/60",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        26,
+        22,
+        21,
+        20,
+        2,
+        14
+      ],
+      "subjectRows": 115,
+      "title": "adaptacje do zmiany klimatu: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-agroinzynieria",
+      "irkCode": "PAI_P-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/PAI_P-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/5/54",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        9,
+        21,
+        27,
+        21,
+        19,
+        1,
+        14
+      ],
+      "subjectRows": 112,
+      "title": "agroinżynieria: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-architektura-krajobrazu",
+      "irkCode": "GAK-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/GAK-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/69/31",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        11,
+        27,
+        30,
+        31,
+        27,
+        20,
+        13
+      ],
+      "subjectRows": 159,
+      "title": "architektura krajobrazu: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-bioinformatyka",
+      "irkCode": "BBI-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BBI-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/1/28",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        11,
+        21,
+        23,
+        30,
+        22,
+        19,
+        12
+      ],
+      "subjectRows": 138,
+      "title": "bioinformatyka: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-biologia",
+      "irkCode": "BBL-SL",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BBL-SL/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/2/1/29",
+      "duration": "3 lata (6 semestrów)",
+      "language": "pl",
+      "semesters": 6,
+      "subjectsPerSemester": [
+        12,
+        26,
+        25,
+        33,
+        31,
+        25
+      ],
+      "subjectRows": 152,
+      "title": "biologia: 2026/27, studia pierwszego stopnia (licencjat), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-biologia-czlowieka",
+      "irkCode": "BBC-SL",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BBC-SL/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/2/1/30",
+      "duration": "3 lata (6 semestrów)",
+      "language": "pl",
+      "semesters": 6,
+      "subjectsPerSemester": [
+        12,
+        25,
+        21,
+        26,
+        22,
+        13
+      ],
+      "subjectRows": 119,
+      "title": "biologia człowieka: 2026/27, studia pierwszego stopnia (licencjat), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-biotechnologia",
+      "irkCode": "NBT-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NBT-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/2/21",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        12,
+        18,
+        19,
+        24,
+        29,
+        14,
+        14
+      ],
+      "subjectRows": 130,
+      "title": "biotechnologia: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-budownictwo",
+      "irkCode": "IBU-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IBU-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/45",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        11,
+        24,
+        17,
+        22,
+        23,
+        25,
+        11
+      ],
+      "subjectRows": 133,
+      "title": "budownictwo: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-dietetyka",
+      "irkCode": "NDI-SL",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NDI-SL/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/2/2/25",
+      "duration": "3 lata (6 semestrów)",
+      "language": "pl",
+      "semesters": 6,
+      "subjectsPerSemester": [
+        11,
+        21,
+        16,
+        23,
+        24,
+        13
+      ],
+      "subjectRows": 108,
+      "title": "dietetyka: 2026/27, studia pierwszego stopnia (licencjat), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-ekonomia",
+      "irkCode": "P_PEK_EZ-SL",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/P_PEK_EZ-SL/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/2/5/35",
+      "duration": "3 lata (6 semestrów)",
+      "language": "pl",
+      "semesters": 6,
+      "subjectsPerSemester": [
+        13,
+        22,
+        28,
+        1,
+        27,
+        22
+      ],
+      "subjectRows": 113,
+      "title": "ekonomia: 2026/27, studia pierwszego stopnia (licencjat), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-geodezja-i-kartografia",
+      "irkCode": "IGI-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IGI-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/47",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        11,
+        16,
+        22,
+        23,
+        19,
+        21,
+        8
+      ],
+      "subjectRows": 120,
+      "title": "geodezja i kartografia: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-gospodarka-przestrzenna",
+      "irkCode": "GGP-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/GGP-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/69/32",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        12,
+        21,
+        25,
+        24,
+        22,
+        16,
+        10
+      ],
+      "subjectRows": 130,
+      "title": "gospodarka przestrzenna: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-inzynieria-danych-satelitarnych-i-kosmicznych",
+      "irkCode": "IDS-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IDS-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/61",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        9,
+        20,
+        17,
+        20,
+        16,
+        14,
+        8
+      ],
+      "subjectRows": 104,
+      "title": "inżynieria danych satelitarnych i kosmicznych: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-inzynieria-bezpieczenstwa",
+      "irkCode": "IIB-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IIB-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/46",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        11,
+        19,
+        26,
+        20,
+        32,
+        26,
+        14
+      ],
+      "subjectRows": 148,
+      "title": "inżynieria bezpieczeństwa: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-inzynieria-i-gospodarka-wodna",
+      "irkCode": "IGW-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IGW-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/48",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        17,
+        14,
+        24,
+        32,
+        31,
+        10
+      ],
+      "subjectRows": 138,
+      "title": "inżynieria i gospodarka wodna: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-inzynieria-srodowiska",
+      "irkCode": "IIS-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IIS-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/3/49",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        20,
+        19,
+        21,
+        27,
+        26,
+        8
+      ],
+      "subjectRows": 131,
+      "title": "inżynieria środowiska: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-ochrona-srodowiska",
+      "irkCode": "POS-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/POS-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/5/38",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        22,
+        26,
+        24,
+        42,
+        21,
+        13
+      ],
+      "subjectRows": 158,
+      "title": "ochrona środowiska: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-odnawialne-zrodla-energii-i-gospodarka-odpadami",
+      "irkCode": "POZ-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/POZ-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/5/39",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        22,
+        22,
+        28,
+        23,
+        22,
+        10
+      ],
+      "subjectRows": 137,
+      "title": "odnawialne źródła energii i gospodarka odpadami: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-ogrodnictwo",
+      "irkCode": "POG-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/POG-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/5/40",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        8,
+        18,
+        25,
+        23,
+        28,
+        7,
+        13
+      ],
+      "subjectRows": 122,
+      "title": "ogrodnictwo: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-rolnictwo",
+      "irkCode": "PRO-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/PRO-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/5/41",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        15,
+        30,
+        23,
+        29,
+        10,
+        13
+      ],
+      "subjectRows": 130,
+      "title": "rolnictwo: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-technologia-i-organizacja-gastronomii",
+      "irkCode": "NTG-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NTG-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/2/22",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        19,
+        27,
+        8,
+        24,
+        22,
+        8
+      ],
+      "subjectRows": 118,
+      "title": "technologia i organizacja gastronomii: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-technologia-zywnosci-i-zywienie-czlowieka",
+      "irkCode": "NTZ-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NTZ-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/2/23",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        10,
+        23,
+        23,
+        20,
+        35,
+        18,
+        18
+      ],
+      "subjectRows": 147,
+      "title": "technologia żywności i żywienie człowieka: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-zarzadzanie-i-inzynieria-produkcji",
+      "irkCode": "PZI-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/PZI-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/5/43",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        12,
+        20,
+        22,
+        22,
+        21,
+        25,
+        8
+      ],
+      "subjectRows": 130,
+      "title": "zarządzanie i inżynieria produkcji: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-zarzadzanie-jakoscia-i-analiza-zywnosci",
+      "irkCode": "NZJ-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NZJ-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/2/24",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        8,
+        22,
+        20,
+        20,
+        21,
+        21,
+        12
+      ],
+      "subjectRows": 124,
+      "title": "zarządzanie jakością i analiza żywności: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-zootechnika",
+      "irkCode": "BZO-SI",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BZO-SI/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/4/1/50",
+      "duration": "3,5 roku (7 semestrów)",
+      "language": "pl",
+      "semesters": 7,
+      "subjectsPerSemester": [
+        13,
+        32,
+        29,
+        22,
+        18,
+        27,
+        18
+      ],
+      "subjectRows": 159,
+      "title": "zootechnika: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-weterynaria",
+      "irkCode": "MWW-SJ",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/MWW-SJ/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/7/4/52",
+      "duration": "5,5 roku (11 semestrów)",
+      "language": "pl",
+      "semesters": 11,
+      "subjectsPerSemester": [
+        11,
+        20,
+        19,
+        13,
+        11,
+        9,
+        20,
+        9,
+        7,
+        30,
+        25
+      ],
+      "subjectRows": 174,
+      "title": "weterynaria: 2026/27, jednolite studia magisterskie, stacjonarne - Sylabus UPWr"
+    },
+    {
+      "programmeId": "upwr-weterynaria-w-jezyku-angielskim",
+      "irkCode": "MWW-AJ",
+      "irkUrl": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/MWW-AJ/",
+      "planUrl": "https://sylabus.upwr.edu.pl/pl/9/1/7/4/53",
+      "duration": "5,5 roku (11 semestrów)",
+      "language": "en",
+      "semesters": 11,
+      "subjectsPerSemester": [
+        11,
+        13,
+        12,
+        12,
+        10,
+        9,
+        15,
+        9,
+        7,
+        28,
+        22
+      ],
+      "subjectRows": 148,
+      "title": "weterynaria (Veterinary Medicine): 2026/27, jednolite studia magisterskie, stacjonarne - Sylabus UPWr"
+    }
+  ]
+}

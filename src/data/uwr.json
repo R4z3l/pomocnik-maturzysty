@@ -1580,6 +1580,15 @@
       "checkedAt": "2026-10-25",
       "kind": "portal",
       "note": "Portal stwierdza, że Uniwersytet Wrocławski nie publikuje statystyk punktowych z poprzednich lat, z wyjątkiem wybranych kierunków na Wydziale Matematyki i Informatyki oraz Wydziale Fizyki i Astronomii; odsyła do zakładek zasad na kartach. Nie odczytano na tej stronie konkretnych progów 2022+. Brak podstaw do uogólnienia wyjątku. Wykluczone z kolejnych aktualizacji: uogólnienie nie uwzględnia oficjalnych zestawień Instytutu Filologii Romańskiej."
+    },
+    {
+      "id": "uwr-european-cultures-programme-2023",
+      "title": "Uniwersytet Wrocławski — European Cultures, program i plan studiów",
+      "url": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829",
+      "publisher": "Uniwersytet Wrocławski",
+      "kind": "official",
+      "note": "Uchwała 168/2023, plan stacjonarnego I stopnia w języku angielskim od cyklu 2023/24. Nie potwierdza niezmienionego programu naboru 2027/28.",
+      "checkedAt": "2026-11-09"
     }
   ],
   "programmes": [
@@ -2878,7 +2887,8 @@
       "subjectsVerified": false,
       "admissionNote": "Karta 2027/2028 nie publikuje punktowej tabeli PP/PR dla polskiej nowej matury. Wymaga dokumentu uprawniającego do studiów oraz potwierdzenia angielskiego B2; formalna ocena koordynatora dotyczy świadectw zagranicznych. Do implementacji: odrębny formularz warunków dokumentowych i językowych; brak podstaw do wymyślenia sumy punktów. W dokumentach 2027/2028 dla obywateli polskich, sekcja Nowa matura, B2 można potwierdzić m.in. angielskim PR ≥60%, maturą dwujęzyczną z angielskiego, dyplomem studiów z lektoratem angielskiego minimum B2 w suplemencie albo dokumentem z załącznika nr 2 do rozporządzenia z 30 lipca 2025 r. Karta odsyła do wykazu dokumentów; nie rozpisuje kompletnej listy certyfikatów w kryteriach. Polska ścieżka jest więc jawnie przewidziana, ale nie opublikowano dla niej wzoru rankingu PP/PR. Źródło dokumentów: https://rekrutacja.uwr.edu.pl/kierunek/61?rok=6&tab=harmonogram",
       "sourceIds": [
-        "uwr-karta-61"
+        "uwr-karta-61",
+        "uwr-european-cultures-programme-2023"
       ],
       "thresholds": [],
       "careers": [

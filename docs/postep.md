@@ -1,3 +1,37 @@
+# Dodanie Uniwersytetu Medycznego im. Piastów Śląskich we Wrocławiu — 10.11.2026
+
+Dodano 16 ofert (13 PL, 3 EN), 26 wersji reguł dla 13 ofert PL, 35 oficjalnych progów 2024–2026 i 16 częściowych spisów zajęć. Osobne zasady 2026/27 służą dopasowaniu matury i porównaniu progów; uwzględniono zmiany farmacji, psychologii i minimów. English Division bez automatycznej sumy z powodu nierozstrzygniętego zakresu zapisów w dokumencie. ELA pozostaje luką. Parser i adapter działają bez AI. Katalog: 215 ofert pięciu uczelni, 200 kalkulatorów, 116 pełnych i 99 częściowych spisów. Audyt: docs/audyt-umw.md.
+
+# Dodanie Uniwersytetu Przyrodniczego we Wrocławiu — 10.11.2026
+
+Dodano 28 ofert stacjonarnych, 28 pełnych spisów planów 2026/2027, reguły kalkulatorów 2027/2028 dla polskiej nowej matury PP/PR bez KZ i 53 nieoficjalne progi z portalu dla naborów 2025/2026 oraz 2026/2027. Tabela portalu 2024/2025 nie zawierała liczb. Brak ELA pozostaje jawny. Katalog: 199 ofert, 187 kalkulatorów, 116 pełnych planów i 83 listy częściowe. Adapter i monitor działają poza aplikacją, bez AI. Szczegóły: docs/audyt-upwr.md. Poniżej wcześniejsze stany audytu.
+
+# Domknięcie katalogowej bazy trzech uczelni — 09.11.2026
+
+Zakres potwierdzony przez użytkownika: Uniwersytet Wrocławski, Uniwersytet Ekonomiczny we Wrocławiu i Politechnika Wrocławska, 171 ofert stacjonarnych I stopnia i jednolitych we Wrocławiu, PL/EN. To zakres odbioru bazy katalogowej; nie jest to deklaracja ukończenia całego planu aplikacji ani potwierdzenie wszystkich ofert i warunków 2027/28.
+
+- Wszystkie 171 ofert ma opis, tożsamość, czas studiów, źródła oraz spis zajęć. 88 rekordów to pełne plany wskazanego cyklu, 83 to jawne listy częściowe Uniwersytetu Wrocławskiego. Nie ma już rekordu programu ze statusem unavailable.
+- European Cultures: odnaleziono w BIP uchwałę Senatu 168/2023 i wizualnie sprawdzono wszystkie tabele planu, strony 51–56 z 57 stron. 59 wpisów, sześć semestrów, pule wyboru, warunkowy język polski i WF. Plan od cyklu 2023/24, bez dopisywania potwierdzenia 2027/28. Odczyt jest chroniony skrótami dokumentu i transkrypcji.
+- Politechnika Wrocławska: pełny odczyt wszystkich 62 opublikowanych planów 2026/27, 644 tabel i 763 rozwijanych grup. Usunięto instrukcje wyboru z przedmiotów, nazwy koszyków przeniesiono do tytułów; zagnieżdżone pule zachowują hierarchię. Zweryfikowano 5788 rzeczywistych wierszy zajęć. Szczegóły: docs/audyt-pwr.md i raport JSON w docs/research.
+- 159 ofert ma zweryfikowaną regułę kalkulatora, 12 anglojęzycznych ofert Uniwersytetu Wrocławskiego — odrębne procedury dokumentowe. 604 rekordy historii z naborów 2024–2026; brak progu w części ofert pozostaje jawnym brakiem, a nie zerem.
+- Okresowe utrzymanie bez tokenów: 66 adapterów odczytu tabel, metryczek i planów oraz monitor pozostałych oficjalnych źródeł. Nowe lub zmienione dokumenty bez zgodnego parsera wymagają przeglądu człowieka. Nie włączono stałego harmonogramu, nie zmieniono polityki wykluczeń i nie opublikowano aplikacji.
+
+Dalszy zakres: pełny audyt 83 częściowych spisów, nowe materiały 2027/28 w miarę publikacji oraz moduł doradczy z danymi absolwentów i ścieżkami zawodowymi. Jawne listy częściowe nie są oznaczane jako pełne. Kryteria i ograniczenia odbioru: docs/research/baza-trzy-uczelnie-2026-11-09.md. Wcześniejsze wpisy poniżej dokumentują stan na poprzednich etapach.
+
+---
+
+# Baza wiedzy i pobieranie bez AI — 09.11.2026
+
+Aktualny zakres: 171 ofert trzech uczelni — Uniwersytetu Wrocławskiego, Uniwersytetu Ekonomicznego we Wrocławiu i Politechniki Wrocławskiej. Starsze wpisy poniżej pozostają historią, nie raportem aktualnego pokrycia.
+
+Dodano lokalny proces pobierania, cache, porównanie zmian źródeł, osobne propozycje oraz zastosowanie po testach, walidacji, kontroli typów, buildzie i kontroli paczki. Bez modeli i API AI. Reguły polityki źródeł i wykluczeń obowiązują przed pobraniem i przed przekierowaniem. Zmiany nieznanego układu dokumentu lub reguły są zatrzymywane do przeglądu człowieka. Szczegóły i obsługiwane adaptery: `docs/aktualizacja-bez-ai.md`, widoczne w „Instrukcjach”. Nie włączono stałego harmonogramu ani automatycznej publikacji.
+
+W „Źródła i pokrycie” dodano dynamiczny stan bazy osobno dla każdej uczelni; poprawiono mianownik pokrycia ELA po dodaniu Politechniki Wrocławskiej. README nie opisuje już katalogu dwóch uczelni. Pełne plany, częściowe spisy i luki pozostają odrębne. Uzupełniono czas studiów wszystkich 20 ofert Uniwersytetu Ekonomicznego we Wrocławiu z metryczek oficjalnego programu 2026/27. Wszystkie 171 ofert mają teraz potwierdzony czas studiów właściwego rocznika. Propozycja została zastosowana dopiero po pięciu kontrolach w oddzielnej kopii. Przeprowadzono monitorowanie 460 źródeł z rejestru; to kontrola pobierania i punkt odniesienia zmian, nie nowy audyt merytoryczny wszystkich dokumentów.
+
+Nie uznajemy całego etapu bazy wiedzy za zakończony: nadal potrzeba potwierdzenia kompletności częściowych spisów, brakującego planu European Cultures, dodatkowych danych absolwentów i danych naboru 2027/28 w miarę publikacji. Monitorowanie źródeł nie usuwa tych luk automatycznie.
+
+---
+
 # Instrukcje w aplikacji — 29.10.2026
 
 Dodano sekcję „Instrukcje” z pięcioma tematami: aktualizacja z AI, dodawanie uczelni, źródła, programy i specjalności oraz prywatna publikacja. Treść pochodzi bezpośrednio z dokumentów Markdown projektu i jest dołączana przy budowaniu; aktualizacja wersji online wymaga ponownej publikacji. Polecenie dla AI ma przycisk kopiowania i komunikat błędu, gdy przeglądarka nie udostępnia schowka. Zasada w AGENTS.md nakazuje dodawać przyszłe instrukcje dla użytkownika do widoku. W przeglądarce sprawdzono wybór instrukcji, linki, kopiowanie i układ przy szerokości 390 px. Testy, walidacja danych i build przeszły.

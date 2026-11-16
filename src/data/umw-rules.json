@@ -1,0 +1,1408 @@
+[
+  {
+    "id": "umw-lekarski-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Kierunek lekarski",
+    "formula": "Biologia rozszerzona + Drugi przedmiot rozszerzony; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_1.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi przedmiot rozszerzony",
+        "subjects": [
+          "chemia",
+          "matematyka",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+    "minimumTotal": 100
+  },
+  {
+    "id": "umw-lekarski-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Kierunek lekarski",
+    "formula": "Biologia rozszerzona + Drugi przedmiot rozszerzony; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.1_2774-8.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi przedmiot rozszerzony",
+        "subjects": [
+          "chemia",
+          "matematyka",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+    "minimumTotal": 100
+  },
+  {
+    "id": "umw-lekarsko-dentystyczny-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Kierunek lekarsko-dentystyczny",
+    "formula": "Biologia rozszerzona + Drugi przedmiot rozszerzony; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_1.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi przedmiot rozszerzony",
+        "subjects": [
+          "chemia",
+          "matematyka",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+    "minimumTotal": 100
+  },
+  {
+    "id": "umw-lekarsko-dentystyczny-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Kierunek lekarsko-dentystyczny",
+    "formula": "Biologia rozszerzona + Drugi przedmiot rozszerzony; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.1_2774-8.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi przedmiot rozszerzony",
+        "subjects": [
+          "chemia",
+          "matematyka",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia.",
+    "minimumTotal": 100
+  },
+  {
+    "id": "umw-farmacja-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Farmacja",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_1.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "chemia",
+          "biologia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "chemia",
+          "biologia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia. W 2026/27 chemia PR obowiązkowa; w 2027/28 dwa różne przedmioty spośród chemii, biologii i matematyki."
+  },
+  {
+    "id": "umw-farmacja-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Farmacja",
+    "formula": "Chemia rozszerzona + Drugi przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.1_2774-8.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Chemia rozszerzona",
+        "subjects": [
+          "chemia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi przedmiot",
+        "subjects": [
+          "biologia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia. W 2026/27 chemia PR obowiązkowa; w 2027/28 dwa różne przedmioty spośród chemii, biologii i matematyki."
+  },
+  {
+    "id": "umw-analityka-medyczna-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Analityka medyczna",
+    "formula": "Biologia rozszerzona + Drugi przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_1.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi przedmiot",
+        "subjects": [
+          "chemia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-analityka-medyczna-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Analityka medyczna",
+    "formula": "Biologia rozszerzona + Drugi przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.1_2774-8.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia rozszerzona",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi przedmiot",
+        "subjects": [
+          "chemia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-fizjoterapia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Fizjoterapia",
+    "formula": "Biologia + Drugi przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_1.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi przedmiot",
+        "subjects": [
+          "chemia",
+          "matematyka",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-fizjoterapia-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Fizjoterapia",
+    "formula": "Biologia + Drugi przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.1_2774-8.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi przedmiot",
+        "subjects": [
+          "chemia",
+          "matematyka",
+          "fizyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-psychologia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Psychologia",
+    "formula": "Język polski + Język obcy + Przedmiot do wyboru; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/10/psych-2957_1.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.7,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30
+      },
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.7,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "informatyka",
+          "historia",
+          "WOS"
+        ],
+        "factors": {
+          "basic": 0.7,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPercent": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia. Podstawa ×0,7; rozszerzenie ×1. W 2026/27 wymagany angielski, w 2027/28 dopuszczone języki z tabeli uchwały."
+  },
+  {
+    "id": "umw-psychologia-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Psychologia",
+    "formula": "Język polski + Język angielski + Przedmiot do wyboru; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/07/2754_1_tob9.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPoints": 30
+      },
+      {
+        "label": "Język angielski",
+        "subjects": [
+          "język angielski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPoints": 30
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "informatyka",
+          "historia",
+          "WOS"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia. Podstawa ×0,8; rozszerzenie ×1. W 2026/27 wymagany angielski, w 2027/28 dopuszczone języki z tabeli uchwały."
+  },
+  {
+    "id": "umw-pielegniarstwo-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Pielęgniarstwo",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-pielegniarstwo-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Pielęgniarstwo",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-poloznictwo-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Położnictwo",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-poloznictwo-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Położnictwo",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-ratownictwo-medyczne-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Ratownictwo medyczne",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-ratownictwo-medyczne-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Ratownictwo medyczne",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-zdrowie-publiczne-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Zdrowie publiczne",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-zdrowie-publiczne-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Zdrowie publiczne",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-dietetyka-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Dietetyka",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-dietetyka-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Dietetyka",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-elektroradiologia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Elektroradiologia",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-elektroradiologia-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Elektroradiologia",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-biologia-medyczna-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Biologia medyczna",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/06/2918_2.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer"
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 1
+        },
+        "weight": 1,
+        "minPercent": 30,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30% z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  },
+  {
+    "id": "umw-biologia-medyczna-2026",
+    "year": "2026/2027",
+    "title": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — Biologia medyczna",
+    "formula": "Pierwszy przedmiot + Drugi, różny przedmiot; korzystniejszy dopuszczony poziom, minima i współczynniki w składnikach.",
+    "sourceUrl": "https://rekrutacja.umw.edu.pl/wp-content/uploads/2026/05/zal.2-_2774.pdf",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Pierwszy przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "minPoints": 30
+      },
+      {
+        "label": "Drugi, różny przedmiot",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka",
+          "fizyka",
+          "język angielski",
+          "język francuski",
+          "język hiszpański",
+          "język niemiecki",
+          "język rosyjski",
+          "język ukraiński",
+          "język włoski"
+        ],
+        "factors": {
+          "basic": 0.8,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "rounding": "integer",
+        "excludeSubjectsFromGroups": [
+          0
+        ],
+        "minPoints": 30
+      }
+    ],
+    "caveat": "Polska nowa matura pisemna; bez IB/EB, starej matury, świadectw zagranicznych, olimpiad i egzaminu uczelni. Co najmniej 30 punktów po przeliczeniu z każdego uwzględnionego przedmiotu. Dwa różne przedmioty nie oznaczają dwóch poziomów tego samego przedmiotu. Remisy mają dodatkowe kryteria, których nie rozstrzygamy. Wymagane są również dokumenty i odpowiednie zaświadczenia zdrowotne. Reguła nie gwarantuje uruchomienia naboru ani przyjęcia."
+  }
+]

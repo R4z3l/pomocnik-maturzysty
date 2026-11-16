@@ -1,0 +1,602 @@
+[
+  {
+    "text": "PL",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "EN",
+    "url": "https://admission.umw.edu.pl/"
+  },
+  {
+    "text": "REKRUTACJA #UMEDWROC",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "OFERTA",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "FOLDERY REKRUTACYJNE",
+    "url": "https://rekrutacja.umw.edu.pl/foldery-rekrutacyjne"
+  },
+  {
+    "text": "RANKINGI MIĘDZYNARODOWE",
+    "url": "https://rekrutacja.umw.edu.pl/foldery-rekrutacyjne"
+  },
+  {
+    "text": "LEKARSKI FILIA WAŁBRZYCH",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski-filia"
+  },
+  {
+    "text": "LEKARSKI",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski"
+  },
+  {
+    "text": "LEKARSKO-DENTYSTYCZNY",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarsko-dentystyczny"
+  },
+  {
+    "text": "FARMACJA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-farmacja"
+  },
+  {
+    "text": "ANALITYKA MEDYCZNA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-analityka-medyczna"
+  },
+  {
+    "text": "ZDROWIE PUBLICZNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-zdrowie-publiczne"
+  },
+  {
+    "text": "RATOWNICTWO MEDYCZNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-ratownictwo-medyczne"
+  },
+  {
+    "text": "FIZJOTERAPIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-fizjoterapia"
+  },
+  {
+    "text": "DIETETYKA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-dietetyka"
+  },
+  {
+    "text": "PIELĘGNIARSTWO",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-pielegniarstwo"
+  },
+  {
+    "text": "POŁOŻNICTWO",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-poloznictwo"
+  },
+  {
+    "text": "ELEKTRORADIOLOGIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-elektroradiologia"
+  },
+  {
+    "text": "BIOLOGIA MEDYCZNA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-biologia-medyczna/"
+  },
+  {
+    "text": "OPTOMETRIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-optometria/"
+  },
+  {
+    "text": "PSYCHOLOGIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-psychologia/"
+  },
+  {
+    "text": "ENGLISH DIVISION",
+    "url": "https://admission.umw.edu.pl/"
+  },
+  {
+    "text": "PRE-COURSE",
+    "url": "https://rekrutacja.umw.edu.pl/pre-course-offer"
+  },
+  {
+    "text": "KLASY PATRONACKIE",
+    "url": "https://rekrutacja.umw.edu.pl/klasy-patronackie"
+  },
+  {
+    "text": "TEST PREDYSPOZYCJI",
+    "url": "https://rekrutacja.umw.edu.pl/test-predyspozycji"
+  },
+  {
+    "text": "POZ dla STUDENTÓW",
+    "url": "https://rekrutacja.umw.edu.pl/poz-dla-studentow"
+  },
+  {
+    "text": "STUDIA PODYPLOMOWE",
+    "url": "https://podyplomowe.umw.edu.pl/"
+  },
+  {
+    "text": "SZKOŁA DOKTORSKA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-szkola-doktorska"
+  },
+  {
+    "text": "UNIWERSYTET TRZECIEGO WIEKU",
+    "url": "https://rekrutacja.umw.edu.pl/utw"
+  },
+  {
+    "text": "NASI REKRUTERZY",
+    "url": "https://rekrutacja.umw.edu.pl/nasi-rekruterzy/"
+  },
+  {
+    "text": "HARMONOGRAMY REKRUTACJI",
+    "url": "https://rekrutacja.umw.edu.pl/harmonogramy-rekrutacji"
+  },
+  {
+    "text": "WARUNKI REKRUTACJI",
+    "url": "https://rekrutacja.umw.edu.pl/warunki-rekrutacji"
+  },
+  {
+    "text": "OPŁATY",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "OPŁATA REKRUTACYJNA",
+    "url": "https://rekrutacja.umw.edu.pl/oplata-rekrutacyjna/"
+  },
+  {
+    "text": "OPŁATY ZA STUDIA",
+    "url": "https://rekrutacja.umw.edu.pl/oplaty-za-studia/"
+  },
+  {
+    "text": "REJESTRACJA",
+    "url": "https://rekrutacja.umw.edu.pl/rejestracja"
+  },
+  {
+    "text": "LISTY",
+    "url": "https://rekrutacja.umw.edu.pl/listy-rekrutacyjne"
+  },
+  {
+    "text": "NEWS",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "REKRUTACYJNE",
+    "url": "https://rekrutacja.umw.edu.pl/kategoria/rekrutacyjne/"
+  },
+  {
+    "text": "INNE",
+    "url": "https://rekrutacja.umw.edu.pl/kategoria/inne/"
+  },
+  {
+    "text": "LIMITY MIEJSC",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "2025/2026",
+    "url": "https://rekrutacja.umw.edu.pl/limity-miejsc-2025-2026/"
+  },
+  {
+    "text": "2026/2027",
+    "url": "https://rekrutacja.umw.edu.pl/limity-miejsc-2026-2027/"
+  },
+  {
+    "text": "2027/2028",
+    "url": "https://rekrutacja.umw.edu.pl/limity-miejsc-2027-2028/"
+  },
+  {
+    "text": "DOKUMENTY",
+    "url": "https://rekrutacja.umw.edu.pl/dokumenty/"
+  },
+  {
+    "text": "STATYSTYKI",
+    "url": "https://rekrutacja.umw.edu.pl/statystyki/"
+  },
+  {
+    "text": "KONTAKT",
+    "url": "https://rekrutacja.umw.edu.pl/kontakt"
+  },
+  {
+    "text": "WZORY DRUKÓW",
+    "url": "https://rekrutacja.umw.edu.pl/wzory-drukow"
+  },
+  {
+    "text": "MASZ PYTANIE",
+    "url": "https://app.umw.edu.pl/zadaj-pytanie-rekrutacja/"
+  },
+  {
+    "text": "DZIEŃ OTWARTY",
+    "url": "https://rekrutacja.umw.edu.pl/dzien-otwarty/"
+  },
+  {
+    "text": "Rekrutacja – Uniwersytet Medyczny we Wrocławiu",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "OFERTA",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "FOLDERY REKRUTACYJNE",
+    "url": "https://rekrutacja.umw.edu.pl/foldery-rekrutacyjne"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "RANKINGI MIĘDZYNARODOWE",
+    "url": "https://rekrutacja.umw.edu.pl/rankingi-miedzynarodowe/"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "LEKARSKI FILIA WAŁBRZYCH",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski-filia"
+  },
+  {
+    "text": "LEKARSKI",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski"
+  },
+  {
+    "text": "LEKARSKO-DENTYSTYCZNY",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarsko-dentystyczny"
+  },
+  {
+    "text": "FARMACJA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-farmacja"
+  },
+  {
+    "text": "ANALITYKA MEDYCZNA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-analityka-medyczna"
+  },
+  {
+    "text": "ZDROWIE PUBLICZNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-zdrowie-publiczne"
+  },
+  {
+    "text": "RATOWNICTWO MEDYCZNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-ratownictwo-medyczne"
+  },
+  {
+    "text": "FIZJOTERAPIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-fizjoterapia"
+  },
+  {
+    "text": "DIETETYKA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-dietetyka"
+  },
+  {
+    "text": "PIELĘGNIARSTWO",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-pielegniarstwo"
+  },
+  {
+    "text": "POŁOŻNICTWO",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-poloznictwo"
+  },
+  {
+    "text": "ELEKTRORADIOLOGIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-elektroradiologia"
+  },
+  {
+    "text": "BIOLOGIA MEDYCZNA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-biologia-medyczna/"
+  },
+  {
+    "text": "OPTOMETRIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-optometria/"
+  },
+  {
+    "text": "PSYCHOLOGIA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-psychologia/"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "ENGLISH DIVISION",
+    "url": "https://admission.umw.edu.pl/"
+  },
+  {
+    "text": "PRE-COURSE",
+    "url": "https://rekrutacja.umw.edu.pl/pre-course-offer"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "KLASY PATRONACKIE",
+    "url": "https://rekrutacja.umw.edu.pl/klasy-patronackie"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "TEST PREDYSPOZYCJI",
+    "url": "https://rekrutacja.umw.edu.pl/test-predyspozycji"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "POZ dla STUDENTÓW",
+    "url": "https://rekrutacja.umw.edu.pl/poz-dla-studentow"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "STUDIA PODYPLOMOWE",
+    "url": "https://podyplomowe.umw.edu.pl/"
+  },
+  {
+    "text": "SZKOŁA DOKTORSKA",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-szkola-doktorska"
+  },
+  {
+    "text": "UNIWERSYTET TRZECIEGO WIEKU",
+    "url": "https://rekrutacja.umw.edu.pl/utw"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "NASI REKRUTERZY",
+    "url": "https://rekrutacja.umw.edu.pl/nasi-rekruterzy/"
+  },
+  {
+    "text": "HARMONOGRAMY REKRUTACJI",
+    "url": "https://rekrutacja.umw.edu.pl/harmonogramy-rekrutacji"
+  },
+  {
+    "text": "WARUNKI REKRUTACJI",
+    "url": "https://rekrutacja.umw.edu.pl/warunki-rekrutacji"
+  },
+  {
+    "text": "OPŁATY",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "OPŁATA REKRUTACYJNA",
+    "url": "https://rekrutacja.umw.edu.pl/oplata-rekrutacyjna/"
+  },
+  {
+    "text": "OPŁATY ZA STUDIA",
+    "url": "https://rekrutacja.umw.edu.pl/oplaty-za-studia/"
+  },
+  {
+    "text": "REJESTRACJA",
+    "url": "https://rekrutacja.umw.edu.pl/rejestracja"
+  },
+  {
+    "text": "LISTY",
+    "url": "https://rekrutacja.umw.edu.pl/listy-rekrutacyjne"
+  },
+  {
+    "text": "NEWS",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "REKRUTACYJNE",
+    "url": "https://rekrutacja.umw.edu.pl/kategoria/rekrutacyjne/"
+  },
+  {
+    "text": "INNE",
+    "url": "https://rekrutacja.umw.edu.pl/kategoria/inne/"
+  },
+  {
+    "text": "LIMITY MIEJSC",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "2025/2026",
+    "url": "https://rekrutacja.umw.edu.pl/limity-miejsc-2025-2026/"
+  },
+  {
+    "text": "2026/2027",
+    "url": "https://rekrutacja.umw.edu.pl/limity-miejsc-2026-2027/"
+  },
+  {
+    "text": "2027/2028",
+    "url": "https://rekrutacja.umw.edu.pl/limity-miejsc-2027-2028/"
+  },
+  {
+    "text": "DOKUMENTY",
+    "url": "https://rekrutacja.umw.edu.pl/dokumenty/"
+  },
+  {
+    "text": "STATYSTYKI",
+    "url": "https://rekrutacja.umw.edu.pl/statystyki/"
+  },
+  {
+    "text": "KONTAKT",
+    "url": "https://rekrutacja.umw.edu.pl/kontakt"
+  },
+  {
+    "text": "MASZ PYTANIE?",
+    "url": "https://app.umw.edu.pl/zadaj-pytanie-rekrutacja/"
+  },
+  {
+    "text": "DZIEŃ OTWARTY",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "WROCŁAW",
+    "url": "https://rekrutacja.umw.edu.pl/dzien-otwarty"
+  },
+  {
+    "text": "WAŁBRZYCH",
+    "url": "https://rekrutacja.umw.edu.pl/dzien-otwarty-walbrzych"
+  },
+  {
+    "text": "",
+    "url": "https://www.umw.edu.pl/"
+  },
+  {
+    "text": "REKRUTACJA #UMEDWROC",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "Tworzymy historię medycyny →",
+    "url": "https://rekrutacja.umw.edu.pl/#"
+  },
+  {
+    "text": "WYDZIAŁ NAUK O ZDROWIU 2 LETNIE STUDIA II STOPNIA MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "WYDZIAŁ FARMACEUTYCZNY 3-LETNIE STUDIA I STOPNIA LICENCJACKIE STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/harmonogramy-studia-w-jezyku-polskim/"
+  },
+  {
+    "text": "WYDZIAŁ NAUK O ZDROWIU 3-LETNIE STUDIA I STOPNIA LICENCJACKIE – STACJONARNE 2-LETNIE STUDIA II STOPNIA MAGISTERSKIE – NIESTACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/harmonogramy-rekrutacji/"
+  },
+  {
+    "text": "KLASY PATRONACKIE",
+    "url": "https://rekrutacja.umw.edu.pl/klasy-patronackie/"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/dzien-otwarty/"
+  },
+  {
+    "text": "KLIKNIJ TUTAJ I POZNAJ TAJEMNICE KIERUNKÓW UMW",
+    "url": "https://rekrutacja.umw.edu.pl/czego_ci_nie_powiedzieli/"
+  },
+  {
+    "text": "KIERUNEK LEKARSKI WYDZIAŁ LEKARSKI 6-LETNIE STUDIA JEDNOLITE MAGISTERSKIE – STACJONARNE I NIESTACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarski"
+  },
+  {
+    "text": "KIERUNEK LEKARSKO-DENTYSTYCZNY WYDZIAŁ LEKARSKO-STOMATOLOGICZNY 5-LETNIE STUDIA JEDNOLITE MAGISTERSKIE – STACJONARNE I NIESTACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarsko-dentystyczny"
+  },
+  {
+    "text": "KIERUNEK FARMACJA WYDZIAŁ FARMACEUTYCZNY 5,5-LETNIE STUDIA JEDNOLITE MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-farmacja/"
+  },
+  {
+    "text": "KIERUNEK ANALITYKA MEDYCZNA WYDZIAŁ FARMACEUTYCZNY 5-LETNIE STUDIA JEDNOLITE MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-analityka-medyczna/"
+  },
+  {
+    "text": "KIERUNEK DIETETYKA WYDZIAŁ FARMACEUTYCZNY 3-LETNIE STUDIA I STOPNIA LICENCJACKIE – STACJONARNE 2-LETNIE STUDIA II STOPNIA MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-dietetyka"
+  },
+  {
+    "text": "KIERUNEK ZDROWIE PUBLICZNE WYDZIAŁ NAUK O ZDROWIU 3-LETNIE STUDIA I STOPNIA LICENCJACKIE – STACJONARNE 2-LETNIE STUDIA II STOPNIA MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-zdrowie-publiczne/"
+  },
+  {
+    "text": "KIERUNEK RATOWNICTWO MEDYCZNE WYDZIAŁ PIELĘGNIARSTWA I POŁOŻNICTWA 3-LETNIE STUDIA I STOPNIA LICENCJACKIE – STACJONARNE 2-LETNIE STUDIA II STOPNIA MAGISTERSKIE STACJONARNE I NIESTACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-ratownictwo-medyczne/"
+  },
+  {
+    "text": "KIERUNEK FIZJOTERAPIA WYDZIAŁ FIZJOTERAPII 5-LETNIE STUDIA JEDNOLITE MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-fizjoterapia"
+  },
+  {
+    "text": "KIERUNEK PIELĘGNIARSTWO WYDZIAŁ PIELĘGNIARSTWA I POŁOŻNICTWA 3-LETNIE STUDIA I STOPNIA LICENCJACKIE – STACJONARNE 3,5-LETNIE STUDIA I STOPNIA LICENCJACKIE – NIESTACJONARNE 2-LETNIE STUDIA II STOPNIA MAGISTERSKIE – STACJONARNE I NIESTACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-pielegniarstwo"
+  },
+  {
+    "text": "KIERUNEK POŁOŻNICTWO WYDZIAŁ PIELĘGNIARSTWA I POŁOŻNICTWA 3-LETNIE STUDIA I STOPNIA LICENCJACKIE – STACJONARNE 2-LETNIE STUDIA II STOPNIA MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-poloznictwo"
+  },
+  {
+    "text": "KIERUNEK PSYCHOLOGIA WYDZIAŁ NAUK O ZDROWIU 5-LETNIE STUDIA JEDNOLITE MAGISTERSKIE – STACJONARNE",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-psychologia"
+  },
+  {
+    "text": "",
+    "url": "https://rekrutacja.umw.edu.pl/o-uczelni/"
+  },
+  {
+    "text": "O UCZELNI Uniwersytet Medyczny we Wrocławiu prowadzi studia na 12 kierunkach w języku polskim i 3 w języku angielskim. Oferujemy studia doktoranckie, które z roku na rok cieszą się coraz większą popularnością wśród kandydatów, a także studia podyplomowe. Od lat cieszymy się ogromnym zainteresowaniem kandydatów. Naszym studentom staramy się stwarzać jak najlepsze warunki do nauki i rozwoju. Nowoczesne przestrzenie Centrum Naukowej Informacji Medycznej tętnią życiem. Czytelnia, pokoje cichej pracy, sprzyjający eventom hol i znajdujący się tam punkt gastronomiczny to centrum aktywności w tej części kampusu. Z zasobów naszej biblioteki korzysta ponad 10 tys. użytkowników rocznie.",
+    "url": "https://rekrutacja.umw.edu.pl/o-uczelni/"
+  },
+  {
+    "text": "AKADEMIKI I STYPENDIA Studiując na naszej uczelni możesz zamieszkać w jednym z dwóch akademików: DS. Jubilatka oraz DS. Bliźniak (ten drugi obecnie jest wyłączony z funkcjonowania z powodu trwającego remontu), które oddalone są o 15 minut spaceru od głównego kampusu uczelni. Wnioskować możesz także o stypendium – na Uniwersytecie Medycznym we Wrocławiu ubiegać się możesz o stypendium socjalne, stypendium socjalne zwiększone, stypendium dla osób z niepełnosprawnością, zapomogę, kredyt studencki oraz stypendium rektora.",
+    "url": "https://rekrutacja.umw.edu.pl/akademiki-i-stypendia/"
+  },
+  {
+    "text": "Ela Midura, studentka kierunku lekarsko-dentystycznego Oczarowało mnie oczywiście samo miasto. Wrocław jest przepiękny. Ma swój niepowtarzalny urok. Nie jest przypadkowo nazywany  miastem spotkań.",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-lekarsko-dentystyczny/"
+  },
+  {
+    "text": "Maks Wastag, student farmacji W liceum pożegnałem się ze sportem na poziomie olimpijskim i myślałem, że już nie wrócę do żeglowania. Jestem mile zaskoczony – Uniwersytet Medyczny we Wrocławiu zdecydował się na kupno jachtu i umożliwił mi start w mistrzostwach Polski.",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-farmacja/"
+  },
+  {
+    "text": "Marta Polniaszek, studentka położnictwa Zdecydowałam się na ten zawód ze względu na kontakt z pacjentem – uwielbiam kontakt z ludźmi i emocje towarzyszące pracy na sali porodowej",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-kierunek-poloznictwo/"
+  },
+  {
+    "text": "SWFIS Poza nauką i działalnością społeczną dużą rolę w życiu naszych studentów odgrywa sport. Wielu z nich, jak Agata Forkasiewicz (lekkoatletyka), Dariusz Boratyński (biegi długodystansowe) czy Iwo Jarosz (brazylijskie jiu-jitsu) odnosi sukcesy indywidualne. Dobrze radzą sobie też działające w ramach Klubu Sportowego Uniwersytetu Medycznego we Wrocławiu sekcje. Smak podium dobrze znają nasi lekkoatleci, narciarze, wspinacze czy pływacy. Uczelnia wspiera swoich sportowców choćby przez dofinansowanie wyjazdów na zawody zagraniczne. Studenci mogą też dla przyjemności pograć w piłkę nożną, koszykówkę, siatkówkę, tenisa czy badmintona. W ramach sekcji organizowane są też zajęcia z pływania, samoobrony czy wspinaczki. Do dyspozycji jest siłownia.",
+    "url": "https://rekrutacja.umw.edu.pl/studium-wychowania-fizycznego-i-sportu/"
+  },
+  {
+    "text": "EGZAMIN Z WIEDZY DLA CUDZOZIEMCÓW - REGULAMIN Załącznik do zarządzenia nr 110/XVI R/2025 Rektora Uniwersytetu Medycznego we Wrocławiu z dnia 7 lipca 2025 r.",
+    "url": "https://rekrutacja.umw.edu.pl/regulamin-egzaminu-wstepnego-z-wiedzy-obowiazujacy-cudzoziemcow"
+  },
+  {
+    "text": "ENGLISH DIVISION W ramach English Division rozwijamy studia w języku angielskim. W ofercie mamy kierunek lekarski, lekarsko-dentystyczny oraz nowość – pielęgniarstwo. Co roku przyjmujemy na nie blisko 200 studentów z różnych rejonów świata. Najwięcej przyjeżdża do nas Niemców – wysoki poziom nauczania i bliskość domu rodzinnego zachęcają naszych zachodnich sąsiadów do studiowania we Wrocławiu. Naszą uczelnię chętnie wybierają także Szwedzi i Kanadyjczycy. Nie brak też reprezentantów bardziej egzotycznych rejonów, jak Chile, Sri Lanka czy Islandia. Our English Division offers the opportunity to study medicine, dentistry and nursing. Every year we accept almost 200 english-speaking students from all around the world. The studies are very popular amongst Germans, who choose our university because it offers a high level of education while remaining close to their country of origin. English Division studies are also often chosen by students from Sweden and Canada, but we have representatives from exotic regions of the world as well, such as Chile or Sri Lanka.",
+    "url": "https://rekrutacja.umw.edu.pl/oferta-english-division/"
+  },
+  {
+    "text": "REKRUTACJA 2026",
+    "url": "https://rekrutacja.umw.edu.pl/"
+  },
+  {
+    "text": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+    "url": "https://www.umw.edu.pl/"
+  },
+  {
+    "text": "O UCZELNI",
+    "url": "https://rekrutacja.umw.edu.pl/o-uczelni"
+  },
+  {
+    "text": "STUDIUM WYCHOWANIA FIZYCZNEGO I SPORTU",
+    "url": "https://rekrutacja.umw.edu.pl/studium-wychowania-fizycznego-i-sportu"
+  },
+  {
+    "text": "AKADEMIKI I STYPENDIA",
+    "url": "https://rekrutacja.umw.edu.pl/akademiki-i-stypendia"
+  },
+  {
+    "text": "FAQ",
+    "url": "https://rekrutacja.umw.edu.pl/faq/"
+  },
+  {
+    "text": "KONTAKT",
+    "url": "https://rekrutacja.umw.edu.pl/kontakt"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/rekrutacjaumedwroc/"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/rekrutacja_umw/"
+  },
+  {
+    "text": "",
+    "url": "https://www.snapchat.com/add/umedwroc"
+  },
+  {
+    "text": "DEKLARACJA DOSTĘPNOŚCI",
+    "url": "http://dostepnosc.umw.edu.pl/deklaracja-dostepnosci-rekrutacja-umw/"
+  },
+  {
+    "text": "rekrutacjaumw@umw.edu.pl",
+    "url": "mailto:rekrutacjaumw@umw.edu.pl"
+  }
+]

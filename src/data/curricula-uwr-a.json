@@ -3418,14 +3418,178 @@
   },
   {
     "programmeId": "uwr-european-cultures",
-    "checkedAt": "2026-10-28",
-    "referenceYear": "nie ustalono roku planu",
-    "completeness": "unavailable",
-    "groups": [],
+    "checkedAt": "2026-11-09",
+    "referenceYear": "od 2023/2024 — uchwała Senatu 168/2023",
+    "completeness": "full-plan",
+    "groups": [
+      {
+        "title": "Zajęcia obowiązkowe",
+        "semester": "I",
+        "subjects": [
+          "Occupational Health and Safety",
+          "Historian as a priest or a craftsman? Historiography in Europe through centuries",
+          "Alexander the Great and the Hellenistic age: the first Western globalism",
+          "The Origins of Theatre Part I",
+          "Introduction to Methodology of Social Research",
+          "Introduction to Sociocultural Anthropology",
+          "Introduction to the History of European Art"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Język polski dla cudzoziemców — część I",
+        "semester": "I",
+        "subjects": [
+          "Polish Language Part I"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Do wyboru — jeden z dwóch przedmiotów",
+        "semester": "I",
+        "subjects": [
+          "Warfare and Society in Ancient Greece and Rome",
+          "Health and Illness in Europe through centuries"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Zajęcia obowiązkowe",
+        "semester": "II",
+        "subjects": [
+          "Introduction to Polish History and Culture",
+          "Introduction to Culture Studies – Film: American Prime Time Television. History and Theory",
+          "Introduction to Intercultural Education",
+          "Introduction to Classical Archeology",
+          "The origins of theatre Part II",
+          "\"The Polish School of Animation. History, meaning and impact of the Polish animated film from Lucanus Cervus to Tango and beyond.\"",
+          "Methodology of Art History"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Język polski dla cudzoziemców — część II",
+        "semester": "II",
+        "subjects": [
+          "Polish Language Part II"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Wychowanie fizyczne — 60 godzin łącznie w podanym przedziale semestrów",
+        "semester": "II, III, IV, V",
+        "subjects": [
+          "Physical Education"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Zajęcia obowiązkowe",
+        "semester": "III",
+        "subjects": [
+          "Postsocialism in Central/Eastern Europe",
+          "Multicultural Education: Theory and Practice",
+          "History of Nationalism",
+          "Work of Art and its Context",
+          "Cross-cultural psychology"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Do wyboru — dwa z czterech przedmiotów",
+        "semester": "III",
+        "subjects": [
+          "Warfare and Society in modern European History",
+          "European History of Travelling",
+          "Private life in Ancient Greece and Rome",
+          "Women in the European Public Sphere (18th-20th centuries)"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Zajęcia obowiązkowe",
+        "semester": "IV",
+        "subjects": [
+          "BA Seminar",
+          "Qualitative methods in social sciences",
+          "Great Discoveries of Modern Archeology",
+          "Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and society",
+          "Polish Cinema – History, Culture, Industry",
+          "\"Performativity of art & science. History of performance art and its liaisons with new technologies in US and Europe in the Cold War era.\""
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Do wyboru — trzy z sześciu przedmiotów",
+        "semester": "IV",
+        "subjects": [
+          "Everyday life in Greek and Roman Antiquity",
+          "Shared or Separate Past(s)? Medieval East Central Europe",
+          "Communication strategies and means of persuasion in modern era. Case: The Polish-Lithuanian Commonwealth",
+          "Work of Art in Period of Transition. Art History around 1900 in Central Europe",
+          "Memory studies – history and practice",
+          "Work of Art in the Digital Era"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Zajęcia obowiązkowe",
+        "semester": "V",
+        "subjects": [
+          "BA Seminar",
+          "Intercultural communication",
+          "Poland in the in the Era of Partitions (1772-1918)",
+          "Europe and the United States until WWII",
+          "Polish-Jewish relations in the 20th century",
+          "East Central Europe under the Soviet Domination (1945-1989)"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Do wyboru — dwa z czterech przedmiotów",
+        "semester": "V",
+        "subjects": [
+          "History of Contemporary Art",
+          "East Central Europe in the Time of Empires and in the Era of World Wars (1815-1945)",
+          "Anthropology of Europe",
+          "Multispecies Studies: Ethics and Aesthetics"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Zajęcia obowiązkowe",
+        "semester": "VI",
+        "subjects": [
+          "BA Seminar",
+          "Poland in the Era of World Wars (1914-1945)",
+          "Propaganda of the communist regime in Poland (1944-1989)",
+          "\"From guerrillas to happenings\". History of the Democratic Opposition in Poland",
+          "Selected topics of psychology"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      },
+      {
+        "title": "Do wyboru — dwa z czterech przedmiotów",
+        "semester": "VI",
+        "subjects": [
+          "Polish Theatre",
+          "Americanization and anti-Americanism in Europe after 1945",
+          "\"Spring will be ours\". Poland in the Era of Communism (1944-1989)",
+          "Resistance, dissent & opposition in East-Central Europe. History and legacy"
+        ],
+        "sourceUrl": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51"
+      }
+    ],
     "specializations": [],
     "specializationStatus": "not-found",
-    "note": "Sprawdzono oficjalny opis rekrutacyjny i stronę Instytutu Historycznego Uniwersytetu Wrocławskiego. Wyliczają obszary nauki (np. historię, kulturę i komunikację), ale nie udostępniają w zgromadzonych materiałach identyfikowalnego wykazu nazw przedmiotów. Nie zamieniono tych obszarów w wymyślone kursy. Jawna luka: brak potwierdzonego planu.",
+    "note": "Pełny plan I stopnia, stacjonarny w języku angielskim, uchwała Senatu 168/2023, strony 51–56. Język polski dla cudzoziemców: 60 godzin i 5 ECTS łącznie w I–II semestrze; obywatel polski, który go nie realizuje, wybiera dodatkowe zajęcia za co najmniej 5 ECTS. WF: 60 godzin łącznie w II–V semestrze, bez ECTS. Zachowano pule wyboru i nazwy ze źródła, w tym pomyłkę redakcyjną „in the in”. Plan obowiązuje dla cykli od 2023/24 i nie potwierdza niezmienionego programu naboru 2027/28. Starsze opisy braku spisu dokumentują poprzedni stan poszukiwań.",
     "sources": [
+      {
+        "title": "Uniwersytet Wrocławski — European Cultures, pełny plan sześciu semestrów",
+        "url": "https://bip.uni.wroc.pl/download/attachment/38170/uchwala-nr-168_2023-senatu-uwr-z-2023-06-21-w-sprawie-programu-studiow-dla-kierunku-european-cultures-i-stopnia.pdf?v=1687434829#page=51",
+        "year": "od 2023/2024 — uchwała 168/2023",
+        "note": "Metryczka na stronach 1–2; cały plan na stronach 51–56 z 57 stron PDF. Wizualnie sprawdzono wszystkie tabele, pule wyboru i przypisy. Studia I stopnia, stacjonarne, w języku angielskim."
+      },
       {
         "title": "European Cultures — oficjalny opis Uniwersytetu Wrocławskiego",
         "url": "https://rekrutacja.uwr.edu.pl/kierunek/61?tab=o-kierunku&rok=6",
@@ -3437,6 +3601,12 @@
         "url": "https://wnhip.uwr.edu.pl/",
         "year": "2026 – data odczytu",
         "note": "Sprawdzono odnośniki do programów, planów i sylabusów; zapis przeglądu w dokumentacji researchu."
+      },
+      {
+        "title": "European Cultures — Instytut Historyczny Uniwersytetu Wrocławskiego",
+        "url": "https://hist.uwr.edu.pl/european-cultures/",
+        "year": "Opis bez rocznika planu; odczyt 09.11.2026",
+        "note": "Oficjalny opis zakresu, bez listy nazw kursów. Nie zamieniono dziedzin nauki w zajęcia."
       }
     ]
   },

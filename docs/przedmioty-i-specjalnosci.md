@@ -1,4 +1,12 @@
+Aktualizacja **10.11.2026 — Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu**: dodano 16 częściowych spisów zajęć z dokumentów BIP 2026/2027. Odczyt 1244 pozycji z tabel godzinowych obejmuje powtórzenia; nie potwierdza kompletności koszyków ani przypisania semestrów. Katalog: 215 spisów, 116 pełnych i 99 częściowych. Parser: `scripts/umw_curricula.py`, audyt: `docs/audyt-umw.md`.
+
+Aktualizacja **10.11.2026**: dodano 28 pełnych spisów planów 2026/2027 Uniwersytetu Przyrodniczego we Wrocławiu (wszystkie semestry i rozwijane koszyki). Katalog ma 199 ofert ze spisem: 116 pełnych planów i 83 listy częściowe. Źródło: `src/data/curricula-upwr.json`, adapter `scripts/upwr_curricula.py`, audyt `docs/audyt-upwr.md`. Brak osobnej potwierdzonej listy specjalności nie oznacza braku specjalności. Poniższe wcześniejsze liczby opisują stan historyczny.
+
 # Programy studiów i specjalności
+
+Aktualizacja **09.11.2026**: wszystkie 171 ofert ma spis zajęć. 88 rekordów to pełne plany wskazanego cyklu, 83 to jawne listy częściowe Uniwersytetu Wrocławskiego. Uzupełniono European Cultures na podstawie pełnego planu sześciu semestrów z uchwały Senatu 168/2023; nie zamieniano obszarów nauki z opisów rekrutacyjnych w przedmioty. Dla 62 ofert Politechniki Wrocławskiej sprawdzono wszystkie tabele i rozwijane koszyki oraz usunięto instrukcje wyboru z list przedmiotów. Pozostałe wcześniejsze liczby w tym dokumencie są historią audytu.
+
+Aktualizację planów Politechniki Wrocławskiej wykonuje `npm run data:refresh -- --university pwr`; parser: `scripts/pwr_curricula.py`. Plan European Cultures jest chroniony skrótem sprawdzonego PDF i transkrypcji, a zmiana dokumentu wymaga nowego przeglądu. Skrypt `scripts/build-pwr.py` zachowano jako checkpoint z 02.11.2026: nie odtwarza obecnego audytu pełnych planów i nie służy do nadpisywania kanonicznego pliku `curricula-pwr.json`.
 
 Źródło aplikacji: `src/data/curricula-uwr-a.json`, `curricula-uwr-b.json`, `curricula-uew.json`, `curricula-pwr.json`. Kontrakt: `src/curriculumTypes.ts`. Każda oferta ma osobny rekord; brak listy jest jawnym wynikiem sprawdzenia, nie dowodem braku przedmiotów/specjalności.
 

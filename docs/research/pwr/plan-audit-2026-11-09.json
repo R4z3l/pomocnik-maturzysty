@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "pwr-curriculum:pwr-architektura",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/70/196",
+    "sha256": "e24512bd51f4a349c362b23bf119df0006bae536de79f2f6b4ace82a1a5fc9a6",
+    "documentTitle": "architektura: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "tables": 8,
+    "electiveControls": 20,
+    "courseRows": 110,
+    "subjectEntries": 110,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-automatyka-i-robotyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/197",
+    "sha256": "bc3588df0d5a4362b5f5249ff8fe77aab84d8eaffceef4aeadc84420329d5fed",
+    "documentTitle": "automatyka i robotyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 6,
+    "courseRows": 73,
+    "subjectEntries": 73,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-automatyka-przemyslowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/63/198",
+    "sha256": "cd3f2448119b2e6a1a0afd4d29a6e19f1f64065a86b99d3a75232235aff5673f",
+    "documentTitle": "automatyka przemysłowa: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 10,
+    "electiveControls": 8,
+    "courseRows": 85,
+    "subjectEntries": 85,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z grupy",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-bezpieczenstwo-i-higiena-pracy",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/199",
+    "sha256": "b4bbf6ce03d64bb529b7c8ef55a6468b2361d2cf95fb588f696c1bb66ca696d8",
+    "documentTitle": "bezpieczeństwo i higiena pracy: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 12,
+    "courseRows": 61,
+    "subjectEntries": 61,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty ogólnouczelnianej",
+      "Student/ka wybiera zajęcia z oferty SWFiS"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-biomechanika-inzynierska",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/201",
+    "sha256": "c917f49ec0a9122cf8a7ee818a3005403d8f95a092ca41bdcce4457aff7131e3",
+    "documentTitle": "biomechanika inżynierska: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 15,
+    "courseRows": 77,
+    "subjectEntries": 77,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-biotechnologia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/202",
+    "sha256": "6b2ee3e4b5b16c3055e67bb3e27b5650180e51365facfde154aec055b0b1f465",
+    "documentTitle": "biotechnologia: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 17,
+    "courseRows": 159,
+    "subjectEntries": 159,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty na semestrze 5",
+      "Student/ka wybiera jeden blok i realizuje jeden przedmiot do niego przypisany",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/ka wybiera trzy przedmioty na semestrze 6"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-budownictwo",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/71/204",
+    "sha256": "ce67bb652afa8bf7c7edd9ac834292dd5812bed12b328e5f50180a9ed84d1af7",
+    "documentTitle": "budownictwo: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 21,
+    "courseRows": 110,
+    "subjectEntries": 110,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-chemia-i-analityka-przemyslowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/262",
+    "sha256": "67714fb0d87901e9181d550f90f2ee9a0fd8efc2275d9b5343152eb7082d4ac7",
+    "documentTitle": "chemia i analityka przemysłowa: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 22,
+    "courseRows": 170,
+    "subjectEntries": 170,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden blok i realizuje jeden przedmiot do niego przypisany",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot na semestrze 5",
+      "Student/ka wybiera jeden przedmiot na semestrze 6",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/ka wybiera jeden przedmiot."
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-chemia-i-inzynieria-materialow",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/206",
+    "sha256": "d7325fd980ceb19d989c34a5ccf4081c06b2f834219948d189091d302981b5f6",
+    "documentTitle": "chemia i inżynieria materiałów: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 19,
+    "courseRows": 156,
+    "subjectEntries": 156,
+    "excludedInstructions": [
+      "Student/ka wybiera 4 przedmioty na semestrze 3",
+      "Student/ka wybiera jeden blok i realizuje jeden przedmiot do niego przypisany",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot na semestrze 5",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-cyberbezpieczenstwo",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/208",
+    "sha256": "62bfd0c2814842ab3ab2759a04540b6eb382d92e1c3e3d69fc5e36f4ea55b3ef",
+    "documentTitle": "cyberbezpieczeństwo: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 4,
+    "courseRows": 60,
+    "subjectEntries": 60,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-electronic-and-computer-engineering",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/209",
+    "sha256": "cb394fe34ee69d1988c38c11bba09a88a487e0e371e4119cf7a0e0ba30766398",
+    "documentTitle": "Electronic and Computer Engineering: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 9,
+    "courseRows": 55,
+    "subjectEntries": 55,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera trzy przedmioty",
+      "Student/ka wybiera zajęcia z oferty SWFiS"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-elektromobilnosc",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/63/265",
+    "sha256": "4b659bee2511d55886767a9672f9f4aaf91327d11ffe348127bb3c7d57584279",
+    "documentTitle": "elektromobilność: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 9,
+    "courseRows": 92,
+    "subjectEntries": 92,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z grupy",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-elektronika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/211",
+    "sha256": "4ce6d8596a33ba4a3a6108ac44d834b9ea86a18a187d887358f6466e5fc76fa1",
+    "documentTitle": "elektronika: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 15,
+    "electiveControls": 4,
+    "courseRows": 102,
+    "subjectEntries": 102,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-elektronika-i-fotonika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/212",
+    "sha256": "04e7fbd89fa0056e1a031d2cc8925b2a1ec19fda4dc6bd40e3997c4dfb7e580d",
+    "documentTitle": "elektronika i fotonika: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 23,
+    "courseRows": 90,
+    "subjectEntries": 90,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-elektroradiologia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/69/283",
+    "sha256": "0e42f18bba453a2fbda95b4e66c68cc70be8ebf6a530eaa1e127810d3b335388",
+    "documentTitle": "elektroradiologia: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 9,
+    "courseRows": 58,
+    "subjectEntries": 58,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-elektrotechnika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/63/214",
+    "sha256": "88cf17eef3d3d7e4ff8a403bf205af0a6394ff30bc531345688d7792a3aafc04",
+    "documentTitle": "elektrotechnika: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 12,
+    "electiveControls": 9,
+    "courseRows": 93,
+    "subjectEntries": 93,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z grupy",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-energetyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/215",
+    "sha256": "4ce590a36a5c14b535aac0e39ac695e5e97eee914909aa6592853bfbc5702ff0",
+    "documentTitle": "energetyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 9,
+    "courseRows": 93,
+    "subjectEntries": 93,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-fizyka-techniczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/218",
+    "sha256": "f1f675ad34630b58be01b0b739afefc0e2bacb3730ac7473006946a242b4cb89",
+    "documentTitle": "fizyka techniczna: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 12,
+    "electiveControls": 19,
+    "courseRows": 83,
+    "subjectEntries": 83,
+    "excludedInstructions": [
+      "Studenci wybierają dwa przedmioty z bloku Ciało stałe",
+      "Studenci wybierają dwa przedmioty z bloku Struktury i przyrządy",
+      "Studenci wybierają jeden przedmiot",
+      "Studenci wybierają jeden przedmiot z bloku Aspekty fizyczne",
+      "Studenci wybierają jeden przedmiot z bloku Aspekty inżynierskie w danym semestrze",
+      "Studenci wybierają jeden przedmiot z bloku Laboratoria z fizyki technicznej",
+      "Studenci wybierają jeden przedmiot z bloku Nowe materiały i ich zastosowania-1 w danym semestrze",
+      "Studenci wybierają jeden przedmiot z bloku Nowe materiały i ich zastosowania-2",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Studiujący wybierają jeden przedmiot z bloku Aspekty inżynierskie w danym semestrze",
+      "Studiujący wybierają jeden przedmiot z bloku Matematyka w fizyce",
+      "Studiujący wybierają jeden przedmiot z bloku Programowanie i wstęp do obliczeń numerycznych",
+      "Studiujący wybierają jeden przedmiot z bloku Wybrane działy chemii"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-geodezja-i-kartografia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/219",
+    "sha256": "113f7584a6bfc2e6e9628bfb3763f7db1984236b5e6ccf40b40ab41ad6182969",
+    "documentTitle": "geodezja i kartografia: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 13,
+    "courseRows": 73,
+    "subjectEntries": 73,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden moduł i realizuje wszystkie przedmioty do niego przypisane",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-geoenergetyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/220",
+    "sha256": "56b45b1b420c132a1bd0ea9569a85b017e97b43cf5300b51ee105baed6406804",
+    "documentTitle": "geoenergetyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 6,
+    "courseRows": 56,
+    "subjectEntries": 56,
+    "excludedInstructions": [
+      "Student /ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-geoinformatyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/221",
+    "sha256": "d26b6f0739c9d07126911a701c495b45b322c313d02f686a4711129dfcba4f29",
+    "documentTitle": "geoinformatyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 15,
+    "electiveControls": 6,
+    "courseRows": 64,
+    "subjectEntries": 64,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-geologia-stosowana",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/264",
+    "sha256": "43e5d15200b63dca76f6512b3f46060f3b4e34f34c51c009b7d7de651094dcbe",
+    "documentTitle": "geologia stosowana: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 10,
+    "courseRows": 63,
+    "subjectEntries": 63,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-gornictwo-i-geologia",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/224",
+    "sha256": "3de5608736a37de414379bf2e88c00ec1fb043bcb279cefb7ddf89b23bf9fb17",
+    "documentTitle": "górnictwo i geologia: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 15,
+    "electiveControls": 6,
+    "courseRows": 74,
+    "subjectEntries": 74,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-gospodarka-o-obiegu-zamknietym-i-ochrona-klimatu",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/74/222",
+    "sha256": "2eaab5818a629a096367455839252c1b788960f77d7e2bd55e9156222f5eea2f",
+    "documentTitle": "gospodarka o obiegu zamkniętym i ochrona klimatu: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 8,
+    "courseRows": 74,
+    "subjectEntries": 74,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-gospodarka-przestrzenna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/70/223",
+    "sha256": "78bb46889dbbc059e7157a31ad6d802373dcb7136a6811e041a0f8fdabe1c151",
+    "documentTitle": "gospodarka przestrzenna: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 25,
+    "courseRows": 129,
+    "subjectEntries": 129,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-informatyczne-systemy-automatyki",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/225",
+    "sha256": "6018714a4665661b311fd95b83ff5a15e49eb4698fe9c44066ece123ed16411f",
+    "documentTitle": "informatyczne systemy automatyki: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 15,
+    "electiveControls": 6,
+    "courseRows": 95,
+    "subjectEntries": 95,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-informatyka-algorytmiczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/226",
+    "sha256": "7f3edcf2925d4d233ddd04b1e63e64532ff4f07616633d2f32f92c8071a8dfa3",
+    "documentTitle": "informatyka algorytmiczna: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 8,
+    "courseRows": 132,
+    "subjectEntries": 132,
+    "excludedInstructions": [
+      "Student/ka wybiera 10 przedmiotów do zrealizowania (3 na IV semestrze, 3 na V, 3 na VI i 1 na VII)",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-informatyka-stosowana",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/228",
+    "sha256": "d789c72f6ab9eb8d2a2a1e1fc7f187387245566f182b1d9db5807718865749cf",
+    "documentTitle": "informatyka stosowana: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 13,
+    "courseRows": 62,
+    "subjectEntries": 62,
+    "excludedInstructions": [
+      "Student.studentka wybiera jeden przedmiot z Bloku przedmiotów wybieralnych M2",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M1",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M3",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M4",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M5",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M6",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M7",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M8",
+      "Student/studentka wybiera jeden przedmiot z Modułu przedmiotów wybieralnych M9"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-informatyka-stosowana-w-j-angielskim",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/270",
+    "sha256": "358dbf0f4df6096d50a311a2c7225ea17d4c5757bfee3186a55490e24cfc2c3d",
+    "documentTitle": "informatyka stosowana w języku angielskim: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 13,
+    "courseRows": 62,
+    "subjectEntries": 62,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "The student chooses classes from the offer of the Study of Physical Education and Sports",
+      "The student chooses one subject from the M1 Elective Subjects Module",
+      "The student chooses one subject from the M2 Elective Subjects Module",
+      "The student chooses one subject from the M3 Elective Subjects Module",
+      "The student chooses one subject from the M4 Elective Subjects Module",
+      "The student chooses one subject from the M5 Elective Subjects Module",
+      "The student chooses one subject from the M6 Elective Subjects Module",
+      "The student chooses one subject from the M7 Elective Subjects Module",
+      "The student chooses one subject from the M8 Elective Subjects Module",
+      "The student chooses one subject from the M9 Elective Subjects Module"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-informatyka-techniczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/229",
+    "sha256": "bbfa7662305fb7bb2a07b530a818446c87aeb0e6ecad5758954efde6793f124d",
+    "documentTitle": "informatyka techniczna: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 15,
+    "electiveControls": 7,
+    "courseRows": 93,
+    "subjectEntries": 93,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inteligentna-elektronika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/230",
+    "sha256": "a8e0ffb432fcfde90e56de0c755e1dd949e783931e39f42800c8bb0b1e51ee90",
+    "documentTitle": "inteligentna elektronika: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 16,
+    "courseRows": 78,
+    "subjectEntries": 78,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-biomedyczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/231",
+    "sha256": "00923440278873ed73f35a641b9a0bdbe2521db76dcc3875d63cd8df474c093a",
+    "documentTitle": "inżynieria biomedyczna: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 19,
+    "electiveControls": 7,
+    "courseRows": 103,
+    "subjectEntries": 103,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot humanistyczno-społeczny",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-chemiczna-i-procesowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/232",
+    "sha256": "78cc2de4ca4e863afd31fd033bbdec457dbc05d25c92f1ecbe427cc295958599",
+    "documentTitle": "inżynieria chemiczna i procesowa: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 20,
+    "courseRows": 160,
+    "subjectEntries": 160,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden blok i realizuje jeden przedmiot do niego przypisany",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot na semestrze 5",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/ka wybiera trzy przedmioty na semestrze 6"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-kwantowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/233",
+    "sha256": "9e8c6d704b35bb3889eb82c5416ccc700f6b610e5dcc88a7d3a431afd8ba5c9c",
+    "documentTitle": "inżynieria kwantowa: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 19,
+    "courseRows": 114,
+    "subjectEntries": 114,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty z bloku",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot językowy z oferty ogólnouczelnianej",
+      "Student/ka wybiera jeden przedmiot z bloku",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/ka wybiera jeden przedmiot z oferty ogólnouczelnianej.",
+      "Student/ka wybiera trzy przedmioty z bloku"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-pojazdow-i-napedow-niskoemisyjnych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/235",
+    "sha256": "7fc57fed9d4a6dce304385dcea98f9d79d41249505163914da31760c72c72ab5",
+    "documentTitle": "inżynieria pojazdów i napędów niskoemisyjnych: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 14,
+    "courseRows": 90,
+    "subjectEntries": 90,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-srodowiska",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/74/238",
+    "sha256": "00ac2d7f75f541abf533ff581ad1eb36573064bcba8e2d5883548c1a2a1fe2a7",
+    "documentTitle": "inżynieria środowiska: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 11,
+    "courseRows": 89,
+    "subjectEntries": 89,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden moduł i realizuje wszystkie przedmioty do niego przypisane",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-surowcow-mineralnych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/73/236",
+    "sha256": "3fd7cbea507ebd9aad696c2c78fe241f20c9a7e8cc19c5ae5e06b530acc9c626",
+    "documentTitle": "inżynieria surowców mineralnych: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 19,
+    "electiveControls": 8,
+    "courseRows": 90,
+    "subjectEntries": 90,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-systemow",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/237",
+    "sha256": "7d2c98e56d310ae0974c1684d259fe0cea07caf7fc42a67ad7a88cb42c7a63b5",
+    "documentTitle": "inżynieria systemów: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 23,
+    "electiveControls": 5,
+    "courseRows": 76,
+    "subjectEntries": 76,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-inzynieria-zarzadzania",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/66/239",
+    "sha256": "28eee904b938756e2d339ccdc15e7b492e8bac439701703e172c418055682373",
+    "documentTitle": "inżynieria zarządzania: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 11,
+    "electiveControls": 16,
+    "courseRows": 79,
+    "subjectEntries": 79,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Inżynierskich warsztatów projektowych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Z Bloku humanistycznego 1 student/ka wybiera jeden przedmiot",
+      "Z Bloku humanistycznego 2 student/ka wybiera jeden przedmiot",
+      "Z bloku Analiza wizualna w biznesie student/ka wybiera jeden przedmiot",
+      "Z bloku Eksploracja danych student/ka wybiera jeden przedmiot",
+      "Z bloku Kompetencje społeczne I student/ka wybiera jeden przedmiot",
+      "Z bloku Kompetencje społeczne II student/ka wybiera jeden przedmiot",
+      "Z bloku Metody ilościowe student/ka wybiera jeden przedmiot",
+      "Z bloku Narzędzia informatyczne wspomagajace podejmowanie decyzji student/ka wybiera jeden przedmiot",
+      "Z bloku Projektowanie inżynierskie student/ka wybiera jeden przedmiot",
+      "Z bloku Projektowanie systemów zarządzania student/ka wybiera jeden przedmiot",
+      "Z bloku Statystyka student/ka wybiera jeden przedmiot"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-lekarski",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/6/69/279",
+    "sha256": "478727803088e906c55e4ba99f485a7c244cfbfd104d07c1bab632fd4b080c09",
+    "documentTitle": "kierunek lekarski: 2026/2027, jednolite studia magisterskie, studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "tables": 14,
+    "electiveControls": 15,
+    "courseRows": 204,
+    "subjectEntries": 204,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z grupy",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/ka wybiera jedną ze specjalności",
+      "Zajęcia uzupełniające nieobowiązkowe"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-logistyka-przemyslowa",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/266",
+    "sha256": "0df24920594e232350dadcb8b976cd41c69ca18462ef156797d6819cdfc3bf29",
+    "documentTitle": "logistyka przemysłowa: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 20,
+    "courseRows": 87,
+    "subjectEntries": 87,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-lotnictwo-i-kosmonautyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/240",
+    "sha256": "b4cd9b1e7d448bac85039b9c07b490069642579a8060d5dd3421aa6c02a87e93",
+    "documentTitle": "lotnictwo i kosmonautyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 10,
+    "courseRows": 91,
+    "subjectEntries": 91,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-matematyka-i-algorytmy-sztucznej-inteligencji",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/64/280",
+    "sha256": "5352d087dc0076aaad615ad7158689ff4a6b270f68e3963822077cba786f0b1c",
+    "documentTitle": "matematyka i algorytmy sztucznej inteligencji: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 16,
+    "electiveControls": 16,
+    "courseRows": 112,
+    "subjectEntries": 112,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-matematyka-i-analiza-danych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/64/242",
+    "sha256": "432ea2867aff5c22068029e7f6525b2966eb9b0eea2c1dad2eec093f4bb42efe",
+    "documentTitle": "matematyka i analiza danych: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 13,
+    "courseRows": 72,
+    "subjectEntries": 72,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-matematyka-stosowana-i-sztuczna-inteligencja",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/64/272",
+    "sha256": "347c009e73c12f71ac31cd6c1cf1d1356fcfff5dc60d3e4a11c8dcffdc4aae51",
+    "documentTitle": "matematyka stosowana i sztuczna inteligencja: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 12,
+    "courseRows": 85,
+    "subjectEntries": 85,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-mechanika-i-budowa-maszyn",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/244",
+    "sha256": "064ee3b265bcbf69e554c85d5491eff9ef683301538aa2593c56a422058ecdd2",
+    "documentTitle": "mechanika i budowa maszyn: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 9,
+    "courseRows": 109,
+    "subjectEntries": 109,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-mechanika-i-budowa-maszyn-energetycznych",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/245",
+    "sha256": "401676b177e6804b1751ed6386e72a35914085d74220923003f4f136b32a9380",
+    "documentTitle": "mechanika i budowa maszyn energetycznych: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 9,
+    "courseRows": 88,
+    "subjectEntries": 88,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych.",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu.",
+      "Student/ka wybiera jeden przedmiot."
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-mechanika-i-budowa-maszyn-w-j-angielskim",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/267",
+    "sha256": "1b656736d06d5ffa1634dd5a531d5236b54561cd70a3aba557ab78a7975794da",
+    "documentTitle": "mechanika i budowa maszyn w języku angielskim: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 8,
+    "courseRows": 92,
+    "subjectEntries": 92,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera zajęcia z oferty SWFiS"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-mechatroniczne-systemy-automatyki",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/67/332",
+    "sha256": "189f0017ba06fe3b0b078942fd3d029f275e445ef80453f871c7c789b57af33f",
+    "documentTitle": "mechatroniczne systemy automatyki: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 17,
+    "courseRows": 85,
+    "subjectEntries": 85,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera dwa przedmioty z trzech",
+      "Student/ka wybiera dwa spośród trzech przedmiotów.",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "student/ka wybiera jeden z dwóch"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-mechatronika",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/246",
+    "sha256": "7a46ead6a0f779d53e448598666635b38b8c505e041551c26f37555d329692b3",
+    "documentTitle": "mechatronika: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 19,
+    "courseRows": 87,
+    "subjectEntries": 87,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-medical-informatics",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/247",
+    "sha256": "ad3d0ea2edc497912a7c2c1365cf46fe94bb92034185e113f55810cf2e90b05b",
+    "documentTitle": "Medical Informatics: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 19,
+    "courseRows": 78,
+    "subjectEntries": 78,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "The student chooses one subject",
+      "The student chooses subjects within a block (minimum 10 ECTS)",
+      "The student chooses subjects within a block (minimum 9 ECTS)"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-odnawialne-zrodla-energii",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/75/249",
+    "sha256": "01ada125b8e8fa488f6351a8464ec9b5d95e34e3dce8a4cc587d655380eae075",
+    "documentTitle": "odnawialne źródła energii: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 9,
+    "courseRows": 93,
+    "subjectEntries": 93,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-optyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/68/250",
+    "sha256": "9fd7d66921156d2598fc3df0d176912ff951ffa3b588d53479725ee78d296326",
+    "documentTitle": "optyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 15,
+    "electiveControls": 7,
+    "courseRows": 87,
+    "subjectEntries": 87,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-robotyka-i-automatyzacja-procesow",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/251",
+    "sha256": "0e56c3ad3314ef31ec6b54985aea84ff1044eaf3dbb61d6da9718b6903fdf104",
+    "documentTitle": "robotyka i automatyzacja procesów: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 19,
+    "courseRows": 100,
+    "subjectEntries": 100,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-sztuczna-inteligencja",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/253",
+    "sha256": "b839d55d2ce4107e494e164d2fd97fc875d68da49744777367ee1ace487c8cb1",
+    "documentTitle": "sztuczna inteligencja: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 9,
+    "courseRows": 103,
+    "subjectEntries": 103,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu",
+      "Student/studentka wybiera cztery przedmioty do zrealizowania (1 na V semestrze oraz 3 na VI)",
+      "Student/studentka wybiera siedem przedmiotów do zrealizowania (2 na V semestrze, 2 na VI semestrze oraz 3 na VII)"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-technologia-chemiczna",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/72/254",
+    "sha256": "d93617bd2a3d7c282585502209be8e5244ceba97755340fd586f09591fa0d1f0",
+    "documentTitle": "technologia chemiczna: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 20,
+    "courseRows": 157,
+    "subjectEntries": 157,
+    "excludedInstructions": [
+      "Student/ka wybiera cztery przedmioty na semestrze 5",
+      "Student/ka wybiera cztery przedmioty na semestrze 6",
+      "Student/ka wybiera jeden blok i realizuje jeden przedmiot do niego przypisany",
+      "Student/ka wybiera jeden moduł i realizuje przedmiot/y w odpowiedniej liczbie ECTS",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-teleinformatyka",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/256",
+    "sha256": "d36f73023e87d87d098d02e669db78f8340515f60799eaffe6d10da49d406369",
+    "documentTitle": "teleinformatyka: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 10,
+    "electiveControls": 4,
+    "courseRows": 70,
+    "subjectEntries": 70,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-telekomunikacja",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/65/257",
+    "sha256": "d106b71b8f595423b22b93d6f8cce480f16537f41b1f984b69f8279c1b88959b",
+    "documentTitle": "telekomunikacja: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 12,
+    "electiveControls": 4,
+    "courseRows": 73,
+    "subjectEntries": 73,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-transport",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/258",
+    "sha256": "67e003d025c107562564463309d57d3d33ddd91b79c970172d142692cbf0e592",
+    "documentTitle": "transport: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 7,
+    "electiveControls": 18,
+    "courseRows": 97,
+    "subjectEntries": 97,
+    "excludedInstructions": [
+      "Student/ka wybiera dwa przedmioty",
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-zarzadzanie",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/2/66/259",
+    "sha256": "db87cda7055e71c4ecf9218441a381339e8ae2106764acab4b7788e470a9ea89",
+    "documentTitle": "zarządzanie: 2026/2027, studia pierwszego stopnia (licencjat), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tables": 11,
+    "electiveControls": 13,
+    "courseRows": 92,
+    "subjectEntries": 92,
+    "excludedInstructions": [
+      "Student/ka realizuje dwa przedmioty z Bloku nauk humanistycznych I (4 ECTS).",
+      "Student/ka realizuje dwa przedmioty z bloku kompetencji społecznych (4 ECTS).",
+      "Student/ka realizuje jeden przedmiot z Bloku nauk humanistycznych II (1 ECTS).",
+      "Student/ka realizuje jeden przedmiot z bloku Biznes i jego uwarunkowania (3 ECTS).",
+      "Student/ka realizuje jeden przedmiot z bloku Nowoczesne zarządzanie organizacją (3 ECTS).",
+      "Student/ka realizuje jeden przedmiot z bloku Warsztaty projektowe (4 ECTS).",
+      "Student/ka realizuje jeden przedmiot z bloku informatyczno-decyzyjnego (3 ECTS).",
+      "Student/ka realizuje jeden przedmiot z bloku nauk prawnych (3 ECTS).",
+      "Student/ka realizuje jeden przedmiot z bloku uwarunkowań decyzji menadżerskich (3 ECTS).",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-zarzadzanie-i-inzynieria-produkcji",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/1/76/260",
+    "sha256": "11e3938fe37d9ec2086ad2897078a7a0807338823d2dadcf84aa6c7578ebfeb0",
+    "documentTitle": "zarządzanie i inżynieria produkcji: 2026/2027, studia pierwszego stopnia (inżynier), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "tables": 13,
+    "electiveControls": 8,
+    "courseRows": 79,
+    "subjectEntries": 79,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot",
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "Student/ka wybiera jeden przedmiot z oferty Studium Wychowania Fizycznego i Sportu"
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  },
+  {
+    "id": "pwr-curriculum:pwr-zarzadzanie-w-j-angielskim",
+    "url": "https://sylabus.usos.pwr.edu.pl/pl/3/1/2/66/269",
+    "sha256": "47c375e67d9f8df9d6998fd4ba4f23a0f3acb36d718801932d17e6221f19bcca",
+    "documentTitle": "zarządzanie w języku angielskim: 2026/2027, studia pierwszego stopnia (licencjat), studia stacjonarne - Sylabus PWr",
+    "semesters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tables": 11,
+    "electiveControls": 13,
+    "courseRows": 64,
+    "subjectEntries": 64,
+    "excludedInstructions": [
+      "Student/ka wybiera jeden przedmiot językowy z oferty Studium Języków Obcych",
+      "The student chooses sports classes from the offer",
+      "The student completes one course from the Computer science module (4 ECTS).",
+      "The student completes one course from the Economic science module (4 ECTS).",
+      "The student completes one course from the Human science module II (1 ECTS).",
+      "The student completes one course from the Legal science module (2 ECTS).",
+      "The student completes one course from the Social competences module (2 ECTS).",
+      "The student completes two courses from the Computer science module (4 ECTS).",
+      "The student completes two courses from the Human science module I (4 ECTS)."
+    ],
+    "unresolvedTables": 0,
+    "unresolvedControls": 0
+  }
+]

@@ -1,0 +1,1866 @@
+weterynaria (Veterinary Medicine): 2026/27, jednolite studia magisterskie, stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Medycyny Weterynaryjnej
+weterynaria (Veterinary Medicine)
+Sylabus UPWr
+Kierunek
+weterynaria (Veterinary Medicine)
+2026/27, jednolite studia magisterskie, stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Semestr 8
+Semestr 9
+Semestr 10
+Semestr 11
+List of courses - winter semester, 2026/27
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Agronomy
+Dane przedmiotu
+lecture: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+1
+graded credit
+mandatory
+Animal anatomy I
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 75 godz.
+ECTS points: 9
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 75
+9
+graded credit
+mandatory
+Biophysics
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+3
+exam
+mandatory
+Biostatistics and methods of data collection
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+laboratory classes: 30
+2
+graded credit
+mandatory
+Cell biology
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+3
+exam
+mandatory
+Chemistry
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+3
+exam
+mandatory
+Environmental protection
+Dane przedmiotu
+lecture: 10 godz.
+laboratory classes: 20 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 10
+laboratory classes: 20
+2
+graded credit
+mandatory
+Ergonomy, intellectual protection and work safety
+Dane przedmiotu
+lecture: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+1
+graded credit
+mandatory
+Histology and embryology I
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+4
+graded credit
+mandatory
+Latin
+Dane przedmiotu
+foreign language (course): 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+foreign language (course): 30
+2
+graded credit
+mandatory
+OHS and fire protection training
+Dane przedmiotu
+e-learning lecture: 4 godz.
+ECTS points: 0
+Form of verification: graded credit
+Mandatory: mandatory
+e-learning lecture: 4
+-
+graded credit
+mandatory
+List of courses - summer semester, 2026/27
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Animal anatomy II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 60 godz.
+ECTS points: 8
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 60
+8
+exam
+mandatory
+Animals in research and education
+Dane przedmiotu
+lecture: 16 godz.
+laboratory classes: 14 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 16
+laboratory classes: 14
+2
+graded credit
+mandatory
+Biochemistry I
+Dane przedmiotu
+lecture: 45 godz.
+laboratory classes: 45 godz.
+ECTS points: 6
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 45
+laboratory classes: 45
+6
+graded credit
+mandatory
+Biology
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+2
+graded credit
+mandatory
+IT
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+laboratory classes: 30
+2
+graded credit
+mandatory
+General and veterinary genetics
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+mandatory
+Histology and embryology II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 30
+4
+exam
+mandatory
+Veterinary history and deontology
+Dane przedmiotu
+lecture: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+1
+graded credit
+mandatory
+Physical education-Sports
+Dane przedmiotu
+physical education PE: 30 godz.
+ECTS points: 0
+Form of verification: graded credit
+Mandatory: mandatory
+physical education PE: 30
+-
+graded credit
+mandatory
+Social science I
+Dane przedmiotu
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+student wybiera jeden przedmiot z grupy
+Introduction to Polish culture I
+Dane przedmiotu
+lecture: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+lecture: 30
+2
+graded credit
+Compulsory group of optional subjects
+Foreign language
+Dane przedmiotu
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+Spanish language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+German language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+Polish language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+List of courses - winter semester, 2027/28
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Animal breeding
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 4 godz.
+practical classes: 26 godz.
+ECTS points: 4
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 4
+practical classes: 26
+4
+exam
+mandatory
+Animal hygiene
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+mandatory
+Animal physiology I
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 45 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 45
+4
+graded credit
+mandatory
+Biochemistry II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 30 godz.
+ECTS points: 5
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 30
+5
+exam
+mandatory
+Ethology and animal welfare
+Dane przedmiotu
+lecture: 15 godz.
+practical classes: 15 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+practical classes: 15
+3
+graded credit
+mandatory
+Physical education-Sports
+Dane przedmiotu
+physical education PE: 30 godz.
+ECTS points: 0
+Form of verification: graded credit
+Mandatory: mandatory
+physical education PE: 30
+-
+graded credit
+mandatory
+Topographical anatomy
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+3
+graded credit
+mandatory
+Veterinary microbiology I
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 45 godz.
+ECTS points: 5
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 45
+5
+graded credit
+mandatory
+Foreign language
+Dane przedmiotu
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+German language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+Polish language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+Spanish language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+Social science II
+Dane przedmiotu
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+student wybiera jeden przedmiot z grupy
+Introduction to Polish culture II
+Dane przedmiotu
+lecture: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+lecture: 30
+2
+graded credit
+Compulsory group of optional subjects
+List of courses - summer semester, 2027/28
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Animal nutrition and feed quality
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 45 godz.
+ECTS points: 5
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 45
+5
+exam
+mandatory
+Animal physiology II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 45 godz.
+ECTS points: 5
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 45
+5
+exam
+mandatory
+Ecology of game animals
+Dane przedmiotu
+auditorium classes: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+auditorium classes: 15
+1
+graded credit
+mandatory
+Pathophysiology I
+Dane przedmiotu
+lecture: 30 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+3
+graded credit
+mandatory
+Summer practical training: Farm practice
+Dane przedmiotu
+practical training: 80 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+practical training: 80
+3
+graded credit
+mandatory
+Technologies in animal production
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+mandatory
+Veterinary immunology
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+3
+exam
+mandatory
+Veterinary microbiology II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 30 godz.
+ECTS points: 5
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 30
+5
+exam
+mandatory
+Veterinary economy
+Dane przedmiotu
+practical classes: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+practical classes: 15
+1
+graded credit
+mandatory
+Foreign language
+Dane przedmiotu
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+German language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+Polish language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+Spanish language
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+graded credit
+optional
+List of courses - winter semester, 2028/29
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Clinical and laboratory diagnostics I
+Dane przedmiotu
+lecture: 30 godz.
+clinical classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+clinical classes: 30
+4
+graded credit
+mandatory
+Fodder hygiene
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+mandatory
+Pathomorphology I
+Dane przedmiotu
+lecture: 45 godz.
+laboratory classes: 45 godz.
+ECTS points: 7
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 45
+laboratory classes: 45
+7
+graded credit
+mandatory
+Pathophysiology II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 45 godz.
+ECTS points: 6
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 45
+6
+exam
+mandatory
+Veterinary Epidemiology
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+laboratory classes: 30
+2
+graded credit
+mandatory
+Veterinary pharmacology I
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 30
+4
+graded credit
+mandatory
+Veterinary Pharmacy
+Dane przedmiotu
+laboratory classes: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+laboratory classes: 15
+1
+graded credit
+mandatory
+Foreign language (exam)
+Dane przedmiotu
+ECTS points: 2
+Form of verification: exam
+Mandatory: Compulsory group of optional subjects
+exam
+Compulsory group of optional subjects
+German language (exam)
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: exam
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+exam
+optional
+Polish language (exam)
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: exam
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+exam
+optional
+Spanish language (exam)
+Dane przedmiotu
+e-learning: 4 godz.
+foreign language (course): 26 godz.
+ECTS points: 2
+Form of verification: exam
+Mandatory: optional
+e-learning: 4
+foreign language (course): 26
+2
+exam
+optional
+List of courses - summer semester, 2028/29
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Beneficial insects diseases
+Dane przedmiotu
+lecture: 10 godz.
+laboratory classes: 14 godz.
+clinical classes: 6 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 10
+laboratory classes: 14
+clinical classes: 6
+2
+graded credit
+mandatory
+Clinical and laboratory diagnostics II
+Dane przedmiotu
+lecture: 30 godz.
+clinical classes: 30 godz.
+ECTS points: 4
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+clinical classes: 30
+4
+exam
+mandatory
+Diagnostic imaging
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 45 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 45
+4
+graded credit
+mandatory
+Parasitology and invasiology I
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 30
+4
+graded credit
+mandatory
+Pathomorphology II
+Dane przedmiotu
+lecture: 45 godz.
+laboratory classes: 45 godz.
+ECTS points: 6
+Form of verification: exam
+Mandatory: mandatory
+lecture: 45
+laboratory classes: 45
+6
+exam
+mandatory
+Public health protection in a state of disaster
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+laboratory classes: 30
+2
+graded credit
+mandatory
+Surgery and anaesthesiology
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 16 godz.
+clinical classes: 14 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 16
+clinical classes: 14
+4
+graded credit
+mandatory
+Veterinary pharmacology II
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 45 godz.
+ECTS points: 6
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 45
+6
+exam
+mandatory
+Diseases of small mammals
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+3
+exam
+mandatory
+List of courses - winter semester, 2029/30
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Diseases of farm animals
+Dane przedmiotu
+lecture: 125 godz.
+laboratory classes: 50 godz.
+clinical classes: 75 godz.
+ECTS points: 18
+Form of verification: exam
+Mandatory: mandatory
+lecture: 125
+laboratory classes: 50
+clinical classes: 75
+18
+exam
+mandatory
+Fish diseases
+Dane przedmiotu
+lecture: 10 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 10
+laboratory classes: 15
+2
+graded credit
+mandatory
+Food sanitary law
+Dane przedmiotu
+lecture: 15 godz.
+auditorium classes: 15 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+auditorium classes: 15
+3
+graded credit
+mandatory
+Parasitology and invasiology II
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+4
+exam
+mandatory
+Slaughter animals and meat hygiene I
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+3
+graded credit
+mandatory
+Elective courses
+Dane przedmiotu
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+Students choose subjects with a total value of 4 ECTS and 60 hours
+Immunohistochemistry in pathomorphology and cancer diagnostics
+Dane przedmiotu
+lecture: 4 godz.
+laboratory classes: 11 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+lecture: 4
+laboratory classes: 11
+1
+graded credit
+optional
+Laboratory diagnostics in veterinary mycology
+Dane przedmiotu
+laboratory classes: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 15
+1
+graded credit
+optional
+Physiological basis of nephrology and renal replacement therapies
+Dane przedmiotu
+laboratory classes: 6 godz.
+practical classes: 9 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 6
+practical classes: 9
+1
+graded credit
+optional
+The basics of archaeozoology with palaeopathology
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+optional
+Veterinary neonatology
+Dane przedmiotu
+lecture: 16 godz.
+laboratory classes: 14 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 16
+laboratory classes: 14
+2
+graded credit
+optional
+Behaviour of dogs and cats
+Dane przedmiotu
+lecture: 14 godz.
+laboratory classes: 16 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 14
+laboratory classes: 16
+2
+graded credit
+optional
+Advanced pathogenesis of diseases
+Dane przedmiotu
+auditorium classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+auditorium classes: 30
+2
+graded credit
+optional
+Practical Diagnosis and Therapy of Parasitic Diseases in Dogs and Cats
+Dane przedmiotu
+lecture: 12 godz.
+laboratory classes: 18 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 12
+laboratory classes: 18
+2
+graded credit
+optional
+Breeding of exotic animals
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 30
+2
+graded credit
+optional
+Physiology of small ruminants
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+Compulsory group of optional subjects
+List of courses - summer semester, 2029/30
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Andrology and artificial insemination
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 12 godz.
+clinical classes: 18 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 12
+clinical classes: 18
+3
+exam
+mandatory
+Diseases of horses
+Dane przedmiotu
+lecture: 90 godz.
+laboratory classes: 45 godz.
+clinical classes: 85 godz.
+ECTS points: 15
+Form of verification: exam
+Mandatory: mandatory
+lecture: 90
+laboratory classes: 45
+clinical classes: 85
+15
+exam
+mandatory
+Milk hygiene
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 24 godz.
+clinical classes: 6 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 24
+clinical classes: 6
+3
+graded credit
+mandatory
+Slaughter animals and meat hygiene II
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 10 godz.
+clinical classes: 20 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 10
+clinical classes: 20
+2
+graded credit
+mandatory
+Summer practical training: Abattoir I
+Dane przedmiotu
+practical training: 80 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+practical training: 80
+3
+graded credit
+mandatory
+Summer practical training: Animal clinic I
+Dane przedmiotu
+practical training: 160 godz.
+ECTS points: 6
+Form of verification: graded credit
+Mandatory: mandatory
+practical training: 160
+6
+graded credit
+mandatory
+Veterinary dietetics
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+mandatory
+Veterinary toxicology
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 30 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 30
+3
+exam
+mandatory
+Zoonoses
+Dane przedmiotu
+laboratory classes: 3 godz.
+practical classes: 12 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+laboratory classes: 3
+practical classes: 12
+1
+graded credit
+mandatory
+List of courses - winter semester, 2030/31
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Academic entrepreneurship
+Dane przedmiotu
+project classes/workshop: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+project classes/workshop: 15
+1
+graded credit
+mandatory
+Avian diseases
+Dane przedmiotu
+lecture: 40 godz.
+laboratory classes: 16 godz.
+clinical classes: 24 godz.
+ECTS points: 5
+Form of verification: exam
+Mandatory: mandatory
+lecture: 40
+laboratory classes: 16
+clinical classes: 24
+5
+exam
+mandatory
+Clinical immunology
+Dane przedmiotu
+lecture: 14 godz.
+laboratory classes: 16 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 14
+laboratory classes: 16
+2
+graded credit
+mandatory
+Diseases of dogs and cats
+Dane przedmiotu
+lecture: 125 godz.
+clinical classes: 115 godz.
+ECTS points: 17
+Form of verification: exam
+Mandatory: mandatory
+lecture: 125
+clinical classes: 115
+17
+exam
+mandatory
+Hygiene of food processing I
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 45 godz.
+ECTS points: 5
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 45
+5
+graded credit
+mandatory
+Preventive veterinary medicine I
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 30
+2
+graded credit
+mandatory
+Slaughter animals and meat hygiene III
+Dane przedmiotu
+laboratory classes: 25 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+laboratory classes: 25
+3
+exam
+mandatory
+List of courses - summer semester, 2030/31
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Avian diseases – Clinical internship
+Dane przedmiotu
+clinical classes: 40 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 40
+2
+graded credit
+mandatory
+Diseases of dogs and cats - Clinical internship I
+Dane przedmiotu
+clinical classes: 60 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 60
+3
+graded credit
+mandatory
+Diseases of farm animals - Clinical internship I
+Dane przedmiotu
+clinical classes: 60 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 60
+3
+graded credit
+mandatory
+Diseases of horses - Clinical internship I
+Dane przedmiotu
+clinical classes: 40 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 40
+2
+graded credit
+mandatory
+Forensic veterinary medicine
+Dane przedmiotu
+lecture: 15 godz.
+auditorium classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+auditorium classes: 15
+2
+graded credit
+mandatory
+Hygiene of food processing II
+Dane przedmiotu
+lecture: 30 godz.
+laboratory classes: 12 godz.
+clinical classes: 18 godz.
+ECTS points: 4
+Form of verification: exam
+Mandatory: mandatory
+lecture: 30
+laboratory classes: 12
+clinical classes: 18
+4
+exam
+mandatory
+Preventive veterinary medicine II
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 26 godz.
+clinical classes: 4 godz.
+ECTS points: 3
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+laboratory classes: 26
+clinical classes: 4
+3
+exam
+mandatory
+Safety of feedstuff
+Dane przedmiotu
+lecture: 10 godz.
+laboratory classes: 20 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 10
+laboratory classes: 20
+2
+graded credit
+mandatory
+Summer practical training: Animal clinic II
+Dane przedmiotu
+practical training: 160 godz.
+ECTS points: 6
+Form of verification: graded credit
+Mandatory: mandatory
+practical training: 160
+6
+graded credit
+mandatory
+Summer practical training: Food processing plant I
+Dane przedmiotu
+practical training: 80 godz.
+ECTS points: 3
+Form of verification: graded credit
+Mandatory: mandatory
+practical training: 80
+3
+graded credit
+mandatory
+Veterinary administration and law
+Dane przedmiotu
+lecture: 15 godz.
+practical classes: 15 godz.
+ECTS points: 2
+Form of verification: exam
+Mandatory: mandatory
+lecture: 15
+practical classes: 15
+2
+exam
+mandatory
+Elective courses
+Dane przedmiotu
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+Students choose subjects with a total value of 4 ECTS and 60 hours
+Basis of veterinary haematology
+Dane przedmiotu
+lecture: 20 godz.
+laboratory classes: 10 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 20
+laboratory classes: 10
+2
+graded credit
+optional
+Biomedical research in veterinary medicine – in vitro models in practice
+Dane przedmiotu
+lecture: 10 godz.
+laboratory classes: 20 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 10
+laboratory classes: 20
+2
+graded credit
+optional
+Dogs and cats oncology
+Dane przedmiotu
+lecture: 20 godz.
+clinical classes: 10 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 20
+clinical classes: 10
+2
+graded credit
+optional
+Exotic animal diseases
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 30
+2
+graded credit
+optional
+Hygiene and technology of fish raw materials and fish products
+Dane przedmiotu
+lecture: 2 godz.
+laboratory classes: 13 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+lecture: 2
+laboratory classes: 13
+1
+graded credit
+optional
+Laboratory diagnosis of viral infection of horses
+Dane przedmiotu
+clinical classes: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+clinical classes: 15
+1
+graded credit
+optional
+Marketing in Veterinary Practice
+Dane przedmiotu
+lecture: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+lecture: 15
+1
+graded credit
+optional
+Management in Veterinary Practice
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 15
+laboratory classes: 15
+2
+graded credit
+optional
+Ornamental fish diseases
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 30
+2
+graded credit
+optional
+Poultry meat and egg hygiene and technology
+Dane przedmiotu
+lecture: 5 godz.
+laboratory classes: 10 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+lecture: 5
+laboratory classes: 10
+1
+graded credit
+optional
+Rational antimicrobial therapy in animals-practical aspects
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 30
+2
+graded credit
+optional
+Swine diseases
+Dane przedmiotu
+practical classes: 13 godz.
+clinical classes: 17 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+practical classes: 13
+clinical classes: 17
+2
+graded credit
+optional
+Surgical oncology
+Dane przedmiotu
+lecture: 8 godz.
+clinical classes: 7 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: optional
+lecture: 8
+clinical classes: 7
+1
+graded credit
+optional
+Veterinary advicement in large farms
+Dane przedmiotu
+lecture: 12 godz.
+laboratory classes: 10 godz.
+clinical classes: 8 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 12
+laboratory classes: 10
+clinical classes: 8
+2
+graded credit
+optional
+Veterinary dermatology
+Dane przedmiotu
+lecture: 20 godz.
+laboratory classes: 10 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 20
+laboratory classes: 10
+2
+graded credit
+optional
+Veterinary Geriatrics
+Dane przedmiotu
+lecture: 18 godz.
+clinical classes: 12 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 18
+clinical classes: 12
+2
+graded credit
+optional
+Veterinary neurology
+Dane przedmiotu
+lecture: 18 godz.
+clinical classes: 12 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 18
+clinical classes: 12
+2
+graded credit
+optional
+List of courses - winter semester
+Subject
+Number of hours
+ECTS points
+Form of verification
+Mandatory
+Diseases of horses - Clinical internship II
+Dane przedmiotu
+clinical classes: 40 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 40
+2
+graded credit
+mandatory
+Diseases of dogs and cats - Clinical internship II
+Dane przedmiotu
+clinical classes: 60 godz.
+ECTS points: 5
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 60
+5
+graded credit
+mandatory
+Diseases of farm animals - Clinical internship II
+Dane przedmiotu
+clinical classes: 60 godz.
+ECTS points: 5
+Form of verification: graded credit
+Mandatory: mandatory
+clinical classes: 60
+5
+graded credit
+mandatory
+Health herd managment
+Dane przedmiotu
+lecture: 12 godz.
+laboratory classes: 18 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 12
+laboratory classes: 18
+4
+graded credit
+mandatory
+Professional ethics
+Dane przedmiotu
+lecture: 15 godz.
+ECTS points: 1
+Form of verification: graded credit
+Mandatory: mandatory
+lecture: 15
+1
+graded credit
+mandatory
+Laboratory analytic
+Dane przedmiotu
+laboratory classes: 25 godz.
+ECTS points: 2
+Form of verification: exam
+Mandatory: mandatory
+laboratory classes: 25
+2
+exam
+mandatory
+Elective courses
+Dane przedmiotu
+ECTS points: 14
+Form of verification: graded credit
+Mandatory: Compulsory group of optional subjects
+graded credit
+Compulsory group of optional subjects
+Students choose subjects with a total value of 14 ECTS and 105 hours
+Auditing of quality management systems in food industry
+Dane przedmiotu
+lecture: 3 godz.
+laboratory classes: 12 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 3
+laboratory classes: 12
+2
+graded credit
+optional
+Cancer pharmacotherapy
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 30
+4
+graded credit
+optional
+Case based physiology
+Dane przedmiotu
+practical classes: 15 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+practical classes: 15
+2
+graded credit
+optional
+Clinical pathomorphology of dogs and cats
+Dane przedmiotu
+clinical classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+clinical classes: 30
+4
+graded credit
+optional
+Clinical pharmacology of dogs and cats
+Dane przedmiotu
+lecture: 6 godz.
+laboratory classes: 24 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+lecture: 6
+laboratory classes: 24
+4
+graded credit
+optional
+Diagnostics and treatment of ruminant diseases
+Dane przedmiotu
+lecture: 10 godz.
+clinical classes: 5 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 10
+clinical classes: 5
+2
+graded credit
+optional
+Diagnostic ultrasound of small animals
+Dane przedmiotu
+lecture: 15 godz.
+laboratory classes: 15 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+lecture: 15
+laboratory classes: 15
+4
+graded credit
+optional
+Internal medicine of foals
+Dane przedmiotu
+lecture: 9 godz.
+clinical classes: 6 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 9
+clinical classes: 6
+2
+graded credit
+optional
+Pigeon diseases
+Dane przedmiotu
+laboratory classes: 10 godz.
+clinical classes: 20 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 10
+clinical classes: 20
+4
+graded credit
+optional
+Selected issues of pulmonology in dogs and cats
+Dane przedmiotu
+lecture: 18 godz.
+clinical classes: 12 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+lecture: 18
+clinical classes: 12
+4
+graded credit
+optional
+Veterinary care on reproduction in breeding dogs and cats
+Dane przedmiotu
+lecture: 20 godz.
+laboratory classes: 2 godz.
+clinical classes: 8 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+lecture: 20
+laboratory classes: 2
+clinical classes: 8
+4
+graded credit
+optional
+Veterinary Ophthalmology
+Dane przedmiotu
+lecture: 10 godz.
+practical classes: 5 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 10
+practical classes: 5
+2
+graded credit
+optional
+Medical biotechnology in immunotherapy
+Dane przedmiotu
+lecture: 20 godz.
+laboratory classes: 10 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+lecture: 20
+laboratory classes: 10
+4
+graded credit
+optional
+Canine and Feline Cardiology
+Dane przedmiotu
+laboratory classes: 30 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+laboratory classes: 30
+4
+graded credit
+optional
+Laboratory diagnostics of equine diseases
+Dane przedmiotu
+lecture: 10 godz.
+clinical classes: 20 godz.
+ECTS points: 4
+Form of verification: graded credit
+Mandatory: optional
+lecture: 10
+clinical classes: 20
+4
+graded credit
+optional
+Viral skin and mucosal diseases in dogs and cats
+Dane przedmiotu
+lecture: 9 godz.
+laboratory classes: 6 godz.
+ECTS points: 2
+Form of verification: graded credit
+Mandatory: optional
+lecture: 9
+laboratory classes: 6
+2
+graded credit
+optional

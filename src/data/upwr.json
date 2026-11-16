@@ -1,0 +1,2142 @@
+{
+  "universities": [
+    {
+      "id": "upwr",
+      "name": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "shortName": "UPWr",
+      "sourceIds": [
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027"
+      ],
+      "coverage": "28 ofert stacjonarnych we Wrocławiu: 26 w języku polskim i 2 w angielskim; 26 pierwszego stopnia i 2 jednolite (weterynaria). Oferta IRK i plany: 2026/2027; zasady: 2027/2028. Uruchomienie wszystkich kierunków w 2027/2028 nie jest potwierdzone. Kalkulatory obejmują polską nową maturę PP/PR bez egzaminów zawodowych; wersja angielska wymaga osobnego potwierdzenia B2. ELA nie została jeszcze dopasowana. Historia portalu ma jawne ograniczenia pochodzenia i definicji. Odczytano tabele portalu otouczelnie.pl dla 2024/2025–2026/2027: brak liczb dla 2024/2025; wartości z dwóch pozostałych lat są nieoficjalne, bez potwierdzonej tury i definicji progu."
+    }
+  ],
+  "sources": [
+    {
+      "id": "upwr-offer-2026",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — oferta IRK 2026/2027",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Oficjalny spis stacjonarnych studiów I stopnia i jednolitych; 28 ofert po rozdzieleniu dwóch wersji weterynarii."
+    },
+    {
+      "id": "upwr-rules-2027",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — uchwała 16/2026, zasady 2027/2028",
+      "url": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Pełna treść uchwały: §7–8 punktacja, Dział III weterynaria anglojęzyczna, §24–25 język. Nie potwierdza uruchomienia każdego kierunku."
+    },
+    {
+      "id": "upwr-offer-2027",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — oferta i przedmioty kwalifikacyjne 2027/2028",
+      "url": "https://bip.upwr.edu.pl/download/RGBUXLgBQLmg8VFZiSlEFVQNLQ2pgTx8HCioTVTkeHm9ZFU5pSBs_RTpaETscPFgHFkhRfm5BTxIIIgRuDxNYd0EOT3hSG2MVOF8QPQRBC0FwFwArPgQdFgAqD3cPGx9vTxUKKhZcIUMKWRB6UkEFQRhQAC0-GwQBDGdbEwAFFSMXFVZpFFg7X3cKVj4BD1QQaF0DOiMHCAEdNj0eUCtVPQ9rVS8BSixFPEAAMQcNbUwNR0B-EEJcVDVqVG1JVVZvBV4WLkYDbU00XBU7Eg1YCGscARd9MgIEDDcVUDkcEygRQhQgC04QRCFFEDEHFG4HWxELF39DHQYPZ00TChYUKkENWDsIGzI/zalacznik_nr_1_oferta_kierunkow_studiow_docx_3.pdf",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Załącznik 1 do uchwały 16/2026, wszystkie trzy strony; potwierdzono wizualnie scalone komórki i odrębność języków."
+    },
+    {
+      "id": "upwr-irk-iab-ai",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Applied Bioeconomy (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IAB-AI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-iaz-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Adaptacje do zmiany klimatu (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IAZ-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-pai_p-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Agroinżynieria (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/PAI_P-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-gak-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Architektura krajobrazu (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/GAK-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-bbi-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Bioinformatyka (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BBI-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-bbl-sl",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Biologia (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BBL-SL/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-bbc-sl",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Biologia człowieka (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BBC-SL/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-nbt-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Biotechnologia (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NBT-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-ibu-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Budownictwo (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IBU-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-ndi-sl",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Dietetyka (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NDI-SL/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-p_pek_ez-sl",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Ekonomia (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/P_PEK_EZ-SL/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-igi-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Geodezja i kartografia (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IGI-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-ggp-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Gospodarka przestrzenna (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/GGP-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-ids-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria danych satelitarnych i kosmicznych (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IDS-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-iib-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria bezpieczeństwa (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IIB-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-igw-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria i gospodarka wodna (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IGW-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-iis-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria środowiska (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/IIS-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-pos-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Ochrona środowiska (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/POS-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-poz-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Odnawialne źródła energii i gospodarka odpadami (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/POZ-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-pog-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Ogrodnictwo (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/POG-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-pro-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Rolnictwo (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/PRO-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-ntg-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Technologia i organizacja gastronomii (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NTG-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-ntz-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Technologia żywności i żywienie człowieka (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NTZ-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-pzi-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Zarządzanie i inżynieria produkcji (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/PZI-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-nzj-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Zarządzanie jakością i analiza żywności (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/NZJ-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-bzo-si",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Zootechnika (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/BZO-SI/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-mww-sj",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Weterynaria (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/MWW-SJ/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-irk-mww-aj",
+      "title": "Uniwersytet Przyrodniczy we Wrocławiu — Weterynaria w języku angielskim (IRK)",
+      "url": "https://irk.upwr.edu.pl/pl/offer/I_2026-27L/programme/MWW-AJ/",
+      "publisher": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "checkedAt": "2026-11-10",
+      "kind": "official",
+      "note": "Indywidualna karta 2026/2027: poziom, forma, język, czas trwania i odbyte tury. Warunki 2027/2028 w odrębnej uchwale."
+    },
+    {
+      "id": "upwr-progi-portal-2026",
+      "title": "otouczelnie.pl — Uniwersytet Przyrodniczy we Wrocławiu, progi 2026/2027",
+      "url": "https://www.otouczelnie.pl/uczelnia_dzial/4378/poziom-i-forma/progi",
+      "publisher": "otouczelnie.pl",
+      "checkedAt": "2026-11-10",
+      "kind": "portal",
+      "note": "Tabela po wybraniu w interfejsie roku 2026/2027; zapis treści w docs/research/upwr/progi-browser-2026.json. Nie ustalono tury ani definicji kwalifikacja/przyjęcie. Portal nie stanowi oficjalnego potwierdzenia. Wersje językowe i stopnie nie są łączone."
+    },
+    {
+      "id": "upwr-progi-portal-2025",
+      "title": "otouczelnie.pl — Uniwersytet Przyrodniczy we Wrocławiu, progi 2025/2026",
+      "url": "https://www.otouczelnie.pl/uczelnia_dzial/4378/poziom-i-forma/progi",
+      "publisher": "otouczelnie.pl",
+      "checkedAt": "2026-11-10",
+      "kind": "portal",
+      "note": "Tabela po wybraniu w interfejsie roku 2025/2026; zapis treści w docs/research/upwr/progi-browser-2025.json. Nie ustalono tury ani definicji kwalifikacja/przyjęcie. Portal nie stanowi oficjalnego potwierdzenia. Wersje językowe i stopnie nie są łączone."
+    },
+    {
+      "id": "upwr-progi-portal-2024",
+      "title": "otouczelnie.pl — Uniwersytet Przyrodniczy we Wrocławiu, progi 2024/2025",
+      "url": "https://www.otouczelnie.pl/uczelnia_dzial/4378/poziom-i-forma/progi",
+      "publisher": "otouczelnie.pl",
+      "checkedAt": "2026-11-10",
+      "kind": "portal",
+      "note": "Tabela po wybraniu w interfejsie roku 2024/2025; zapis treści w docs/research/upwr/progi-browser-2024.json. Nie ustalono tury ani definicji kwalifikacja/przyjęcie. Portal nie stanowi oficjalnego potwierdzenia. W sprawdzonych wierszach brak wartości liczbowych."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "upwr-adaptacje-do-zmiany-klimatu",
+      "universityId": "upwr",
+      "name": "Adaptacje do zmiany klimatu",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: klimat, środowisko. W planie 2026/2027 znajdują się m.in. Matematyka, Podstawy ekonomii, Człowiek i środowisko, Podstawy chemii.",
+      "fields": [
+        "klimat",
+        "środowisko"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-iaz-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 245.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 350.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Planowanie adaptacji do zmian klimatu"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-adaptacje-do-zmiany-klimatu-2027"
+    },
+    {
+      "id": "upwr-agroinzynieria",
+      "universityId": "upwr",
+      "name": "Agroinżynieria",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: agroinżynieria, rolnictwo. W planie 2026/2027 znajdują się m.in. Biologiczne podstawy rolnictwa, Chemia, Grafika inżynierska I, Maszynoznawstwo ogólne.",
+      "fields": [
+        "agroinżynieria",
+        "rolnictwo"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-pai_p-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 236.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 260.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Technika rolnicza"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-agroinzynieria-2027"
+    },
+    {
+      "id": "upwr-applied-bioeconomy",
+      "universityId": "upwr",
+      "name": "Applied Bioeconomy",
+      "language": "en",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: bioekonomia, środowisko. W planie 2026/2027 znajdują się m.in. Fundamentals of engineering drawing, General chemistry, General economy, Information Technologies.",
+      "fields": [
+        "bioekonomia",
+        "środowisko"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Niezależny warunek: potwierdzenie angielskiego minimum B2 zgodnie z §24–25 i załącznikiem 11 (m.in. polska matura PR co najmniej 60% lub odpowiedni dokument). Kalkulator nie weryfikuje dokumentu językowego. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-iab-ai",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 300.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Projekty biogospodarki"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-applied-bioeconomy-2027"
+    },
+    {
+      "id": "upwr-architektura-krajobrazu",
+      "universityId": "upwr",
+      "name": "Architektura krajobrazu",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: architektura krajobrazu, projektowanie. W planie 2026/2027 znajdują się m.in. Biologia roślin, Geodezja, Geometria wykreślna, Fizjografia.",
+      "fields": [
+        "architektura krajobrazu",
+        "projektowanie"
+      ],
+      "subjects": [
+        "biologia",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-gak-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 458.8,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 450.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Projektowanie terenów zieleni"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-architektura-krajobrazu-2027"
+    },
+    {
+      "id": "upwr-bioinformatyka",
+      "universityId": "upwr",
+      "name": "Bioinformatyka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: bioinformatyka, analiza danych. W planie 2026/2027 znajdują się m.in. Algebra liniowa z elementami matematyki dyskretnej, Biofizyka, Botanika, Chemia organiczna z elementami chemii nieorganicznej.",
+      "fields": [
+        "bioinformatyka",
+        "analiza danych"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-bbi-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 250.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 200.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Analiza danych biologicznych"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-bioinformatyka-2027"
+    },
+    {
+      "id": "upwr-biologia",
+      "universityId": "upwr",
+      "name": "Biologia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lata (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: biologia, nauki przyrodnicze. W planie 2026/2027 znajdują się m.in. Biochemia biomolekuł, Chemia organiczna z elementami chemii nieorganicznej, Fizyka z elementami biofizyki, Morfologia roślin.",
+      "fields": [
+        "biologia",
+        "nauki przyrodnicze"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-bbl-sl",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 300.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 500.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Badania biologiczne i praca laboratoryjna"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-biologia-2027"
+    },
+    {
+      "id": "upwr-biologia-czlowieka",
+      "universityId": "upwr",
+      "name": "Biologia człowieka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lata (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: biologia człowieka, nauki przyrodnicze. W planie 2026/2027 znajdują się m.in. Anatomia funkcjonalna człowieka (I), Archeologia, Bezpieczeństwo pracy i ergonomia, Botanika.",
+      "fields": [
+        "biologia człowieka",
+        "nauki przyrodnicze"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-bbc-sl",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 250.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 200.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Badania biologii człowieka"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-biologia-czlowieka-2027"
+    },
+    {
+      "id": "upwr-biotechnologia",
+      "universityId": "upwr",
+      "name": "Biotechnologia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: biotechnologia, laboratoria. W planie 2026/2027 znajdują się m.in. Biologia komórki, Chemia ogólna i nieorganiczna, Matematyka z elementami statystyki I, Grafika inżynierska.",
+      "fields": [
+        "biotechnologia",
+        "laboratoria"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-nbt-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 400.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 440.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Biotechnologia przemysłowa i laboratoria"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-biotechnologia-2027"
+    },
+    {
+      "id": "upwr-budownictwo",
+      "universityId": "upwr",
+      "name": "Budownictwo",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: budownictwo, inżynieria. W planie 2026/2027 znajdują się m.in. Analiza matematyczna I, Fizyka, Geodezja, Geologia.",
+      "fields": [
+        "budownictwo",
+        "inżynieria"
+      ],
+      "subjects": [
+        "fizyka",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-ibu-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 600.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 400.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Realizacja inwestycji budowlanych"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-budownictwo-2027"
+    },
+    {
+      "id": "upwr-dietetyka",
+      "universityId": "upwr",
+      "name": "Dietetyka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lata (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: żywienie, dietetyka. W planie 2026/2027 znajdują się m.in. Chemia ogólna, Chemia organiczna, Komunikacja interpersonalna, Matematyka z biostatystyką.",
+      "fields": [
+        "żywienie",
+        "dietetyka"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-ndi-sl",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 350.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 386.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Poradnictwo żywieniowe"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-dietetyka-2027"
+    },
+    {
+      "id": "upwr-ekonomia",
+      "universityId": "upwr",
+      "name": "Ekonomia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3 lata (6 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: ekonomia, zarządzanie. W planie 2026/2027 znajdują się m.in. Matematyka, Mikroekonomia, Obrót środkami produkcji w rolnictwie, Podstawy prawa.",
+      "fields": [
+        "ekonomia",
+        "zarządzanie"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-p_pek_ez-sl",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 202.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 183.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Analiza ekonomiczna i zarządzanie"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-ekonomia-2027"
+    },
+    {
+      "id": "upwr-geodezja-i-kartografia",
+      "universityId": "upwr",
+      "name": "Geodezja i kartografia",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: geodezja, geoinformacja. W planie 2026/2027 znajdują się m.in. Podstawy prawa, Technologia informacyjna, Analiza matematyczna I, Wstęp do matematyki wyższej z podstawami algebry.",
+      "fields": [
+        "geodezja",
+        "geoinformacja"
+      ],
+      "subjects": [
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-igi-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 850.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 700.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Pomiary geodezyjne i GIS"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-geodezja-i-kartografia-2027"
+    },
+    {
+      "id": "upwr-gospodarka-przestrzenna",
+      "universityId": "upwr",
+      "name": "Gospodarka przestrzenna",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: gospodarka przestrzenna, planowanie. W planie 2026/2027 znajdują się m.in. Demografia i społeczno-kulturowe uwarunkowania gospodarki przestrzennej, Ekonomia, Ekologia i ochrona ekosystemów, Matematyka.",
+      "fields": [
+        "gospodarka przestrzenna",
+        "planowanie"
+      ],
+      "subjects": [
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-ggp-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 499.3,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 444.8,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Planowanie przestrzenne"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-gospodarka-przestrzenna-2027"
+    },
+    {
+      "id": "upwr-inzynieria-bezpieczenstwa",
+      "universityId": "upwr",
+      "name": "Inżynieria bezpieczeństwa",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: bezpieczeństwo, inżynieria. W planie 2026/2027 znajdują się m.in. Chemia, Ergonomia, Grafika inżynierska, Matematyka I.",
+      "fields": [
+        "bezpieczeństwo",
+        "inżynieria"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-iib-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 168.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 180.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Analiza ryzyka i bezpieczeństwo techniczne"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-inzynieria-bezpieczenstwa-2027"
+    },
+    {
+      "id": "upwr-inzynieria-danych-satelitarnych-i-kosmicznych",
+      "universityId": "upwr",
+      "name": "Inżynieria danych satelitarnych i kosmicznych",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: dane satelitarne, geoinformacja. W planie 2026/2027 znajdują się m.in. Analiza matematyczna I, Fizyka, Statystyka matematyczna, Systemy GIS.",
+      "fields": [
+        "dane satelitarne",
+        "geoinformacja"
+      ],
+      "subjects": [
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-ids-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 850.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 700.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Analiza danych satelitarnych"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-inzynieria-danych-satelitarnych-i-kosmicznych-2027"
+    },
+    {
+      "id": "upwr-inzynieria-i-gospodarka-wodna",
+      "universityId": "upwr",
+      "name": "Inżynieria i gospodarka wodna",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: gospodarka wodna, inżynieria. W planie 2026/2027 znajdują się m.in. Algebra, Biologia i ekologia, Chemia wody i ścieków, Fizyka i chemia gleb.",
+      "fields": [
+        "gospodarka wodna",
+        "inżynieria"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-igw-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 175.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 190.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Gospodarka wodna"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-inzynieria-i-gospodarka-wodna-2027"
+    },
+    {
+      "id": "upwr-inzynieria-srodowiska",
+      "universityId": "upwr",
+      "name": "Inżynieria środowiska",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: środowisko, inżynieria. W planie 2026/2027 znajdują się m.in. Algebra, Biologia i ekologia, Chemia wody i ścieków, Fizyka i chemia gleb.",
+      "fields": [
+        "środowisko",
+        "inżynieria"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-iis-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 175.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 180.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Projektowanie rozwiązań środowiskowych"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-inzynieria-srodowiska-2027"
+    },
+    {
+      "id": "upwr-ochrona-srodowiska",
+      "universityId": "upwr",
+      "name": "Ochrona środowiska",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: ochrona środowiska, nauki przyrodnicze. W planie 2026/2027 znajdują się m.in. Chemia I, Fizyka I, Geologia z geomorfologią, Gleboznawstwo I.",
+      "fields": [
+        "ochrona środowiska",
+        "nauki przyrodnicze"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-pos-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 231.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 180.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Monitoring i ochrona środowiska"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-ochrona-srodowiska-2027"
+    },
+    {
+      "id": "upwr-odnawialne-zrodla-energii-i-gospodarka-odpadami",
+      "universityId": "upwr",
+      "name": "Odnawialne źródła energii i gospodarka odpadami",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: energetyka odnawialna, gospodarka odpadami. W planie 2026/2027 znajdują się m.in. Chemia, Grafika inżynierska, Matematyka I, Meteorologia.",
+      "fields": [
+        "energetyka odnawialna",
+        "gospodarka odpadami"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-poz-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 171.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 184.4,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Energetyka odnawialna i odpady"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-odnawialne-zrodla-energii-i-gospodarka-odpadami-2027"
+    },
+    {
+      "id": "upwr-ogrodnictwo",
+      "universityId": "upwr",
+      "name": "Ogrodnictwo",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: ogrodnictwo, rolnictwo. W planie 2026/2027 znajdują się m.in. Botanika, Chemia, Ekonomia, Genetyka i hodowla roślin.",
+      "fields": [
+        "ogrodnictwo",
+        "rolnictwo"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-pog-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 198.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 227.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Produkcja ogrodnicza"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-ogrodnictwo-2027"
+    },
+    {
+      "id": "upwr-rolnictwo",
+      "universityId": "upwr",
+      "name": "Rolnictwo",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: rolnictwo, nauki przyrodnicze. W planie 2026/2027 znajdują się m.in. Agrometeorologia, Chemia, Botanika I, Ekologia i ochrona środowiska.",
+      "fields": [
+        "rolnictwo",
+        "nauki przyrodnicze"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-pro-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 206.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 226.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Produkcja rolnicza"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-rolnictwo-2027"
+    },
+    {
+      "id": "upwr-technologia-i-organizacja-gastronomii",
+      "universityId": "upwr",
+      "name": "Technologia i organizacja gastronomii",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: gastronomia, technologia żywności. W planie 2026/2027 znajdują się m.in. Chemia ogólna i żywności, Komunikacja interpersonalna, Matematyka, Podstawy fizjologii człowieka.",
+      "fields": [
+        "gastronomia",
+        "technologia żywności"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-ntg-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 200.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 211.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Organizacja produkcji gastronomicznej"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-technologia-i-organizacja-gastronomii-2027"
+    },
+    {
+      "id": "upwr-technologia-zywnosci-i-zywienie-czlowieka",
+      "universityId": "upwr",
+      "name": "Technologia żywności i żywienie człowieka",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: technologia żywności, żywienie. W planie 2026/2027 znajdują się m.in. Wprowadzenie do technologii żywności, Grafika inżynierska, Technologia informacyjna, Chemia ogólna i nieorganiczna.",
+      "fields": [
+        "technologia żywności",
+        "żywienie"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-ntz-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 200.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 209.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Technologia produkcji żywności"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-technologia-zywnosci-i-zywienie-czlowieka-2027"
+    },
+    {
+      "id": "upwr-weterynaria",
+      "universityId": "upwr",
+      "name": "Weterynaria",
+      "language": "pl",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5,5 roku (11 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: weterynaria, zdrowie zwierząt. W planie 2026/2027 znajdują się m.in. Agronomia, Anatomia zwierząt I, Biofizyka, Biologia komórki.",
+      "fields": [
+        "weterynaria",
+        "zdrowie zwierząt"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-mww-sj",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 126.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 125.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Medycyna zwierząt — po spełnieniu wymagań zawodowych"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-weterynaria-2027"
+    },
+    {
+      "id": "upwr-weterynaria-w-jezyku-angielskim",
+      "universityId": "upwr",
+      "name": "Weterynaria w języku angielskim",
+      "language": "en",
+      "level": "long-cycle",
+      "city": "Wrocław",
+      "duration": "5,5 roku (11 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: weterynaria, zdrowie zwierząt. W planie 2026/2027 znajdują się m.in. Agronomy, Animal anatomy I, Biophysics, Biostatistics and methods of data collection.",
+      "fields": [
+        "weterynaria",
+        "zdrowie zwierząt"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Niezależny warunek: potwierdzenie angielskiego minimum B2 zgodnie z §24–25 i załącznikiem 11 (m.in. polska matura PR co najmniej 60% lub odpowiedni dokument). Kalkulator nie weryfikuje dokumentu językowego. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-mww-aj",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [],
+      "careers": [
+        "Medycyna zwierząt — po spełnieniu wymagań zawodowych"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-weterynaria-w-jezyku-angielskim-2027"
+    },
+    {
+      "id": "upwr-zarzadzanie-i-inzynieria-produkcji",
+      "universityId": "upwr",
+      "name": "Zarządzanie i inżynieria produkcji",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: zarządzanie, inżynieria produkcji. W planie 2026/2027 znajdują się m.in. Chemia, Fizyka, Mikroekonomia, Prawo gospodarcze.",
+      "fields": [
+        "zarządzanie",
+        "inżynieria produkcji"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "geografia",
+        "informatyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-pzi-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 169.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 183.2,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Organizacja produkcji"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-zarzadzanie-i-inzynieria-produkcji-2027"
+    },
+    {
+      "id": "upwr-zarzadzanie-jakoscia-i-analiza-zywnosci",
+      "universityId": "upwr",
+      "name": "Zarządzanie jakością i analiza żywności",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: jakość żywności, analiza laboratoryjna. W planie 2026/2027 znajdują się m.in. Wprowadzenie do zarządzania jakością, Grafika inżynierska, Chemia ogólna i nieorganiczna, Fizyka I.",
+      "fields": [
+        "jakość żywności",
+        "analiza laboratoryjna"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-nzj-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 200.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 189.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Kontrola jakości żywności"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-zarzadzanie-jakoscia-i-analiza-zywnosci-2027"
+    },
+    {
+      "id": "upwr-zootechnika",
+      "universityId": "upwr",
+      "name": "Zootechnika",
+      "language": "pl",
+      "level": "bachelor",
+      "city": "Wrocław",
+      "duration": "3,5 roku (7 semestrów)",
+      "referenceYear": "2026/2027",
+      "description": "Program łączy obszary: hodowla zwierząt, rolnictwo. W planie 2026/2027 znajdują się m.in. Bezpieczeństwo pracy i ergonomia, Botanika, Chemia organiczna z elementami chemii nieorganicznej, Fizyka z elementami biofizyki.",
+      "fields": [
+        "hodowla zwierząt",
+        "rolnictwo"
+      ],
+      "subjects": [
+        "biologia",
+        "chemia",
+        "fizyka",
+        "język angielski",
+        "język francuski",
+        "język hiszpański",
+        "język niemiecki",
+        "język polski",
+        "język portugalski",
+        "język rosyjski",
+        "język ukraiński",
+        "język włoski",
+        "matematyka"
+      ],
+      "subjectsVerified": true,
+      "admissionNote": "Oferta IRK i czas studiów: 2026/2027. Zweryfikowane zasady i przedmioty kwalifikacyjne: uchwała 16/2026 na 2027/2028. Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Progi z portalu mają odrębny rocznik i nie potwierdzają wyniku ostatniej przyjętej osoby.",
+      "sourceIds": [
+        "upwr-irk-bzo-si",
+        "upwr-offer-2026",
+        "upwr-rules-2027",
+        "upwr-offer-2027",
+        "upwr-progi-portal-2026",
+        "upwr-progi-portal-2025",
+        "upwr-progi-portal-2024"
+      ],
+      "thresholds": [
+        {
+          "year": "2026/2027",
+          "round": null,
+          "value": 300.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2026",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        },
+        {
+          "year": "2025/2026",
+          "round": null,
+          "value": 394.0,
+          "status": "reported",
+          "basis": "unspecified",
+          "sourceId": "upwr-progi-portal-2025",
+          "note": "Wartość publikowana przez otouczelnie.pl dla studiów stacjonarnych. Tura i definicja progu (kwalifikacja czy przyjęcie) nie zostały potwierdzone. Nie porównywać automatycznie z kalkulatorem 2027/2028."
+        }
+      ],
+      "careers": [
+        "Hodowla i żywienie zwierząt"
+      ],
+      "careerNote": "Przykładowe obszary pracy wynikające z treści programu, nie zweryfikowane aktualne oferty zatrudnienia. Zawody regulowane i samodzielne funkcje mogą wymagać odrębnych uprawnień; dyplom nie gwarantuje zatrudnienia.",
+      "admissionRuleId": "upwr-zootechnika-2027"
+    }
+  ]
+}

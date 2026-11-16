@@ -1,0 +1,26 @@
+[
+  {
+    "text": "przeskocz do menu",
+    "href": "javascript:go_to_anchor('#menu')"
+  },
+  {
+    "text": "przeskocz do treści strony",
+    "href": "javascript:go_to_anchor('#content')"
+  },
+  {
+    "text": "wybierz rekrutację",
+    "href": "/pl/offer/registration-select/?next=/pl/"
+  },
+  {
+    "text": "\"Dokumenty i dalsze kroki\"",
+    "href": "/pl/profile/applications/"
+  },
+  {
+    "text": "Oferta",
+    "href": "https://rekrutacja.upwr.edu.pl/oferta/oferta-kierunki-studiow#recruitment=full"
+  },
+  {
+    "text": "Oferta Szkoły Doktorskiej",
+    "href": "https://phd.upwr.edu.pl/o-nas/szkola-doktorska-upwr#recruitment=full"
+  }
+]

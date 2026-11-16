@@ -5,7 +5,8 @@ import { fileURLToPath } from 'node:url';
 
 const project = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const updates = join(project, 'output', 'aktualizacje-ai');
-const roots = ['src', 'scripts', 'tests', 'public', 'docs', 'AGENTS.md', 'README.md', 'package.json', 'package-lock.json', 'tsconfig.json', 'index.html'];
+const optionalRoots = ['requirements-data.txt', 'Aktualizuj-baze.cmd', 'Uruchom-aplikacje.cmd'];
+const roots = ['src', 'scripts', 'tests', 'public', 'docs', 'AGENTS.md', 'README.md', 'package.json', 'package-lock.json', 'tsconfig.json', 'index.html', ...optionalRoots];
 const digest = bytes => createHash('sha256').update(bytes).digest('hex');
 
 async function scan(base) {
@@ -69,7 +70,10 @@ async function start() {
   const baseline = join(session, 'przed');
   const candidate = join(session, 'propozycja');
   await mkdir(baseline);
-  for (const root of roots) await cp(join(project, root), join(baseline, root), { recursive: true, errorOnExist: true, force: false });
+  for (const root of roots) {
+    try { await cp(join(project, root), join(baseline, root), { recursive: true, errorOnExist: true, force: false }); }
+    catch (error) { if (error.code !== 'ENOENT' || !optionalRoots.includes(root)) throw error; }
+  }
   const manifest = Object.fromEntries(await scan(baseline));
   await writeFile(join(session, 'manifest-przed.json'), JSON.stringify(manifest, null, 2) + '\n', { encoding: 'utf8', flag: 'wx' });
   await cp(baseline, candidate, { recursive: true, errorOnExist: true, force: false });

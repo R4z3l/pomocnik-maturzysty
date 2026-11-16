@@ -1,0 +1,1489 @@
+ekonomia: 2026/27, studia pierwszego stopnia (licencjat), stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Przyrodniczo-Technologiczny
+ekonomia
+Sylabus UPWr
+Kierunek
+ekonomia
+2026/27, studia pierwszego stopnia (licencjat), stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+ekonomika gospodarki żywnościowej
+Lista przedmiotów specjalnościowych - ekonomika gospodarki żywnościowej - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+BHP i ergonomia
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Matematyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+3
+Egzamin
+Obowiązkowy
+Mikroekonomia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Obrót środkami produkcji w rolnictwie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy prawa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Obowiązkowy
+Podstawy rachunkowości
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy zarządzania
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Egzamin
+Obowiązkowy
+Technologia informacyjna
+Dane przedmiotu
+Ćwiczenia e-learning: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia e-learning: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy finansów
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Rynki finansowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Zarządzanie zrównoważonym rozwojem i odpowiedzialność w prowadzeniu przedsiębiorstw
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Polityka konkurencji
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+ekonomika gospodarki żywnościowej
+Lista przedmiotów specjalnościowych - ekonomika gospodarki żywnościowej - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Makroekonomia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Podstawy produkcji roślinnej (1)
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Statystyka opisowa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Matematyka finansowa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Rachunkowość elektroniczna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy produkcji zwierzęcej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+PRAKTYKA 4-tyg. instytucjonalna
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Analiza rynku
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywna grupa przedmiotów obligatoryjnych
+Egzamin
+Fakultatywna grupa przedmiotów obligatoryjnych
+student wybiera wersję językową
+Analiza rynku
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Egzamin
+Obowiązkowy
+Market research
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Egzamin
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje przedmiot z oferty ogólnouczelnianej
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+ekonomika gospodarki żywnościowej
+Lista przedmiotów specjalnościowych - ekonomika gospodarki żywnościowej - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Ekonometria
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Logistyka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Marketing
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy produkcji roślinnej (2)
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Organizacja i zarządzanie przedsiębiorstwem
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Obowiązkowy
+Ekonomika agrobiznesu
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Prowadzenie działalności gospodarczej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Prawo - przedmioty wybieralne
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje jeden przedmiot
+Prawo handlowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Prawo rolne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Ekonomia - przedmioty wybieralne
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot
+Arkusze kalkulacyjne w analizie danych ekonomicznych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Ekonomia integracji europejskiej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Gospodarka o obiegu zamkniętym
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Międzynarodowe stosunki gospodarcze
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Competition policy in the UE
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Economics of European integration
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+International Economics relations
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Polityka regionalna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje przedmiot z oferty ogólnouczelnianej
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+ekonomika gospodarki żywnościowej
+Lista przedmiotów specjalnościowych - ekonomika gospodarki żywnościowej - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Praktyka 20 tygodni
+Dane przedmiotu
+Praktyka: 800 godz.
+Punkty ECTS: 30
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 800
+30
+Zaliczenie na ocenę
+Obowiązkowy
+ekonomika gospodarki żywnościowej
+Lista przedmiotów specjalnościowych - ekonomika gospodarki żywnościowej - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Analiza ekonomiczna przedsiębiorstwa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Metody oceny projektów inwestycyjnych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Polityka gospodarcza
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Rachunkowość zarządcza
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+4
+Egzamin
+Obowiązkowy
+Seminarium licencjackie
+Dane przedmiotu
+Seminarium/Konwersatorium: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zajęcia z języka obcego kończące się egzaminem (w wymiarze 30 godzin - łącznie 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Rolnictwo a środowisko
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+student wybiera wersję językową przedmiotu
+Agriculture and the environment
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Rolnictwo a środowisko
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Zarządzanie - przedmioty wybieralne
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera 2 przedmioty
+Funkcjonowanie MŚP w agrobiznesie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja i negocjacje w biznesie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Logistyka na obszarach zurbanizowanych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Modelowanie procesów biznesowych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Organizacja i zarządzanie gospodarstwem agroturystycznym
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Produkty i instrumenty finansowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Rachunkowość i podatki w rolnictwie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Short supply chains in the food economy
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie międzykulturowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie projektami europejskimi
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie zasobami ludzkimi
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie strategiczne
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Egzamin
+Obowiązkowy
+Student wybiera wersję językową przedmiotu
+Strategic management
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+4
+Egzamin
+Fakultatywny
+Zarządzanie strategiczne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+4
+Egzamin
+Obowiązkowy
+ekonomika gospodarki żywnościowej
+Lista przedmiotów specjalnościowych - ekonomika gospodarki żywnościowej - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie
+Fakultatywny
+Finanse przedsiębiorstw
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+4
+Egzamin
+Obowiązkowy
+Praca i egzamin dyplomowy
+Dane przedmiotu
+Prace kontrolne i przejściowe: 5 godz.
+Punkty ECTS: 14
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Prace kontrolne i przejściowe: 5
+14
+Egzamin
+Obowiązkowy
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Seminarium licencjackie
+Dane przedmiotu
+Seminarium/Konwersatorium: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Gospodarka żywnościowa - przedmioty wybieralne
+Dane przedmiotu
+Punkty ECTS: 8
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje 2 przedmioty
+Ekonomika mechanizacji rolnictwa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Inwestycje w gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Krótkie łańcuchy dostaw w gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Marketing w gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Międzynarodowy handel produktami rolniczymi
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Problem zalesień na gruntach wyłączonych z produkcji rolnej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Produkty ogrodnicze w gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Rośliny alternatywne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Systemy rolnicze w Polsce i na świecie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Standardy i jakość płodów rolnych i produktów roślinnych
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+4
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy (egzamin)
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zajęcia z języka obcego kończące się egzaminem (w wymiarze 30 godzin - łącznie 2 punkty ECTS)
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język chiński (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język francuski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język włoski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny

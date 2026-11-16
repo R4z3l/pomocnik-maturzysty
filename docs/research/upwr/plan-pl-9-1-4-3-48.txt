@@ -1,0 +1,1920 @@
+inżynieria i gospodarka wodna: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Inżynierii Kształtowania Środowiska i Geodezji
+inżynieria i gospodarka wodna
+Sylabus UPWr
+Kierunek
+inżynieria i gospodarka wodna
+2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Lista przedmiotów - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Algebra
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 30
+6
+Egzamin
+Obowiązkowy
+Biologia i ekologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+3
+Egzamin
+Obowiązkowy
+Chemia wody i ścieków
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+6
+Egzamin
+Obowiązkowy
+Fizyka i chemia gleb
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+6
+Egzamin
+Obowiązkowy
+Inżynieria elektryczna
+Dane przedmiotu
+Wykład: 10 godz.
+Ćwiczenia laboratoryjne: 5 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 10
+Ćwiczenia laboratoryjne: 5
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Ochrona własności intelektualnej, BHP i ergonomia
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Prawo i administracja wodna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Rysunek techniczny i geometria wykreślna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+Technologia infromacyjna
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 30
+2
+Zaliczenie
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Analiza matematyczna
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia audytoryjne: 45 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia audytoryjne: 45
+8
+Egzamin
+Obowiązkowy
+Fizyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Geodezja inżynierska
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Komputerowe wspomaganie projektowania
+Dane przedmiotu
+Wykład: 5 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 5
+Ćwiczenia laboratoryjne: 45
+5
+Egzamin
+Obowiązkowy
+Mechanika płynów
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 7
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+7
+Egzamin
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje przedmiot z oferty ogólnouczelnianej
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Budownictwo ogólne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 15
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Geologia inżynierska i hydrogeologia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 45
+5
+Egzamin
+Obowiązkowy
+Hydrologia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 45
+5
+Egzamin
+Obowiązkowy
+Mechanika i wytrzymałość materiałów
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Obowiązkowy
+Meteorologia i klimatologia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Obowiązkowy
+Statystyka matematyczna
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+WF
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Mechanika gruntów i fundamentowanie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Obowiązkowy
+Planowanie i zagospodarowanie przestrzenne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Systemy informacji przestrzennej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+WF
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje przedmiot z oferty ogólnouczelnianej
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+gospodarka wodna
+Lista przedmiotów specjalnościowych - gospodarka wodna - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Ekologia wód płynących
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Inżynieria wodno-melioracyjna
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Renaturyzacja rzek
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Wodociągi i kanalizacje
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+śródlądowe drogi wodne
+Lista przedmiotów specjalnościowych - śródlądowe drogi wodne - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Drogi wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Eksploatacja dróg wodnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Gospodarka Wodna w systemach żeglownych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Regulacja rzek
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Modelowanie w gospodarce wodnej 1
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Prawo i administracja wodna
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Zagrożenie i ryzyko powodziowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Obowiązkowy
+Język obcy (egzamin)
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zajęcia z języka obcego kończące się egzaminem (w wymiarze 30 godzin - łącznie 2 punkty ECTS)
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język francuski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język chiński (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język włoski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+gospodarka wodna
+Lista przedmiotów specjalnościowych - gospodarka wodna - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Inżynieria rzeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł A - przedmiot do wyboru I, V
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Hydrotechniczne budowle betonowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Hydrotechniczne budowle stalowe i ziemne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Geotechniczna zabudowa terenów nadbrzeżnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Zrównoważone budownictwo wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Moduł B - przedmiot do wyboru II, VI
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Nawodnienia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona wód
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Odwodnienia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Zagrożenia środowiskowe - degradacja gleb
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Moduł C - przedmiot do wyboru III, VII
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Elektrownie wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Oczyszczalnie ścieków
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Pompownie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Gospodarowanie wodą i eksploatacja obiektów rybackich
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+śródlądowe drogi wodne
+Lista przedmiotów specjalnościowych - śródlądowe drogi wodne - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Ruch rumowiska i morfologia koryt rzecznych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł A - przedmiot do wyboru I, V
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Ekstremalne zjawiska hydrometeorologiczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Hydroenergetyczne wykorzystanie budowli piętrzących
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Moduł B - przedmiot do wyboru II, VI
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Budowle regulacyjne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Budowle komunikacyjne na rzekach i kanałach
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Budowle piętrzące
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Moduł C - przedmiot do wyboru III, VII
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Porty rzeczne i nabrzeża
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Geotechniczna zabudowa terenów nadbrzeżnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Budowle i urządzenia do ochrony ichtiofauny
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie na ocenę
+Fakultatywny
+Technologia i organizacja robót
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Obowiązkowy
+gospodarka wodna
+Lista przedmiotów specjalnościowych - gospodarka wodna - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Seminarium dyplomowe
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł A - przedmiot do wyboru I, V
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Hydrotechniczne budowle betonowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Hydrotechniczne budowle stalowe i ziemne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Geotechniczna zabudowa terenów nadbrzeżnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Zrównoważone budownictwo wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Moduł B - przedmiot do wyboru II, VI
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Nawodnienia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona wód
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Odwodnienia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Zagrożenia środowiskowe - degradacja gleb
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Moduł C - przedmiot do wyboru III, VII
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Elektrownie wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Oczyszczalnie ścieków
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Pompownie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Moduł D - przedmiot do wyboru IV, VIII
+Dane przedmiotu
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje dwa przedmioty
+Retencja i ochrona przed suszą
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zbiorniki wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zintegrowane gospodarowanie wodą
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Modelowanie ruchu wód w gruncie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Modelowanie w gospodarce wodnej 2
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+śródlądowe drogi wodne
+Lista przedmiotów specjalnościowych - śródlądowe drogi wodne - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Seminarium dyplomowe
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł A - przedmiot do wyboru I, V
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Ekstremalne zjawiska hydrometeorologiczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Hydroenergetyczne wykorzystanie budowli piętrzących
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Zbiorniki wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Moduł B - przedmiot do wyboru II, VI
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Budowle regulacyjne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Budowle komunikacyjne na rzekach i kanałach
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Budowle piętrzące
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Moduł C - przedmiot do wyboru III, VII
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Porty rzeczne i nabrzeża
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Geotechniczna zabudowa terenów nadbrzeżnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Budowle i urządzenia do ochrony ichtiofauny
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Moduł D - przedmiot do wyboru IV, VIII
+Dane przedmiotu
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje dwa przedmioty
+Turystyczne i rekreacyjne zagospodarowanie szlaków wodnych i dolin rzecznych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Gospodarowanie wodą w dolinach rzecznych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Mariny i stanice wodne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Praca inżynierska
+Dane przedmiotu
+Prace kontrolne i przejściowe: 5 godz.
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Prace kontrolne i przejściowe: 5
+10
+Zaliczenie
+Obowiązkowy
+Praktyka zawodowa
+Dane przedmiotu
+Praktyka: 320 godz.
+Punkty ECTS: 12
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Praktyka: 320
+12
+Zaliczenie
+Obowiązkowy
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie
+Obowiązkowy
+Teledetekcja środowiska
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 36 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 12
+Ćwiczenia projektowe/warsztatowe: 36
+3
+Zaliczenie na ocenę
+Obowiązkowy
+gospodarka wodna
+Lista przedmiotów specjalnościowych - gospodarka wodna - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Seminarium dyplomowe
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 24
+1
+Zaliczenie
+Obowiązkowy
+Moduł S - przedmiot do wyboru IX
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje jeden przedmiot
+Kosztorysowanie robót budowlanych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Proces inwestycyjny
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Ryzyko ekologiczne w gospodarce wodnej
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+śródlądowe drogi wodne
+Lista przedmiotów specjalnościowych - śródlądowe drogi wodne - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Seminarium dyplomowe
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 24
+1
+Zaliczenie
+Obowiązkowy
+Moduł S - przedmiot do wyboru IX
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje jeden przedmiot
+Kosztorysowanie robót budowlanych
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie ryzykiem w budownictwie hydrotechnicznym
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Środowiskowe aspekty budownictwa hydrotechnicznego
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Fakultatywny

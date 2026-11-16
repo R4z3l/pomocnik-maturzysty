@@ -1,0 +1,226 @@
+.bento-dashboard {
+  --bento-ink: #202a25;
+  --bento-green: #285a43;
+  --bento-muted: #4c5c50;
+  --bento-field: #fffefa;
+  display: grid;
+  grid-template-columns: minmax(0, 2.3fr) repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+  color: var(--bento-ink);
+  font-family: inherit;
+}
+
+.bento-dashboard .bento-tile {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  padding: 26px;
+  border: 1px solid transparent;
+  border-radius: 24px;
+  color: var(--bento-ink);
+}
+
+.bento-dashboard .bento-search-tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 292px;
+  padding: 32px;
+  background: #e1eacf;
+}
+
+.bento-dashboard .bento-eyebrow {
+  position: relative;
+  margin: 0 0 12px;
+  color: var(--bento-green);
+  font-size: 11px;
+  font-weight: 750;
+  letter-spacing: 1.6px;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.bento-dashboard .bento-search-tile h1 {
+  position: relative;
+  max-width: 540px;
+  margin: 0 0 12px;
+  color: var(--bento-ink);
+  font-size: clamp(30px, 3.2vw, 46px);
+  font-weight: 750;
+  letter-spacing: -1.8px;
+  line-height: 1.12;
+}
+
+.bento-dashboard .bento-search-description {
+  position: relative;
+  max-width: 36ch;
+  margin: 0 0 25px;
+  color: var(--bento-muted);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.bento-dashboard .bento-search-form {
+  position: relative;
+  display: flex;
+  gap: 10px;
+  min-width: 0;
+}
+
+.bento-dashboard .bento-search-field {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  padding: 0 16px;
+  border: 1px solid #285a431a;
+  border-radius: 14px;
+  background: var(--bento-field);
+  box-shadow: 0 3px 7px #202a2505;
+}
+
+.bento-dashboard .bento-search-field > svg {
+  width: 23px;
+  height: 23px;
+  flex-shrink: 0;
+  color: var(--bento-green);
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+}
+
+.bento-dashboard .bento-search-field input {
+  width: 100%;
+  min-width: 0;
+  min-height: 54px;
+  padding: 12px 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--bento-ink);
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.bento-dashboard .bento-search-field input::placeholder { color: #647067; opacity: 1; }
+.bento-dashboard .bento-search-field:focus-within { outline: 3px solid var(--bento-green); outline-offset: 3px; }
+.bento-dashboard .bento-search-field input:focus-visible { outline: none; }
+
+.bento-dashboard .bento-search-submit {
+  min-width: 94px;
+  min-height: 54px;
+  padding: 12px 18px;
+  border: 1px solid var(--bento-green);
+  border-radius: 14px;
+  background: var(--bento-green);
+  color: #fffefa;
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.bento-dashboard .bento-search-submit:hover { background: #1c4431; border-color: #1c4431; }
+.bento-dashboard button:focus-visible { outline: 3px solid var(--bento-green); outline-offset: 4px; }
+
+.bento-dashboard .bento-contours {
+  position: absolute;
+  right: -35px;
+  bottom: -35px;
+  width: 70%;
+  pointer-events: none;
+  stroke: #285a43;
+  stroke-width: 1;
+  opacity: .17;
+}
+
+.bento-dashboard .bento-compass {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  width: 65px;
+  height: 65px;
+  pointer-events: none;
+  stroke: #285a43;
+  stroke-width: 1;
+  opacity: .33;
+}
+
+.bento-dashboard .bento-compass-needle { fill: #285a4320; }
+.bento-dashboard .bento-profile-tile, .bento-dashboard .bento-compare-tile { display: flex; flex-direction: column; align-items: flex-start; }
+.bento-dashboard .bento-profile-tile { background: #e8e1f2; }
+.bento-dashboard .bento-compare-tile { background: #f4e6c9; }
+.bento-dashboard .bento-tile-heading { display: flex; align-items: center; gap: 10px; width: 100%; margin-bottom: 18px; }
+.bento-dashboard .bento-tile-heading > svg { flex-shrink: 0; width: 30px; height: 30px; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.bento-dashboard .bento-tile-heading h2 { min-width: 0; margin: 0; color: var(--bento-ink); font-size: 23px; font-weight: 700; line-height: 1.2; letter-spacing: -.8px; overflow-wrap: anywhere; }
+.bento-dashboard .bento-tile-caption, .bento-dashboard .bento-empty-profile { margin: 0 0 12px; color: var(--bento-muted); font-size: 14px; line-height: 1.5; }
+.bento-dashboard .bento-subjects { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; margin: 0 0 12px; padding: 0; list-style: none; width: 100%; }
+.bento-dashboard .bento-subjects li { max-width: 100%; padding: 5px 12px; border: 1px solid #202a2510; border-radius: 18px; background: #ffffff80; font-size: 14px; font-weight: 550; line-height: 1.35; overflow-wrap: anywhere; }
+.bento-dashboard .bento-more-subjects { margin: 0 0 8px; font-size: 12px; line-height: 1.5; color: var(--bento-muted); }
+.bento-dashboard .bento-tile-action { display: flex; justify-content: space-between; align-items: center; gap: 8px; width: 100%; min-height: 44px; margin-top: auto; padding: 10px 0; border: 0; border-radius: 6px; background: transparent; color: var(--bento-ink); text-align: left; font-size: 14px; font-weight: 650; line-height: 1.4; }
+.bento-dashboard .bento-tile-action:hover { background: #ffffff35; }
+.bento-dashboard .bento-tile-action > span { flex-shrink: 0; font-size: 20px; }
+.bento-dashboard .bento-compare-illustration { align-self: center; width: min(100%, 210px); height: 96px; margin: 0 0 8px; stroke: #285a43; stroke-width: 1.3; }
+.bento-dashboard .bento-compare-illustration g:first-child rect { fill: #e1eacf; }
+.bento-dashboard .bento-compare-illustration g:last-child rect { fill: #fffaf0; }
+.bento-dashboard .bento-compare-illustration path { opacity: .4; stroke-width: 2.3; stroke-linecap: round; }
+.bento-dashboard .bento-comparison-count { display: flex; align-items: baseline; gap: 8px; margin: 0 0 12px; color: var(--bento-ink); line-height: 1.2; }
+.bento-dashboard .bento-comparison-count strong { font-size: 34px; font-weight: 700; letter-spacing: -1.5px; }
+.bento-dashboard .bento-comparison-count span { color: var(--bento-muted); font-size: 15px; }
+.bento-dashboard .bento-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+
+html[data-theme='dark'] .bento-dashboard { --bento-ink: #f0f4e9; --bento-green: #b7ddbb; --bento-muted: #c4cfbd; --bento-field: #162b23; }
+html[data-theme='dark'] .bento-dashboard .bento-search-tile { background: #2a4432; border-color: #3e5d43; }
+html[data-theme='dark'] .bento-dashboard .bento-profile-tile { background: #373347; border-color: #514a63; }
+html[data-theme='dark'] .bento-dashboard .bento-compare-tile { background: #413c2c; border-color: #61573d; }
+html[data-theme='dark'] .bento-dashboard .bento-search-tile h1, html[data-theme='dark'] .bento-dashboard .bento-tile-heading h2 { color: var(--bento-ink); }
+html[data-theme='dark'] .bento-dashboard .bento-search-field { background: var(--bento-field); border-color: #658366; }
+html[data-theme='dark'] .bento-dashboard .bento-search-field input { background: transparent; color: var(--bento-ink); }
+html[data-theme='dark'] .bento-dashboard .bento-search-field input::placeholder { color: #bdcabb; }
+html[data-theme='dark'] .bento-dashboard .bento-search-submit { background: #bad7a4; border-color: #bad7a4; color: #163322; }
+html[data-theme='dark'] .bento-dashboard .bento-search-submit:hover { background: #cee7bd; border-color: #cee7bd; }
+html[data-theme='dark'] .bento-dashboard .bento-tile-action { background: transparent; color: var(--bento-ink); }
+html[data-theme='dark'] .bento-dashboard .bento-tile-action:hover { background: #ffffff0d; }
+html[data-theme='dark'] .bento-dashboard .bento-subjects li { background: #ffffff10; border-color: #ffffff15; }
+html[data-theme='dark'] .bento-dashboard .bento-compass, html[data-theme='dark'] .bento-dashboard .bento-contours { stroke: #bbd4a3; }
+html[data-theme='dark'] .bento-dashboard .bento-compass-needle { fill: #bbd4a330; }
+html[data-theme='dark'] .bento-dashboard .bento-compare-illustration { stroke: #c0d5aa; }
+html[data-theme='dark'] .bento-dashboard .bento-compare-illustration g:first-child rect { fill: #344733; }
+html[data-theme='dark'] .bento-dashboard .bento-compare-illustration g:last-child rect { fill: #4b4935; }
+
+@media (max-width: 1100px) {
+  .bento-dashboard { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .bento-dashboard .bento-search-tile { grid-column: 1 / -1; min-height: 250px; }
+  .bento-dashboard .bento-profile-tile, .bento-dashboard .bento-compare-tile { min-height: 245px; }
+  .bento-dashboard .bento-compare-illustration { position: absolute; right: 24px; top: 75px; width: 145px; opacity: .75; }
+  .bento-dashboard .bento-comparison-count { margin-top: 24px; }
+}
+
+@media (max-width: 620px) {
+  .bento-dashboard { gap: 12px; margin-bottom: 20px; }
+  .bento-dashboard .bento-tile { padding: 17px; border-radius: 22px; }
+  .bento-dashboard .bento-search-tile { min-height: 230px; padding: 24px 20px; }
+  .bento-dashboard .bento-eyebrow { margin-bottom: 10px; font-size: 10px; letter-spacing: 1.2px; }
+  .bento-dashboard .bento-search-tile h1 { max-width: 280px; margin-bottom: 10px; font-size: 32px; letter-spacing: -1.2px; }
+  .bento-dashboard .bento-search-description { max-width: 29ch; margin-bottom: 20px; font-size: 14px; }
+  .bento-dashboard .bento-compass { right: 9px; top: 15px; width: 47px; height: 47px; opacity: .2; }
+  .bento-dashboard .bento-search-form { gap: 7px; }
+  .bento-dashboard .bento-search-field { gap: 6px; padding: 0 10px; border-radius: 12px; }
+  .bento-dashboard .bento-search-field > svg { width: 19px; height: 19px; }
+  .bento-dashboard .bento-search-field input { min-height: 48px; font-size: 16px; }
+  .bento-dashboard .bento-search-submit { min-width: 70px; min-height: 48px; padding: 10px 12px; border-radius: 12px; font-size: 14px; }
+  .bento-dashboard .bento-profile-tile, .bento-dashboard .bento-compare-tile { min-height: 225px; }
+  .bento-dashboard .bento-tile-heading { gap: 7px; margin-bottom: 12px; }
+  .bento-dashboard .bento-tile-heading > svg { width: 22px; height: 22px; }
+  .bento-dashboard .bento-tile-heading h2 { font-size: 18px; letter-spacing: -.5px; }
+  .bento-dashboard .bento-tile-caption { font-size: 12px; margin-bottom: 8px; }
+  .bento-dashboard .bento-empty-profile { font-size: 14px; }
+  .bento-dashboard .bento-subjects { gap: 5px; margin-bottom: 7px; }
+  .bento-dashboard .bento-subjects li { padding: 4px 9px; font-size: 13px; }
+  .bento-dashboard .bento-tile-action { gap: 4px; font-size: 13px; }
+  .bento-dashboard .bento-tile-action > span { font-size: 18px; }
+  .bento-dashboard .bento-compare-illustration { position: static; width: 115px; height: 65px; margin: 0 0 10px; opacity: 1; }
+  .bento-dashboard .bento-comparison-count { gap: 7px; margin: 0 0 10px; }
+  .bento-dashboard .bento-comparison-count strong { font-size: 30px; }
+  .bento-dashboard .bento-comparison-count span { font-size: 14px; }
+}

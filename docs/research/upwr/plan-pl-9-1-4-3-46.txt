@@ -1,0 +1,1968 @@
+inżynieria bezpieczeństwa: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Inżynierii Kształtowania Środowiska i Geodezji
+inżynieria bezpieczeństwa
+Sylabus UPWr
+Kierunek
+inżynieria bezpieczeństwa
+2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Lista przedmiotów - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Chemia
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Ergonomia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Grafika inżynierska
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 45 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 45
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Matematyka I
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Prawo
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Socjologia i psychologia środowiskowa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+Technologia informacyjna
+Dane przedmiotu
+Ćwiczenia e-learning: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia e-learning: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Wprowadzenie do zagadnień z inżynierii bezpieczeństwa
+Dane przedmiotu
+Wykład: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Zagrożenia środowiskowe
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+Zagrożenia środowiskowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Environmental hazards
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Biologia i ekologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Fizyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Logika
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Matematyka II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Materiałoznawstwo
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje przedmiot z oferty ogólnouczelnianej
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+bezpieczeństwo i higiena pracy
+Lista przedmiotów specjalnościowych - bezpieczeństwo i higiena pracy - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Bezpieczeństwo chemiczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Prawne podstawy bezpieczeństwa
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Informatyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Mechanika i wytrzymałość materiałów
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Procesy informacyjne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Statystyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Termodynamika i mechanika płynów
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot humanistyczny
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje dwa przedmioty z oferty ogólnouczelnianej
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+bezpieczeństwo i higiena pracy
+Lista przedmiotów specjalnościowych - bezpieczeństwo i higiena pracy - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Moduł A - bezpieczeństwo techniczne
+Dane przedmiotu
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera
+dwa przedmioty w sem. 3.
+, jeden przedmiot w sem. 5-tym i dwa w sem. 6-tym;
+Bezpieczeństwo obiektów inżynierskich
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Elektrotechnika
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie projektami w przedsiębiorstwie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ratownictwo techniczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo pożarowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo energetyczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo ruchu drogowego
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Organizacja i funkcjonowanie systemów bezpieczeństwa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Inżynieria bezpieczeństwa technicznego
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Logistyka w bezpieczeństwie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Mechatronika
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Obowiązkowy
+Podstawy konstrukcji maszyn
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+bezpieczeństwo i higiena pracy
+Lista przedmiotów specjalnościowych - bezpieczeństwo i higiena pracy - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Bezpieczeństwo ekologiczne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Monitoring i modelowanie zagrożeń
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł B - bezpieczeństwo człowieka
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera
+jeden przedmiot w sem. 4,
+dwa przedmioty w sem. 5 i jeden w sem. 6-tym
+Ryzyko zawodowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo w sporcie i turystyce
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+BHP w rolnictwie i gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Organizacja szkoleń i edukacja w BHP
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ryzyko zdrowotne na terenach przemysłowych i poprzemysłowych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona i zabezpieczenie ujęć wód podziemnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Systemy informacji przestrzennej
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zajęcia z języka obcego kończące się egzaminem (w wymiarze 30 godzin - łącznie 2 punkty ECTS)
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język francuski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język chiński (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język włoski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+bezpieczeństwo i higiena pracy
+Lista przedmiotów specjalnościowych - bezpieczeństwo i higiena pracy - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Bezpieczeństwo i higiena pracy
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Ochrona infrastruktury krytycznej
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł A - bezpieczeństwo techniczne
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera dwa przedmioty w sem. 3.,
+jeden przedmiot w sem. 5-tym
+i dwa w sem. 6-tym;
+Bezpieczeństwo obiektów inżynierskich
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo ruchu drogowego
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo energetyczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo pożarowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ratownictwo techniczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie projektami w przedsiębiorstwie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Elektrotechnika
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Moduł B - bezpieczeństwo człowieka
+Dane przedmiotu
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot w sem. 4,
+dwa w sem. 5-tym
+i jeden w sem. 6-tym
+Ryzyko zawodowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+BHP w rolnictwie i gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo w sporcie i turystyce
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ryzyko zdrowotne na terenach przemysłowych i poprzemysłowych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Organizacja szkoleń i edukacja w BHP
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona i zabezpieczenie ujęć wód podziemnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Moduł C - bezpieczeństwo środowiska
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera przedmioty:
+jeden w sem. 5-tym,
+dwa w sem. 6-tym, jeden w sem.7
+Adaptacja do zmian klimatu
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Analizy przestrzenne dla potrzeb bezpieczeństwa I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo systemów gospodarki wodno-ściekowej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo w gospodarce odpadami
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona od powodzi i suszy
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona zasobów wodnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Wycena szkód środowiskowych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie bezpieczeństwem ekologicznym
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zagrożenia geologiczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie na ocenę
+Fakultatywny
+Ekonomika bezpieczeństwa i higieny pracy
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+bezpieczeństwo i higiena pracy
+Lista przedmiotów specjalnościowych - bezpieczeństwo i higiena pracy - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Seminarium dyplomowe
+Dane przedmiotu
+Seminarium/Konwersatorium: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Systemy ratownictwa
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł A - bezpieczeństwo techniczne
+Dane przedmiotu
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera dwa przedmioty w sem. 3, jeden w sem. 5-tym i
+dwa w sem. 6-tym;
+Bezpieczeństwo obiektów inżynierskich
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo ruchu drogowego
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo energetyczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo pożarowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ratownictwo techniczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Elektrotechnika
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie projektami w przedsiębiorstwie
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Moduł B - bezpieczeństwo człowieka
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot w sem. 4, dwa przedmioty w sem. 5 i
+jeden w sem. 6-tym
+Ryzyko zawodowe
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+BHP w rolnictwie i gospodarce żywnościowej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo w sporcie i turystyce
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ryzyko zdrowotne na terenach przemysłowych i poprzemysłowych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Organizacja szkoleń i edukacja w BHP
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona i zabezpieczenie ujęć wód podziemnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Moduł C - bezpieczeństwo środowiska
+Dane przedmiotu
+Punkty ECTS: 10
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera przedmioty: jeden w sem. 5-tym,
+dwa w sem. 6-tym
+i jeden w sem. 7
+Adaptacja do zmian klimatu
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Analizy przestrzenne dla potrzeb bezpieczeństwa I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo systemów gospodarki wodno-ściekowej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo w gospodarce odpadami
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona od powodzi i suszy
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona zasobów wodnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Wycena szkód środowiskowych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie bezpieczeństwem ekologicznym
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zagrożenia geologiczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Praca dyplomowa i egzamin dyplomowy
+Dane przedmiotu
+Suma godzin kontaktowych: 5 godz.
+Punkty ECTS: 11
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Suma godzin kontaktowych: 5
+11
+Zaliczenie
+Obowiązkowy
+Praktyka zawodowa
+Dane przedmiotu
+Praktyka: 240 godz.
+Punkty ECTS: 8
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 240
+8
+Zaliczenie na ocenę
+Obowiązkowy
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+bezpieczeństwo i higiena pracy
+Lista przedmiotów specjalnościowych - bezpieczeństwo i higiena pracy - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Analiza ryzyka
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia laboratoryjne: 24
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Seminarium dyplomowe
+Dane przedmiotu
+Seminarium/Konwersatorium: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Moduł C - bezpieczeństwo środowiska
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera przedmioty: jeden w sem. 5-tym, dwa w sem. 6-tym i
+jeden w sem. 7
+Adaptacja do zmian klimatu
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Analizy przestrzenne dla potrzeb bezpieczeństwa I
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo systemów gospodarki wodno-ściekowej
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Bezpieczeństwo w gospodarce odpadami
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona od powodzi i suszy
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Ochrona zasobów wodnych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zarządzanie bezpieczeństwem ekologicznym
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Zagrożenia geologiczne
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Wycena szkód środowiskowych
+Dane przedmiotu
+Wykład: 30 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny

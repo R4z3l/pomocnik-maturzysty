@@ -1,0 +1,2494 @@
+[
+  {
+    "id": "upwr-applied-bioeconomy-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Applied Bioeconomy — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Niezależny warunek: potwierdzenie angielskiego minimum B2 zgodnie z §24–25 i załącznikiem 11 (m.in. polska matura PR co najmniej 60% lub odpowiedni dokument). Kalkulator nie weryfikuje dokumentu językowego."
+  },
+  {
+    "id": "upwr-adaptacje-do-zmiany-klimatu-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Adaptacje do zmiany klimatu — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-agroinzynieria-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Agroinżynieria — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-architektura-krajobrazu-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Architektura krajobrazu — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "geografia",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-bioinformatyka-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Bioinformatyka — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-biologia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Biologia — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-biologia-czlowieka-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Biologia człowieka — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-biotechnologia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Biotechnologia — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-budownictwo-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Budownictwo — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 4 × matematyka(PP) + 10 × najlepszy przedmiot do wyboru (PR; matematyka tylko PR). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Matematyka PP",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 0,
+          "bilingual": 0
+        },
+        "weight": 4,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "fizyka",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-dietetyka-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Dietetyka — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-ekonomia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Ekonomia — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-geodezja-i-kartografia-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Geodezja i kartografia — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 4 × matematyka(PP) + 10 × najlepszy przedmiot do wyboru (PR; matematyka tylko PR). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Matematyka PP",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 0,
+          "bilingual": 0
+        },
+        "weight": 4,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "fizyka",
+          "matematyka",
+          "informatyka",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-gospodarka-przestrzenna-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Gospodarka przestrzenna — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "geografia",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-inzynieria-danych-satelitarnych-i-kosmicznych-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria danych satelitarnych i kosmicznych — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 4 × matematyka(PP) + 10 × najlepszy przedmiot do wyboru (PR; matematyka tylko PR). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Matematyka PP",
+        "subjects": [
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 1,
+          "extended": 0,
+          "bilingual": 0
+        },
+        "weight": 4,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "fizyka",
+          "matematyka",
+          "informatyka",
+          "geografia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-inzynieria-bezpieczenstwa-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria bezpieczeństwa — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-inzynieria-i-gospodarka-wodna-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria i gospodarka wodna — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-inzynieria-srodowiska-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Inżynieria środowiska — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-ochrona-srodowiska-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Ochrona środowiska — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-odnawialne-zrodla-energii-i-gospodarka-odpadami-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Odnawialne źródła energii i gospodarka odpadami — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-ogrodnictwo-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Ogrodnictwo — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-rolnictwo-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Rolnictwo — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-technologia-i-organizacja-gastronomii-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Technologia i organizacja gastronomii — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-technologia-zywnosci-i-zywienie-czlowieka-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Technologia żywności i żywienie człowieka — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-zarzadzanie-i-inzynieria-produkcji-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Zarządzanie i inżynieria produkcji — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka",
+          "geografia",
+          "informatyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "geografia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "informatyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-zarzadzanie-jakoscia-i-analiza-zywnosci-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Zarządzanie jakością i analiza żywności — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-zootechnika-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Zootechnika — polska nowa matura",
+    "formula": "max(0,4 × Jo(PP), Jo(PR)) + max(0,4 × Jp(PP), Jp(PR)) + 10 × najlepszy przedmiot do wyboru (PR; matematyka także 0,4 × PP). Zamiast 10 × Pw uchwała dopuszcza 4 × KZ; kalkulator obejmuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Język obcy",
+        "subjects": [
+          "język angielski",
+          "język niemiecki",
+          "język francuski",
+          "język hiszpański",
+          "język rosyjski",
+          "język włoski",
+          "język portugalski",
+          "język ukraiński"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Język polski",
+        "subjects": [
+          "język polski"
+        ],
+        "factors": {
+          "basic": 0.4,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": true
+      },
+      {
+        "label": "Przedmiot do wyboru",
+        "subjects": [
+          "biologia",
+          "chemia",
+          "fizyka",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 10,
+        "optional": true,
+        "options": [
+          {
+            "subject": "biologia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "chemia",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "fizyka",
+            "basic": 0,
+            "extended": 1,
+            "bilingual": 0
+          },
+          {
+            "subject": "matematyka",
+            "basic": 0.4,
+            "extended": 1,
+            "bilingual": 0
+          }
+        ]
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-weterynaria-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Weterynaria — polska nowa matura",
+    "formula": "B(PR) + max(C(PR), M(PR)); minimum 30% z biologii oraz z wybranego drugiego przedmiotu. Uchwała dopuszcza dodatkowo 0,1 × KZ; kalkulator pokazuje wariant bez KZ.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia PR",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": false,
+        "minPercent": 30
+      },
+      {
+        "label": "Chemia lub matematyka PR",
+        "subjects": [
+          "chemia",
+          "matematyka"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": false,
+        "minPercent": 30
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku."
+  },
+  {
+    "id": "upwr-weterynaria-w-jezyku-angielskim-2027",
+    "year": "2027/2028",
+    "title": "Uniwersytet Przyrodniczy we Wrocławiu — Weterynaria w języku angielskim — polska nowa matura",
+    "formula": "Biologia(PR) + chemia(PR) + 100 pkt za zwolnienie z egzaminu kompetencyjnego dla polskiej nowej matury po potwierdzeniu B2. Minimum 30% z każdego przedmiotu. Inne kategorie kandydatów mają odrębny egzamin — poza kalkulatorem.",
+    "sourceUrl": "https://bip.upwr.edu.pl/akty-prawne/uchwaly/uchwaly-senatu/2026-rok/uchwala-nr-162026-senatu-uniwersytetu-przyrodniczego-we-wroclawiu-z-dnia-29-maja-2026-roku-16.html",
+    "checkedAt": "2026-11-10",
+    "groups": [
+      {
+        "label": "Biologia PR",
+        "subjects": [
+          "biologia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": false,
+        "minPercent": 30
+      },
+      {
+        "label": "Chemia PR",
+        "subjects": [
+          "chemia"
+        ],
+        "factors": {
+          "basic": 0,
+          "extended": 1,
+          "bilingual": 0
+        },
+        "weight": 1,
+        "optional": false,
+        "minPercent": 30
+      }
+    ],
+    "caveat": "Polska nowa matura, część pisemna PP/PR; bez przeliczeń IB, EB, starej matury i dyplomów zagranicznych. Punkty KZ z egzaminów zawodowych nie są objęte tym wariantem kalkulatora. Zaznaczony przedmiot bez procentu pozostaje brakiem; niezdawany przedmiot poza weterynarią daje 0. Zasady 2027/2028 nie gwarantują uruchomienia kierunku. Niezależny warunek: potwierdzenie angielskiego minimum B2 zgodnie z §24–25 i załącznikiem 11 (m.in. polska matura PR co najmniej 60% lub odpowiedni dokument). Kalkulator nie weryfikuje dokumentu językowego.",
+    "extraExam": {
+      "key": "exemption",
+      "label": "Potwierdzone zwolnienie z egzaminu kompetencyjnego",
+      "min": 100,
+      "max": 100,
+      "passMin": 100,
+      "allowedValues": [
+        100
+      ],
+      "note": "Wariant tylko dla polskiej nowej matury: biologia i chemia PR minimum 30% oraz potwierdzony angielski B2. Wybierz 100 wyłącznie po potwierdzeniu tych warunków; §15 ust. 2 przyznaje wtedy 100 pkt. Nie wpisuj tu wyniku egzaminu dla matur zagranicznych."
+    },
+    "minimumMaturaTotal": 60
+  }
+]

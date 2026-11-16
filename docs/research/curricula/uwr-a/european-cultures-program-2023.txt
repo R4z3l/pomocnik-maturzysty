@@ -1,0 +1,2584 @@
+
+PAGE 1
+UCHWAŁA NR 168/2023
+SENATU UNIWERSYTETU WROCŁAWSKIEGO
+z dnia 21 czerwca 2023 r.
+w sprawie programu studiów dla kierunku European Cultures
+na poziomie studiów pierwszego stopnia
+Na podstawie art. 28 ust. 1 pkt 11 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym
+i nauce (Dz. U. 2023 poz. 742) uchwala się, co następuje:
+§ 1. Senat Uniwersytetu Wrocławskiego ustala program studiów dla kierunku European
+Cultures na poziomie studiów pierwszego stopnia o profilu ogólnoakademickim dla cykli
+kształcenia rozpoczynających się od roku akademickiego 2023/2024 w brzmieniu określonym w
+załączniku do niniejszej uchwały.
+§ 2. Uchwała wchodzi w życie z dniem podjęcia.
+Przewodniczący Senatu UWr
+Rektor: prof. R. Olkiewicz
+PAGE 2
+Załącznik do Uchwały Senatu Uniwersytetu
+Wrocławskiego Nr 168/2023 z 21 czerwca 2023 r.
+PROGRAMME OF STUDIES
+Course: European Cultures
+Discipline: History (71%), Culture and Religion Studies (29%)
+Level of studies: the 1st cycle
+Qualification level: 6 Polish Qualifications Framework
+Education profile: general academic
+Form of study: full time
+Title awarded to graduates: licencjat
+Faculty name: Faculty of Historical and Pedagogical Sciences
+PROGRAM STUDIÓW
+Nazwa kierunku studiów: Kultury Europejskie
+Dyscypliny naukowe: historia (71%), nauki o kulturze i religii (29%)
+Poziom kształcenia: studia pierwszego stopnia
+Poziom kwalifikacji:6 Polskiej Ramy Kwalifikacji
+Profil kształcenia: ogólnoakademicki
+Forma studiów: stacjonarna
+Tytuł zawodowy nadawany absolwentom: licencjat
+Nazwa wydziału: Wydział Nauk Historycznych i Pedagogicznych
+DESCRIPTION OF THE ASSUMED LEARNING OUTCOMES / OPIS ZAKŁADANYCH EFEKTÓW UCZENIA SIĘ DLA KIERUNKU STUDIÓW
+Learning outcomes for the field of study Reference to the character-
+Learning outcome code for After completing BA studies in the field of European Cultures, the graduate will obtain istics of the second degree
+the field of study the following learning outcomes: of PRK (codes)
+Kod efektu uczenia się dla Efekty uczenia się dla kierunku studiów Odniesienie do charaktery-
+kierunku studiów Po ukończeniu studiów pierwszego stopnia na kierunku Kultury Europejskie absolwent styk drugiego stopnia PRK
+uzyska efekty uczenia się w zakresie: (kody)
+KNOWLEDGE / WIEDZA
+1
+PAGE 3
+has advanced knowledge of the specificity of the humanities and social sciences, enabling
+the description of the world of culture
+K_W01 P6S_WG
+ma zaawansowaną wiedzę o specyfice nauk humanistycznych i społecznych umożliwia-
+jącą opis świata kultury
+has knowledge regarding current research directions and methodological reflection used
+in research in the field of history and culture
+K_W02 P6S_WG
+posiada podstawową wiedzę dotyczącą bieżących kierunków badań i refleksji metodolo-
+gicznej stosowanej w badaniach nad historią i kulturą
+has knowledge of the linguistic and historical diversity of Europe and the specificity of
+different styles of expression
+K_W03 P6S_WG
+posiada wiedzę o zróżnicowaniu językowym i historycznym Europy i specyfice różnych
+stylów wypowiedzi
+knows the basic ways of narrating cultural facts that are keys to European communi-
+ties and their conditions
+K_W04 P6S_WG
+zna zasadnicze sposoby prowadzenia narracji dotyczących kluczowych dla społeczności
+europejskich faktów kulturowych i ich uwarunkowania
+has a basic knowledge of the consequences of political and economic changes for social
+and cultural life
+K_W05 P6S_WK
+posiada podstawową wiedzę o konsekwencjach przemian politycznych i gospodarczych
+dla życia społecznego i kulturowego
+knows the main motives in the common sphere of symbolic communication of European
+communities and the fundamental dilemma of contemporary civilization
+K_W06 P6S_WK
+zna główne motywy we wspólnej sferze symbolicznej komunikacji społeczności europej-
+skich oraz fundamentalne dylematy współczesnych cywilizacji
+has advanced knowledge about development lines in process of changes of the function
+of works of art in European cultures
+K_W07 P6S_WG
+ma zaawansowaną wiedzę na temat linii rozwojowych zmian funkcji sztuki w kulturach
+europejskich
+has knowledge of the basic components of the cultural heritage of Europe, economic
+changes and development of entrepreneurial forms
+P6S_WG
+K_W08
+P6S_WK
+posiada wiedzę o podstawowych elementach składowych dziedzictwa kulturowego Eu-
+ropy oraz przemian ekonomicznych i form przedsiębiorczości
+2
+PAGE 4
+explains diverse influence of different cultural traditions on individual European cultures
+in different periods of time
+K_W09 P6S_WG
+zna wpływ różnych tradycji na rozwój poszczególnych kultur europejskich
+explains the key causes of the influence of European cultures on non-continental cul-
+tures
+K_W10 P6S_WG
+zna zasadnicze przyczyny i skutki wpływu kultur europejskich na kultury pozakontynen-
+talne
+knows the main elements of historical and economic changes that have shaped modern
+European communities
+K_W11 P6S_WG
+zna główne elementy przemian historycznych, gospodarczych i ekonomicznych, które
+ukształtowały współczesne społeczności europejskie
+has basic knowledge of the process of including European communities in a common
+cultural framework
+K_W12 P6S_WG
+posiada podstawową wiedzę o przebiegu procesu obejmowania społeczności europej-
+skich wspólnymi ramami kulturowymi
+has knowledge of the preferred European ways of education, the respect of copyrights
+and connected with them transfer of values
+K_W13 P6S_WK
+posiada wiedzę o preferowanych w Europie sposobach kształcenia, respektowania praw
+autorskich i związanym z tym transferze wartości
+knows the basic problems of the behavioral psychology of European communities
+K_W14 P6S_WK
+zna zasadnicze problemy psychologii zachowań społeczności europejskich
+has advanced knowledge of models of interculturalism in Europe and the relationships
+between them, interpreting them in historical context
+K_W15 P6S_WG
+posiada wiedzę w stopniu zaawansowanym na temat modeli międzykulturowości w Eu-
+ropie i zależności między nimi, interpretowanych w kontekście historycznym
+SKILLS / UMIEJĘTNOŚCI
+applies the principles of intercultural communication as the type of communication ena-
+bling participation in problematic debates
+P6S_UW
+K_U01
+P6S_UK
+stosuje zasady komunikacji międzykulturowej jako rodzaju komunikacji społecznej
+umożliwiającej udział w debatach problemowych
+3
+PAGE 5
+can use different styles of European languages to adequately convey content to a specific
+group of recipients, enabling communication with the environment, has language com-
+petences in Polish at the level A1 and in English at the level B2
+K_U02 P6S_UK
+potrafi wykorzystywać różne style języków europejskich do adekwatnego przekazu treści
+konkretnej grupie odbiorców, umożliwiając komunikację z otoczeniem w języku polskim
+na poziomie A1 oraz w języku angielskim na poziomie B2
+is able to formulate messages describing the historical conditions of contemporary Eu-
+ropean cultures
+K_U03 P6S_UK
+umie formułować komunikaty opisujące historyczne uwarunkowania współczesnych kul-
+tur europejskich
+has the ability to critically analyze specialized studies describing the history and present
+day of European cultures and uses specialized terminology
+P6S_UW
+K_U04
+P6S_UK
+posiada umiejętność krytycznej analizy specjalistycznych opracowań opisujących historię
+i współczesność kultur europejskich oraz używa specjalistycznej terminologii
+uses knowledge of the directions and specificity of changes in European art to define the
+canon of monuments and places whose knowledge can bring a specific aspect of a given
+culture to a specific group of recipients
+P6S_UW
+K_U05
+P6S_UK
+wykorzystuje wiedzę o kierunkach i specyfice zmian sztuki europejskiej dla zdefiniowania
+kanonu zabytków i miejsc, których poznanie może przybliżyć konkretny aspekt danej
+kultury specyficznej grupie odbiorców
+can indicate the basic elements of the material history of European culture on the basis
+of selected monuments of art, symbolic statements and social behavior
+K_U06 P6S_UW
+potrafi wskazać podstawowe elementy materialnej historii kultury europejskiej na pod-
+stawie wybranych zabytków sztuki, wypowiedzi o charakterze symbolicznym i zachowań
+społecznych
+has the ability to choose and transfer knowledge about the essential features of European
+cultures to potential recipients outside Europe
+K_U07 P6S_UK
+posiada umiejętność wyboru i przekazu wiedzy o zasadniczych cechach kultur europej-
+skich potencjalnym odbiorcom spoza Starego Kontynentu
+is able to analyze the historical and cultural conditions of the functioning of modern
+European communities and on this basis to formulate analyzes that facilitate their un-
+P6S_UW
+K_U08 derstanding by non-specialists, also with the use of advanced information and commu-
+P6S_UK
+nication techniques
+4
+PAGE 6
+umie samodzielnie analizować historyczne i kulturowe uwarunkowania funkcjonowania
+współczesnych społeczności europejskich i formułować na tej podstawie analizy umożli-
+wiające ich zrozumienie odbiorcy, również z wykorzystaniem zaawansowanych technik
+informacyjno-komunikacyjnych
+has the ability to identify the most important cultural resources in historical context of a
+given community and the institutions managing them
+K_U09 P6S_UW
+posiada umiejętność identyfikowania najistotniejszych zasobów kultury w kontekście hi-
+storycznym danej społeczności i instytucji nimi zarządzających
+has the ability to recognize and use the basic principles of political behavior in European
+communities
+K_U10 P6S_UW
+posiada umiejętność rozpoznawania i wykorzystywania podstawowych zasad zachowań
+politycznych w społecznościach europejskich
+can present the basic consequences of the transfer of values characteristic of European
+cultures to external cultures for the lives of members of acculturated communities in
+historical context
+K_U11 P6S_UW
+umie przedstawić podstawowe konsekwencje transferu wartości charakterystycznych dla
+kultur europejskich do kultur zewnętrznych dla życia członków społeczności poddawa-
+nych akulturacji w kontekście historycznym
+has the ability to determine the basic elements that distinguish communities on the Old
+Continent based on historical sources, artifacts, values, symbols, taboos
+K_U12 P6S_UW
+posiada umiejętność określenia podstawowych elementów odróżniających społeczności
+na Starym Kontynencie, na postawie źródeł historycznych, artefaktów, wartości, sym-
+boli, tabu
+is able to define potential, basic areas of conflict and cooperation between representa-
+tives of different cultures, especially non-European and European ones in the conditions
+of joint professional work, is able to critically observe changes in relations in multicultural
+environments, realizing their own lifelong learning
+P6S_UO
+K_U13
+P6S_UU
+umie zdefiniować potencjalne, podstawowe obszary konfliktu i współpracy między przed-
+stawicielami różnych kultur, zwłaszcza poza- i europejskich w warunkach wspólnej pracy
+zawodowej, potrafi krytycznie obserwować zmiany relacji w środowiskach wielokulturo-
+wych realizując własne uczenie się przez całe życie
+has the necessary competences in the field of planning individual work, cooperation in
+K_U14 teamwork, communication skills used in intercultural and interdisciplinary cooperation P6S_UO
+5
+PAGE 7
+posiada potrzebne kompetencje w zakresie planowania pracy indywidulanej, współdzia-
+łania w pracach zespołowych, umiejętności komunikacyjne używane we współpracy mię-
+dzykulturowej i interdyscyplinarnej
+SOCIAL COMPETENCE / KOMPETENCJE SPOŁECZNE
+is aware of the role played by culture in preserving the identity of societies in historical
+and contemporary context
+K_K01 P6S_KO
+jest świadomy roli pełnionej przez kulturę dla zachowania tożsamości społeczeństw w
+kontekście historycznym i współczesnym
+recognizes the real effects of community involvement in cultural life, including in partic-
+ular understanding and participation in the tradition that defines a given community
+K_K02 P6S_KO
+dostrzega realne skutki zaangażowania społeczności w życie kulturalne, w tym zwłaszcza
+zrozumienia i partycypowania w tradycji definiującej daną społeczność
+understands the specifics of European multiculturalism and disseminates knowledge
+about it, at the same time emphasizing its historical dimension and changes that take
+place in the cultural landscape under the influence of political changes, has the compe-
+tence to critically assess their knowledge
+K_K03 P6S_KK
+rozumie specyfikę wielokulturowości Europy i upowszechnia wiedzę o niej podkreślając
+jednocześnie jej historyczny wymiar i zmiany, jakie zachodzą w krajobrazie kulturowym
+pod wpływem przemian politycznych, posiada kompetencje do krytycznej oceny posia-
+danej wiedzy
+is involved in acts and processes of intercultural communication, observing the rules of
+professional ethics and respect for historical and cultural traditions
+P6S_KO
+K_K04
+P6S_KR
+angażuje się w akty i procesy komunikacji międzykulturowej, przestrzegając zasad etyki
+zawodowej, poszanowania dla tradycji historycznych i kulturowych
+undertakes actions to optimize professional and political cooperation in multicultural
+communities, based on respect for particular cultures and defining a common canon of
+values binding for all members of the community
+K_K05 P6S_KR
+podejmuje działania na rzecz optymalizacji współpracy zawodowej i politycznej w spo-
+łecznościach wielokulturowych, bazując na poszanowaniu kultur partykularnych i okre-
+ślaniu wspólnego kanonu wartości obowiązujących wszystkich członków społeczności
+disseminates knowledge about access routes to the canon of European cultural works,
+P6S_KO
+K_K06 providing competent commentary that places them in a socio-historical context
+P6S_KR
+6
+PAGE 8
+rozpowszechnia wiedzę o drogach dostępu do kanonu dzieł kultury europejskiej zapew-
+niając kompetentny komentarz umiejscawiający je w kontekście społeczno-historycznym
+popularizes the idea of continuous learning about constantly changing cultures whose
+shapes are never stable based on expert opinions and analysis of historical sources
+K_K07 P6S_KK
+popularyzuje ideę ustawicznego poznawania stale zmieniających się kultur, których
+kształt nigdy nie jest stabilny, w oparciu o opinie ekspertów i analizę źródeł historycznych
+knows how to initiate and coordinate work in a team composed of representatives of
+various cultures, including the European ones co-organizes activities for the benefit of
+the social environment, including showing entrepreneurship
+P6S_KO
+K_K08
+P6S_KK
+umie inicjować i koordynować pracę w zespole złożonym z przedstawicieli różnych kultur,
+w tym europejskich, współorganizuje działania na rzecz środowiska społecznego, w tym
+wykazując się przedsiębiorczością
+understands the idea of constantly changing research methods used in historical and
+cultural research and the need for communication between researchers working in dif-
+ferent cultures, consults experts' opinions
+K_K09 P6S_KK
+rozumie ideę ciągłego zmieniania się metod badawczych stosowanych w badaniach hi-
+storycznych i kulturowych oraz potrzebę komunikacji pomiędzy badaczami pracującymi
+w różnych kulturach, zapoznaje się z opiniami ekspertów
+POKRYCIE EFEKTÓW UCZENIA SIĘ OKREŚLONYCH W CHARAKTERYSTYKACH DRUGIEGO STOPNIA POLSKIEJ RAMY KWALIFIKACJI PRZEZ
+EFEKTY KIERUNKOWE
+Odniesienia do efektów ucze-
+Kod składnika opisu Polskiej Efekty uczenia się określone w charakterystykach drugiego stopnia Polskiej Ramy Kwa-
+nia się dla kierunku Euro-
+Ramy Kwalifikacji lifikacji
+pean Cultures
+WIEDZA
+Student zna i rozumie – w zaawansowanym stopniu – wybrane fakty, obiekty i zjawiska
+K_W01, K_W02, K_W03,
+oraz dotyczące ich metody i teorie wyjaśniające złożone zależności między nimi, stano-
+K_W04, K_W07, K_W08,
+P6S_WG wiące podstawową wiedzę ogólną z zakresu dyscyplin naukowych lub artystycznych
+K_W09, K_W10, K_W11,
+tworzących podstawy teoretyczne oraz wybrane zagadnienia z zakresu wiedzy szczegó-
+K_W12, K_W15
+łowej - właściwe dla programu studiów
+Student zna i rozumie fundamentalne dylematy współczesnej cywilizacji; podstawowe
+ekonomiczne, prawne, etyczne i inne uwarunkowania różnych rodzajów działalności za- K_W05, KW_06, K_W08,
+P6S_WK
+wodowej związanej z kierunkiem studiów, w tym podstawowe pojęcia i zasady z zakresu KW_13, KW_14
+ochrony własności przemysłowej i prawa autorskiego; podstawowe zasady tworzenia i
+7
+PAGE 9
+rozwoju różnych form przedsiębiorczości
+UMIEJĘTNOŚCI
+Student potrafi wykorzystywać posiadaną wiedzę: formułować i rozwiązywać złożone i
+nietypowe problemy oraz wykonywać zadania w warunkach nie w pełni przewidywal-
+K_U01, K_U04. K_U05,
+nych przez: właściwy dobór źródeł i informacji z nich pochodzących, dokonywanie
+P6S_UW K_U06, K_U08, K_U09,
+oceny, krytycznej analizy i syntezy tych informacji, dobór oraz stosowanie właściwych
+K_U10, K_U11, K_U12
+metod i narzędzi, w tym zaawansowanych technik informacyjno-komunikacyjnych
+Student potrafi komunikować się z otoczeniem z użyciem specjalistycznej terminologii;
+K_U01, K_U02, K_U03,
+brać udział w debacie - przedstawiać i oceniać różne opinie i stanowiska oraz dyskuto-
+P6S_UK K_U04, K_U05, K_U07,
+wać o nich; posługiwać się językiem obcym na poziomie B2 Europejskiego Systemu
+K_U08
+Opisu Kształcenia Językowego
+Student potrafi planować i organizować pracę indywidualną oraz w zespole; współdzia-
+P6S_UO łać z innymi osobami w ramach prac zespołowych (także o charakterze interdyscyplinar- K_U13, K_U14
+nym)
+P6S_UU Student potrafi samodzielnie planować i realizować własne uczenie się przez całe życie K_U13
+KOMPETENCJE SPOŁECZNE
+Student jest gotowy do krytycznej oceny posiadanej wiedzy i odbieranych treści; uzna-
+wania znaczenia wiedzy w rozwiązywaniu problemów poznawczych i praktycznych oraz
+P6S_KK K_K03, K_K07, K_K09
+zasięgania opinii ekspertów w przypadku trudności z samodzielnym rozwiązaniem pro-
+blemu
+Student jest gotowy do wypełniania zobowiązań społecznych, współorganizowania dzia-
+K_K01, K_K02, K_K04,
+P6S_KO łalności na rzecz środowiska społecznego; inicjowania działań na rzecz interesu publicz-
+K_K06, K_K08
+nego; myślenia i działania w sposób przedsiębiorczy
+Student jest gotowy odpowiedzialnego pełnienia ról zawodowych, w tym przestrzegania
+K_K04, K_K05, K_K06,
+P6S_KR zasad etyki zawodowej i wymagania tego od innych, dbałości o dorobek i tradycje za-
+K_K08
+wodu
+8
+PAGE 10
+MATRIX OF LEARNING OUTCOMES, FORMS OF THEIR IMPLEMENTATION AND METHODS OF VERIFICATION / MATRYCA EFEKTÓW UCZENIA SIĘ,
+FORM ICH REALIZACJI ORAZ METOD WERYFIKACJI
+lo b m y S e d o C / s e s s a lC f o e lt iT e h T s e s s a lC y r o t a g ilb O e g a u g n a L h s ilo P r a n im e S A B a r o n t i s y e r i o r p t s i a H s ? a n n a a m ir s o t t fa s i r H c s e ir u t n e c h g u o r h t e p o r u E
+e
+h t : e g a c it s in e lle H e h t d n a t a e r G e h t r e d n a x e lA m s ila b o lg n r e t s e W t s r if e r t a e h T fo s n ig ir O e h T h c r a e s e R la ic o S fo y g o lo d o h t e M o t n o it c u d o r t n I y g o lo p o r h t n A la r u t lu c o ic o S o t n o it c u d o r t n I t r A n a e p o r u E fo y r o t s iH e h t o t n o it c u d o r t n I e r u t lu C d n a y r o t s iH h s ilo P o t n o it c u d o r t n I s e id u t s e r u t lu c o n t a n c i o r i e t c m u A d o .m r t n l – i I f y r o e r e h T d n a y r o t s iH .n o is iv e le T e m iT e m ir P n o it a c u d E la r u t lu c r e t n I o t n o it c u d o r t n I y g o lo e h c r A la c is s a lC o t n o it c u d o r t n I .n o it a m in A fo lo o h c S h s ilo P e h T " y r o t s iH t r A fo y g o lo d o h t e M e p o r u E n r e t s m a E s / il l a a i r c t o n s e t C s o n P i e c it c a r P d n a y r o e h T : n o it a c u d E la r u t lu c it lu M m s ila n o it a N fo y r o t s iH t x e t n o C s t i d n a t r A fo k r o W y g o lo h c y s p la r s u s t o lu r C c - n i s d o h t e s e m c n e e v i i c t s a t l i a la ic u o Q s y g o lo e h c r A n r e d o M fo s e ir e v o c s iD t a e r G h t 6 1 e h t n i h t la e w n o m m o C n a in a h u s h il t o i P L - - y t e ic s o e s i r d u n t a n e e c r u h t t l 8 u 1 – c " y r t s u d n I ,e a r m u t e lu n C iC , y h r s o il t o s P iH " - .e c n e ic s & t r a fo y t iv it a m r o fr e P " n o it a c in u m m o C la r u t lu c r e t n I 2 7 7 1 ( s n o it it r a P e f h o t a n r i E d e n h a t l o n P - i ) 8 1 9 1 I I W W lit n u s e t a t S d e t in U e h t d n a e p o r u E y r u t n e c h t 0 2 e h t n i s n o it a le r h h s s iw ilo e P J - - a n im o D t e iv o S e h t r e d n u e p o r u E la r t n e C t s a E 5 4 9 1 ) ( 9 8 n 9 o i 1 - t 4 1 9 1 ( s r a W d lr o W fo a r E e h t n i e h t n i d n a lo P - ) 5 4 9 1 n u m m o c d n e a h l t o f P o n a i d e n m a g ig a e p r o t r s P i ) 4 9 4 8 9 9 1 1 ( - e h t fo y r o t s iH ." s g n in e p p a h o t s a llir r e u g m o r F " d n a lo P n i n o it is o p p O c it a r c o m e D y g o lo h c y s p fo s c ip o t d e t c e le S
+History X X X X X X X X X X X X X X X X X X
+Social
+X X X X X X
+Sciences
+Sciences
+of Culture
+X X X X X X X X X
+and An-
+tropology
+K_W01 X X X X X X X X X X X X X X X
+K_W02 X X X X X X X X X X X X X X X X X
+K_W03 X X X X X
+K_W04 X X X X X X X X X X X
+K_W05 X X X X X X X X X X
+K_W06 X X X X X X
+K_W07 X X X X X X X X
+9
+PAGE 11
+K_W08 X X X X X X
+K_W09 X X X X X X X X
+K_W10 X X X X
+K_W11 X X X X
+K_W12 X
+K_W13 X X
+K_W14 X
+K_W15 X X
+K_U01 X X X X X X X X X X X X
+K_U02 X X X X X
+K_U03 X X X X X X X X X X
+K_U04 X X X X X X X X X X
+K_U05 X X X X X
+K_U06 X X X X X X X X X
+K_U07 X X X X X X
+K_U08 X X X X X X X
+K_U09 X X X
+K_U10 X
+K_U11 X X
+K_U12 X X
+K_U13 X X
+10
+PAGE 12
+K_U14 X X
+K_K01 X X X X X X X X X X X X X X X X X X
+K_K02 X X X X X X X
+K_K03 X X X X
+K_K04 X X X X X
+K_K05 X X X
+K_K06 X X X X X
+K_K07 X
+K_K08 X X X X X X X X
+K_K09 X X X X X X X X X
+11
+PAGE 13
+lo b m y S e d o C s e s r u o c la n o it p O h t5 ( e m o R d n a e c e e r G n i y t e ic o S d n a e r a f - r n a e W c h t ) D A y C r B u t y n r e u – 5 c t e p o r u E n i s s s e e ir n u ll t I n d e n c a h g h u t l o a r e h H t y r o t s iH n a e p o r u E n r e d o m n i y t e ic o S d n a e r a fr a W g n ille v a r T fo y r o t s iH n a e p o r u E e m o R d n a e c e e r G t n e ic n A n i e fil e t a v ir P h h t t 8 1 ( s e it e ic o S n a e p o r u E n ) s i e n ir e u m t n o 0 e W 2 c - y t iu q it n A n a m o R d n a k e e r G n i e fil y a d y r e v E la r t n e C t s a e E t a la r v a e p i e d S e M r o ? d ) s e ( r t a s h a S P e p o r u E n o is a u s r e p fo s n a e m d n a s e ig e t a r t s n o it a c in u m m o C h s ilo P e h T : e s a C - m .a o r C e n n a r e in d a o u m h t n iL - i h t la e w n o m y r o t s iH t r A .n o it is n a r T fo d o ir e P n i t r A fo k r o W e p o r u E la r t n e C n i 0 0 9 1 d n u o r a c s a e r id p u d t S n a y r y o r o m t e e s c i M i h - t a r E la t ig iD e h t n i t r A fo k r o W t r A y r a r o p m e t n o C fo y r o t s iH n i d n a s e r ip m E fo e m iT e h t n i e p o r u E la r t n e C t s a E E e h t e p o r u E fo y g o lo p o r h t n A s c it e h t s e A d n a s c ih t E : s e id u t S s e ic e p s it lu M r e t a e h T h s ilo P it n e a p o d r n u a E n n o i it m a z s i i n n a a c c i i r r e e m m - f A A a - 5 4 9 1 r e t - m o C ." f s o r u a o r E e b e h ll t i w n i g d n n ir a p lo S P " 4 4 9 1 ( m s ) 9 in 8 u 9 m 1 - t s a E n i n o it is o p p o & t n e s s id , - e u c E n l a a t r s t i n s e e C R - y c a g e l d n a y r o t s iH .e p o r
+History X X X X X X X X X X X X X
+Social
+Sciences
+Culture
+Sciences
+X X X
+and An-
+tropology
+K_W01 X X X X X X X X X X
+K_W02 X X X X
+K_W03 X X X X X
+K_W04 X X X X X X X X X
+K_W05 X X X X X X X X X X
+K_W06 X X X X X X X
+K_W07 X
+K_W08 X X X X X
+K_W09 X X X
+K_W10 X X
+K_W11 X X X X X
+K_W12 X
+K_W13
+K_W14
+K_W15
+K_U01 X X X X X X X X X X
+K_U02 X X X X X X X X
+K_U03 X X X X X X X X X X
+12
+PAGE 14
+K_U04 X X X X
+K_U05 X X X X X
+K_U06 X X X X
+K_U07 X X X
+K_U08 X X X
+K_U09
+K_U10 X X
+K_U11
+K_U12 X
+K_U13
+K_U14
+K_K01 X X X X X X X X X X X
+K_K02 X X X X X X X
+K_K03 X X
+K_K04 X X X
+K_K05 X X
+K_K06 X
+K_K07 X
+K_K08
+K_K09 X
+Form of Realization of
+Code The Subject of Education the Subjects
+Symbol
+Lecture Seminar
+K_W01 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+Introduction to Methodology of Social Research X
+Introduction to Sociocultural Anthropology X
+Introduction to Polish History and Culture X
+Methodology of Art History X
+Work of Art and its Context X
+Cross-cultural psychology X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+Poland in the in the Era of Partitions (1772-1918) X
+Europe and the United States until WWII X
+Poland in the in the Era of World Wars (1914-1945) X
+Polish-Jewish relations in the 20th century X
+Selected topics of psychology X
+13
+PAGE 15
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Health and Illness in Europe through centuries X
+European History of Travelling X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Communication strategies and means of persuasion in modern era. Case: The
+X
+Polish-Lithuanian Commonwealth
+Memory studies - history and practice X
+Work of Art in the Digital Era X
+History of Contemporary Art X
+East Central Europe in the Time of Empires and in the Era of World Wars (1815-
+X
+1945)
+Americanization and anti-Americanism in Europe after 1945 X
+Resistance, dissent & opposition in East-Central Europe. History and legacy X
+K_W02 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+T he Origins of Theatre X
+Introduction to Methodology of Social Research X
+Introduction to Sociocultural Anthropology X
+Introduction to Polish History and Culture X
+Methodology of Art History X
+History of Nationalism X
+Work of Art and its Context X
+Qualitative methods in social sciences X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+Poland in the in the Era of Partitions (1772-1918) X
+Europe and the United States until WWII X
+Poland in the in the Era of World Wars (1914-1945) X
+OPTIONAL
+Communication strategies and means of persuasion in modern era. Case: The
+X
+Polish-Lithuanian Commonwealth
+East Central Europe in the Time of Empires and in the Era of World Wars (1815-
+X
+1945)
+Multispecies Studies: Ethics and Aesthetics X
+Polish Theatre X
+Americanization and anti-Americanism in Europe after 1945 X
+K_W03
+OBLIGATORY
+BA Seminar X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+Introduction to Polish History and Culture X
+Introduction to Intercultural Education X
+Introduction to Polish History and Culture X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Health and Illness in Europe through centuries X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+History of Contemporary Art X
+K_W04 OBLIGATORY
+BA Seminar X
+14
+PAGE 16
+Historian as a priest or a craftsman? History in Europe through centuries X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+Introduction to the History of European Art X
+Introduction to Intercultural Education X
+Methodology of Art History X
+Postsocialism in Central/Eastern Europe X
+Multicultural Education: Theory and Practice X
+Great Discoveries of Modern Archeology X
+Intercultural communication X
+Propaganda of the communist regime in Poland (1944-1989) X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Private life in Ancient Greece and Rome X
+Women in European Public Sphere (18th-20th centuries) X
+Everyday life in Greek-Roman Antiquity X
+Shared or Separate Past(s)? Medieval East Central Europe X
+Work of Art in Period of Transition. Art History around 1900 in Central Europe X
+Memory studies - history and practice X
+Work of Art in the Digital Era X
+Multispecies Studies: Ethics and Aesthetics X
+K_W05 OBLIGATORY
+Ba Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+The Origins of Theatre X
+Postsocialism in Central/Eastern Europe X
+History of Nationalism X
+Work of Art and its Context X
+Europe and the United States until WWII X
+East Central Europe under the Soviet Domination (1945-1989) X
+Propaganda of the communist regime in Poland (1944-1989) X
+OPTIONAL
+Health and Illness in Europe through centuries X
+Warfare and Society in modern European History X
+European History of Travelling X
+Women in European Public Sphere (18th-20th centuries) X
+Everyday life in Greek-Roman Antiquity X
+Work of Art in the Digital Era X
+History of Contemporary Art X
+Anthropology of Europe X
+Polish Theatre X
+The spring will be ours. History of Poland after the Second World War X
+K_W06 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+Methodology of Art History X
+Propaganda of the communist regime in Poland (1944-1989) X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Private life in Ancient Greece and Rome X
+15
+PAGE 17
+Everyday life in Greek-Roman Antiquity X
+Work of Art in Period of Transition. Art History around 1900 in Central Europe X
+Work of Art in the Digital Era X
+Anthropology of Europe X
+The spring will be ours. History of Poland after the Second World War X
+K_W07 OBLIGATORY
+BA Seminar X
+Alexander the Great and the Hellenistic age: the first Western globalism X
+Introduction to the History of European Art X
+Introduction to Classical Archeology X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Methodology of Art History X
+Work of Art and its Context X
+"Performativity of art & science. History of performance art and its liaisons with
+new technologies in US and Europe in the Cold War era."
+OPTIONAL
+The History of Contemporary Art X
+K_W08 OBLIGATORY
+BA Seminar X
+Introduction to Culture Studies – Film:
+X
+American Prime Time Television. History and Theory
+Introduction to Classical Archeology X
+Methodology of Art History X
+Great Discoveries of Modern Archeology X
+Polish Cinema – History, Culture, Industry X
+OPTIONAL
+Shared or Separate Past(s)? Medieval East Central Europe X
+Multispecies Studies: Ethics and Aesthetics X
+The History of Contemporary Art X
+Polish Theatre
+The spring will be ours. History of Poland after the Second World War X
+K_W09 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+The Origins of Theatre X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Work of Art and its Context X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+Polish-Jewish relations in the 20th century X
+OPTIONAL
+Women in European Public Sphere (18th-20th centuries) X
+Work of Art in Period of Transition. Art History around 1900 in Central Europe X
+Anthropology of Europe X
+K_W10 OBLIGATORY
+Introduction to Sociocultural Anthropology X X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+Europe and the United States until WWII X
+OPTIONAL
+16
+PAGE 18
+Health and Illness in Europe through centuries X
+European History of Travelling X
+K_W11 OBLIGATORY
+Postsocialism in Central/Eastern Europe X
+History of Nationalism X
+East Central Europe under the Soviet Domination (1945-1989) X
+Optional
+Health and Illness in Europe through centuries X
+Warfare and Society in modern European History X
+European History of Travelling X
+Work of Art in Period of Transition. Art History around 1900 in Central Europe X
+The spring will be ours. History of Poland after the Second World War X
+K_W12 OBLIGATORY
+Methodology of Art History X
+OPTIONAL
+Memory studies - history and practice X
+K_W13
+OBLIGATORY
+Introduction to Culture Studies – Film: American Prime Time Television. History
+X
+and Theory
+Introduction to Intercultural Education X
+K_W14 OBLIGATORY
+BA Seminar X
+Europe and the United States until WWII X
+Americanization and anti-Americanism in Europe after 1945 X
+K_W15 OBLIGATORY
+Introduction to Methodology of Social Research X
+Introduction to Intercultural Education X
+K_U01 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+The Origins of Theatre X
+Introduction to Methodology of Social Research X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Methodology of Art History X
+Cross-cultural psychology X
+Qualitative methods in social sciences X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+Europe and the United States until WWII
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Health and Illness in Europe through centuries X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Communication strategies and means of persuasion in modern era. Case: The
+X
+Polish-Lithuanian Commonwealth
+Memory studies - history and practice X
+History of Contemporary Art X
+Multispecies Studies: Ethics and Aesthetics X
+Polish Theatre X
+Americanization and anti-Americanism in Europe after 1945 X
+17
+PAGE 19
+K_U02 OBLIGATORY
+BA Seminar X
+Poland in the in the Era of Partitions (1772-1918) X
+Europe and the United States until WWII X
+Poland in the in the Era of World Wars (1914-1945) X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Health and Illness in Europe through centuries X
+European History of Travelling X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Women in European Public Sphere (18th-20th centuries) X
+East Central Europe in the Time of Empires and in the Era of World Wars (1815-
+X
+1945)
+Resistance, dissent & opposition in East-Central Europe. History and legacy X
+K_U03 OBLIGATORY
+BA Seminar X
+The Origins of Theatre X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Postsocialism in Central/Eastern Europe X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+Europe and the United States until WWII X
+Propaganda of the communist regime in Poland (1944-1989) X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Warfare and Society in modern European History X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Communication strategies and means of persuasion in modern era. Case: The
+X
+Polish-Lithuanian Commonwealth
+Work of Art in the Digital Era X
+History of Contemporary Art X
+Multispecies Studies: Ethics and Aesthetics X
+Polish Theatre X
+K_U04 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+Introduction to the History of European Art X
+Methodology of Art History X
+Postsocialism in Central/Eastern Europe X
+Multicultural Education: Theory and Practice X
+History of Nationalism X
+Work of Art and its Context X
+Intercultural communication X
+East Central Europe under the Soviet Domination (1945-1989) X
+OPTIONAL
+Warfare and Society in modern European History X
+European History of Travelling X
+Women in European Public Sphere (18th-20th centuries) X
+Work of Art in the Digital Era X
+18
+PAGE 20
+Anthropology of Europe X
+The spring will be ours. History of Poland after the Second World War X
+K_U05 OBLIGATORY
+BA Seminar X
+Introduction to Culture Studies – Film: American Prime Time Television. History
+X
+and Theory
+Introduction to Classical Archeology X
+Methodology of Art History X
+Work of Art and its Context X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Work of Art in the Digital Era X
+The History of Contemporary Art X
+K_U06 OBLIGATORY
+Historian as a priest or a craftsman? History in Europe through centuries X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Introduction to Culture Studies – Film: American Prime Time Television. History
+X
+and Theory
+Methodology of Art History X
+Introduction to Classical Archeology X
+Work of Art and its Context X
+Great Discoveries of Modern Archeology X
+Polish Cinema – History, Culture, Industry X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Multispecies Studies: Ethics and Aesthetics X
+K_U07 OBLIGATORY
+BA Seminar X
+Introduction to the History of European Art X
+Methodology of Art History X
+Great Discoveries of Modern Archeology X
+Europe and the United States until WWII X
+OPTIONAL X
+Women in European Public Sphere (18th-20th centuries) X
+History of Contemporary Art X
+Anthropology of Europe X
+K_U08 OBLIGATORY
+Historian as a priest or a craftsman? History in Europe through centuries X
+The Origins of Theatre X
+Introduction to Sociocultural Anthropology X
+Introduction to Intercultural Education X
+Postsocialism in Central/Eastern Europe X
+East Central Europe under the Soviet Domination (1945-1989) X
+Propaganda of the communist regime in Poland (1944-1989) X
+OPTIONAL
+Warfare and Society in modern European History X
+Memory studies - history and practice X
+Multispecies Studies: Ethics and Aesthetics X
+K_U09 OBLIGATORY
+19
+PAGE 21
+History of Nationalism X
+Work of Art and its Context X
+Polish Cinema – History, Culture, Industry X
+K_U10 OPTIONAL
+Warfare and Society in modern European History X
+The spring will be ours. History of Poland after the Second World War X
+K_U11 OBLIGATORY
+Introduction to Sociocultural Anthropology X
+Multicultural Education: Theory and Practice X
+Intercultural communication X
+K_U12 OBLIGATORY
+BA Seminar X
+History of Nationalism X
+OPTIONAL
+The spring will be ours. History of Poland after the Second World War X
+K_U13 OBLIGATORY X
+Europe and the United States until WWII
+K_U14 OBLIGATORY
+Europe and the United States until WWII X
+Selected topics of psychology X
+K_K01 OBLIGATORY
+BA Seminar X
+Introduction to Sociocultural Anthropology X
+Introduction to Intercultural Education X
+Introduction to Classical Archeology X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Introduction to Polish History and Culture X
+Methodology of Art History X
+Work of Art and its Context X
+Cross-cultural psychology X
+Great Discoveries of Modern Archeology X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+Memory studies - history and practice X
+Poland in the in the Era of Partitions (1772-1918) X
+Europe and the United States until WWII X
+East Central Europe under the Soviet Domination (1945-1989)
+Poland in the in the Era of World Wars (1914-1945) X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X
+Health and Illness in Europe through centuries X
+Private life in Ancient Greece and Rome X
+Everyday life in Greek-Roman Antiquity X
+Work of Art in the Digital Era X
+East Central Europe in the Time of Empires and in the Era of World Wars (1815-
+X
+1945)
+Multispecies Studies: Ethics and Aesthetics X
+Polish Theatre X
+Americanization and anti-Americanism in Europe after 1945 X
+The spring will be ours. History of Poland after the Second World War X
+20
+PAGE 22
+K_K02 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Europe through centuries X
+Methodology of Art History X
+Postsocialism in Central/Eastern Europe X
+Polish-Lithuanian Commonwealth in the 16th-18th centuries – culture and soci-
+X
+ety
+OPTIONAL
+Health and Illness in Europe through centuries X
+Communication strategies and means of persuasion in modern era. Case: The
+X
+Polish-Lithuanian Commonwealth
+Work of Art in the Digital Era X
+Multispecies Studies: Ethics and Aesthetics X
+Polish Theatre X
+The spring will be ours. History of Poland after the Second World War X
+Resistance, dissent & opposition in East-Central Europe. History and legacy X
+K_K03 OBLIGATORY
+BA Seminar X
+Introduction to Intercultural Education X
+Methodology of Art History X
+Propaganda of the communist regime in Poland (1944-1989) X
+Europe and the United States until WWII X
+OPTIONAL
+Warfare and Society in modern European History X
+Memory studies - history and practice X
+K_K04 OBLIGATORY
+Polish Cinema – History, Culture, Industry X
+Introduction to Intercultural Education X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+OPTIONAL
+European History of Travelling X
+Work of Art in Period of Transition. Art History around 1900 in Central Europe X
+Anthropology of Europe
+K_K05 OBLIGATORY
+The Origins of Theatre X
+Europe and the United States until WWII X
+East Central Europe under the Soviet Domination (1945-1989) X
+OPTIONAL
+Multispecies Studies: Ethics and Aesthetics X
+Polish Theatre X
+K_K06 OBLIGATORY
+BA Seminar
+Introduction to Classical Archeology X
+Methodology of Art History X
+History of Nationalism X
+Work of Art and its Context X
+OPTIONAL
+Work of Art in the Digital Era X
+K_K07 OBLIGATORY
+Postsocialism in Central/Eastern Europe X
+21
+PAGE 23
+OPTIONAL
+Anthropology of Europe X
+K_K08 OBLIGATORY
+Introduction to Sociocultural Anthropology X
+"The Polish School of Animation. History, meaning and impact of the Polish ani-
+X
+mated film from Lucanus Cervus to Tango and beyond. "
+Multicultural Education: Theory and Practice X
+Cross-cultural psychology X
+"Performativity of art & science. History of performance art and its liaisons with
+X
+new technologies in US and Europe in the Cold War era."
+Europe and the United States until WWII X
+Selected topics of psychology X
+K_K09 OBLIGATORY
+Introduction to Methodology of Social Research X
+Postsocialism in Central/Eastern Europe X
+Multicultural Education: Theory and Practice X
+History of Nationalism X
+Qualitative methods in social sciences X
+Intercultural communication X
+Propaganda of the communist regime in Poland (1944-1989) X
+OPTIONAL
+Work of Art in Period of Transition. Art History around 1900 in Central Europe X
+The Method of Verification of the Learning Outcomes
+Essay/p Ac-
+C Sy o m de b ol The Subject of Education Oral Written Test Pro- t r a e t s i e o n n - / p t a iv rt e i -
+exam exam ject
+final cipa-
+work tion
+K_W01 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+Alexander the Great and the Hellenistic age: the first
+X X
+Western globalism
+Introduction to Methodology of Social Research X X
+Introduction to Sociocultural Anthropology X X
+Introduction to Polish History and Culture X X
+Methodology of Art History X X X
+Work of Art and its Context X X X
+Cross-cultural psychology X X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+Poland in the in the Era of Partitions (1772-1918) X X
+Europe and the United States until WWII X X
+Polish-Jewish relations in the 20th century X X
+Poland in the in the Era of World Wars (1914-1945) X X
+Selected topics of psychology X X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Health and Illness in Europe through centuries X X
+European History of Travelling X X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Communication strategies and means of persuasion
+in modern era. Case: The Polish-Lithuanian Com- X X
+monwealth
+22
+PAGE 24
+Work of Art in the Digital Era X X
+History of Contemporary Art X X
+East Central Europe in the Time of Empires and in
+X X
+the Era of World Wars (1815-1945)
+Americanization and anti-Americanism in Europe af-
+X X
+ter 1945
+Resistance, dissent & opposition in East-Central Eu-
+X
+rope. History and legacy
+K_W02 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+Alexander the Great and the Hellenistic age: the first
+X X
+Western globalism
+The Origins of Theatre X X
+Introduction to Methodology of Social Research X X
+Introduction to Sociocultural Anthropology X X
+Introduction to Polish History and Culture X X
+History of Nationalism X X X
+Work of Art and its Context X X X
+Qualitative methods in social sciences X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+Memory studies - history and practice X X
+Poland in the in the Era of Partitions (1772-1918) X X
+Europe and the United States until WWII X X
+Poland in the in the Era of World Wars (1914-1945) X X
+OPTIONAL
+Communication strategies and means of persuasion
+in modern era. Case: The Polish-Lithuanian Com- X X
+monwealth
+East Central Europe in the Time of Empires and in
+X X
+the Era of World Wars (1815-1945)
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theater X
+Americanization and anti-Americanism in Europe af-
+X X
+ter 1945
+K_W03 OBLIGATORY
+BA Seminar X
+Alexander the Great and Hellenistic Era X X
+Introduction to Polish History and Culture X X
+Introduction to Intercultural Education X X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Health and Illness in Europe through centuries
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+History of Contemporary Art X
+K_W04 OBLIGATORY
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+Alexander the Great and the Hellenistic age: the first
+X X
+Western globalism
+Introduction to the History of European Art X X
+Introduction to Intercultural Education X X
+Postsocialism in Central/Eastern Europe X X X
+Multicultural Education: Theory and Practice X X
+Great Discoveries of Modern Archeology X
+23
+PAGE 25
+Intercultural communication X
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Private life in Ancient Greece and Rome X X
+Women in European Public Sphere (18th-20th centu-
+X X
+ries)
+Everyday life in Greek-Roman Antiquity X X
+Shared or Separate Past(s)? Medieval East Central
+X X
+Europe
+Work of Art in Period of Transition. Art History
+X X
+around 1900 in Central Europe
+Memory studies - history and practice X X
+Work of Art in the Digital Era X X
+Multispecies Studies: Ethics and Aesthetics X X
+K_W05 OBLIGATORY
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+Alexander the Great and the Hellenistic age: the first
+X X
+Western globalism
+The Origins of Theatre X X
+Postsocialism in Central/Eastern Europe X X X
+History of Nationalism X X X
+Work of Art and its Context X X X
+Europe and the United States until WWII X X
+East Central Europe under the Soviet Domination
+X
+(1945-1989)
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+OPTIONAL
+Health and Illness in Europe through centuries X
+Warfare and Society in modern European History X X
+European History of Travelling X X
+Women in European Public Sphere (18th-20th centu-
+X X
+ries)
+Everyday life in Greek-Roman Antiquity X X
+Work of Art in the Digital Era X X
+History of Contemporary Art X X
+Anthropology of Europe X
+Polish Theatre X
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_W06 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+Alexander the Great and the Hellenistic age: the first
+X X
+Western globalism
+Methodology of Art History X X X
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Work of Art in Period of Transition. Art History
+X X
+around 1900 in Central Europe
+Work of Art in the Digital Era X X
+Anthropology of Europe X
+24
+PAGE 26
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_W07 OBLIGATORY
+Alexander the Great and the Hellenistic age: the first
+X
+Western globalism
+Introduction to the History of European Art X X
+Introduction to Classical Archeology X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Methodology of Art History X X X
+Work of Art and its Context X X X
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+OPTIONAL
+The History of Contemporary Art X X
+K_W08 OBLIGATORY X X
+BA Seminar X
+The Origins of Theatre X X
+Introduction to Culture Studies – Film: American
+X X
+Prime Time Television. History and Theory
+Introduction to Classical Archeology X
+Methodology of Art History X X X
+Great Discoveries of Modern Archeology X
+Polish Cinema – History, Culture, Industry X
+OPTIONAL
+Shared or Separate Past(s)? Medieval East Central
+X X
+Europe
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theatre X
+The spring will be ours. History of Poland after the
+X
+Second World War
+The History of Contemporary Art X X
+K_W09 OBLIGATORY
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Work of Art and its Context X X X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+Polish-Jewish relations in the 20th century X X
+OPTIONAL
+Women in European Public Sphere (18th-20th centu-
+X X
+ries)
+Work of Art in Period of Transition. Art History
+X X
+around 1900 in Central Europe
+Anthropology of Europe X
+K_W10 OBLIGATORY
+Introduction to Sociocultural Anthropology X X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+Europe and the United States until WWII X X
+25
+PAGE 27
+OPTIONAL
+Health and Illness in Europe through centuries X
+European History of Travelling X X
+K_W11 OBLIGATORY
+Postsocialism in Central/Eastern Europe X X X
+History of Nationalism X X X
+East Central Europe under the Soviet Domination
+X
+(1945-1989)
+OPTIONAL
+Health and Illness in Europe through centuries X
+Warfare and Society in modern European History X X
+European History of Travelling X X
+Work of Art in Period of Transition. Art History
+X X
+around 1900 in Central Europe
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_W12 OBLIGATORY
+Methodology of Art History X X X
+OPTIONAL
+Memory studies - history and practice X X
+K_W13 OBLIGATORY
+Introduction to Culture Studies – Film: American
+X X
+Prime Time Television. History and Theory
+Introduction to Intercultural Education X X
+K_W14 OBLIGATORY
+Europe and the United States until WWII X X
+Americanization and anti-Americanism in Europe af-
+X X
+ter 1945
+K_W15 OBLIGATORY
+Introduction to Sociocultural Anthropology X X
+Introduction to Intercultural Education X X
+K_U01 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+The Origins of Theatre X
+Introduction to Methodology of Social Research X X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Introduction to Polish History and Culture X X
+Methodology of Art History X X X
+Cross-cultural psychology X X
+Qualitative methods in social sciences X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+Europe and the United States until WWII
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Health and Illness in Europe through centuries X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Communication strategies and means of persuasion
+in modern era. Case: The Polish-Lithuanian Com- X X
+monwealth
+26
+PAGE 28
+Memory studies - history and practice X X
+History of Contemporary Art X X
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theatre X
+Americanization and anti-Americanism in Europe af-
+X X
+ter 1945
+K_U02 OBLIGATORY
+BA Seminar X
+Poland in the in the Era of Partitions (1772-1918) X X
+Europe and the United States until WWII X X
+Poland in the in the Era of World Wars (1914-1945) X X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Health and Illness in Europe through centuries X
+European History of Travelling X X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Women in European Public Sphere (18th-20th centu-
+X X
+ries)
+East Central Europe in the Time of Empires and in
+X X
+the Era of World Wars (1815-1945)
+Resistance, dissent & opposition in East-Central Eu-
+X
+rope. History and legacy
+K_U03 OBLIGATORY
+BA Seminar X
+The Origins of Theatre X X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Postsocialism in Central/Eastern Europe X X X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+Europe and the United States until WWII X X
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Warfare and Society in modern European History X X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Communication strategies and means of persuasion
+in modern era. Case: The Polish-Lithuanian Com- X X
+monwealth
+Memory studies - history and practice X X
+Work of Art in the Digital Era X X
+History of Contemporary Art X X
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theatre X
+K_U04 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+Introduction to the History of European Art X X
+Methodology of Art History X X X
+Postsocialism in Central/Eastern Europe X X X
+27
+PAGE 29
+Multicultural Education: Theory and Practice X X
+History of Nationalism X X X
+Work of Art and its Context X X X
+Intercultural communication X X
+East Central Europe under the Soviet Domination
+X
+(1945-1989)
+OPTIONAL
+Warfare and Society in modern European History X X
+European History of Travelling X X
+Women in European Public Sphere (18th-20th centu-
+X X
+ries)
+Work of Art in the Digital Era X X
+Anthropology of Europe X
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_U05 OBLIGATORY X
+Introduction to Culture Studies – Film: American
+X X
+Prime Time Television. History and Theory
+Introduction to Classical Archeology X
+Methodology of Art History X X X
+Work of Art and its Context X X X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Work of Art in the Digital Era X X
+The History of Contemporary Art X X
+K_U06 OBLIGATORY
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Introduction to Culture Studies – Film American
+X
+Prime Time Television. History and Theory
+Methodology of Art History X X X
+Introduction to Classical Archeology X
+Work of Art and its Context X X X
+Great Discoveries of Modern Archeology X
+Polish Cinema – History, Culture, Industry X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Multispecies Studies: Ethics and Aesthetics
+K_U07 OBLIGATORY
+BA Seminar X
+Introduction to the History of European Art X X
+Methodology of Art History X X X
+Great Discoveries of Modern Archeology X
+Europe and the United States until WWII X X
+OPTIONAL X
+Women in European Public Sphere (18th-20th centu-
+X X
+ries)
+History of Contemporary Art X X
+Anthropology of Europe X
+K_U08 OBLIGATORY
+28
+PAGE 30
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centuries
+The Origins of Theatre X X
+Introduction to Sociocultural Anthropology X X
+Introduction to Intercultural Education X X
+Postsocialism in Central/Eastern Europe X X X
+East Central Europe under the Soviet Domination
+X
+(1945-1989)
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+OPTIONAL
+Warfare and Society in modern European History X X
+Memory studies - history and practice X X
+Multispecies Studies: Ethics and Aesthetics X X
+K_U09 OBLIGATORY X
+History of Nationalism X X X
+Work of Art and its Context X X X
+Polish Cinema – History, Culture, Industry X X
+K_U10 OPTIONAL
+Warfare and Society in modern European History X X
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_U11 OBLIGATORY
+Introduction to Sociocultural Anthropology X X
+Multicultural Education: Theory and Practice X X
+Intercultural communication X X
+K_U12 OBLIGATORY X
+BA Seminar
+History of Nationalism X X X
+OPTIONAL
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_U13 OBLIGATORY X X
+Europe and the United States until WWII
+K_U14 OBLIGATORY
+Europe and the United States until WWII X X
+Selected topics of psychology X X
+K_K01 OBLIGATORY
+Introduction to Sociocultural Anthropology X X
+Introduction to Intercultural Education X X
+Introduction to Classical Archeology X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Introduction to Polish History and Culture X X
+Methodology of Art History X X X
+Work of Art and its Context X X X
+Cross-cultural psychology X X
+Great Discoveries of Modern Archeology X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+"Performativity of art & science. History of perfor-
+X
+mance art and its liaisons with new technologies in X
+US and Europe in the Cold War era."
+Poland in the in the Era of Partitions (1772-1918) X X
+Europe and the United States until WWII X X
+29
+PAGE 31
+East Central Europe under the Soviet Domination
+X
+(1945-1989)
+Poland in the in the Era of World Wars (1914-1945) X X
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Health and Illness in Europe through centuries X
+Private life in Ancient Greece and Rome X X
+Everyday life in Greek-Roman Antiquity X X
+Memory studies - history and practice X X
+Work of Art in the Digital Era X X
+East Central Europe in the Time of Empires and in
+X X
+the Era of World Wars (1815-1945)
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theatre X
+Americanization and anti-Americanism in Europe af-
+X X
+ter 1945
+The spring will be ours. History of Poland after the
+X
+Second World War
+K_K02 OBLIGATORY
+BA Seminar X
+Historian as a priest or a craftsman? History in Eu-
+X X
+rope through centurie
+Methodology of Art History X X X
+Postsocialism in Central/Eastern Europe X X X
+Polish-Lithuanian Commonwealth in the 16th-18th
+X X
+centuries – culture and society
+OPTIONAL
+Health and Illness in Europe through centuries X
+Communication strategies and means of persuasion
+in modern era. Case: The Polish-Lithuanian Com- X X
+monwealth
+Work of Art in the Digital Era X X
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theatre X
+The spring will be ours. History of Poland after the
+X
+Second World War
+Resistance, dissent & opposition in East-Central Eu-
+X
+rope. History and legacy
+K_K03 OBLIGATORY
+Introduction to Intercultural Education X X
+Methodology of Art History X X X
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+Europe and the United States until WWII
+OPTIONAL
+Warfare and Society in ancient Greece and Rome X X
+Memory studies - history and practice X X
+K_K04 OBLIGATORY X
+Polish Cinema – History, Culture, Industry X
+Introduction to Intercultural Education X X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+K_K05 OBLIGATORY
+The Origins of Theatre X X
+Europe and the United States until WWII X X
+30
+PAGE 32
+East Central Europe under the Soviet Domination
+X
+(1945-1989)
+OPTIONAL
+Warfare and Society in modern European History X X
+Multispecies Studies: Ethics and Aesthetics X X
+Polish Theatre X
+K_K06 OBLIGATORY X
+Introduction to Classical Archeology X
+Methodology of Art History X X X
+History of Nationalism X X X
+Work of Art and its Context X X X
+OPTIONAL
+Work of Art in the Digital Era X X
+K_K07 OBLIGATORY
+Postsocialism in Central/Eastern Europe X X X
+OPTIONAL
+Anthropology of Europe X
+K_K08 OBLIGATORY
+Introduction to Sociocultural Anthropology X X
+"The Polish School of Animation. History, meaning
+and impact of the Polish animated film from Lucanus X X X
+Cervus to Tango and beyond. "
+Multicultural Education: Theory and Practice X X
+Cross-cultural psychology X X
+"Performativity of art & science. History of perfor-
+mance art and its liaisons with new technologies in X X
+US and Europe in the Cold War era."
+Europe and the United States until WWII X X
+Selected topics of psychology X X
+K_K09 OBLIGATORY
+Introduction to Methodology of Social Research X X
+Postsocialism in Central/Eastern Europe X X X
+Multicultural Education: Theory and Practice X X
+History of Nationalism X X X
+Qualitative methods in social sciences X
+Intercultural communication X X
+Propaganda of the communist regime in Poland
+X X X
+(1944-1989)
+OPTIONAL
+Work of Art in Period of Transition. Art History
+X X
+around 1900 in Central Europe
+31
+PAGE 33
+PROGRAM CONTENT / TREŚCI PROGRAMOWE
+Title of the Subject / Temat zajęć Program Content / Treści programowe
+1ST YEAR – SEMESTR I / ROK I – SEMESTR I
+OBLIGATORY / OBOWIĄZKOWE
+The classes concern the key issues of the methodology of history and the history of historiography.
+Among undertaken topics should be mentioned: Antic beginnings of European historiography: the-
+ology, leisure and the past, diversity of Medieval approach toward History, Global and (early)
+national histories – Middle Ages and Renaissance. Between Rome and Wittenberg, Historical visions
+of Europe in Early Modern Times, Regions and Kingdoms as Narrative Frameworks of Modern Eu-
+ropean Historiography? The 18th c. Breakdown of Histriographical Tradition? Philosophy and His-
+tory – Systems and Historical Laws, critical historiography of the 19th c. period of Europe’s disrup-
+Historian as a priest or a craftsman? Hi-
+tion? Nations and histories in the 20th c. Post-modern or Non-classical Historiography – Did or
+storiography in Europe through centuries
+Does it Exist? Writing History Today – Why?
+Historyk jako kapłan czy rzemieślnik? Hi-
+W trakcie zajęć omówione zostaną następujące tematy: starożytne początki historiografii europej-
+storia w Europie przez wieki
+skiej; teologia, rozrywka i przeszłość, różnorodność średniowiecznych podejść do historii, historia
+powszechna i historie narodowe – średniowiecze i renesans; Między Rzymem i Wittenbergą - hi-
+storyczne wizje Europy w czasach wczesno nowożytnych; regiony i królestwa jako ramy narracyjne
+nowożytnej historiografii europejskiej; przełom XVIII wieku w tradycji historiograficznej; filozofia i
+historia – systemy i prawa historyczne; historiografia krytyczna XIX wieku - okres rozpadu Europy?
+Narody i historie w XX w; historiografia postmodernistyczna lub nieklasyczna – czy istniała lub
+istnieje? Pisać historię dziś – po co?
+Presentation of the great political and cultural breakthrough in the ancient world made as a result
+of the conquests of Alexander the Great and political, economic, religious and cultural changes in
+Alexander the Great and the Hellenistic
+the Mediterranean and Central Asia in the Hellenistic era.
+age: the first Western globalism
+Celem zajęć jest prezentacja wielkiego przełomu politycznego i kulturalnego w świecie starożytnym
+Aleksander Wielki I epoka hellenistyczna:
+dokonanego na skutek podbojów Aleksandra Wielkiego oraz przemian politycznych, gospodar-
+pierwszy zachodni globalizm
+czych, religijnych i kulturalnych w basenie Morza Śródziemnego i w Azji Centralnej w epoce helle-
+nistycznej.
+The lecture will be devoted to discuss following problems: the Root Techniques Today: Bali and
+Tibet descend of the performer, Paleoperformances, Theatre of the Text, neurology of the per-
+The Origins of Theatre
+former, Dance as a source of the Ancient Greek Theatre, the Ancient Roman Theatre, the Second
+Birth of European Theatre in Medieval Monasteries, the Roots of the Elizabethan Theatre, back to
+Źródła teatru
+the Sources: Performative Turn in the Modern Theatre.
+32
+PAGE 34
+Zajęcia dotyczą prezentacji i dyskusji na temat antropologicznych źródeł sztuki performera, ar-
+cheologii przestrzeni performatywnej, performatywnego wymiaru pisma oraz roli tańca jako źródła
+kultury.
+The objective of the course is to introduce undergraduate-level students to the most common
+approaches to social research so that they are able to identify basic methodological approaches
+and describe the general role of methods in building sociological knowledge. Program contains
+following problems: the basics of research design, paradigms in qualitative and quantitative re-
+search, conceptualization, operationalization, and measurement in social science, sampling in
+quantitative research, introduction to experiments, survey design, and data collection techniques
+and measurement tools in quantitative research, coding the data in qualitative/quantitative re-
+search, introduction to qualitative/quantitative data analyses, qualitative research design: sam-
+pling and data collection, qualitative/quantitative research: technical and methodological/paradig-
+Introduction to Methodology of Social Re-
+matic differences.
+search
+Celem zajęć jest zapoznanie studentów studiów licencjackich z najczęściej spotykanymi podej-
+Wstęp do metodologii nauk społecznych
+ściami do badań społecznych, tak aby potrafili zidentyfikować podstawowe podejścia metodolo-
+giczne i opisać ogólną rolę metod w budowaniu wiedzy socjologicznej. Program obejmuje następu-
+jące zagadnienia: podstawy projektowania badań, paradygmaty w badaniach jakościowych i ilo-
+ściowych, konceptualizację, pomiar w naukach społecznych, dobór próby w badaniach ilościowych,
+wstęp do eksperymentów, projektowanie ankiet oraz techniki zbierania danych i narzędzia pomia-
+rowe w badaniach ilościowych, kodowanie danych w badaniach jakościowych/ilościowych, wpro-
+wadzenie do jakościowych/ilościowych analiz danych, projektowanie badań jakościowych: dobór
+próby i zbieranie danych, badania jakościowe/ilościowe: różnice techniczne i metodologiczne/pa-
+radygmatyczne.
+The course will introduce to the core concepts, theories and methodologies of socio-cultural an-
+thropology; will explore classic and contemporary issues in the anthropological study; will help
+students to understand not only other cultures but also their own. Program contains the following
+problems definition of socio-cultural anthropology? Short history of disciplinem, methods in socio-
+cultural anthropology, research areas of socio-cultural anthropology, looking at the self: defamil-
+iarisation, social organization: kinship, marriage and family in classic and contemporary studies,
+Introduction to Sociocultural Anthropo- magic and religion – meaning in traditional and modern societies, rituals and myths – meaning in
+logy traditional and modern societies, challenges of the modern world: culture assimilation, accultura-
+tion, globalization, race and ethnicity, the cultural construction of identity.
+Wprowadzenie do antropologii społeczno-
+kulturowej Zajęcia stanowią wprowadzenie i mają na celu zapoznanie studentów z podstawowymi koncep-
+cjami, teoriami i metodologią antropologii społeczno-kulturowej; zakładają eksplorowanie klasycz-
+nych i współczesnych problemów antropologii; pomogą studentom zrozumieć nie tylko inne kul-
+tury, ale także własną. W trakcie zajęć omówione zostaną m.in. problemy definicji antropologii
+społeczno-kulturowej, krótka historia dyscypliny, metody antropologii społeczno-kulturowej, ob-
+szary badawcze antropologii społeczno-kulturowej, zagadnienia dotyczące znaczenia pokrewień-
+stwa, małżeństwa i rodziny w badaniach klasycznych i współczesnych, magii i religii – znaczenie w
+33
+PAGE 35
+tradycji i nowożytności społeczeństwa, rytuałów i mitów – znaczenie w społeczeństwach tradycyj-
+nych i współczesnych, wyzwania współczesnego świata: asymilacja kulturowa, akulturacja, globa-
+lizacja, rasa i pochodzenie etniczne, kulturowe konstruowanie tożsamości.
+The aim of the course is to present basic terminology concerning European iconography, architec-
+Introduction to the History of European ture, painting, sculpture as well as methods of description of works of arts. Some classes are
+Art organised in monuments, museums and galleries of Wrocław.
+Wprowadzenie do europejskiej historii Celem zajęć jest przedstawienie podstawowej terminologii dotyczącej europejskiej architektury,
+sztuki malarstwa, rzeźby oraz metod opisu dzieł sztuki. Część zajęć przeprowadzana jest w zabytkach,
+muzeach i galeriach Wrocławia.
+OPTIONAL / DO WYBORU
+Class will deal with the fundamental problems of the history of wars and the military of the ancient
+world, with particular emphasis on Greece and Rome. Students are introduced to the fundamental
+aspects of Greek and Roman military history and become familiar with the specifics of the sources
+Warfare and Society in Ancient Greece used in the study of them. Classes/lectures deal especially with the social aspects of military sci-
+and Rome ence and the influence of the military on ancient civilization as a whole.
+Wojskowość i społeczeństwo w starożyt- Zajęcia będą dotyczyły podstawowych problemów historii wojen i militariów starożytnego świata,
+nej Grecji i Rzymie ze szczególnym uwzględnieniem Grecji i Rzymu. Studenci zapoznają się z podstawowymi aspek-
+tami greckiej i rzymskiej historii wojskowości oraz ze specyfiką źródeł wykorzystywanych w ich
+badaniu. Zajęcia dotyczą w szczególności społecznych aspektów nauk wojskowych oraz wpływu
+wojska na całą starożytną cywilizację.
+The aim of the course is to present the participants conditions (both biological, medical and epide-
+miological as well as cultural and religious) affecting the health of the European population and the
+perception of health and its value. By presenting the factors determining the health and living
+conditions of the population and the process of their change, the biological dimension of the exist-
+ence of various social strata in Europe from antiquity to the 19th century will be illustrated. On the
+other hand, presenting the way of perceiving life, health and body in a broad cultural context will
+make it possible to observe and understand the changes taking place in the mentality of the dis-
+cussed epochs. During the course, changes in views on the value and meaning of life, health and
+Health and Illness in Europe through
+disease in the period from antiquity to the 19th century will be outlined. Participants will be famil-
+centuries
+iarized with the most important biological, sanitary and epidemiological conditions affecting the
+health of the society. The views on the source of good health and the cause of diseases prevailing
+Zdrowie i choroba w historii europejskiej.
+in past eras will be presented, as well as sanitary and epidemiological recommendations of the
+time. Participants of the classes will gain knowledge and skills that will give them the opportunity
+to compare biological and medical factors as well as cultural and religious factors affecting the
+perception of the meaning of life, health and disease in the past.
+Celem zajęć jest przedstawienie uwarunkowań (zarówno biologicznych, medycznych i epidemiolo-
+gicznych, jak i kulturowych i religijnych) wpływających na stan zdrowia ludności Europy oraz po-
+strzeganie zdrowia i jego wartości. Przedstawiając czynniki determinujące stan zdrowia i warunki
+34
+PAGE 36
+życia ludności oraz proces ich zmian, zilustrowany zostanie biologiczny wymiar istnienia różnych
+warstw społecznych w Europie od starożytności do XIX wieku. Z drugiej strony ukazanie sposobu
+postrzegania życia, zdrowia i ciała w szerokim kontekście kulturowym pozwoli dostrzec i zrozumieć
+zmiany zachodzące w mentalności omawianych epok. W trakcie zajęć zostaną zarysowane zmiany
+w poglądach na wartość i sens życia, zdrowia i choroby w okresie od starożytności do XIX wieku.
+Omówione zostaną najważniejsze uwarunkowania biologiczne, sanitarne i epidemiologiczne mające
+wpływ na zdrowie społeczeństwa. Przedstawione zostaną poglądy na temat źródeł zdrowia i przy-
+czyn chorób panujących w minionych epokach oraz ówczesne zalecenia sanitarno-epidemiolo-
+giczne. Uczestnicy zajęć zdobędą wiedzę i umiejętności, które dadzą im możliwość porównania
+czynników biologicznych i medycznych oraz czynników kulturowych i religijnych wpływających na
+postrzeganie sensu życia, zdrowia i choroby w przeszłości.
+1ST YEAR – SEMESTR II / ROK I – SEMESTR II
+OBLIGATORY / OBOWIĄZKOWE
+The classes present the essential elements of the history and culture of the Polish state, from the
+baptism of Poland to the present, with an emphasis on turning points in the development of Polish
+statehood, starting from the Middle Ages, multiculturalism and multinational character, as well as
+religious diversity of the Polish-Lithuanian Commonwealth and the fight for independence and the
+formation of a modern society Polish in the nineteenth century. A separate place is occupied by
+issues related to the emergence and development of the Second Polish Republic and the fate of
+Polish society during World War II and the communist period. Classes include historiographic dis-
+Introduction to Polish History and Culture cussions on various problems of Polish history.
+Wprowadzenia do polskiej historii i kultury Zajęcia prezentują zasadnicze elementy historii i kultury państwa polskiego, od chrztu Polski do
+chwili obecnej, ze zwróceniem uwagi na punkty zwrotne w rozwoju polskiej państwowości, począw-
+szy od średniowiecza. Omówione zostaną też zagadnienia dotyczące wielokulturowości i wielonaro-
+dowego charakteru oraz różnorodności religijnej I Rzeczypospolitej, walk o niepodległość i kształto-
+wanie się nowoczesnego społeczeństwa polskiego w wieku XIX. Osobne miejsce zajmują zagadnie-
+nia związane z powstaniem i rozwojem II Rzeczypospolitej i losami społeczeństwa polskiego w czasie
+II wojny światowej oraz w okresie komunizmu. Zajęcia uwzględniają historiograficzne dyskusje wo-
+kół różnych problemów historii Polski.
+The course is designed to explore racial, ethnic, cultural, and socioeconomic groups to gain an
+understanding of equity, diversity, and inclusion in communities and education. Program contains
+Introduction to Intercultural Education among others: theories of multiculturalism, postcolonial legacies, the Conservative and Liberal Cri-
+tiques of Multiculturalism, national models of citizenship across the West, societal complexities:
+Wprowadzenie do edukacji międzykulturo- individuals, families, communities, education settings: education, competition, and cultural devel-
+wej opment, oppressions and intersectionality, impacts on education, culturally responsive pedagogy:
+linguistic diversity, ethnic diversity.
+35
+PAGE 37
+Zajęcia mają na celu zbadanie grup rasowych, etnicznych, kulturowych i społeczno-ekonomicznych
+w celu zrozumienia równości, różnorodności i integracji w społecznościach i edukacji. Program za-
+wiera wykłady dotyczące między innymi: teorii wielokulturowości, spuścizny postkolonialnej, kon-
+serwatywnej i liberalnej krytyki wielokulturowości, narodowych modeli obywatelstwa na Zachodzie.
+Course objective: familiarizing participants with the most important works of ancient Greek and
+Roman art. Program content: Periodization of Greek and Roman Art, Greek Art of Geometric, Ar-
+chaic, Classical and Hellenistic periods, Roman republican and Imperial Art.
+Introduction to Classical Archeology
+Celem wykładów jest zapoznanie uczestników z najważniejszymi dziełami sztuki starożytnej Grecji
+Wprowadzenie do archeologii klasycznej
+i Rzymu. Omówiona zostanie periodyzacja sztuki greckiej i rzymskiej, grecka sztuka okresu geo-
+metrycznego, archaicznego, klasycznego i hellenistycznego, sztuka rzymsko-republikańska i impe-
+rialna.
+The main course objective is to gain knowledge about Polish animation as a genre, technique and
+specific style created by Polish artists, with particular emphasis on the Polish School of Animation
+and its presence and influence on the world animated film. The subject of analysis will be the work
+of artists such as Władysław Starewicz, Franciszka & Stefan Themmerson, Włodzimierz Haupe &
+The Polish School of Animation. History, Halina Bielińska, Stefan Schabenbeck, Walerian Borowczyk, Jan Lenica, Mirosław Kijowicz, Ryszard
+meaning and impact of the Polish ani- Czekała, Witold Giersz, Daniel Szczechura, Zofia Oraczewska, Julian Józef Antoniszczak, Jerzy Ka-
+mated film from Lucanus Cervus to Tango lina, Jerzy Kucia, Zbigniew Rybczyński, Piotr Dumała, Marek Skrobecki, Tomasz Bagiński, Dorota
+and beyond. Kobiela and others.
+Polska Szkoła Animacji. Historia, znacze- Głównym celem zajęć jest zdobycie wiedzy o polskiej animacji jako gatunku, technice i specyficznym
+nie i oddziaływanie polskiego filmu animo- stylu tworzonym przez polskich twórców, ze szczególnym uwzględnieniem Polskiej Szkoły Animacji
+wanego od Lucanus Cervus do Tanga i nie oraz jej obecności i wpływu na światowy film animowany. Przedmiotem analizy będzie twórczość
+tylko takich artystów jak: Władysław Starewicz, Franciszka i Stefan Themersonowie, Włodzimierz Haupe
+i Halina Bielińska, Stefan Schabenbeck, Walerian Borowczyk, Jan Lenica, Mirosław Kijowicz, Ryszard
+Czekała, Witold Giersz, Daniel Szczechura, Zofia Oraczewska, Julian Józef Antoniszczak, Jerzy Ka-
+lina, Jerzy Kucia, Zbigniew Rybczyński, Piotr Dumała, Marek Skrobecki, Tomasz Bagiński, Dorota
+Kobiela i inni.
+The main objective is the understanding of the stories and significance of art through the lenses
+art methodologies. The following methodologies will be discussed during lecture: formalism, icono-
+Methodology of Art History graphy, biography, critical theory, feminism, etc.
+Metodologia historii sztuki Głównym celem jest zrozumienie historii i znaczenia sztuki przez pryzmat metodologii sztuki. Pod-
+czas wykładu zostaną omówione następujące metodologie: formalizm, ikonografia, biografia, teoria
+krytyczna, feminizm, hermeneutyka, itp.
+2ND YEAR – SEMESTR III / ROK II – SEMESTR III
+OBLIGATORY / OBOWIĄZKOWE
+36
+PAGE 38
+The course aims to present the transitional process in Poland and other Central/Eastern European
+countries after 1989. In particular, it discusses specificity of anthropological analytical perspectives
+as compared to other social sciences and humanities which have attempted to theorize “postsocial-
+ism” in the region. Furthermore, it shows how different people, differently situated within different
+social structures negotiated “postsocialism” in their everyday discourses and practices, and, effec-
+Postsocialism in Central/Eastern Europe tively, how they destabilized homogenizing concepts and ideas of both popular and scholarly narra-
+tives.
+Postsocjalizm w Europie Środko-
+wej/Wschodniej Celem zajęć jest przybliżenie problematyki dotyczącej procesów transformacyjnych w Polsce i innych
+krajach Europy Środkowej/Wschodniej po 1989 roku; zaprezentowanie specyfiki perspektyw antro-
+pologicznych na tle innych perspektyw teoretycznych stosowanych do analizy tzw. „postsocjalizmu”
+w regionie; pokazanie jak ludzie usytuowani w różny sposób w różnych strukturach społecznych
+negocjują „postsocjalizm” w dyskursach i praktykach dnia codziennego, a tym samym dekonstruują
+homogenizujące pojęcia i wyobrażenia stosowane w dyskursach popularnych i naukowych.
+The course is designed to contextualize multicultural perspectives in society and their impact on the
+education system. Program contains the following problems: roots of Cultural Diversity in Europe,
+perspectives on culture, gender, class, and exceptionalities, teaching in a multicultural society, mak-
+Multicultural Education: Theory and Prac-
+ing sense of education for diversities: criticality, reflexivity and language, inequality, religious di-
+tice
+versity and the public school systems in Europe .
+Wielokuturowość w edukacji - teoria i
+Wykłady mają na celu kontekstualizację wielokulturowych perspektyw w społeczeństwie i ich wpływu
+praktyka
+na system edukacji. Program obejmuje następujące problemy: korzenie różnorodności kulturowej
+w Europie, spojrzenie na kulturę, płeć, klasę i wyjątkowość, nauczanie w społeczeństwie wielokul-
+turowym.
+This course addresses the origins and concepts of nationalism as an intellectual project and ideology.
+During the seminar we will consider the relation between nationalism and selected issues, such as:
+propaganda, violence, religion gender etc. from a transnational and comparative perspective. Case
+studies will cover different examples of development of nationalism in particular countries as well
+as among stateless nations. There will be discussed among others the differences between various
+types and definitions of nationalism, as well as fascism and Nazism; the basic aspects of nationalism,
+nation and national identity; the development of nationalism from the 19th to the 21st century;
+History of Nationalism different forms of nationalism across Europe.
+Historia nacjonalizmu Zajęcia dotyczą genezy i koncepcji nacjonalizmu jako projektu intelektualnego i ideologii. Podczas
+seminarium rozważone zostaną relacje między nacjonalizmem a wybranymi zagadnieniami, takimi
+jak: propaganda, przemoc, religia, płeć itp. z perspektywy ponadnarodowej i porównawczej. Studia
+przypadków obejmą różne przykłady rozwoju nacjonalizmu w poszczególnych krajach, jak również
+wśród narodów bezpaństwowych. Omówione zostaną m.in. różnice pomiędzy różnymi typami i de-
+finicjami nacjonalizmu, a także faszyzmu i nazizmu; podstawowe aspekty nacjonalizmu, narodu i
+tożsamości narodowej; rozwój nacjonalizmu od XIX do XXI wieku; różnych form nacjonalizmu w
+całej Europie.
+37
+PAGE 39
+This course aims at providing students with an in-depth insight to the most important works, pro-
+cesses and phenomena observed in Medieval and Early Modern European art. The course will adopt
+the perspective of the artwork - its characteristics, the process of its creation, its materiality, formal
+and stylistic features, agency, functioning in space and in changing social and historical contexts,
+as well as its other, including non-artistic functions (e.g. as a historical source, an instrument of
+propaganda, emancipation, manifestation of power). In order to capture, most effectively, the com-
+plexity and diversity of objects being qualified as works of art, the history of painting, architecture,
+sculpture, printmaking, arts and crafts and urban planning will be addressed in their broadest sense.
+It will be accompanied by a methodological reflection, taking into account the range of methods
+used in material heritage research since the nineteenth century, with a particular focus on the most
+recent ones (postmodernism, poststructuralism, genders studies, posthumanities). What is more,
+the course will familiarise students with archival, bibliographic and art historical resources for Medi-
+Work of Art and its Context eval and Early Modern European art.
+Dzieło sztuki i jego kontekst Zajęcia mają na celu dostarczenie studentom dogłębnego wglądu w najważniejsze dzieła, procesy i
+zjawiska obserwowane w średniowiecznej i nowożytnej sztuce europejskiej. Zajęcia będą przyjmo-
+wały perspektywę dzieła sztuki – jego charakterystykę, proces jego powstawania, jego materialność,
+cechy formalne i stylistyczne, sprawczość, funkcjonowanie w przestrzeni i w zmieniających się kon-
+tekstach społecznych i historycznych, a także jego inne, w tym pozaartystyczne funkcje (np. jako
+źródło historyczne, narzędzie propagandy, emancypacji, manifestacji władzy). Aby najskuteczniej
+uchwycić złożoność i różnorodność obiektów kwalifikowanych jako dzieła sztuki, omówiona zostanie
+historia malarstwa, architektury, rzeźby, grafiki, sztuki i rzemiosła oraz urbanistyka w ich najszer-
+szym znaczeniu. Towarzyszyć temu będzie refleksja metodologiczna, uwzględniająca wachlarz me-
+tod stosowanych w badaniach dziedzictwa materialnego od XIX wieku, ze szczególnym uwzględnie-
+niem tych najnowszych (postmodernizm, poststrukturalizm, gender studies, posthumanistyka). Po-
+nadto kurs zapozna studentów z archiwalnymi, bibliograficznymi i historycznymi zasobami sztuki
+europejskiej sztuki średniowiecznej i nowożytnej.
+During lectures the following problems will be discusses: cross-cultural psychology - concepts,
+terms, phenomena, understanding of human behaviour in the light of cultural and evolutionary
+approaches, evolutionary psychology of emotions, cross-cultural psychology of language and gossip,
+‘Mating mind’ strategies and its cultural extensions, cross-cultural Psychology of religion and moral-
+Cross-cultural psychology ity Cross-cultural Psychology of art and aesthetics.
+Psychologia międzykulturowa Podczas wykładów zostaną omówione następujące zagadnienia: psychologia międzykulturowa - po-
+jęcia, terminy, zjawiska, rozumienie zachowania człowieka w świetle ujęć kulturowych i ewolucyj-
+nych, ewolucyjna psychologia emocji, międzykulturowa psychologia języka i plotek, strategie i jej
+kulturowe rozszerzenia, międzykulturowa psychologia religii i moralności, międzykulturowa psycho-
+logia sztuki i estetyki.
+OPTIONAL / DO WYBORU
+38
+PAGE 40
+The lecture is aimed to familiarize students with the correlation between social structures and the
+organization of the army throughout history, at indication of the role of the army in different com-
+munities, familiarizing the student with the evolution of the military state and fundamentals of mil-
+Warfare and Society in modern European
+itary sociology. The impact of technical changes on the organization of the army and the conduct of
+History
+war will be discussed.
+Wojskowość i Społeczeństwo w nowożyt-
+Cele zajęć jest zaznajomienie studenta z korelacją między strukturami społecznymi a organizacją
+nej historii Europy
+armii na przestrzeni dziejów. Wskazanie roli wojska w różnych społecznościach. Zaznajomienie stu-
+denta z ewolucją stanu wojskowego. Podstawy socjologii wojska. Wpływ przemian technicznych na
+organizację armii i prowadzenie wojny.
+The lectures will contain among others: presentation of the most important motives and ways of
+traveling in European history from ancient times to the 20th century; illustration of some changes
+in the functioning of transport and the function of travel in society; indication of the impact of
+technological and social changes on the range, frequency and manner of travel; discussion of the
+European History of Travelling most important problems related to the topic according to the state of the latest historical research.
+Historia europejskiego podróżowania Wykłady będą dotyczyć m.in.: przedstawienie najważniejszych motywów i sposobów podróżowania
+w historii Europy od starożytności do XX wieku; wskazania niektórych zmian w funkcjonowaniu
+transportu i funkcji podróży w społeczeństwie; wskazanie wpływu zmian technologicznych i społecz-
+nych na zasięg, częstotliwość i sposób podróżowania; omówienie najważniejszych problemów zwią-
+zanych z tematem według stanu najnowszych badań historycznych.
+The lectures will be devoted on private life in Greek and Roman antiquity and in late antiquity (early
+Christianity). They will be focused on the following issues, sorted "chronologically" according to the
+successive stages of human life: childhood, adolescence, intimacy, family and marriage, the status
+of women, old age and dying of women and men, as well as analyzes of those categories of sources
+that are relevant in this regard. most helpful. As part of them, fundamental aspects of this aspect
+of the history of ancient civilization will be discussed, especially in the field of the history of customs
+and mentality of the people of antiquity.
+Zajęcia dotyczyć będą życia prywatnego w starożytności greckiej i rzymskiej oraz w czasach póź-
+Private life in Ancient Greece and Rome
+nego antyku (wczesne chrześcijaństwo). Będą ogniskować się wokół następujących zagadnień, upo-
+rządkowanych niejako „chronologicznie” wedle kolejnych etapów ludzkiego życia: dzieciństwo, doj-
+Życie prywatne w grecko-rzymskiej staro-
+rzewanie, życie intymne, rodzina i małżeństwo, status kobiet, starość i umieranie kobiet i mężczyzn,
+żytności
+oraz analizy tych kategorii źródeł, które są w tym względzie najbardziej pomocne. W ich ramach
+studenci zapoznają się z fundamentalnymi aspektami tego aspektu historii antycznej cywilizacji,
+zwłaszcza w dziedzinie historii obyczajów i mentalności ludzi antyku. W trakcie zajęć studenci będą
+korzystać ze zróżnicowanych źródeł pisanych (literatura, inskrypcje, papirusy), jak i archeologicz-
+nych (ikonografia, wykopaliska). Dla lepszego zrozumienia omawianych tekstów każde zajęcia pro-
+wadzone będą przy wykorzystaniu prezentacji w PowerPoint, co umożliwi studentom wgląd w pod-
+stawowe źródła ikonograficzne na temat życia prywatnego w antyku. W ten sposób wykłady obejmą
+istotny aspekt historii życia społecznego w starożytności, ujmując życie Greków i Rzymian w pla-
+styczny sposób.
+39
+PAGE 41
+The lectures will be focused on problems of women in Early Modern (Western) Europe – legal position
+and social practice, women in the Polish-Lithuanian Commonwealth – legal position and social prac-
+tice, women in the Polish-Lithuanian Political Life, women in Old Regime France, women of the
+French Revolution, women in British Society and the Enlightenment, Elite Women in British Politics
+of the 18th Century, ‘Woman question’ in France 1789-1849 – Conceptions, Discourse, Reality,
+Polish Women under Foreign Governance 1795-1914, British Women’s Militancy 1800-1866,
+Women in the European Public Sphere
+‘Woman Question’ in France 1850-1914 – Conceptions, Discourse, Reality “Deeds, not words” –
+(18th-20th centuries)
+suffrage movement in Britain 1866-1914 and representations of the suffragettes in movies.
+Kobiety w europejskiej przestrzeni pu-
+Tematem wykładów będą problemy kobiet w Europie nowożytnej (zachodniej) – ich pozycja prawna
+blicznej (XVIII−XX w.)
+i praktyka społeczna: roli kobiet w Rzeczypospolitej, udziału kobiet w polsko-litewskim życiu poli-
+tycznym, znaczeniu kobiet w dawnej Francja, roli kobiet w rewolucji francuskiej, w społeczeństwie
+brytyjskim w okresie oświecenia, w elitach w brytyjskiej polityce XVIII wieku, „kwestia kobieca” we
+Francji 1789-1849, Polki pod obcymi rządami w latach 1795-1914 , Brytyjska Bojówka Kobiet 1800-
+1866, „Kwestia kobieca” we Francji 1850-1914 „Czyny, nie słowa” – ruch wyborczy w Wielkiej Bry-
+tanii 1866-1914 i prezentacje sufrażystek w filmach.
+2ND YEAR – SEMESTR IV / ROK II – SEMESTR IV
+OBLIGATORY / OBOWIĄZKOWE
+BA Seminar BA seminar will lasts 3 semesters and will be conducted by tutor.
+Seminarium licencjackie Seminarium będzie trwało trzy semestry i będzie prowadzone przez promotora pracy.
+This course is designed to provide knowledge and develop skills regarding qualitative research meth-
+ods, with a focus on research in multicultural contexts. Detailed introduction to five key qualitative
+strategies, i.e. ethnography, case study, phenomenology, biographical-narrative method, and
+grounded theory will be the core of the course developments. It will also consider qualitative strat-
+Qualitative methods in social sciences egies for validity and reliability, and the relevance of standard evaluative criteria.
+Jakościowe metody w naukach Ten kurs ma na celu dostarczenie wiedzy i rozwijanie umiejętności dotyczących jakościowych metod
+społęcznych badawczych, ze szczególnym uwzględnieniem badań w kontekstach wielokulturowych. Szczegółowe
+wprowadzenie do pięciu kluczowych strategii jakościowych, tj. etnografii, studium przypadku, feno-
+menologii, metody biograficzno-narracyjnej i teorii ugruntowanej, będzie stanowić trzon rozwoju
+kursu. Rozważone zostaną również jakościowe strategie trafności i rzetelności oraz przydatność
+standardowych kryteriów oceny.
+It frame of the lectures there will presented and discuss the top archeological discoveries from the
+Great Discoveries of Modern Archeology fifteenth century to the present times in the area of Europe, Africa and Asia.
+Wielkie odkrycia nowożytnej archeologii W ramach wykładów przedstawione zostaną i omówione najważniejsze odkrycia archeologiczne od
+XV wieku do czasów współczesnych na obszarze Europy, Afryki i Azji.
+40
+PAGE 42
+The lectures will discuss the most important issues related to the everyday life of kings, noble and
+bourgeois elites of the Polish-Lithuanian Commonwealth from the 16th to the 18th century. There-
+fore, the following content will be discussed at the seminar: funerals of the Polish-Lithuanian state
+elites, ceremonial entries of the Polish elite, memoirs, diaries, Jews in the Republic of Poland, cloth-
+ing of the Polish-Lithuanian state elite, culinary preferences in the 16th-18th century Poland, witch
+hunts in early modern Poland, presentation of the elite in foreign-language relations, magic places
+Polish-Lithuanian Commonwealth in the in modern Poland, tradition and culture, folklore, legends, journeys of the Commonwealth's elites in
+16th-18th centuries – culture and society the 16th-18th centuries, the role of women in the Polish-Lithuanian state.
+Rzeczpospolita Obojga Narodów w XVI- Na wykładach zostaną omówione najważniejsze zagadnienia związane z życiem codziennym królów,
+XVIII wieku – kultura i społeczeństwo elit szlacheckich i mieszczańskich Rzeczpospolitej od XVI do XVIII wieku. W związku z tym przed-
+stawione zostaną następujące treści: pogrzeby elit państwowych Rzeczpospolitej Obojga Narodów,
+uroczyste wpisy polskiej elity, wspomnienia, pamiętniki, Żydzi w RP, ubiór polsko-litewskiej elity
+państwowej, preferencje kulinarne w XVI-XVIII-wiecznej Polsce, polowania na czarownice w nowo-
+żytnej Polsce, przedstawienie elity w stosunkach obcojęzycznych, miejsca magiczne w nowożytnej
+Polsce, tradycja i kultura, folklor, legendy, wędrówki elit Rzeczpospolitej w XVI-XVIII wieku, rola
+kobiet w Rzeczpospolitej Obojga Narodów.
+Proposed course will offer an introduction to Polish cinema and present it within the cultural and
+industrial context. We will cover all of the most important phenomena in the history of Polish film:
+from silent patriotic epics and romantic comedies of the pre-WW2 period, through the emergence
+of crucial currents such as Polish Film School and the Cinema of Moral Anxiety, to contemporary
+arthouse favorites, including Ida and The Lure, as well as blockbusters in the vein of Letters to
+Santa. The course will focus on films directed by, inter alia, Andrzej Wajda, Krzysztof Kieślowski,
+Roman Polański, Krzysztof Zanussi, Wojciech Jerzy Has and Paweł Pawlikowski.
+Polish Cinema – History, Culture, Industry
+Zajęcia będzie stanowił wprowadzenie do polskiego kina i zaprezentuje je w kontekście kulturowym
+Kino polskie – historia, kultura, przemysł
+i przemysłowym. Omówione zostaną wszystkie najważniejsze zjawiska w historii polskiego filmu: od
+niemych eposów patriotycznych i komedii romantycznych okresu przedwojennego, poprzez poja-
+wienie się przełomowych nurtów, takich jak polska szkoła filmowa i kino moralnego niepokoju, po
+współczesne ulubieńcy kina artystycznego, w tym Ida i The Lure, a także hity kinowe w stylu Listów
+do Świętego Mikołaja. Tematem zajęć będą filmy reżyserowane m.in. przez Andrzeja Wajdę, Krzysz-
+tofa Kieślowskiego, Romana Polańskiego, Krzysztofa Zanussiego, Wojciecha Jerzego Hasa i Pawła
+Pawlikowskiego.
+Performativity of art & science. History of
+The main course objective is to gain knowledge about common paths of art & science and its aes-
+performance art and its liaisons with new
+thetics of performativity. Analyzed case studies will be considered in the context of history of per-
+technologies in US and Europe in the Cold
+formance art and its liaisons with new technologies in US and Europe in the Cold War era. Program
+War era.
+contains: collaboration between art and technology, artists and scientists, academia and market
+industry in such projects as Experiments in Art and Technology (E.A.T.) and 9 Evenings: Theatre
+Performatywność sztuki i nauki. Historia
+and Engineering , the Art and Technology Project at the Los Angeles County Museum of Art (A&T),
+sztuki performans i jej związków z nowymi
+the Artist Placement Group (APG) and Cybernetic Serendipity in the United Kingdom.
+technologiami w USA i Europie w okresie
+zimnej wojny
+41
+PAGE 43
+Głównym celem zajęć jest zdobycie wiedzy na temat wspólnych dróg sztuki i nauki oraz jej estetyki
+performatywności. Analizowane studia przypadków będą rozpatrywane w kontekście historii sztuki
+performance i jej związków z nowymi technologiami w USA i Europie w okresie zimnej wojny. Pro-
+gram obejmuje: współpracę między sztuką i technologią, artystami i naukowcami, środowiskiem
+akademickim i przemysłem w ramach takich projektów jak Eksperymenty w sztuce i technologii
+(E.A.T.) oraz 9 wieczorów: teatr i inżynieria, projekt sztuki i technologii w Los Angeles County Mu-
+seum of Art (A&T), Artist Placement Group (APG) i Cybernetic Serendipity w Wielkiej Brytanii.
+OPTIONAL / DO WYBORU
+The course schedule will cover the main aspects of Greco-Roman daily life, starting with basic urban
+infrastructure and housing. Then we'll cover some key topics: public spectacles (gladiator shows,
+arena hunts, and chariot races); baths (therms) and baths; taverns and food; latrines, toilets and
+personal hygiene. While the main focus will be on daily life in Greece and Rome, the main categories
+of our sources on ancient history will also be covered, including literary and sub-literary (epigraphic,
+Everyday life in Greek and Roman Antiq- papyrus) sources. The basic texts will be discussed separately.
+uity
+Harmonogram zajęć będzie obejmował główne aspekty grecko-rzymskiego życia codziennego, za-
+Życie codzienne w grecko-rzymskiej staro- czynając od podstawowej infrastruktury miejskiej i mieszkalnictwa. Następnie omówimy kilka klu-
+żytności czowych tematów: widowiska publiczne (pokazy gladiatorów, polowania na zwierzęta na arenach i
+wyścigi rydwanów); łaźnie (termy) i kąpiele; tawerny i pożywienie; latryny, toalety i higienę osobi-
+stą. Mimo że główny nacisk położony zostanie na życie codzienne w Grecji i Rzymie, omówione
+zostaną również główne kategorie naszych źródeł na temat historii starożytnej, w tym źródła lite-
+rackie i subliterackie (epigraficzne, papirusowe). Podstawowe teksty będą przedmiotem osobnej
+dyskusji.
+In this class we explore the medieval history of Central Europe. We discuss the very definition of
+the region. We read excerpts from source texts and try to look at the processes in Central Europe
+in a broader European and global context. We discuss legends and historical myths, diverse reli-
+gions, great battles, the Northern Crusades, heresies and many more. We consider what Poland,
+Bohemia, Hungary, Bulgaria, Romania, Croatia, Lithuania, Rus or Serbia (i.a.) have in common in
+Shared or Separate Past(s)? Medieval East
+historical and cultural terms, as well as what constitutes the unique features of their history.
+Central Europe
+Zajęcia służą zgłębianiu średniowiecznej historii Europy Środkowej. W ich ramach mówiona zostaje
+Wspólna czy oddzielna przeszłość? Śre-
+sama definicja regionu, analizowane są fragmenty tekstów źródłowych i procesy zachodzące w Eu-
+dniowieczna Europa Środkowo-Wschodnia
+ropie Środkowej w szerszym kontekście europejskim i światowym. Omawiane są legendy i mity
+historyczne, różne religie, wielkie bitwy, wyprawy krzyżowe na północy, herezje i wiele innych. Za-
+stanawiamy się co Polskę, Czechy, Węgry, Bułgarię, Rumunię, Chorwację, Litwę, Ruś czy Serbię
+(m.in.) łączy pod względem historycznym i kulturowym, a także co składa się na wyjątkowe losy ich
+historii.
+Communication strategies and means of
+Course objective: The aim of the course is to present social communication as an important factor
+persuasion in modern era. Case: The Po-
+shaping the cultural space as well as social customs and attitudes. Methods of communication will
+lish-Lithuanian Commonwealth
+be presented, the most important technological conditions affecting the range and possibilities of
+42
+PAGE 44
+communication, communication strategies adopted by the elite, as well as the most common meth-
+Strategie komunikacyjne i środki perswa- ods of self-promotion and persuasion. Program contains presentation of the most important factors
+zji w epoce nowożytnej: Przypadek: influencing the ways of communicating content in modern society, with particular emphasis on the
+Rzeczpospolita Obojga Narodów Polish-Lithuanian Commonwealth, illustration of the most important vectors of changes in the func-
+tioning of social communication, indication of the impact of technological changes and the promotion
+of reading skills on the range and manner of communicating content.
+Celem zajęć jest przedstawienie komunikacji społecznej jako ważnego czynnika kształtującego prze-
+strzeń kulturową oraz zwyczaje i funkcje społeczne. Przedstawiono metody komunikacji, najważ-
+niejsze uwarunkowania technologiczne wpływające na zasięg i możliwości komunikacji, strategię
+odbioru przez elity, a także najczęstsze metody autopromocji i perswazji. Program zawiera prezen-
+tację czynników wpływających na sposoby komunikowania treści we współczesnym społeczeństwie,
+ze względu na uwzględnienie Rzeczypospolitej Obojga Narodów, zilustrowanie głównego wektora
+zmian w dalszej komunikacji, wskazanie wpływu zmian technologicznych i promocji społeczeństwa
+w zakresie i sposobu wykorzystania treści.
+Work of Art in Period of Transition. Art
+During the lectures will be discussed the phenomena of art at the turn of centuries, especially in
+History around 1900 in Central Europe
+field of painting, including academism, impressionism etc.
+Dzieło sztuki w okresie przemian. Historia
+Podczas wykładów omawiane będą zjawiska sztuki przełomu wieków, zwłaszcza w dziedzinie malar-
+sztuki około 1900 roku w Europie Środko-
+stwa, w tym akademizmu, impresjonizmu itp.
+wej
+Familiarizing students with the history of research on collective memory; basic terms and theories
+related to collective memory; introducing the tasks and specificity of anthropology of memory. To
+acquaint students with the ways of using the notion of collective memory on the ground of historical,
+sociological, anthropological, literary studies, in psychology. Using knowledge of collective memory
+management processes in public activities, conducting awareness activities, identity activities, using
+Memory studies – history and practice memorial techniques.
+Studia nad pamięcią – historia i praktyka W ramach zajęć omówione zostaną zagadnienia związane z historią badań nad pamięcią zbiorową;
+podstawowe terminy i teorie związane z pamięcią zbiorową oraz zadania i specyfika antropologii
+pamięci. Przedstawione zostaną sposoby wykorzystania pojęcia pamięci zbiorowej na gruncie badań
+historycznych, socjologicznych, antropologicznych, literaturoznawczych, w psychologii oraz wyko-
+rzystanie wiedzy o procesach zarządzania pamięcią zbiorową w działaniach publicznych, prowadze-
+nie działań uświadamiających, działań tożsamościowych, stosowanie technik pamięciowych.
+The aim of the course is to introduce the relationships that exists between contemporary art and
+digital media. These issues will be placed in the broader historical and socio-economic context of
+Work of Art in the Digital Era the development of the new digital age and the increasingly rapid development of artificial intelli-
+gence and its application to the creation of art and design works. Program contain introduction to
+Dzieło sztuki w erze cyfrowej digital art and new media, the history of digital art, digitization of art, digital performing arts, inter-
+active art, digital sound art, generative and algorithmic art, art and digital games, digital art and
+augmented reality, artificial intelligence and art, art in the age of social media, digital art and the
+43
+PAGE 45
+creative industries, digital preservation and archiving of art, digital presentation and collecting of
+art, digital art and the future.
+Celem zajęć jest przedstawienie związków, jakie zachodzą pomiędzy sztuką współczesną a mediami
+cyfrowymi. Zagadnienia te zostaną osadzone w szerszym historycznym i społeczno-ekonomicznym
+kontekście rozwoju nowej ery cyfrowej oraz coraz szybszego rozwoju sztucznej inteligencji i jej
+zastosowania w tworzeniu dzieł sztuki i projektowania. Program obejmuje wprowadzenie do sztuki
+cyfrowej i nowych mediów, historię sztuki cyfrowej, digitalizację sztuki, cyfrowe sztuki performa-
+tywne, sztukę interaktywną, cyfrową sztukę dźwięku, sztukę generatywną i algorytmiczną, sztukę i
+gry cyfrowe, sztukę cyfrową i rzeczywistość rozszerzoną, sztuczną inteligencję i sztuka, sztukę w
+dobie mediów społecznościowych, sztukę cyfrową i przemysły kreatywne, cyfrowa ochrona i archi-
+wizacja sztuki, cyfrową prezentację i kolekcjonowanie sztuki, sztukę cyfrową i przyszłość.
+3RD YEAR – SEMESTR V / ROK II – SEMESTR V
+OBLIGATORY / OBOWIĄZKOWE
+Intercultural communication The course is designed to explore cultural self-awareness, other cultural awareness, and the dy-
+namics that arise in interactions between the two, to understand how communication processes
+Komunikacja międzykulturowa differ among cultures, i.e., in Western – Eastern cultures, etc., to identify challenges that arise from
+these differences in intercultural interactions and learn ways to creatively address them. The pro-
+gram includes some problems concerning: intercultural communication - concepts, terms, phenom-
+ena (types of intercultural communication), communication as a process, definition of intercultural
+communication; S. Huntington's concept of the clash of civilizations, the theory of hidden dimensions
+of culture by G. and G. Hofstede and many others.
+Zajęcia mają na celu zbadanie samoświadomości kulturowej, innych świadomości kulturowych oraz
+dynamiki, która powstaje w interakcjach między nimi, aby zrozumieć, w jaki sposób procesy komu-
+nikacyjne różnią się między kulturami, tj. wynikają z tych różnic w interakcjach międzykulturowych
+i uczą się sposobów kreatywnego radzenia sobie z nimi W programie znalazły się problemy doty-
+czące: komunikacji międzykulturowej - pojęcia, terminy, zjawiska (rodzaje komunikacji międzykul-
+turowej), komunikacji jako procesu, definicji komunikacji międzykulturowej, koncepcji zderzenia
+cywilizacji S. Huntingtona, teorii ukrytych wymiarów kultury G. i G. Hofstede i wielu innych.
+Poland in the in the Era of Partitions (1772- The lectures will provide the knowledge on the history of Poland from WWI till the end of WWII
+1918) against the background of the situation in East Central Europe. The lectures will be focused on the
+following matters the way to collapse of the Polish-Lithuanian Commonwealth, Polish lands after 3rd
+Polska w dobie rozbiorów (1772-1918) partition, Polish Legions in Italy, We and Napoleon, Duchy of Warsaw, Kingdom of Poland, Polish
+Risings, Organic work, Industralization and peasant question in the Polish lands, Germanization and
+Russification, Galician autonomy, Polish orientations before WWI.
+44
+PAGE 46
+Wykłady przybliżą historię Polski od I do końca II wojny światowej na tle sytuacji w Europie Środ-
+kowo-Wschodniej. Będą koncentrować się na następujących zagadnieniach: drodze do upadku Rze-
+czypospolitej, ziemiach polskich po III rozbiorze, Legionach Polskich we Włoszech, Księstwie War-
+szawskim, Królestwie Polskim, powstaniach, pracy organicznej, industrializacji i kwestii chłopskiej
+na ziemiach polskich, germanizacji i rusyfikacji, autonomii Galicji, orientacji polskiej przed I wojną
+światową.
+Europe and the United States until WWII Acquainting students with the main courses of cultural, social and political relationship between
+Europe and the United States, their cultural communities and distinctions, training the ability to
+Europa i Stany Zjednoczone do II wojny understand the transatlantic cultural, social and political dynamics, developing skills to define the
+światowej European - U.S. common origins while at the same time to indicate divergencies in matters of
+culture, society, economy and politics. Among topics there are: historical development of cultural,
+social and political relationship between Europe and the United States since the colonial period until
+1945, European origins of puritan ethic in America, transatlantic migrations, European perceptions
+of American society and culture in the 19th century, American social and political culture and its
+impact on the transatlantic relations until the Second World War, European cultural and political
+influence in the United States, isolationism and internationalism in American political tradition, social
+darwinism in the United States, European dimension of American social and cultural reforms in the
+19th century and many others.
+W ramach wykładów następuje zapoznanie z głównymi kierunkami relacji kulturowych, społecznych
+i politycznych między Europą a Stanami Zjednoczonymi, ich wspólnotami kulturowymi i odrębno-
+ściami, kształcenie umiejętności rozumienia transatlantyckiej dynamiki kulturowej, społecznej i po-
+litycznej, rozwijanie umiejętności definiowania wspólnego pochodzenia europejsko-amerykańskiego
+przy jednoczesnym wskazaniu na rozbieżności w sprawach kultury, społeczeństwa, gospodarki i
+polityki. Wśród podejmowanych tematów znajdują się: historyczny rozwój stosunków kulturowych,
+społecznych i politycznych między Europą a Stanami Zjednoczonymi od okresu kolonialnego do 1945
+roku, europejskie początki etyki purytańskiej w Ameryce, migracje transatlantyckie, europejskie
+postrzeganie społeczeństwa i kultury amerykańskiej w XIX wieku, amerykańska kultura społeczna i
+polityczna i jej wpływ na stosunki transatlantyckie do II wojny światowej, europejskie wpływy kul-
+turowe i polityczne w Stanach Zjednoczonych, izolacjonizm i internacjonalizm w amerykańskiej tra-
+dycji politycznej, darwinizm społeczny w Stanach Zjednoczonych, europejski wymiar amerykańskiej
+polityki społeczno-kulturowej reformy w XIX wieku i wiele innych.
+Polish-Jewish relations in the 20th century The lectures will be focused on Polish-Jewish relations in the pre-war and post-war times. Much
+attention will be paid to the activities of the communist authorities, the assimilation of Jews, emi-
+Relacje polsko-żydowskie w XX w. gration and the remaining Jews in Poland.
+Wykłady będą koncentrować się na stosunkach polsko-żydowskich w okresie przedwojennym i po-
+wojennym. Wiele uwagi zostanie poświęcone działaniom władz komunistycznych, asymilacji Żydów,
+emigracji i sytuacji Żydów pozostałych w Polsce po 1968 r.
+East Central Europe under the Soviet Dom- After World War II, the societies of Eastern and Central Europe experienced Soviet political domi-
+ination (1945-1989) nation and the rule of communist parties. Classes focus on comparing the ideological influence of
+communism in the so-called "Soviet Bloc" from 1945 to 1989 and indicating the political, social and
+45
+PAGE 47
+Europa Środkowo-Wschodnia pod ra- economic changes in these countries at that time. The course also discuss the attitude of societies
+dziecką dominacją (1945-1989) towards the imposed communist system with an emphasis on social resistance efforts against com-
+munists in East Germany, Bulgaria and Czechoslovakia in 1953, Hungary and Poland in 1956, Prague
+Spring 1968, Poland 1968, 1970, 1976 and during the "Solidarity" period. The problem of the rea-
+sons for the decline and collapse of the communist system in Central and Eastern Europe in the
+1980s and its impact on the development of this region after the "Autumn of Nations" in 1989 is
+also analyzed.
+Po II wojnie światowej społeczeństwa Europy Wschodniej i Środkowej doświadczyły sowieckiej do-
+minacji politycznej i rządów partii komunistycznych. Zajęcia koncentrują się na porównaniu ideolo-
+gicznych wpływów komunizmu w tzw. "bloku sowieckim" od 1945 do 1989 roku i pokazaniu zmian
+politycznych, społecznych i gospodarczych w tych krajach w tym czasie. Kurs koncentruje się rów-
+nież na postawie społeczeństw wobec narzuconego systemu komunistycznego z naciskiem na wysiłki
+oporu społecznego przeciwko komunistom w NRD, Bułgarii i Czechosłowacji w 1953 r., na Węgrzech
+i w Polsce w 1956 r., Praskiej Wiośnie 1968, Polsce 1968, 1970, 1976 r. oraz w okresie "Solidarno-
+ści". Analizie poddane zostanie także problem przyczyn zmierzchu i upadku systemu komunistycz-
+nego w Europie Środkowo-Wschodniej w latach 80 oraz jego wpływu na rozwój tego regionu po
+„Jesieni Ludów” w 1989 r.
+OPTIONAL / DO WYBORU
+History of Contemporary Art Lectures cover two different periods of time – a/ the post-war period and modernity, b/ contem-
+poraneity. They contain introductory remarks on Polish visual art, problems such as why the history
+Historia sztuki współczesnej of the former eastern bloc is extremely heterogeneous and it cannot be perceived as a homogenous
+whole? It would be discussed performans’ tradition in Wroclaw: how to make funny art out of
+nothing, Group of Krakow and Kantor’s “The Dead Class”, he small boy from the paintings by
+Andrzej Wróblewski – a victim or a revolutionary? Łódź – Muzeum Sztuki and its tradition
+(Strzemiński and Kobro), Szapocznikow and Abakanowicz - two very different female sculptors,
+neo-avant garde practices of the 70’s in Poland (i.a. Natalia LL, KwieKulik, Robakowski), Edward
+Dwurnik and the paradoxes of tradition: how to be progressive and traditional at the same time,
+nonchalantly appropriating the socialist culture, contemporary Polish artists adopting strategies of
+the 70’s and 80’s (Kulik, Uklański, Dawicki) and other topic.
+Wykłady mają na celu zapoznanie studentów z polską sztuką nowoczesną i współczesną. Wykłady
+obejmują dwa różne okresy – a/ okres powojenny i modernizm, b/ współczesność. Zawierają uwagi
+wprowadzające w polską sztukę wizualną, problemy np. dlaczego historia byłego bloku wschod-
+niego jest skrajnie niejednorodna i nie można jej postrzegać jako jednorodnej całości? Omawiają
+tradycję wrocławskich performerów: jak z niczego zrobić zabawną sztukę, Grupę Krakowską i
+„Umarłą klasę” Kantora, chłopca z obrazów Andrzeja Wróblewskiego – ofiarę czy rewolucjonistę?
+Łódź – Muzeum Sztuki i jego tradycja (Strzemiński i Kobro), Szapocznikow i Abakanowicz – dwie
+bardzo różne rzeźbiarki, praktyki neoawangardowe lat 70. w Polsce (m.in. Natalia LL, KwieKulik,
+46
+PAGE 48
+Robakowski), Edward Dwurnik i paradoksy tradycji: jak być jednocześnie progresywnym i trady-
+cyjnym, nonszalancko zawłaszczające kulturę socjalistyczną, współcześni artyści polscy przyjmu-
+jący strategie lat 70. i 80. (Kulik, Uklański, Dawicki) i inne.
+East Central Europe in the Time of Empires The seminar will present expanding knowledge on the history of East Central Europe from the time
+and in the Era of World Wars (1815-1945) of Congress of Vienna order till the end of the Second World War. The following problems will be
+discussed: Congress of Vienna and new order, Spring of Nations in East Central Europe, concert of
+Europa Środkowo-Wschodnia w epoce im- (three) empires, nationalism, industrialization and social changes, peasant question in East Central
+perializmu i wojen światowych (1815- Europe, Eastern front during WWI, Revolution(s) in Russia, German hegemony and collapse, New
+1945) states building, Conflicts between new states, The problem of violence in new East Central Europe,
+Social order in East Central Europe between the Wars, The economy – from stability to Great De-
+pression, League of Nations and East Central Europe, Political systems – from democracy to author-
+itarian regimes, in search of stability in international relations (mutual alliances of collective secu-
+rity), origins of WWII, Hitler-Stalin pact, German and Soviet occupation policy, Eastern front during
+WWII, beginning of communist East Central Europe.
+W ramach zajęć przedstawione zostaną zagadnienia dotyczące porządku wiedeńskiego do końca II
+wojny światowej. Omówione zostaną następujące problemy: Kongres Wiedeński i nowy ład, Wiosna
+Ludów w Europie Środkowo-Wschodniej, koncert (trzech) imperiów, nacjonalizm, industrializacja i
+przemiany społeczne, kwestia chłopska w Europie Środkowo-Wschodniej, front wschodni w czasie I
+wojny światowej, rewolucja(e) w Rosji, hegemonia i upadek Niemiec, budowa nowych państw, kon-
+flikty między nowymi państwami, problem przemocy w nowej Europie Środkowo-Wschodniej, ład
+społeczny w Europie Środkowo-Wschodniej w okresie międzywojennym, zagadnienia gospodarcze –
+od stabilizacji do Wielkiego Kryzysu, Liga Narody i Europa Środkowo-Wschodnia, systemy polityczne
+– od demokracji do reżimów autorytarnych, w poszukiwaniu stabilności w stosunkach międzynaro-
+dowych (wzajemne sojusze bezpieczeństwa zbiorowego), geneza II wojny światowej, pakt Hitler-
+Stalin, niemiecka i sowiecka polityka okupacyjna, front wschodni w czasie II wojny światowej, po-
+czątek komunistycznej Europy Środkowo-Wschodniej.
+Anthropology of Europe The course will present the processes shaping the contemporary ethnic and cultural diversity of
+Europe; will show selected issues from both traditional cultures and contemporary phenomena
+Antropologia Europy emerging in European cultures; will draw attention to the different facets of contemporary European
+socio-cultural identity.
+W ramach zajęć zostaną przedstawione procesy kształtujące współczesną różnorodność etniczną i
+kulturową Europy oraz omówione będą wybrane zagadnienia dotyczące zarówno kultur tradycyj-
+nych, jak i współczesnych zjawisk pojawiających się w kulturach europejskich; zwrócona zostanie
+uwaga na różne aspekty współczesnej europejskiej tożsamości społeczno-kulturowej.
+Multispecies Studies: Ethics and Aesthetics Among educational aims of the course there are: presentation of theoretical/philosophical and em-
+pirical/artistic research in multispecies studies, preparation to an interpretation of everyday prac-
+Studia wielogatunkowe. Etyka i estetyka tices and artistic practices regarding their ethics and aesthetics, implementation of sensitization and
+storytelling creative techniques.
+47
+PAGE 49
+Wśród celów zajęć znajdują się: prezentacja badań teoretyczno-filozoficznych i empiryczno-arty-
+stycznych w badaniach wielogatunkowych, przygotowanie do interpretacji praktyk codziennych i
+praktyk artystycznych pod kątem ich etyki i estetyki, wdrożenie technik twórczych uwrażliwiania i
+opowiadania historii.
+3RD YEAR – SEMESTR VI / ROK II – SEMESTR VI
+OBLIGATORY / OBOWIĄZKOWE
+Poland in the in the Era of World Wars In frame of the lecture the knowledge on the history of Poland from WWI till the end of WWII against
+(1914-1945) the background of the situation in East Central Europe will be provided. The following topics will be
+discussed: reconstruction of the Polish state in autumn 1918, Polish Western Border after WWI,
+Polska w okresie wojen światowych (1914- Polish-Soviet War, The Way to May 1926 Coup d’Etat, Poland under Piłsudski, Poland without
+1945) Piłsudski, Polish Economy between the Wars, National Minorities in Poland 1918-1939, Polish Foreign
+Policy between the Wars, Polish Issue during WWII, Home Army, Polish government in exile, Warsaw
+Rising 1944.
+W ramach wykładu zostaną omówione zagadnienia dotyczące historii Polski od I wojny światowej
+do końca II wojny światowej na tle sytuacji w Europie Środkowo-Wschodniej. Przedstawione zostaną
+następujące problemy: odbudowa państwa polskiego jesienią 1918 r., zachodnia granica Polski po
+I wojnie światowej, wojna polsko-radziecka, droga do zamachu stanu majowego 1926 r., Polska pod
+rządami Piłsudskiego, Polska bez Piłsudskiego, polska gospodarka w okresie międzywojennym,
+mniejszości narodowe w Polsce 1918-1939, Polska polityka zagraniczna w okresie międzywojennym,
+sprawa polska w czasie II wojny światowej, Armia Krajowa, Rząd RP na uchodźstwie, Powstanie
+Warszawskie 1944.
+Propaganda of the communist regime in In frame of the lectures it will be provided the presentation of selected campaigns and propaganda
+Poland (1944-1989) institutions in order to get acquainted with the main content and forms of propaganda of People's
+Poland and to develop an independent analysis of a selected propaganda message by students.
+Propaganda reżimu komunistycznego w
+Polsce (1944-1989) Celem zajęć jest przedstawienie wybranych kampanii i instytucji propagandowych w celu zapoznania
+z głównymi treściami i formami propagandy Polski Ludowej i opracowania przez studentów samodziel-
+nej analizy wybranego przekazu propagandowego. Poszczególne tematy wykładów będą dotyczyły:
+systemu propagandy i cenzury, manifestu lipcowego z 22 lipca 1944 r., wystawy „Ziemie Odzy-
+skane”, stalinizmu, „realizmu socjalistycznego” – architektury i sztuki, obchodów 1 Maja jako wy-
+darzeni propagandowego, roli szkoły w systemie propagandowym, obraz wroga w propagandzie –
+od marca 1968 do okresu Solidarności, obrazu kościoła katolickiego w propagandzie, „propagandy
+sukcesu” lat 70. i roli telewizji, propagandy i kontrpropagandy stanu wojennego.
+"From guerrillas to happenings". History of The topic of the class is the history of the democratic opposition in Poland after World War II. We
+the Democratic Opposition in Poland will begin our discussion of this issue from the summer of 1944 and end in 1989. The subject of our
+debates will be not only a reflection on the programs and forms of opposition, but above all we will
+“Od partyzantki do happeningów”. Historia look at the people who created it, the reasons, the circumstances in which they decided to oppose
+opozycji demokratycznej w Polsce.
+48
+PAGE 50
+the communist authorities, paying for this, sometimes at a higher price. The class will be comple-
+mented by films and a trip to the exhibition at the Depot History Center.
+Tematem zajęć jest historia opozycji demokratycznej w Polsce po II wojnie światowej; od 1944 r.
+do 1989 r. Przedmiotem wykładów będzie nie tylko refleksja nad programami i formami opozycji,
+ale przede wszystkim przyjrzenie się ludziom, którzy ją tworzyli, powodami i okolicznościami, w
+jakich postanowili przeciwstawić się władzom komunistycznym, płacąc za to, czasem wyższą cenę.
+Uzupełnieniem zajęć będą filmy i wycieczka na wystawę w Centrum Historii Zajezdnia.
+Selected topics of psychology The course is designed to provide knowledge on selected psychological theories and research on the
+field of attitudes toward social inequality, authoritarianism, justice sensitivity, moral emotions, and
+Wybrane zagadnienia psychologii helping, discuss basic concepts in motivation, volition and self-regulation, analyse some political,
+social and individual phenomena from psychological perspective, acquire knowledge, skills, and at-
+titudes that increase psychological competence.
+Zajęcia mają na celu omówienie wybranych teorii psychologicznych i badań z zakresu postaw wobec
+nierówności społecznych, autorytaryzmu, wrażliwości na sprawiedliwość, emocji moralnych i poma-
+gania, omówienie podstawowych pojęć z zakresu motywacji, woli i samoregulacji, analizy niektórych
+zagadnień politycznych, społecznych i poszczególnych zjawisk z perspektywy psychologicznej, zdo-
+bycie wiedzy, umiejętności i postawy zwiększającej kompetencje psychologiczne.
+OPTIONAL / DO WYBORU
+Polish Theatre The lecture will focuse on presentation of and discussion on the history of Polish theatre and the
+most recent performances. Among discussed topics there are: Staropolski Theatre, the Public Stage
+Polski Teatr and the, Enlightenment, Romanticism, Jewish Theatre in Poland, Modernist Theatre, Avant-Gardes,
+Political Theatres, Ritual Theatres, Tadeusz Kantor, Jerzy Grotowski, Polish Theatre of Holocaust,
+Polish Theatre of Transformation, Theatre and Patriarchy, Women in Theatre.
+Wykład będzie koncentrował na prezentacji i dyskusji dotyczącej historii polskiego teatru i najnow-
+szych spektakli. Wśród poruszanych tematów znajdują się: Teatr Staropolski, Scena Publiczna i
+Oświecenie, Romantyzm, Teatr Żydowski w Polsce, Teatr Modernistyczny, Awangardy, Teatry Poli-
+tyczne, Teatry Rytualne, Tadeusz Kantor, Jerzy Grotowski, Polski Teatr Zagłady, Teatr Polski Teatr
+Transformacji i Patriarchatu, kobiety w Teatrze.
+Americanization and anti-Americanism in The classes are aimed at presenting the problem of cultural Americanization in Western Europe since
+Europe after 1945 1945, implemented in various countries (Great Britain, France, West Germany, Italy, Spain and
+Greece). The second element of the course is the analysis of the causes of anti-Americanism in
+European democratic countries after World War II. Among discussed problems there is a comparison
+of these processes in countries behind the Iron Curtain, ruled by communists, on the example of
+Poland and the Soviet Union.
+Zajęcia mają na celu przedstawienie problemu kulturowej amerykanizacji w Europie Zachodniej od
+1945 roku w różnych krajach (Wielka Brytania, Francja, RFN, Włochy, Hiszpania i Grecja). Drugim
+49
+PAGE 51
+elementem zajęć będzie analiza przyczyn źródła antyamerykanizmu w europejskich krajach demo-
+kratycznych po II wojnie światowej. Kolejnym zagadnieniem będzie porównanie tych procesów w
+krajach za żelazną kurtyną, rządzonych przez komunistów, na przykładzie Polski i Związku Radziec-
+kiego.
+"Spring will be ours". Poland in the Era of The lectures will be focused on the problems connected with reality of Poland under communist
+Communism (1944-1989) regime in years 1944 till 1989. The attitude of the power center and society will be discussed as
+well as the main historical events.
+“Wiosna będzie nasza”. Polska w czasach
+komunizmu (1944-1989) Wykłady będą koncentrować się na problemach związanych z realiami PRL-u w latach 1944-1989.
+Omówiona zostanie postawa ośrodka władzy i społeczeństwa oraz główne wydarzenia historyczne.
+Resistance, dissent & opposition in East- The aim of the course is to familiarise students with the specifics of the functioning of the opposition
+Central Europe. History and legacy in Central and Eastern Europe under the communist system. Program contains the following topics:
+Post-war armed resistance, post-war political opposition, role of 1956 as turning point in the history
+Opór, sprzeciw & opozycja w Europie Środ- of the opposition, specific of Soviet dissent, post-Helsinki accords opposition (Charter 77, Workers'
+kowo-Wschodniej. Historia i dziedzictwo Defence Committee etc.), Solidarity movement, opposition in Poland, Czechoslovakia, Hungary and
+GDR in 1980's, opposition in 1989, most important documents of the opposition movement, legacy
+of anticommunist opposition in post-1989 East-Central Europe.
+Celem przedmiotu jest omówienie problemów związanych ze specyfiką funkcjonowania opozycji w
+Europie Środkowo-Wschodniej w ramach działania systemu komunistycznego. W programie nastę-
+pujące tematy: powojenny opór zbrojny, powojenna opozycja polityczna, rola 1956 r., Solidarność,
+opozycja w Polsce, Czechosłowacji, na Węgrzech i NRD w latach 80. XX w., opozycja w 1989 roku,
+najważniejsze dokumenty ruchu opozycyjnego, spuścizna opozycji antykomunistycznej w Europie
+Środkowo-Wschodniej po 1989 roku.
+PROGRAM STUDIÓW / PROGRAMME OF STUDIES
+EUROPEAN CULTURES THE 1ST CYCLE / EUROPEAN CULTURES I STOPNIA
+1ST YEAR – SEMESTR I / ROK I – SEMESTR I
+FORM OF TEACHING/
+TITLE OF THE SUBJECT ECTS HOURS SCIENTIFIC DISCIPLINE
+FORM OF CREDIT
+OBLIGATORY
+Occupational Health and Safety (1) 4
+Polish Language Part I (2) 2 30 Lecture/Pass
+50
+PAGE 52
+Historian as a priest or a craftsman? Historiography in Europe
+5 30 Seminar/Exam History
+through centuries
+Alexander the Great and the Hellenistic age: the first Western
+5 30 Seminar/Exam History
+globalism
+The Origins of Theatre
+4 30 Lecture/Pass with grade Culture and Religion Studies
+Part I
+Introduction to Methodology of Social Research 3 15 Lecture/Exam Education
+Introduction to Sociocultural Anthropology 4 30 Seminar/Pass with grade Culture and Religion Studies
+Introduction to the History of European Art 4 30 Lecture/Pass with grade History
+OPTIONAL* Student obtains 3 ECTS for one selected subject
+Warfare and Society in Ancient Greece and Rome 3 15 Seminar/Pass with grade History
+Health and Illness in Europe through centuries 3 15 Seminar/Exam History
+30 214
+*The student has to take one of the two realized subjects
+(1) Occupational Health and Safety compulsory classes, 4 hours long e-learning training without ECTS
+(2) In frame of European Culture studies, which are conducted in English, there is obligatory subject - Polish Language for Foreigners (60 hours), realized during the 1st and 2nd semesters
+at the level A1. After passing the exam, the student receives 5 ECTS. Polish citizen who does not pursue the Polish Language for Foreigners course is required to choose an additional
+optional course for minimum of 5 ECTS credits in order to obtain the number of ECTS credits necessary for the qualifications.
+1ST YEAR – SEMESTR II / ROK I – SEMESTR II
+FORM OF TEACHING/
+TITLE OF THE SUBJECT ECTS HOURS SCIENTIFIC DISCIPLINE
+FORM OF CREDIT
+Physical Education (1)
+OBLIGATORY
+Polish Language
+3 30 Lecture/Exam
+Part II
+Introduction to Polish History and Culture 5 30 Seminar/Pass with grade Culture and Religion Studies
+Introduction to Culture Studies – Film: American Prime Time
+3 30 Seminar/Exam Culture and Religion Studies
+Television. History and Theory
+Introduction to Intercultural Education 5 30 Seminar/Exam Education
+Introduction to Classical Archeology 4 30 Lecture/Exam History
+51
+PAGE 53
+The origins of theatre
+4 30 Lecture/Exam Culture and Religion Studies
+Part II
+"The Polish School of Animation. History, meaning and impact
+of the Polish animated film from Lucanus Cervus to Tango 3 30 Lecture/pass with grade Culture and Religion Studies
+and beyond. "
+Methodology of Art History 3 30 Lecture/ Pass with the grade History
+30 240
+(1) The subject Physical Education in the dimension of 60 hours without ECTS credits can be realized during the period of 4 semesters (from the 2nd till the 5th semester)
+2ND YEAR – SEMESTR III / ROK II – SEMESTR III
+FORM OF TEACHING/
+TITLE OF THE SUBJECT ECTS HOURS SCIENTIFIC DISCIPLINE
+FORM OF CREDIT
+Physical Education
+OBLIGATORY
+Postsocialism in Central/Eastern Europe 4 30 Seminar/Pass with grade Culture and Religion Studies
+Multicultural Education: Theory and Practice 4 30 Seminar/Exam Education
+History of Nationalism 4 30 Seminar/Pass with grade History
+Work of Art and its Context 4 30 Seminar/Exam History
+Cross-cultural psychology 3 30 Lecture/Pass with grade Psychology
+OPTIONAL* student obtains 10 ECTS for two selected subjects
+Warfare and Society in modern European History 5 30 Seminar/Pass with grade History
+European History of Travelling 5 30 Seminar/Pass with grade History
+Private life in Ancient Greece and Rome 5 30 Seminar/Pass with grade History
+Women in the European Public Sphere (18th-20th centuries) 5 30 Seminar/Pass with grade History
+29 210
+*The student has to take two from four offered optional subjects.
+52
+PAGE 54
+2ND YEAR – SEMESTR IV / ROK II – SEMESTR IV
+FORM OF TEACHING/
+TITLE OF THE SUBJECT ECTS HOURS SCIENTIFIC DISCIPLINE
+FORM OF CREDIT
+Physical Education
+OBLIGATORY
+BA Seminar 3 30 Seminar/Pass with grade History
+Qualitative methods in social sciences 3 15 Lecture/Pass with grade Education
+Great Discoveries of Modern Archeology 3 30 Lecture/Exam History
+Polish-Lithuanian Commonwealth in the 16th-18th centuries –
+3 30 Seminar/Pass with grade History
+culture and society
+Polish Cinema – History, Culture, Industry 3 30 Seminar/Exam Culture and Religion Studies
+"Performativity of art & science. History of performance art and
+its liaisons with new technologies in US and Europe in the Cold 3 30 Seminar/Pass with grade Culture and Religion Studies
+War era."
+OPTIONAL*Student obtains 15 ECTS for 3 selected subjects
+Everyday life in Greek and Roman Antiquity 5 30 Lecture/Pass with grade History
+Shared or Separate Past(s)? Medieval East Central Europe 5 30 Seminar/Pass with grade History
+Communication strategies and means of persuasion in modern
+5 30 Seminar/Pass with the grade History
+era. Case: The Polish-Lithuanian Commonwealth
+Work of Art in Period of Transition. Art History around 1900 in
+5 30 Seminar/Pass with the grade History
+Central Europe
+Memory studies – history and practice 5 30 Seminar/Pass with the grade Culture and Religion Studies
+Work of Art in the Digital Era 5 30 Lecture/Pass with grade
+33 255
+*The student has to take three from six offered optional subjects.
+3RD YEAR – SEMESTR V / ROK II – SEMESTR V
+53
+PAGE 55
+FORM OF TEACHING/
+TITLE OF THE SUBJECT ECTS HOURS SCIENTIFIC DISCIPLINE
+FORM OF CREDIT
+Physical Education
+OBLIGATORY
+BA Seminar 3 30 Seminar/Pass with grade History
+Intercultural communication 3 15 Lecture/Pass with grade Education
+Poland in the in the Era of Partitions (1772-1918) 4 30 Seminar/Pass with grade History
+Europe and the United States until WWII 3 30 Seminar/Pass with grade History
+Polish-Jewish relations in the 20th century 4 30 Lecture/Pass with grade History
+East Central Europe under the Soviet Domination (1945-1989) 4 30 Seminar/Pass with grade History
+OPTIONAL* student obtains 10 ECTS for two selected subjects
+History of Contemporary Art 5 30 Lecture Pass with grade History
+East Central Europe in the Time of Empires and in the Era of
+5 30 Seminar/Pass with grade History
+World Wars (1815-1945)
+Anthropology of Europe 5 30 Lecture/Pass with grade Culture and Religion Studies
+Multispecies Studies: Ethics and Aesthetics 5 30 Seminar/Pass with grade Culture and Religion Studies
+31 225
+*The student has to take two from four offered optional subjects.
+3RD YEAR – SEMESTR VI / ROK II – SEMESTR VI
+FORMS OF TEACHING/
+TITLE OF THE SUBJECT ECTS HOURS SCIENTIFIC DISCIPLINE
+FORMS OF CREDIT
+OBLIGATORY
+BA Seminar 4 30 Seminar/Pass with grade History
+Poland in the in the Era of World Wars (1914-1945) 4 30 Lecture/Pass with grade History
+54
+PAGE 56
+Propaganda of the communist regime in Poland (1944-1989) 3 30 Lecture/Pass with grade History
+"From guerrillas to happenings". History of the Democratic Op-
+4 30 Lecture/Pass with grade History
+position in Poland
+Selected topics of psychology 3 15 Lecture/Pass with grade Education
+OPTIONAL* student obtains 10 ECTS for two selected subjects
+Polish Theatre 5 30 Lecture/Exam Culture and Religion Studies
+Americanization and anti-Americanism in Europe after 1945 5 30 Seminar/Pass with grade History
+"Spring will be ours". Poland in the Era of Communism (1944-
+5 30 Lecture/Pass with grade History
+1989)
+Resistance, dissent & opposition in East-Central Europe. His-
+5 30 Seminar/Pass with grade History
+tory and legacy
+28 195
+*The student has to take two from four offered optional subjects.
+All hours: 1339 x 60 Physical Education = 1399
+Wskaźniki ECTS
+Liczba punktów ECTS niezbędna do uzyskania kwalifikacji 181
+Łączna liczba punktów ECTS, które student musi uzyskać na zajęciach wy-
+181
+magających bezpośredniego udziału nauczycieli akademickich
+Liczba punktów ECTS, którą student musi uzyskać w ramach zajęć z dzie- Dziedzina nauk społecznych
+dziny nauk humanistycznych i nauk społecznych 21 ECTS
+Liczba punktów ECTS, którą student musi uzyskać w ramach zajęć z języka
+5
+obcego dla cudzoziemców
+Liczba punktów ECTS, którą student musi uzyskać realizując moduły kształ-
+cenia na zajęciach ogólnouczelnianych (lektorat języka polskiego), dotyczy 5
+cudzoziemców
+Wymiar praktyki zawodowej i liczba punktów ECTS przypisanych
+0
+praktykom określonym w programie kształcenia
+Procentowy udział liczby punktów ECTS dla programu przyporządkowanego historia (71%),
+do więcej niż jednej dyscypliny nauki o kulturze i religii (29%)
+55
+PAGE 57
+Procentowy udział poszczególnych dziedzin, do których odnoszą się efekty historia (58%),
+kształcenia. Suma udziałów musi być równa 100% nauki o kulturze i religii (42%)
+56

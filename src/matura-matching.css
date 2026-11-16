@@ -1,0 +1,34 @@
+.matura-matching { display: grid; gap: 18px; }
+.matura-catalogue-link { margin-top: 18px; }
+.matura-matching .panel { margin: 0; }
+.matura-summary { display: grid; grid-template-columns: 1fr 220px; gap: 24px; align-items: center; }
+.matura-summary-count { display: grid; gap: 8px; padding: 20px; border-radius: 18px; background: var(--raised, #e7ebdf); color: var(--text, #243f36); }
+.matura-summary-count strong { font-size: 40px; line-height: 1; }
+.matura-filters { display: grid; grid-template-columns: 1fr 1.5fr 1fr; gap: 16px; }
+.matura-filters label { display: grid; gap: 8px; min-width: 0; }
+.matura-filters input[type=search], .matura-filters select { width: 100%; min-width: 0; }
+.matura-filters .matura-check { display: flex; align-items: center; grid-column: 1 / -1; }
+.matura-results { padding: 0; margin: 0; display: grid; gap: 18px; list-style: none; counter-reset: matura; }
+.matura-result { min-width: 0; counter-increment: matura; }
+.matura-result > header { display: flex; gap: 20px; justify-content: space-between; align-items: flex-start; }
+.matura-result h3 { margin: 4px 0 12px; }
+.matura-result h3::before { content: counter(matura) ". "; color: var(--muted); }
+.matura-result p { overflow-wrap: anywhere; }
+.matura-fit { display: grid; text-align: right; flex: 0 0 155px; }
+.matura-fit strong { font-size: 30px; }
+.matura-fit span, .matura-score span { font-size: 13px; }
+.matura-result details { margin: 12px 0; }
+.matura-result summary, .matura-method summary { cursor: pointer; font-weight: 600; }
+.matura-score { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; padding: 16px 0; margin-top: 16px; border-block: 1px solid var(--line, #ddd); }
+.matura-score > div { display: grid; gap: 6px; }
+.matura-score strong { font-size: 22px; }
+.matura-score p { margin: 0; }
+.matura-history h4 { margin-bottom: 12px; }
+.matura-threshold { border-left: 3px solid var(--line, #ddd); padding: 0 0 0 16px; margin: 16px 0; }
+.matura-reached { font-weight: 600; }
+@media(max-width: 700px) {
+  .matura-summary, .matura-filters, .matura-score { grid-template-columns: 1fr; }
+  .matura-summary-count { grid-template-columns: auto 1fr; align-items: center; }
+  .matura-result > header { flex-direction: column; gap: 4px; }
+  .matura-fit { flex: auto; text-align: left; }
+}

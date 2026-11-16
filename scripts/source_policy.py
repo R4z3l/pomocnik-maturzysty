@@ -26,14 +26,29 @@ def ensure_source_allowed(url,purpose='current'):
         if match:
             raise ValueError('POMIŃ: '+entry['reason'])
 
-def guarded_get(url,purpose='current',timeout=35):
+def guarded_get(url,purpose='current',timeout=35,headers=None,max_bytes=None):
     # Każde przekierowanie sprawdzamy przed pobraniem jego celu.
     for _ in range(10):
         ensure_source_allowed(url,purpose)
-        response=requests.get(url,timeout=timeout,allow_redirects=False)
+        response=requests.get(url,timeout=timeout,allow_redirects=False,headers=headers,stream=max_bytes is not None)
         if response.status_code in [301,302,303,307,308] and response.headers.get('Location'):
             url=urljoin(url,response.headers['Location'])
+            response.close()
             continue
         response.raise_for_status()
+        if max_bytes is not None:
+            chunks=[]
+            size=0
+            try:
+                for chunk in response.iter_content(chunk_size=65536):
+                    size+=len(chunk)
+                    if size>max_bytes:
+                        raise ValueError('Materiał przekracza limit pobierania')
+                    chunks.append(chunk)
+                # Zachowujemy zgodny interfejs Response (.content/.text) dla istniejących skryptów.
+                response._content=b''.join(chunks)
+                response._content_consumed=True
+            finally:
+                response.close()
         return response
     raise ValueError('Zbyt wiele przekierowań')

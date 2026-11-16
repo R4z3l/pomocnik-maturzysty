@@ -10,3 +10,7 @@
 *.py text eol=lf
 *.yml text eol=lf
 *.cmd text eol=crlf
+
+# Dowody HTML mają skróty SHA-256 liczone z oryginalnych bajtów lokalnej kopii.
+# Konwersja LF/CRLF podczas dodawania lub checkoutu unieważniałaby audyt.
+docs/research/descriptions/*.html -text

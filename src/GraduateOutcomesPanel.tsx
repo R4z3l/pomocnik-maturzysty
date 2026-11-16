@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import type { Programme } from './types';
 import { graduateData, outcomesFor } from './graduates';
+import { catalogue } from './catalogue';
 import './graduates.css';
 
 const number = new Intl.NumberFormat('pl-PL', { maximumFractionDigits: 2 });
@@ -60,5 +61,5 @@ export default function GraduateOutcomesPanel({ programme }: { programme: Progra
 }
 
 export function GraduateCoverage() {
-  return <section className="graduate-coverage"><h3>Pokrycie danych ELA</h3><p>Dopasowane oferty: {number.format(graduateData.matches.length)} ze 109. Osobne grupy absolwentów: {number.format(graduateData.cohorts.length)}. Rocznik: {graduateData.graduationYear}; okres obserwacji: {graduateData.observation}.</p><p>Brak dopasowania może wynikać z różnic w nazwie, poziomie, jednostce lub specjalności albo z braku odpowiedniej grupy w publikacji (np. nowy kierunek lub mała grupa). Przyczyna konkretnego braku nie zawsze jest ustalona. Nie zastępujemy tych luk danymi podobnego kierunku.</p><GraduateSources /></section>;
+  return <section className="graduate-coverage"><h3>Pokrycie danych ELA</h3><p>Dopasowane oferty: {number.format(graduateData.matches.filter(match => catalogue.programmes.some(p => p.id === match.programmeId)).length)} ze {number.format(catalogue.programmes.length)}. Osobne grupy absolwentów: {number.format(graduateData.cohorts.length)}. Rocznik: {graduateData.graduationYear}; okres obserwacji: {graduateData.observation}.</p><p>Brak dopasowania może wynikać z różnic w nazwie, poziomie, jednostce lub specjalności albo z braku odpowiedniej grupy w publikacji (np. nowy kierunek lub mała grupa). Przyczyna konkretnego braku nie zawsze jest ustalona. Nie zastępujemy tych luk danymi podobnego kierunku.</p><GraduateSources /></section>;
 }

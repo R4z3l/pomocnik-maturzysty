@@ -1,0 +1,559 @@
+[
+  {
+    "year": 2026,
+    "name": "Adaptacje do zmiany klimatu",
+    "programmeId": "upwr-adaptacje-do-zmiany-klimatu",
+    "value": "245",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Agroinżynieria",
+    "programmeId": "upwr-agroinzynieria",
+    "value": "236",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Applied bioeconomy",
+    "programmeId": "upwr-applied-bioeconomy",
+    "value": "300",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Architektura krajobrazu",
+    "programmeId": "upwr-architektura-krajobrazu",
+    "value": "458,8",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Bioinformatyka",
+    "programmeId": "upwr-bioinformatyka",
+    "value": "250",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Biologia",
+    "programmeId": "upwr-biologia",
+    "value": "300",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Biologia człowieka",
+    "programmeId": "upwr-biologia-czlowieka",
+    "value": "250",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Biotechnologia",
+    "programmeId": "upwr-biotechnologia",
+    "value": "400",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Budownictwo",
+    "programmeId": "upwr-budownictwo",
+    "value": "600",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Dietetyka",
+    "programmeId": "upwr-dietetyka",
+    "value": "350",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Ekonomia",
+    "programmeId": "upwr-ekonomia",
+    "value": "202,2",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Geodezja i kartografia",
+    "programmeId": "upwr-geodezja-i-kartografia",
+    "value": "850",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Gospodarka przestrzenna",
+    "programmeId": "upwr-gospodarka-przestrzenna",
+    "value": "499,3",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Inżynieria bezpieczeństwa",
+    "programmeId": "upwr-inzynieria-bezpieczenstwa",
+    "value": "168",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Inżynieria danych satelitarnych i kosmicznych",
+    "programmeId": "upwr-inzynieria-danych-satelitarnych-i-kosmicznych",
+    "value": "850",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Inżynieria i gospodarka wodna",
+    "programmeId": "upwr-inzynieria-i-gospodarka-wodna",
+    "value": "175",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Inżynieria środowiska",
+    "programmeId": "upwr-inzynieria-srodowiska",
+    "value": "175",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Ochrona środowiska",
+    "programmeId": "upwr-ochrona-srodowiska",
+    "value": "231",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Odnawialne źródła energii i gospodarka odpadami",
+    "programmeId": "upwr-odnawialne-zrodla-energii-i-gospodarka-odpadami",
+    "value": "171,2",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Ogrodnictwo",
+    "programmeId": "upwr-ogrodnictwo",
+    "value": "198",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Rolnictwo",
+    "programmeId": "upwr-rolnictwo",
+    "value": "206,2",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Technologia i organizacja gastronomii",
+    "programmeId": "upwr-technologia-i-organizacja-gastronomii",
+    "value": "200",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Technologia żywności i żywienie człowieka",
+    "programmeId": "upwr-technologia-zywnosci-i-zywienie-czlowieka",
+    "value": "200",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Weterynaria",
+    "programmeId": "upwr-weterynaria",
+    "value": "126",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Zarządzanie i inżynieria produkcji",
+    "programmeId": "upwr-zarzadzanie-i-inzynieria-produkcji",
+    "value": "169,2",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Zarządzanie jakością i analiza żywności",
+    "programmeId": "upwr-zarzadzanie-jakoscia-i-analiza-zywnosci",
+    "value": "200",
+    "status": "reported"
+  },
+  {
+    "year": 2026,
+    "name": "Zootechnika",
+    "programmeId": "upwr-zootechnika",
+    "value": "300",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Adaptacje do zmiany klimatu",
+    "programmeId": "upwr-adaptacje-do-zmiany-klimatu",
+    "value": "350",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Agroinżynieria",
+    "programmeId": "upwr-agroinzynieria",
+    "value": "260",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Applied bioeconomy",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2025,
+    "name": "Architektura krajobrazu",
+    "programmeId": "upwr-architektura-krajobrazu",
+    "value": "450,2",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Bioinformatyka",
+    "programmeId": "upwr-bioinformatyka",
+    "value": "200",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Biologia",
+    "programmeId": "upwr-biologia",
+    "value": "500",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Biologia człowieka",
+    "programmeId": "upwr-biologia-czlowieka",
+    "value": "200",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Biotechnologia",
+    "programmeId": "upwr-biotechnologia",
+    "value": "440",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Budownictwo",
+    "programmeId": "upwr-budownictwo",
+    "value": "400",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Dietetyka",
+    "programmeId": "upwr-dietetyka",
+    "value": "386",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Ekonomia",
+    "programmeId": "upwr-ekonomia",
+    "value": "183,2",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Food technology",
+    "status": "no-number",
+    "raw": "-"
+  },
+  {
+    "year": 2025,
+    "name": "Geodezja i kartografia",
+    "programmeId": "upwr-geodezja-i-kartografia",
+    "value": "700",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Gospodarka przestrzenna",
+    "programmeId": "upwr-gospodarka-przestrzenna",
+    "value": "444,8",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Inżynieria bezpieczeństwa",
+    "programmeId": "upwr-inzynieria-bezpieczenstwa",
+    "value": "180",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Inżynieria danych satelitarnych i kosmicznych",
+    "programmeId": "upwr-inzynieria-danych-satelitarnych-i-kosmicznych",
+    "value": "700",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Inżynieria i gospodarka wodna",
+    "programmeId": "upwr-inzynieria-i-gospodarka-wodna",
+    "value": "190",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Inżynieria środowiska",
+    "programmeId": "upwr-inzynieria-srodowiska",
+    "value": "180",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Ochrona środowiska",
+    "programmeId": "upwr-ochrona-srodowiska",
+    "value": "180",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Odnawialne źródła energii i gospodarka odpadami",
+    "programmeId": "upwr-odnawialne-zrodla-energii-i-gospodarka-odpadami",
+    "value": "184,4",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Ogrodnictwo",
+    "programmeId": "upwr-ogrodnictwo",
+    "value": "227",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Rolnictwo",
+    "programmeId": "upwr-rolnictwo",
+    "value": "226",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Technologia i organizacja gastronomii",
+    "programmeId": "upwr-technologia-i-organizacja-gastronomii",
+    "value": "211",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Technologia żywności i żywienie człowieka",
+    "programmeId": "upwr-technologia-zywnosci-i-zywienie-czlowieka",
+    "value": "209",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Veterinary medicine",
+    "status": "no-number",
+    "raw": "jednolite: zapytaj uczelnię"
+  },
+  {
+    "year": 2025,
+    "name": "Weterynaria",
+    "programmeId": "upwr-weterynaria",
+    "value": "125",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Zarządzanie i inżynieria produkcji",
+    "programmeId": "upwr-zarzadzanie-i-inzynieria-produkcji",
+    "value": "183,2",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Zarządzanie jakością i analiza żywności",
+    "programmeId": "upwr-zarzadzanie-jakoscia-i-analiza-zywnosci",
+    "value": "189",
+    "status": "reported"
+  },
+  {
+    "year": 2025,
+    "name": "Zootechnika",
+    "programmeId": "upwr-zootechnika",
+    "value": "394",
+    "status": "reported"
+  },
+  {
+    "year": 2024,
+    "name": "Adaptacje do zmiany klimatu",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Agroinżynieria",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Architektura krajobrazu",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Bioinformatyka",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Biologia",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Biologia człowieka",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Biotechnologia",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Budownictwo",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Dietetyka",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Ekonomia",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Food technology",
+    "status": "no-number",
+    "raw": "-"
+  },
+  {
+    "year": 2024,
+    "name": "Geodezja i kartografia",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Gospodarka przestrzenna",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Inżynieria bezpieczeństwa",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Inżynieria danych satelitarnych i kosmicznych",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Inżynieria i gospodarka wodna",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Inżynieria środowiska",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Ochrona środowiska",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Odnawialne źródła energii i gospodarka odpadami",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Ogrodnictwo",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Rolnictwo",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Technologia i organizacja gastronomii",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Technologia żywności i żywienie człowieka",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Veterinary medicine",
+    "status": "no-number",
+    "raw": "jednolite: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Weterynaria",
+    "status": "no-number",
+    "raw": "jednolite: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Zarządzanie i inżynieria produkcji",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Zarządzanie jakością i analiza żywności",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  },
+  {
+    "year": 2024,
+    "name": "Zootechnika",
+    "status": "no-number",
+    "raw": "I stopnia: zapytaj uczelnię"
+  }
+]

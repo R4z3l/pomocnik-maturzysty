@@ -1,0 +1,101 @@
+{
+  "umw-lekarski": {
+    "teachingForms": ["Początek studiów: laboratoria, ćwiczenia i seminaria.", "Od trzeciego roku nauka kliniczna z pacjentem; szósty rok skupia się na pracy szpitalnej."],
+    "practice": ["Karta wskazuje miesięczne praktyki szpitalne po latach 1–5, obejmujące kolejne obszary opieki."],
+    "careerAreas": ["Praca lekarska po spełnieniu wymagań zawodowych"],
+    "notes": ["Opis studiów nie zastępuje aktualnych przepisów dotyczących stażu, egzaminów i prawa wykonywania zawodu."]
+  },
+  "umw-lekarski-en": {
+    "teachingForms": ["Laboratoria i przedmioty podstawowe na początku studiów.", "Kontakt z pacjentami od trzeciego roku; rok szósty skoncentrowany na szpitalu."],
+    "practice": ["Anglojęzyczna karta opisuje miesięczne praktyki wakacyjne po latach 1–5."],
+    "careerAreas": ["Praca lekarska po uzyskaniu odpowiednich uprawnień"],
+    "notes": ["Procedury zawodowe zależą także od kraju planowanej pracy. Nie przenosimy zasad rekrutacji z polskiej oferty."]
+  },
+  "umw-lekarsko-dentystyczny": {
+    "teachingForms": ["Ćwiczenia manualne i modelowanie zębów na pierwszym roku.", "Symulacja stomatologiczna od drugiego roku; zajęcia z pacjentami od trzeciego."],
+    "practice": ["Karta opisuje praktyki po każdym roku: początkowo opieka szpitalna, następnie gabinety stomatologiczne."],
+    "careerAreas": ["Gabinet stomatologiczny", "Dalsze szkolenie specjalizacyjne po spełnieniu wymagań"],
+    "notes": ["Specjalizacje lekarsko-dentystyczne to etap po studiach, a nie specjalności do wyboru w programie."]
+  },
+  "umw-lekarsko-dentystyczny-en": {
+    "teachingForms": ["Ćwiczenia manualne, symulacja oraz stopniowo zajęcia kliniczne."],
+    "careerAreas": ["Stomatologia po uzyskaniu wymaganych uprawnień"],
+    "notes": ["Opis anglojęzycznej oferty nie jest podstawą do przenoszenia polskich progów ani procedur rekrutacji."]
+  },
+  "umw-farmacja": {
+    "teachingForms": ["Laboratoria analityczne, fizykochemiczne i technologiczne.", "Wykłady, seminaria i ćwiczenia uzupełniają naukę pracy z lekiem i pacjentem."],
+    "practice": ["Po trzecim roku: miesiąc w aptece ogólnodostępnej. Po czwartym: apteka szpitalna i dodatkowe warianty wskazane w karcie.", "Na zakończenie kształcenia karta przewiduje półroczną praktykę apteczną."],
+    "careerAreas": ["Apteki ogólnodostępne i szpitalne", "Produkcja i kontrola leków", "Badania kliniczne", "Zaplecze badawcze i nadzór farmaceutyczny"]
+  },
+  "umw-analityka-medyczna": {
+    "teachingForms": ["Zajęcia praktyczne już na pierwszym roku; później znaczny udział laboratoriów uczelnianych i szpitalnych."],
+    "practice": ["Praktyki od drugiego roku obejmują organizację laboratorium, kolejne dziedziny diagnostyki i pracę z materiałem biologicznym."],
+    "careerAreas": ["Laboratoria diagnostyczne i szpitalne", "Medycyna sądowa", "Badania naukowe i kliniczne"]
+  },
+  "umw-fizjoterapia": {
+    "teachingForms": ["Ćwiczenia, seminaria, nauka w symulacji oraz bezpośrednia praca kliniczna."],
+    "practice": ["Po pierwszym roku karta podaje 150 godzin praktyki asystenckiej. Kolejne praktyki stopniowo rozszerzają zakres pracy z pacjentem."],
+    "careerAreas": ["Placówki lecznicze", "Ośrodki rehabilitacji", "Własna działalność po uzyskaniu uprawnień"]
+  },
+  "umw-psychologia": {
+    "practice": ["Karta podaje 960 godzin praktyk od drugiego do czwartego roku, w placówkach zdrowia i wsparcia psychospołecznego."],
+    "specializations": ["Psychologia kliniczna — ścieżka opisana na karcie", "Psychologia zdrowia — ścieżka opisana na karcie"],
+    "topics": ["psychologia kliniczna", "psychologia zdrowia", "funkcjonowanie mózgu", "stres i kryzysy", "promocja zdrowia"],
+    "notes": ["Sama nazwa ścieżki klinicznej nie oznacza uzyskania specjalizacji zawodowej ani kwalifikacji psychoterapeuty."]
+  },
+  "umw-pielegniarstwo": {
+    "careerAreas": ["Opieka pielęgniarska w placówkach ochrony zdrowia", "Badania kliniczne", "Dalszy rozwój naukowy po spełnieniu wymagań"],
+    "notes": ["Możliwości wymagające dalszych studiów lub dodatkowych kwalifikacji nie są automatycznym skutkiem ukończenia I stopnia."]
+  },
+  "umw-pielegniarstwo-en": {
+    "careerAreas": ["Opieka ambulatoryjna i szpitalna", "Opieka domowa i środowiskowa", "Placówki opiekuńcze"],
+    "notes": ["Możliwości pracy zależą od uzyskania prawa wykonywania zawodu i zasad kraju zatrudnienia."]
+  },
+  "umw-poloznictwo": {
+    "teachingForms": ["Początkowo przygotowanie przedkliniczne i symulacja. W kolejnych latach zajęcia z pacjentką i dzieckiem."],
+    "practice": ["Praktyki w szpitalach i przychodniach, realizowane także w wakacje lub przerwach międzysemestralnych."],
+    "careerAreas": ["Opieka okołoporodowa", "Oddziały ginekologiczne i noworodkowe", "Szkoły rodzenia"]
+  },
+  "umw-ratownictwo-medyczne": {
+    "teachingForms": ["Symulacje na fantomach i w wirtualnej rzeczywistości.", "Zajęcia przy pacjencie już od drugiego semestru."],
+    "practice": ["Praktyki zaczynają się po pierwszym semestrze. Karta opisuje SOR i zespoły ratownictwa oraz łącznie ponad 600 godzin dydaktycznych praktyk."],
+    "careerAreas": ["Zespoły ratownictwa i SOR", "Zabezpieczenie medyczne wydarzeń", "Szkolenia pierwszej pomocy"],
+    "notes": ["Praca w lotniczym lub górskim ratownictwie wymaga dodatkowego doświadczenia, egzaminów lub stażu wskazanych przez właściwą organizację."]
+  },
+  "umw-zdrowie-publiczne": {
+    "teachingForms": ["Wykłady i ćwiczenia uzupełniane pracą nad projektami oraz analizą problemów zdrowotnych."],
+    "practice": ["Obowiązkowe praktyki w instytucjach zdrowia i polityki społecznej. Przykłady z karty: NFZ, inspekcja sanitarna, samorząd, placówki lecznicze, organizacje społeczne i firmy medtech."],
+    "careerAreas": ["Szpitale i organizacja ochrony zdrowia", "Firmy farmaceutyczne i badania kliniczne", "Administracja publiczna i samorząd", "NFZ, Główny Inspektorat Sanitarny i Ministerstwo Zdrowia", "Organizacje społeczne i międzynarodowe", "Medtech i ubezpieczenia"],
+    "careerRoles": ["Edukator zdrowotny", "Koordynator pacjenta", "Analityk danych medycznych", "Koordynator badań klinicznych", "Specjalista profilaktyki i edukacji zdrowotnej"],
+    "notes": ["Sekcja WORK & STUDY dotyczy II stopnia; nie przypisano jej do tej oferty licencjackiej."]
+  },
+  "umw-dietetyka": {
+    "teachingForms": ["Ćwiczenia z programem do planowania żywienia, seminaria i wykłady oraz nauka w szpitalach."],
+    "practice": ["Karta opisuje praktyki wakacyjne po każdym roku, naprzemiennie w szpitalach i gabinetach dietetycznych."],
+    "careerAreas": ["Poradnictwo żywieniowe i własna praktyka", "Szpitale i żywienie zbiorowe", "Sport, rekreacja i gastronomia", "Badania naukowe"]
+  },
+  "umw-elektroradiologia": {
+    "teachingForms": ["Ćwiczenia laboratoryjne, seminaria i zajęcia kliniczne w specjalistycznych pracowniach."],
+    "practice": ["Praktyki opisano w pracowniach obrazowania, medycyny nuklearnej i ośrodkach radioterapii. Wymiar zależy od programu studiów."],
+    "careerAreas": ["Szpitalne i prywatne centra diagnostyczne", "Onkologia i radioterapia", "Medycyna nuklearna", "Produkcja i serwis aparatury medycznej"]
+  },
+  "umw-biologia-medyczna": {
+    "teachingForms": ["Laboratoria w małych grupach, seminaria, symulacje i projekty zespołowe."],
+    "practice": ["Karta podaje 120 godzin praktyk w semestrach 5–6: dwa moduły dotyczące biologii medycznej i hematologii oraz analizy ogólnej i mikrobiologicznej."],
+    "careerAreas": ["Praca laboranta i personelu pomocniczego w jednostkach badawczych", "Zespoły badawczo-rozwojowe firm farmaceutycznych i biotechnologicznych"],
+    "notes": ["Licencjat biologii medycznej nie został utożsamiony z kwalifikacjami diagnosty laboratoryjnego po analityce medycznej."]
+  },
+  "uwr-ochrona-srodowiska": {"teachingForms": ["Wykłady, ćwiczenia, laboratoria i seminaria.", "Ćwiczenia terenowe w obszarach chronionych oraz obiektach gospodarki wodnej, odpadów i energii."], "practice": ["Oficjalny opis I stopnia potwierdza praktyki zawodowe; nie podaje ich wymiaru."], "notes": ["Rozszerzoną charakterystykę potwierdzono na stronie Międzywydziałowego Studium Ochrony Środowiska, ponieważ karta centralnego serwisu nie zwróciła czytelnego opisu."]},
+  "uwr-praca-socjalna": {"practice": ["W opisie wskazano 240 godzin praktyk w placówkach pomocy oraz projekty realizowane z instytucjami społecznymi."]},
+  "uwr-turystyka": {"practice": ["Opis podaje obowiązkowe praktyki i zajęcia terenowe po każdym roku studiów."]},
+  "uwr-zarzadzanie-srodowiskiem-przyrodniczym": {"teachingForms": ["Opis wskazuje duży udział ćwiczeń terenowych na obszarach cennych przyrodniczo."]},
+  "upwr-adaptacje-do-zmiany-klimatu": {"practice": ["Karta kierunku o profilu praktycznym podaje sześć miesięcy praktyk zawodowych."]},
+  "upwr-ekonomia": {"practice": ["Opis profilu praktycznego przewiduje semestr praktyki w wybranej jednostce."], "specializations": ["Ekonomia gospodarki żywnościowej"]},
+  "upwr-technologia-i-organizacja-gastronomii": {"practice": ["Model dualny: cztery semestry na uczelni i trzy semestry staży u pracodawców sektora HoReCa."], "teachingForms": ["Nauka akademicka łączona z doświadczeniem u pracodawców."]},
+  "upwr-biologia": {"specializations": ["Zarządzanie środowiskiem przyrodniczym", "Zarządzanie laboratorium biologicznym"]},
+  "upwr-architektura-krajobrazu": {"specializations": ["Kształtowanie i ochrona krajobrazu", "Architektura zieleni we wnętrzach"]},
+  "upwr-inzynieria-bezpieczenstwa": {"specializations": ["Bezpieczeństwo i higiena pracy"]},
+  "upwr-inzynieria-i-gospodarka-wodna": {"specializations": ["Gospodarka wodna", "Śródlądowe drogi wodne"]},
+  "upwr-gospodarka-przestrzenna": {"teachingForms": ["Praca projektowa (PBL), design thinking, odwrócona klasa i rozwiązywanie problemów."]},
+  "upwr-weterynaria": {"practice": ["Karta opisuje obowiązkowe praktyki i staże kliniczne; szczegółowy harmonogram wymaga sprawdzenia właściwego planu."]}
+}

@@ -1,0 +1,1857 @@
+budownictwo: 2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+ - Sylabus UPWr
+Strona główna
+Wydział Inżynierii Kształtowania Środowiska i Geodezji
+budownictwo
+Sylabus UPWr
+Kierunek
+budownictwo
+2026/27, studia pierwszego stopnia (inżynier), stacjonarne
+Semestr 1
+Semestr 2
+Semestr 3
+Semestr 4
+Semestr 5
+Semestr 6
+Semestr 7
+Lista przedmiotów - Semestr zimowy, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Szkolenie dotyczące bezpiecznych i higienicznych warunków kształcenia (BHK)
+Dane przedmiotu
+Wykład e-learning: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 4
+-
+Zaliczenie
+Obowiązkowy
+Analiza matematyczna I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia audytoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Fizyka
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Obowiązkowy
+Geodezja
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Geologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Geometria wykreślna i rysunek techniczny
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Ochrona własności intelektualnych, BHP i ergonomia pracy
+Dane przedmiotu
+Wykład e-learning: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Podstawy ekonomii
+Dane przedmiotu
+Wykład e-learning: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład e-learning: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Prawo budowlane I
+Dane przedmiotu
+Wykład: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Technologia informacyjna
+Dane przedmiotu
+Ćwiczenia e-learning: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia e-learning: 30
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Wybrane działy algebry
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia audytoryjne: 15 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia audytoryjne: 15
+3
+Egzamin
+Obowiązkowy
+Lista przedmiotów - Semestr letni, 2026/27
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Chemia budowlana
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Hydraulika i hydrologia
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Egzamin
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Analiza matematyczna II
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student wybiera wersję językową przedmiotu
+Analiza matematyczna II
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia audytoryjne: 30
+5
+Egzamin
+Fakultatywny
+Mathematical analysis II
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia audytoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia audytoryjne: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komputerowe wspomaganie projektowania
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student wybiera wersję językową przedmiotu
+Komputerowe wspomaganie projektowania I
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Computer aided design I
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Materiały budowlane
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Materiały budowlane
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Fakultatywny
+Building materials
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+4
+Egzamin
+Fakultatywny
+Mechanika ogólna
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student wybiera wersję językową przedmiotu
+Mechanika ogólna
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Theoretical mechanics
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Egzamin
+Fakultatywny
+Praktyka zawodowa budowlana
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje praktykę w wybranym przedsiębiorstwie budowlanym.
+Praktyka zawodowa budowlana I
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmiot humanistyczny I
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje przedmiot z oferty ogólnouczelnianej
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Budownictwo ogólne I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Fizyka budowli
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Instalacje budowlane i sanitarne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Egzamin
+Obowiązkowy
+Oddziaływania na konstrukcje
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Wychowanie fizyczne
+Dane przedmiotu
+Wychowanie fizyczne: 30 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wychowanie fizyczne: 30
+-
+Zaliczenie na ocenę
+Obowiązkowy
+Wytrzymałość materiałów I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Mechanika gruntów
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student wybiera wersję językową przedmiotu
+Mechanika gruntów
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Fakultatywny
+Soil Mechanics
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia laboratoryjne: 30
+5
+Egzamin
+Fakultatywny
+Technologia betonów i zapraw
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student wybiera wersję językową przedmiotu
+Technologia betonów i zapraw
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Technology of concrete and mortars
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2027/28
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Budownictwo ogólne II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Obowiązkowy
+Mechanika budowli I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Wytrzymałość materiałów II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Obowiązkowy
+Fundamentowanie
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu
+Fundamentowanie
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Obowiązkowy
+Foundation engineering
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe: 30
+4
+Egzamin
+Fakultatywny
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zjęcia z języka obcego w wymiarze 90 godzin – łącznie 6 punktów ECTS (3 semestry po 2 punkty ECTS)
+Język angielski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język chiński
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język francuski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język hiszpański
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język niemiecki
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język rosyjski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Język włoski
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka zawodowa budowlana
+Dane przedmiotu
+Punkty ECTS: 12
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje praktykę w wybranym przedsiębiorstwie budowlanym.
+Praktyka zawodowa budowlana II
+Dane przedmiotu
+Praktyka: 320 godz.
+Punkty ECTS: 12
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 320
+12
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmiot wybieralny    (Blok I)
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student z Bloku I wybiera jeden przedmiot w semestrach 4 i dwa przedmioty w semestrze 5.
+łączna suma punktów ECTS uzyskanych  podczas realizacji przedmiotów z Bloku I powinna wynosić 9.
+Budownictwo magazynowo-składowe i szklarniowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo prefabrykowane
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Technologie środowiskowe w budownictwie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Odwodnienia budowli
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Odwodnienia budowli
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Drainage of structures
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot wybieralny    (Blok II)
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student z Bloku II wybiera po jednym przedmiocie w semestrach 4, 5 i 6.
+łączna suma punktów ECTS uzyskanych  podczas realizacji przedmiotów z Bloku II powinna wynosić 9.
+Budownictwo wodne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo zrównoważone i energooszczędne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Hydrotechniczne budowle ziemne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo komunikacyjne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr zimowy, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Budownictwo ziemne i podziemne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Mechanika budowli II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Obowiązkowy
+Wytrzymałość materiałów - laboratorium
+Dane przedmiotu
+Ćwiczenia laboratoryjne: 15 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia laboratoryjne: 15
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Język obcy
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+student realizuje zajęcia z języka obcego kończące się egzaminem (w wymiarze 30 godzin - łącznie 2 punkty ECTS)
+Język angielski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język chiński (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język francuski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język hiszpański (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język niemiecki (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język rosyjski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Język włoski (egzamin)
+Dane przedmiotu
+Ćwiczenia e-learning: 4 godz.
+Język obcy (lektorat): 26 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Ćwiczenia e-learning: 4
+Język obcy (lektorat): 26
+2
+Egzamin
+Fakultatywny
+Konstrukcje betonowe I
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Konstrukcje betonowe I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Concrete structures I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe: 30
+4
+Zaliczenie na ocenę
+Fakultatywny
+Konstrukcje metalowe I
+Dane przedmiotu
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Konstrukcje metalowe I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Steel structures I
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 5
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe: 30
+5
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot wybieralny    (Blok I)
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student z Bloku I wybiera jeden przedmiot w semestrze 4 i dwa przedmioty w semestrze 5.
+Łączna suma punktów ECTS uzyskanych  podczas realizacji przedmiotów z Bloku I powinna wynosić 9.
+Budownictwo magazynowo-składowe i szklarniowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo prefabrykowane
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Odwodnienia budowli
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu
+Odwodnienia budowli
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Drainage of structures
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Technologie środowiskowe w budownictwie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot wybieralny    (Blok II)
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera po jednym przedmiocie w semestrach 4, 5 i 6.
+Łączna suma punktów ECTS uzyskanych  podczas realizacji przedmiotów z Bloku II powinna wynosić 9.
+Budownictwo komunikacyjne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo wodne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo zrównoważone i energooszczędne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Hydrotechniczne budowle ziemne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Lista przedmiotów - Semestr letni, 2028/29
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Edukacja z zakresu wyszukiwania i zarządzania informacją w źródłach elektronicznych, serwisach i bazach danych
+Dane przedmiotu
+Ćwiczenia audytoryjne: 5 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Ćwiczenia audytoryjne: 5
+-
+Zaliczenie
+Obowiązkowy
+Konstrukcje betonowe II
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+Ćwiczenia projektowe: 30
+4
+Egzamin
+Obowiązkowy
+Kosztorysowanie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 15 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 15
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Proseminarium dyplomowe
+Dane przedmiotu
+Seminarium/Konwersatorium: 4 godz.
+Punkty ECTS: 0
+Forma weryfikacji: Zaliczenie
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 4
+-
+Zaliczenie
+Obowiązkowy
+Komputerowe wspomaganie projektowania II
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Komputerowe wspomaganie projektowania II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Computer aided design II
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia laboratoryjne: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia laboratoryjne: 24
+3
+Zaliczenie na ocenę
+Fakultatywny
+Konstrukcje drewniane
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera wersję językową przedmiotu.
+Konstrukcje drewniane
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Fakultatywny
+Timber structures
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Egzamin
+Fakultatywny
+Konstrukcje metalowe II
+Dane przedmiotu
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Egzamin
+Obligatoryjna grupa przedmiotów fakultatywnych
+Konstrukcje metalowe II
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe/warsztatowe: 30
+4
+Egzamin
+Fakultatywny
+Steel structures II
+Dane przedmiotu
+Wykład: 24 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 4
+Forma weryfikacji: Egzamin
+Obligatoryjność: Fakultatywny
+Wykład: 24
+Ćwiczenia projektowe: 30
+4
+Egzamin
+Fakultatywny
+Przedmiot humanistyczny II
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje jeden przedmiot z oferty ogólnouczelnianej
+Etyka
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Komunikacja interpersonalna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Metody skutecznej nauki
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Planowanie kariery i podstawy wiedzy o rynku pracy
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Psychologia społeczna
+Dane przedmiotu
+Wykład: 30 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 30
+2
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot wybieralny    (Blok I)
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student z Bloku I wybiera jeden przedmiot w semestrze 4 i dwa przedmioty w semestrze 5.
+Łączna suma punktów ECTS uzyskanych  podczas realizacji przedmiotów z Bloku I powinna wynosić 9.
+Budownictwo magazynowo-składowe i szklarniowe
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo prefabrykowane
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Odwodnienia budowli
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Zaliczenie na ocenę
+Fakultatywny
+Student wybiera wersję językową przedmiotu.
+Odwodnienia budowli
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Drainage of structures
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Technologie środowiskowe w budownictwie
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Przedmiot wybieralny    (Blok II)
+Dane przedmiotu
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+student wybiera po jednym przedmiocie w semestrach 4, 5 i 6
+łączna suma punktów ECTS uzyskanych podczas realizacji przedmiotów z Bloku II powinna wynosić 6
+Budownictwo wodne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo zrównoważone i energooszczędne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Hydrotechniczne budowle ziemne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo komunikacyjne
+Dane przedmiotu
+Wykład: 15 godz.
+Ćwiczenia projektowe/warsztatowe: 30 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 15
+Ćwiczenia projektowe/warsztatowe: 30
+3
+Zaliczenie na ocenę
+Fakultatywny
+Praktyka zawodowa budowlana
+Dane przedmiotu
+Punkty ECTS: 12
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student realizuje praktykę w wybranym przedsiębiorstwie budowlanym.
+Praktyka zawodowa budowlana III
+Dane przedmiotu
+Praktyka: 320 godz.
+Punkty ECTS: 12
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 320
+12
+Zaliczenie na ocenę
+Obowiązkowy
+Lista przedmiotów - Semestr zimowy, 2029/30
+Przedmiot
+Liczba godzin
+Punkty ECTS
+Forma weryfikacji
+Obligatoryjność
+Organizacja produkcji budowlanej i kierowanie procesami inwestycyjnymi
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 12
+Ćwiczenia projektowe/warsztatowe: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Prawo budowlane II
+Dane przedmiotu
+Wykład: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Przedsiębiorczość akademicka
+Dane przedmiotu
+Ćwiczenia projektowe/warsztatowe: 12 godz.
+Punkty ECTS: 1
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Ćwiczenia projektowe/warsztatowe: 12
+1
+Zaliczenie na ocenę
+Obowiązkowy
+Seminarium dyplomowe
+Dane przedmiotu
+Seminarium/Konwersatorium: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Seminarium/Konwersatorium: 24
+2
+Zaliczenie na ocenę
+Obowiązkowy
+Technologia robót budowlanych
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 3
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Wykład: 12
+Ćwiczenia projektowe/warsztatowe: 24
+3
+Zaliczenie na ocenę
+Obowiązkowy
+Praktyka zawodowa budowlana
+Dane przedmiotu
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Zaliczenie na ocenę
+Obowiązkowy
+Student realizuje praktykę w wybranym przedsiębiorstwie budowlanym.
+Praktyka zawodowa budowlana IV
+Dane przedmiotu
+Praktyka: 160 godz.
+Punkty ECTS: 6
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obowiązkowy
+Praktyka: 160
+6
+Zaliczenie na ocenę
+Obowiązkowy
+Przedmiot wybieralny (Blok III)
+Dane przedmiotu
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Obligatoryjna grupa przedmiotów fakultatywnych
+Zaliczenie na ocenę
+Obligatoryjna grupa przedmiotów fakultatywnych
+Student wybiera jeden przedmiot.
+Liczba punktów ECTS uzyskana podczas realizacji przedmiotu z Bloku III powinna wynosić 2.
+Betonowe budowle wodne
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia projektowe/warsztatowe: 24
+2
+Zaliczenie na ocenę
+Fakultatywny
+Budownictwo rybackie
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia projektowe: 24
+2
+Zaliczenie na ocenę
+Fakultatywny
+Podstawy BIM
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia projektowe/warsztatowe: 24
+2
+Zaliczenie na ocenę
+Fakultatywny
+Regulacja rzek
+Dane przedmiotu
+Wykład: 12 godz.
+Ćwiczenia projektowe/warsztatowe: 24 godz.
+Punkty ECTS: 2
+Forma weryfikacji: Zaliczenie na ocenę
+Obligatoryjność: Fakultatywny
+Wykład: 12
+Ćwiczenia projektowe/warsztatowe: 24
+2
+Zaliczenie na ocenę
+Fakultatywny
+Praca inżynierska i egzamin dyplomowy
+Dane przedmiotu
+Prace kontrolne i przejściowe: 5 godz.
+Punkty ECTS: 12
+Forma weryfikacji: Egzamin
+Obligatoryjność: Obowiązkowy
+Prace kontrolne i przejściowe: 5
+12
+Egzamin
+Obowiązkowy
