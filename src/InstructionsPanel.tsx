@@ -12,10 +12,12 @@ import upwrAudit from '../docs/audyt-upwr.md?raw';
 import maturaMatching from '../docs/dopasowanie-matury.md?raw';
 import umwAudit from '../docs/audyt-umw.md?raw';
 import descriptions from '../docs/opisy-kierunkow.md?raw';
+import vercel from '../docs/publikacja-vercel.md?raw';
 import './instructions.css';
 
 // Instrukcje są włączane podczas budowania aplikacji. Nowe instrukcje dodaj tutaj.
 const instructions = [
+  { id: 'vercel', title: 'Publikacja online na Vercel', text: vercel },
   { id: 'opisy', title: 'Opisy kierunków — zakres i aktualizacja bez AI', text: descriptions },
   { id: 'medyczny', title: 'Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu — zakres danych', text: umwAudit },
   { id: 'matura', title: 'Dopasowanie matury — ranking i progi', text: maturaMatching },

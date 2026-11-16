@@ -17,9 +17,16 @@ export const UEW_PL_2027: AdmissionRule = {
 };
 export const UEW_EN_2027: AdmissionRule = {...UEW_PL_2027,id:'uew-2027-en',title:'Uniwersytet Ekonomiczny we Wrocławiu — kierunki anglojęzyczne, rekrutacja 2027/2028',groups:UEW_PL_2027.groups.map(g=>g.label==='Język obcy'?{...g,subjects:['język angielski'],factors:{basic:0,extended:1,bilingual:1.5},minPercent:60}:g),caveat:UEW_PL_2027.caveat+' Angielski wyłącznie rozszerzony albo dwujęzyczny, minimum 60%. Wariant ocen szkolnych nie dotyczy żadnego przedmiotu na kierunkach anglojęzycznych.'};
 export interface AdmissionResult {total:number|null;maturaTotal:number|null;status:'missing'|'requirement'|'complete';rows:{subject:string;label:string;value:number|null;detail:string}[];issues:string[]}
+// Wersja dla widoków: wynik spoza skali w profilu (np. z importu lub po zmianie danych) nie może zatrzymać renderowania.
+export function safeCalculateAdmission(rule: AdmissionRule, p: Profile): AdmissionResult {
+  try { return calculateAdmission(rule, p); }
+  catch (error) { return {total:null,maturaTotal:null,status:'missing',rows:[],issues:[`${error instanceof Error ? error.message : 'Nieprawidłowe dane wejściowe.'} Popraw wyniki w profilu albo pole dodatkowego etapu w karcie kierunku.`]}; }
+}
 export function calculateAdmission(rule: AdmissionRule, p: Profile): AdmissionResult {
   if (rule.id.startsWith('pwr-')) return calculatePwrAdmission(rule, p);
-  if((rule.id.startsWith('uwr-') || rule.id.startsWith('upwr-') || rule.id.startsWith('umw-') && !rule.groups.some(g=>g.factors.bilingual>0)) && Object.keys(p.bilingualScores??{}).length) {
+  // UWr i UPWr: kalkulator obsługuje tylko PP/PR. UMW: tylko reguły bez współczynnika dla matury dwujęzycznej.
+  const ppPrOnly=rule.id.startsWith('uwr-') || rule.id.startsWith('upwr-') || (rule.id.startsWith('umw-') && !rule.groups.some(g=>g.factors.bilingual>0));
+  if(ppPrOnly && Object.keys(p.bilingualScores??{}).length) {
     return {total:null,maturaTotal:null,issues:[],status:'missing' as const,rows:[{subject:'',label:'Matura dwujęzyczna — wymaga odrębnego sprawdzenia',value:null,detail:'Profil zawiera poziom dwujęzyczny. Ten wariant kalkulatora obsługuje tylko PP/PR; sprawdź odrębny przelicznik na oficjalnej karcie. Nie pomijamy tego wyniku w sumie.'}]};
   }
   const scores={basic:p.basicScores??{},extended:p.subjects,bilingual:p.bilingualScores??{}};

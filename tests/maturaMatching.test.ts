@@ -39,3 +39,14 @@ test('Dopasowanie matury: wagi, alternatywy, odrębne roczniki, braki i cały ka
   p.subjects = { matematyka: 0, 'język angielski': 0, biologia: 0 };
   assert.equal(matchMatura([uew.programme], rules, p)[0].score?.total, 0);
 });
+
+test('Dopasowanie matury nie przerywa działania przy wyniku dodatkowego etapu spoza skali', () => {
+  const rule: AdmissionRule = { ...UEW_PL_2027, id: 'test-extra', extraExam: { key: 'interview', label: 'Rozmowa', min: 0, max: 100, passMin: 50, note: '' } };
+  const programme = { id: 'x', admissionRuleId: rule.id, thresholds: [], name: 'X' } as unknown as Programme;
+  const profile = emptyProfile();
+  profile.subjects = { matematyka: 80, 'język angielski': 80, geografia: 80 };
+  profile.admissionExtras = { [rule.id]: 5000 };
+  const [result] = matchMatura([programme], [rule], profile);
+  assert.equal(result.score?.total, null);
+  assert.equal(result.reachesThreshold, false);
+});

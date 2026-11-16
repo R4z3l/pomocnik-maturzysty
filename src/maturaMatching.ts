@@ -1,4 +1,4 @@
-import { calculateAdmission, UEW_EN, UEW_PL } from './admission.ts';
+import { calculateAdmission, safeCalculateAdmission, UEW_EN, UEW_PL } from './admission.ts';
 import type { AdmissionRule, Profile, Programme } from './types.ts';
 
 export const MATCHING_HISTORY_YEAR = '2026/2027';
@@ -26,13 +26,13 @@ export function matchMatura(programmes: Programme[], rules: AdmissionRule[], pro
   return programmes.map(programme => {
     const rule = rules.find(r => r.id === programme.admissionRuleId);
     const fit = rule ? extensionFit(rule, Object.keys(profile.subjects)) : null;
-    const score = rule ? calculateAdmission(rule, profile) : null;
+    const score = rule ? safeCalculateAdmission(rule, profile) : null;
     // A threshold's year is not evidence that the current formula applied then.
     // UEW has separately verified 2026 rules; other universities remain explicit gaps.
     const explicitHistory = rules.find(r=>r.id===programme.historicalAdmissionRuleId && r.year===MATCHING_HISTORY_YEAR);
     const historicalRule = explicitHistory ?? (rule?.year === MATCHING_HISTORY_YEAR ? rule
       : rule?.id === 'uew-2027-pl' ? UEW_PL : rule?.id === 'uew-2027-en' ? UEW_EN : null);
-    const historicalScore = historicalRule ? calculateAdmission(historicalRule, profile) : null;
+    const historicalScore = historicalRule ? safeCalculateAdmission(historicalRule, profile) : null;
     const thresholds = programme.thresholds.filter(t => t.year === MATCHING_HISTORY_YEAR).map(threshold => {
       const comparable = threshold.status === 'official' && historicalScore?.status === 'complete' && historicalScore.total !== null;
       const delta = comparable ? historicalScore!.total! - threshold.value : null;

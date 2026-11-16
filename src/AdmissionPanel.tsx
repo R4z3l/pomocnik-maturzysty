@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import type { AdmissionRule, Profile, Programme } from './types';
-import { calculateAdmission } from './admission';
-import type { AdmissionResult } from './admission';
+import { safeCalculateAdmission } from './admission';
 import { admissionRules } from './catalogue';
 
 type Props={programme:Programme;rule:AdmissionRule|undefined;profile:Profile;update:(p:Profile)=>void};
@@ -10,9 +9,7 @@ export default function AdmissionPanel({programme,rule,profile,update}:Props) {
  const alternatives=programme.universityId==='uew'?admissionRules.filter(r=>r.id.startsWith('uew-')&&r.id.endsWith('-'+programme.language)):admissionRules.filter(r=>r.id===rule?.id||r.id===programme.historicalAdmissionRuleId);
  const active=alternatives.find(r=>r.id===chosen)??rule;
  if(!active)return <section className="admission-documentary"><h3>Warunki dokumentowe i językowe</h3><p>{programme.admissionNote}</p><p className="muted">Nie udostępniamy automatycznego kalkulatora dla tej procedury. Spełnienie warunku językowego i złożenie dokumentów nie gwarantują przyjęcia. Zweryfikuj punktację, status naboru, terminy i dokumenty na oficjalnej karcie.</p></section>;
- let result:AdmissionResult;
- try { result=calculateAdmission(active,profile); }
- catch { result={total:null,maturaTotal:null,status:'missing',rows:[],issues:['Wynik dodatkowego etapu w profilu jest poza dozwoloną skalą. Popraw lub wyczyść pole tego etapu poniżej.']}; }
+ const result=safeCalculateAdmission(active,profile);
  const format=(v:number)=>v.toLocaleString('pl',{maximumFractionDigits:3});
  const exam=active.extraExam;
  const setExtra=(value:number|null)=>update({...profile,admissionExtras:{...profile.admissionExtras,[active.id]:value}});

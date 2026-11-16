@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { calculateAdmission, UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027 } from '../src/admission.ts';
+import { calculateAdmission, safeCalculateAdmission, UEW_PL, UEW_EN, UEW_PL_2027, UEW_EN_2027 } from '../src/admission.ts';
 import { emptyProfile, parseProfile } from '../src/logic.ts';
 import type { AdmissionRule } from '../src/types.ts';
 test('wykluczenie przedmiotu wymaga najlepszego wspólnego wariantu, nie wyboru zachłannego',()=>{
@@ -63,6 +63,7 @@ test('rozmowa nie jest zerem przy braku; jej punkty nie zastępują minimum matu
  p.subjects.matematyka=79;assert.equal(calculateAdmission(rule,p).status,'requirement');
  p.subjects.matematyka=80;p.admissionExtras[rule.id]=0;assert.equal(calculateAdmission(rule,p).status,'requirement');
  p.admissionExtras[rule.id]=265;assert.throws(()=>calculateAdmission(rule,p));
+ const safe=safeCalculateAdmission(rule,p);assert.equal(safe.total,null);assert.equal(safe.status,'missing');assert.match(safe.issues[0],/poza dozwoloną skalą/);
  assert.deepEqual(parseProfile(JSON.stringify(p)).admissionExtras,p.admissionExtras);
  assert.throws(()=>parseProfile(JSON.stringify({...p,admissionExtras:{test:-1}})));
 });

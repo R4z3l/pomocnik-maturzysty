@@ -1,5 +1,6 @@
 import { useState, type ReactNode } from 'react';
 import { catalogue } from './catalogue';
+import { normalizeText as normalize } from './text';
 import './universities.css';
 
 export default function UniversitiesPanel({ browse, sources }: {
@@ -7,7 +8,6 @@ export default function UniversitiesPanel({ browse, sources }: {
   sources: (ids: string[]) => ReactNode;
 }) {
   const [query, setQuery] = useState('');
-  const normalize = (text: string) => text.toLocaleLowerCase('pl').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l');
   const universities = catalogue.universities.filter(u => normalize(`${u.name} ${u.shortName}`).includes(normalize(query.trim())));
   return <div className="universities-page">
     <section className="university-overview" aria-label="Uczelnie w liczbach">

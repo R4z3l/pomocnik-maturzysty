@@ -1,7 +1,7 @@
 import type { CurriculumRecord } from './curriculumTypes';
+import { normalizeText as normalize } from './text.ts';
 
 const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
-const normalize = (value: string) => value.toLocaleLowerCase('pl').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l');
 
 function semesterNumbers(value: string | null): number[] | null {
   if (!value) return null;

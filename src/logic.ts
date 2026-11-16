@@ -1,5 +1,6 @@
 import type { Profile, Programme } from './types.ts';
 import { SUBJECTS, CRITERIA } from './types.ts';
+import { normalizeText as normalize } from './text.ts';
 export function serializeProfile(profile: Profile): string {
   const text = JSON.stringify(profile);
   parseProfile(text);
@@ -76,7 +77,6 @@ export function matchSubjects(programme: Programme, profile: Profile): string {
 }
 
 export function filterProgrammes(programmes: Programme[], query: string, universityId: string, language: string): Programme[] {
-  const normalize = (s: string) => s.toLocaleLowerCase('pl').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l');
   const words = normalize(query.trim()).split(/\s+/).filter(Boolean);
   return programmes.filter(p => (!universityId || p.universityId === universityId) && (!language || p.language === language) && words.every(word => normalize(`${p.name} ${p.fields.join(' ')}`).includes(word)));
 }
